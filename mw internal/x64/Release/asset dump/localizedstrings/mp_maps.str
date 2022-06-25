@@ -1,0 +1,24 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            t_clr_medium
+LANG_ENGLISH         "????s?{?1??=	?3?"
+
+REFERENCE            t_clr_small
+LANG_ENGLISH         "??6????@??X??"
+
+REFERENCE            t_dst_runner
+LANG_ENGLISH         "?t?K????"
+
+REFERENCE            t_gun_course
+LANG_ENGLISH         "?Gun Course"
+
+REFERENCE            t_sn_reflex
+LANG_ENGLISH         "??I?j?#wMxf??5??"
+
+REFERENCE            t_sn_speed
+LANG_ENGLISH         "???e??W?????o_0"
+
+
+ENDMARKER

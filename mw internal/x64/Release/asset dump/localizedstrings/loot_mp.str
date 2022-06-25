@@ -1,0 +1,223 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            arcade_game
+LANG_ENGLISH         "?p??6,??t???"
+
+REFERENCE            attachment
+LANG_ENGLISH         "??Attachment"
+
+REFERENCE            battle_pass
+LANG_ENGLISH         "??Battle Pass"
+
+REFERENCE            bonuscard
+LANG_ENGLISH         "?R	Wildcard"
+
+REFERENCE            calling_card
+LANG_ENGLISH         "?M@x?u???x?s?"
+
+REFERENCE            camo
+LANG_ENGLISH         "??Camo"
+
+REFERENCE            charm
+LANG_ENGLISH         "?v???k"
+
+REFERENCE            cod_points
+LANG_ENGLISH         "??Cod Points"
+
+REFERENCE            cod_points_bp
+LANG_ENGLISH         "??
+?????????9"
+
+REFERENCE            consumable
+LANG_ENGLISH         "?.????][?16?"
+
+REFERENCE            cp
+LANG_ENGLISH         "?CP"
+
+REFERENCE            emblem
+LANG_ENGLISH         "????AX5"
+
+REFERENCE            equip_in_cw
+LANG_ENGLISH         "??G???8B?&Ma\@?G??"
+
+REFERENCE            equip_in_modern_warfare
+LANG_ENGLISH         "?*]Z???Su"
+
+REFERENCE            equipment
+LANG_ENGLISH         "???Y????????,6T?????Y7?"
+
+REFERENCE            feature
+LANG_ENGLISH         "?0??x;^?"
+
+REFERENCE            field_upgrade
+LANG_ENGLISH         "?+kb??{_X???"
+
+REFERENCE            final_reward
+LANG_ENGLISH         "???2=k 2?|?i"
+
+REFERENCE            gestures
+LANG_ENGLISH         "?@	tV??W9Y?"
+
+REFERENCE            item_take
+LANG_ENGLISH         "???X??"
+
+REFERENCE            item_type_ammo
+LANG_ENGLISH         "??Ammo"
+
+REFERENCE            item_type_armor
+LANG_ENGLISH         "???M?u{"
+
+REFERENCE            item_type_attachment
+LANG_ENGLISH         "??Attachment"
+
+REFERENCE            item_type_health
+LANG_ENGLISH         "??Y?G"
+
+REFERENCE            item_type_lethal
+LANG_ENGLISH         "??]+p??"
+
+REFERENCE            item_type_offhand
+LANG_ENGLISH         "???ff???"
+
+REFERENCE            item_type_plunder
+LANG_ENGLISH         "??Cash"
+
+REFERENCE            item_type_tactical
+LANG_ENGLISH         "??	???I???"
+
+REFERENCE            item_type_weapon
+LANG_ENGLISH         "? ?????7"
+
+REFERENCE            loot
+LANG_ENGLISH         "??Loot"
+
+REFERENCE            melee
+LANG_ENGLISH         "??Melee"
+
+REFERENCE            mission
+LANG_ENGLISH         "??S??7-{?"
+
+REFERENCE            operator
+LANG_ENGLISH         "??	Xp?K???"
+
+REFERENCE            operator_execution
+LANG_ENGLISH         "??#Z???????j?;V"
+
+REFERENCE            operator_intro
+LANG_ENGLISH         "??z8V?????7?9?"
+
+REFERENCE            operator_mission
+LANG_ENGLISH         "?i????K?7???"
+
+REFERENCE            operator_name_execution
+LANG_ENGLISH         "??&&1 Finishing Move"
+
+REFERENCE            operator_name_quip
+LANG_ENGLISH         "?	&&1 Quip"
+
+REFERENCE            operator_name_skin
+LANG_ENGLISH         "?/	&&1 Skin"
+
+REFERENCE            operator_quip
+LANG_ENGLISH         "??Operator Quip"
+
+REFERENCE            operator_skin
+LANG_ENGLISH         "??G? ??-?._???"
+
+REFERENCE            operator_taunt
+LANG_ENGLISH         "???j"?A??R!??["
+
+REFERENCE            perk
+LANG_ENGLISH         "?Perk"
+
+REFERENCE            placeholder
+LANG_ENGLISH         "?(P???9?<??@?Y[?~"
+
+REFERENCE            placeholder_desc
+LANG_ENGLISH         "?~6This is an example description of the loot item type."
+
+REFERENCE            player_xp
+LANG_ENGLISH         "?
+??n???hc"
+
+REFERENCE            quality_0
+LANG_ENGLISH         "??$?n?"
+
+REFERENCE            quality_1
+LANG_ENGLISH         "?|mbk@?"
+
+REFERENCE            quality_2
+LANG_ENGLISH         "?Rare"
+
+REFERENCE            quality_3
+LANG_ENGLISH         "?`Epic"
+
+REFERENCE            quality_4
+LANG_ENGLISH         "??
+Legendary"
+
+REFERENCE            quality_5
+LANG_ENGLISH         "?AUltra"
+
+REFERENCE            quality_player
+LANG_ENGLISH         "??Player"
+
+REFERENCE            quality_uncommon
+LANG_ENGLISH         "??	U?6?????"
+
+REFERENCE            reticle
+LANG_ENGLISH         "?PReticle"
+
+REFERENCE            role
+LANG_ENGLISH         "??Co-Op Role"
+
+REFERENCE            skill_t9
+LANG_ENGLISH         "?ASkill"
+
+REFERENCE            sprays
+LANG_ENGLISH         "??Spray"
+
+REFERENCE            sticker
+LANG_ENGLISH         "??Sticker"
+
+REFERENCE            streak
+LANG_ENGLISH         "??Killstreak"
+
+REFERENCE            swap_healing
+LANG_ENGLISH         "??wX@B???Z??"
+
+REFERENCE            swap_lethal
+LANG_ENGLISH         "?Bf?W????H??"
+
+REFERENCE            swap_tactical
+LANG_ENGLISH         "?:?G??????3????"
+
+REFERENCE            swap_weapon
+LANG_ENGLISH         "???O?3?X???"
+
+REFERENCE            t9_operator
+LANG_ENGLISH         "?'5???(f'??p?@????R(????W?"
+
+REFERENCE            vehicle_horn
+LANG_ENGLISH         "?vW?;#??????("
+
+REFERENCE            vehicle_skin
+LANG_ENGLISH         "?:Vehicle Skin"
+
+REFERENCE            vehicle_track
+LANG_ENGLISH         "?2
+War Track"
+
+REFERENCE            watch
+LANG_ENGLISH         "?L?????"
+
+REFERENCE            weapon_blueprint
+LANG_ENGLISH         "??d??)(?:??w??e??m"
+
+REFERENCE            xp
+LANG_ENGLISH         "?XP"
+
+
+ENDMARKER

@@ -1,0 +1,81 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            billion_abbreviation
+LANG_ENGLISH         "?d???:"
+
+REFERENCE            cals_burned
+LANG_ENGLISH         "?.?????r?[.PU'"
+
+REFERENCE            cals_inactive
+LANG_ENGLISH         "??l???K???;??Kv????RS"
+
+REFERENCE            cals_quip_1
+LANG_ENGLISH         "??9?????J??2????????7??j"
+
+REFERENCE            cals_quip_2
+LANG_ENGLISH         "? ??kws?h?`@?Xe??"
+
+REFERENCE            cals_quip_3
+LANG_ENGLISH         "?B????????W$"
+
+REFERENCE            deaths
+LANG_ENGLISH         "??[{watch_deaths}] &&1"
+
+REFERENCE            degrees_celsius
+LANG_ENGLISH         "??b?,a"
+
+REFERENCE            degrees_farenheight
+LANG_ENGLISH         "???b,2"
+
+REFERENCE            headshots
+LANG_ENGLISH         "??Yo?Q?Bt?kZ?[@??`?????"
+
+REFERENCE            inteculo_modes
+LANG_ENGLISH         "?
+'???h5?"
+
+REFERENCE            kills
+LANG_ENGLISH         "??????)g[????????"
+
+REFERENCE            million_abbreviation
+LANG_ENGLISH         "?d&&1M"
+
+REFERENCE            month_day
+LANG_ENGLISH         "?0&&1-&&2"
+
+REFERENCE            steps_inactive
+LANG_ENGLISH         "?WQ????;?9???E?S?"
+
+REFERENCE            steps_quip_1
+LANG_ENGLISH         "?f ?
+?Q%?B??M?.UG?!#X?0??t???"
+
+REFERENCE            steps_quip_2
+LANG_ENGLISH         "?}(m"mA?s??
+?X??G???w???x??C?????S?V"
+
+REFERENCE            steps_quip_3
+LANG_ENGLISH         "?M?????v-????r??Y@?{9?H"
+
+REFERENCE            steps_taken
+LANG_ENGLISH         "??G+??X???"
+
+REFERENCE            temperature
+LANG_ENGLISH         "?0&&1 / ^3&&2"
+
+REFERENCE            thousand_abbreviation
+LANG_ENGLISH         "?d???"
+
+REFERENCE            time_am
+LANG_ENGLISH         "?5"
+
+REFERENCE            time_pm
+LANG_ENGLISH         "?(?"
+
+REFERENCE            trillion_abbreviation
+LANG_ENGLISH         "?d&&1T"
+
+
+ENDMARKER

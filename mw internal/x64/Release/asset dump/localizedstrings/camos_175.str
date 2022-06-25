@@ -1,0 +1,45 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            camo_t9cdl_atl
+LANG_ENGLISH         "??PG?????Xi?#?F?"
+
+REFERENCE            camo_t9cdl_chi
+LANG_ENGLISH         "??:??@?CK6???????"
+
+REFERENCE            camo_t9cdl_dal
+LANG_ENGLISH         "?mDallas Empire 2021"
+
+REFERENCE            camo_t9cdl_fl
+LANG_ENGLISH         "??Florida Mutineers 2021"
+
+REFERENCE            camo_t9cdl_la_g
+LANG_ENGLISH         "?[C?H??XQm:"?"
+
+REFERENCE            camo_t9cdl_la_o
+LANG_ENGLISH         "?\LA Thieves 2021"
+
+REFERENCE            camo_t9cdl_lon
+LANG_ENGLISH         "?0??X?????k??:??????????"
+
+REFERENCE            camo_t9cdl_minn
+LANG_ENGLISH         "??S???V7???I?q[m'd???"
+
+REFERENCE            camo_t9cdl_nyc
+LANG_ENGLISH         "?New York Subliners 2021"
+
+REFERENCE            camo_t9cdl_par
+LANG_ENGLISH         "?"Paris Legion 2021"
+
+REFERENCE            camo_t9cdl_sea
+LANG_ENGLISH         "?P?+??:????NvY??"
+
+REFERENCE            camo_t9cdl_tor
+LANG_ENGLISH         "?2??????/W?4?#???""?"
+
+REFERENCE            category_t9cdl
+LANG_ENGLISH         "??	??1po_%?"
+
+
+ENDMARKER

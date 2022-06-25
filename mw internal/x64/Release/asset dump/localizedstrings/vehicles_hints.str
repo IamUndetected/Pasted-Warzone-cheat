@@ -1,0 +1,114 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            apc_rus_driver_enter
+LANG_ENGLISH         "??
+?9-g?P"
+
+REFERENCE            apc_rus_enter
+LANG_ENGLISH         "??
+o??]??c"
+
+REFERENCE            armored_truck_enter
+LANG_ENGLISH         "??M??W?5???Ob???g?"
+
+REFERENCE            armored_truck_upgrade
+LANG_ENGLISH         "??U???,F???????????l["
+
+REFERENCE            atv_driver_enter
+LANG_ENGLISH         "??
+Drive ATV"
+
+REFERENCE            atv_enter
+LANG_ENGLISH         "??
+?????PE?"
+
+REFERENCE            big_bird_enter
+LANG_ENGLISH         "?.}M?????#7?(??T"
+
+REFERENCE            big_bird_pilot_enter
+LANG_ENGLISH         "??X????????wZq"
+
+REFERENCE            cargo_truck_driver_enter
+LANG_ENGLISH         "??Drive Cargo Truck"
+
+REFERENCE            cargo_truck_enter
+LANG_ENGLISH         "????GV'??N???Q?W?["
+
+REFERENCE            cop_car_driver_enter
+LANG_ENGLISH         "?_=R???&1@ ???iw??"
+
+REFERENCE            cop_car_enter
+LANG_ENGLISH         "?v/??S?????j99?"
+
+REFERENCE            hoopty_driver_enter
+LANG_ENGLISH         "?^Drive Hoopty"
+
+REFERENCE            hoopty_enter
+LANG_ENGLISH         "??e??j??i0?"
+
+REFERENCE            hoopty_truck_driver_enter
+LANG_ENGLISH         "??=?Cw??{%?{(?"
+
+REFERENCE            hoopty_truck_enter
+LANG_ENGLISH         "?#?x?+??{%?{(?"
+
+REFERENCE            jeep_driver_enter
+LANG_ENGLISH         "??
+Drive SUV"
+
+REFERENCE            jeep_enter
+LANG_ENGLISH         "??
+Enter SUV"
+
+REFERENCE            large_transport_driver_enter
+LANG_ENGLISH         "??Drive Personel Transport"
+
+REFERENCE            large_transport_enter
+LANG_ENGLISH         "??G?u:B7o?K`~R???{???#"
+
+REFERENCE            little_bird_enter
+LANG_ENGLISH         "???s?Y?!V?Z"
+
+REFERENCE            little_bird_gunner_enter
+LANG_ENGLISH         "?Y?}B'g ? ?I?"
+
+REFERENCE            little_bird_pilot_enter
+LANG_ENGLISH         "?R?G"???"
+
+REFERENCE            med_transport_driver_enter
+LANG_ENGLISH         "?hDrive Medical Transport"
+
+REFERENCE            med_transport_enter
+LANG_ENGLISH         "?}*7:VN5?2-???7????"
+
+REFERENCE            pickup_truck_driver_enter
+LANG_ENGLISH         "?Hq??@]j???z????k?"
+
+REFERENCE            pickup_truck_enter
+LANG_ENGLISH         "????	?????c?!?;j"
+
+REFERENCE            tac_rover_driver_enter
+LANG_ENGLISH         "??????Q??Z6X??)????"
+
+REFERENCE            tac_rover_enter
+LANG_ENGLISH         "???x?+?g?????~P??
+"
+
+REFERENCE            technical_driver_enter
+LANG_ENGLISH         "?j????Y@???C??6????l?"
+
+REFERENCE            technical_enter
+LANG_ENGLISH         "????5kW????(?k?`?????2"
+
+REFERENCE            van_driver_enter
+LANG_ENGLISH         "??
+"9-??e??"
+
+REFERENCE            van_enter
+LANG_ENGLISH         "??
+*7G??+??"
+
+
+ENDMARKER

@@ -1,0 +1,92 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ar_t9damage_v20
+LANG_ENGLISH         "?PScience Project"
+
+REFERENCE            ar_t9damage_v21
+LANG_ENGLISH         "?l"i??O??R?@?"
+
+REFERENCE            ar_t9fastburst_v3
+LANG_ENGLISH         "?aRefined Finish"
+
+REFERENCE            ar_t9longburst_v26
+LANG_ENGLISH         "??Purgatory Lost"
+
+REFERENCE            ar_t9longburst_v27
+LANG_ENGLISH         "?=Operating Protocol "
+
+REFERENCE            ar_t9slowhandling_v5
+LANG_ENGLISH         "??)???n:?-3??4?;"
+
+REFERENCE            ar_t9standard_v23
+LANG_ENGLISH         "?	Blow Gun"
+
+REFERENCE            lm_t9light_v14
+LANG_ENGLISH         "?pDeath's Protest"
+
+REFERENCE            lm_t9slowfire_v9
+LANG_ENGLISH         "?')????677??"
+
+REFERENCE            me_t9etool_v3
+LANG_ENGLISH         "??Parting Gift"
+
+REFERENCE            me_t9loadout_v8
+LANG_ENGLISH         "?/Rambo's Knife"
+
+REFERENCE            pi_t9fullauto
+LANG_ENGLISH         "??AMP63"
+
+REFERENCE            pi_t9fullauto_desc
+LANG_ENGLISH         "?{%yb??k??????'?J?+opQ8?U??t#SPY?h?&*a??kQA?t1?7kh!???/&%?R??xSg???+?-??>?IX7oP?Vy?5??[?7?K'??Q?I???~??R?xo"
+
+REFERENCE            pi_t9fullauto_v2
+LANG_ENGLISH         "??Gravitazer"
+
+REFERENCE            pi_t9fullauto_v3
+LANG_ENGLISH         "??Toxic Dart"
+
+REFERENCE            sh_t9pump_v11
+LANG_ENGLISH         "?
+Home Sick"
+
+REFERENCE            sh_t9pump_v17
+LANG_ENGLISH         "??Special Batch"
+
+REFERENCE            sh_t9semiauto_v15
+LANG_ENGLISH         "??Resilience"
+
+REFERENCE            sm_t9capacity_v18
+LANG_ENGLISH         "??Despair"
+
+REFERENCE            sm_t9fastfire_v8
+LANG_ENGLISH         "?%Death's Vow"
+
+REFERENCE            sm_t9heavy_v21
+LANG_ENGLISH         "??Battering Ram"
+
+REFERENCE            sm_t9powerburst_v15
+LANG_ENGLISH         "???g???	?B? ze???"
+
+REFERENCE            sm_t9standard_v20
+LANG_ENGLISH         "??Shattered Plans"
+
+REFERENCE            sn_t9explosivebow
+LANG_ENGLISH         "?%??Fg???
+?"
+
+REFERENCE            sn_t9precisionsemi_v8
+LANG_ENGLISH         "?Flamebearer"
+
+REFERENCE            sn_t9precisionsemi_v9
+LANG_ENGLISH         "??Contra Active"
+
+REFERENCE            sn_t9quickscope_v13
+LANG_ENGLISH         "?C	Ignition"
+
+REFERENCE            sn_t9quickscope_v14
+LANG_ENGLISH         "?ADirect Injection"
+
+
+ENDMARKER

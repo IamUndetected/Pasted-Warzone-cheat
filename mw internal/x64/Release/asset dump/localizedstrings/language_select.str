@@ -1,0 +1,81 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            arabic
+LANG_ENGLISH         "?;w??Jx"
+
+REFERENCE            audio_language
+LANG_ENGLISH         "?????Z?1?????"
+
+REFERENCE            button_text
+LANG_ENGLISH         "????R????????jS???"
+
+REFERENCE            button_text_desc
+LANG_ENGLISH         "??!jYG@^??'@?j'?f??'YF@c????v?\??"
+
+REFERENCE            confirm_change
+LANG_ENGLISH         "??:Do you want to apply your selection and restart the game?"
+
+REFERENCE            czech
+LANG_ENGLISH         "????Y6"
+
+REFERENCE            english
+LANG_ENGLISH         "??English"
+
+REFERENCE            french
+LANG_ENGLISH         "??French"
+
+REFERENCE            german
+LANG_ENGLISH         "?9?rP;"
+
+REFERENCE            italian
+LANG_ENGLISH         "?eItalian"
+
+REFERENCE            japanese
+LANG_ENGLISH         "?`	)???nV"
+
+REFERENCE            korean
+LANG_ENGLISH         "???X?G??"
+
+REFERENCE            language
+LANG_ENGLISH         "?(	&s;?;Y"
+
+REFERENCE            mismatch
+LANG_ENGLISH         "?[MCurrent language is set to &&1. Would you like to restart the game with &&2?"
+
+REFERENCE            partial
+LANG_ENGLISH         "????1G?G??X?2T????C?F??"
+
+REFERENCE            polish
+LANG_ENGLISH         "??	z?C?;"
+
+REFERENCE            portuguese
+LANG_ENGLISH         "???w8?g??y"
+
+REFERENCE            russian
+LANG_ENGLISH         "?JRussian"
+
+REFERENCE            safe_chinese
+LANG_ENGLISH         "??Safe Chinese"
+
+REFERENCE            screen_title
+LANG_ENGLISH         "????R????????jS???"
+
+REFERENCE            simplified_chinese
+LANG_ENGLISH         "??????9??u??mUn?"
+
+REFERENCE            spanish
+LANG_ENGLISH         "???H0?"
+
+REFERENCE            spanishna
+LANG_ENGLISH         "???H0?"
+
+REFERENCE            text_language
+LANG_ENGLISH         "??????????"
+
+REFERENCE            traditional_chinese
+LANG_ENGLISH         "??5R???3?@0ZM!????_"
+
+
+ENDMARKER

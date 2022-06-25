@@ -1,0 +1,5 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,,,,
+req,,ammo,1,,,,,# 1 ammo,
+req,,,1,,,2,,,
+req,,lethal,1,,,,,,

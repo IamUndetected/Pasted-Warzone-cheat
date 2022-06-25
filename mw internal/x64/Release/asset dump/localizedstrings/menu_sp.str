@@ -1,0 +1,2175 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            69star_gratz
+LANG_ENGLISH         "??0Congratulations! 
+You've completed Special Ops."
+
+REFERENCE            aar_summary
+LANG_ENGLISH         "?iMission Summary"
+
+REFERENCE            accuracy_pre
+LANG_ENGLISH         "??	???UI+"
+
+REFERENCE            act_i_caps
+LANG_ENGLISH         "?9w?En!"
+
+REFERENCE            act_ii_caps
+LANG_ENGLISH         "?k?????"
+
+REFERENCE            act_iii_caps
+LANG_ENGLISH         "?ACT III"
+
+REFERENCE            anti_cheat_warning_continue
+LANG_ENGLISH         "??	?_????K?"
+
+REFERENCE            anti_cheat_warning_message
+LANG_ENGLISH         "?(??????X?Y????V?@???[?l4???N?????s?@????Z???'??'??7??????@??????9??{?9?7?K?7???c@?+7???2Ws:?c???'??????{??9Vg???n?????V:??[K????7??????8?K?s@j?7?q1,??U???6?Y@5???K????1"
+
+REFERENCE            anti_cheat_warning_quit
+LANG_ENGLISH         "?j!??S?{??`????
+`;?V?)#?"
+
+REFERENCE            anti_cheat_warning_title
+LANG_ENGLISH         "???Y??Z?Y?j?nn??s?@?[-?"
+
+REFERENCE            are_you_absolutely_sure
+LANG_ENGLISH         "?Are you absolutely sure?"
+
+REFERENCE            assault_key
+LANG_ENGLISH         "?|j??
+?7??"
+
+REFERENCE            campaign
+LANG_ENGLISH         "??	CAMPAIGN"
+
+REFERENCE            campaign_incomplete
+LANG_ENGLISH         "??	??vx?.h? {??`J?0}3?"
+
+REFERENCE            castle_desc
+LANG_ENGLISH         "?D6??Z?`???	???)????e?[e?8+
+??w??JS??? 2p_???`B^"
+
+REFERENCE            change_map_desc
+LANG_ENGLISH         "?(Choose a different Map."
+
+REFERENCE            change_mission
+LANG_ENGLISH         "??????V??Z?????"
+
+REFERENCE            change_mission_desc
+LANG_ENGLISH         "?R^?
+'??j??C?q}?
+5@{V?-k????"
+
+REFERENCE            change_op
+LANG_ENGLISH         "?/
+?H@/P??"
+
+REFERENCE            change_op_desc
+LANG_ENGLISH         "?:??(bs????C??f5.7?+X??????"
+
+REFERENCE            choose_a_different_op
+LANG_ENGLISH         "??Choose a different Op"
+
+REFERENCE            choose_primary
+LANG_ENGLISH         "??Choose Primary"
+
+REFERENCE            chooseroles
+LANG_ENGLISH         "?O??Y:?Y???"
+
+REFERENCE            chooseroles_client_desc
+LANG_ENGLISH         "?~Only host can select roles."
+
+REFERENCE            chooseroles_na_desc
+LANG_ENGLISH         "??%No selectable roles in this mission."
+
+REFERENCE            classified
+LANG_ENGLISH         "???a???i??"
+
+REFERENCE            classified_01_caps
+LANG_ENGLISH         "?W????I??y??T???W?)s?3??i????"
+
+REFERENCE            classified_02_caps
+LANG_ENGLISH         "??1|^o.!/??/???fW?????Q??"
+
+REFERENCE            classified_03_caps
+LANG_ENGLISH         "????gO.????9?%?"
+
+REFERENCE            classified_04_caps
+LANG_ENGLISH         "?<?)I?$j??P??R?"
+
+REFERENCE            classified_05_caps
+LANG_ENGLISH         "??y?J????B;?Y?/???"
+
+REFERENCE            classified_06_caps
+LANG_ENGLISH         "??OPERATION: RETURN TO SENDER"
+
+REFERENCE            classified_07_caps
+LANG_ENGLISH         "?|???3???kp?j}?X"
+
+REFERENCE            classified_08_caps
+LANG_ENGLISH         "??H??M?????*?%+??V?E"
+
+REFERENCE            classified_09_caps
+LANG_ENGLISH         "??H??M?????*?%+??V?E"
+
+REFERENCE            classified_10_caps
+LANG_ENGLISH         "?????;U??m~??\?H?"
+
+REFERENCE            classified_11_caps
+LANG_ENGLISH         "??yo^y{!??jN)	' l?p?"
+
+REFERENCE            classified_12_caps
+LANG_ENGLISH         "?tt???????JnafGQ????|?""
+
+REFERENCE            classified_13_caps
+LANG_ENGLISH         "?a??6????????aC?"
+
+REFERENCE            classified_14_caps
+LANG_ENGLISH         "???
+??$?U5*??Q?$"
+
+REFERENCE            classified_15_caps
+LANG_ENGLISH         "?????	?M??:???S?-?"
+
+REFERENCE            classified_16_caps
+LANG_ENGLISH         "?????	?M??:???S?-?"
+
+REFERENCE            classified_17_caps
+LANG_ENGLISH         "?????	?M??:???S?-?"
+
+REFERENCE            classified_18_caps
+LANG_ENGLISH         "??????????m??}?NI?/??Q=Z/T"
+
+REFERENCE            classified_19_caps
+LANG_ENGLISH         "??$(??d%?G*b??5\]b??J??%Q??"
+
+REFERENCE            classified_20_caps
+LANG_ENGLISH         "??"PROFILE: DAVID "HESH" WALKER, LT."
+
+REFERENCE            classified_21_caps
+LANG_ENGLISH         "??!PROFILE: THOMAS A. MERRICK, CPT."
+
+REFERENCE            classified_names
+LANG_ENGLISH         "???0????;9?Z"
+
+REFERENCE            collateral_rank
+LANG_ENGLISH         "??@?A?& C??y??Gy???	???p???s???7"
+
+REFERENCE            completion
+LANG_ENGLISH         "?(completion"
+
+REFERENCE            completion_dot_percent
+LANG_ENGLISH         "?w??k??VK?s??1Lq1L??"
+
+REFERENCE            completion_percent
+LANG_ENGLISH         "????[cY??{????)"
+
+REFERENCE            computer
+LANG_ENGLISH         "?k	??????"
+
+REFERENCE            confirm_loadout_reset
+LANG_ENGLISH         "??3Are you sure you would like to reset this loadout?"
+
+REFERENCE            continue_to_multiplayer
+LANG_ENGLISH         "??????????5?c????X??9"
+
+REFERENCE            continue_to_special_ops
+LANG_ENGLISH         "?L???K????j?6?X6??7"
+
+REFERENCE            continue_to_special_ops_caps
+LANG_ENGLISH         "?L=??J?U?=j?4?P&??5"
+
+REFERENCE            credits_caps
+LANG_ENGLISH         "???~?)??"
+
+REFERENCE            current_level_intel_title
+LANG_ENGLISH         "??enemy intelligence"
+
+REFERENCE            current_level_intels
+LANG_ENGLISH         "??1?6x?o??C????????'??="
+
+REFERENCE            current_mission
+LANG_ENGLISH         "???V???????"
+
+REFERENCE            desc_multiplayer
+LANG_ENGLISH         "?2IRank up and unlock new weapons, perks, killstreaks and much more online."
+
+REFERENCE            desc_mw3_singleplayer
+LANG_ENGLISH         "?8]?roj????)???.[?#rN?8b??#??@v????? ?t?2?c???o??F{?ul?F????F??W1kx?????9?{?!;E#??"
+
+REFERENCE            desc_playercard
+LANG_ENGLISH         "???y??3^OC???M??{?mk?????"
+
+REFERENCE            desc_quit
+LANG_ENGLISH         "?????%i?k??"??["?"
+
+REFERENCE            desc_singleplayer
+LANG_ENGLISH         "?	]??6'?8y??a?????????K?????7Q????h???>??1?ZI?????x?U!#"I7??????Q??w?!?.???/X????U"
+
+REFERENCE            desc_so_leaderboards
+LANG_ENGLISH         "?_/'J????????x^?????F??
+?	B?8
+??ks??0'?#-R(EF"
+
+REFERENCE            desc_so_stats
+LANG_ENGLISH         "?y,See your game progression across all modes."
+
+REFERENCE            desc_so_survival_armory
+LANG_ENGLISH         "?T;Browse items in Survival armories and their unlock status."
+
+REFERENCE            desc_specialops
+LANG_ENGLISH         "???Playing solo or co-op, rank up to unlock weapons, tactical support, levels and more in Survival mode and a variety of challenging missions."
+
+REFERENCE            desc_survial_mode
+LANG_ENGLISH         "?|??]??'?????^"
+
+REFERENCE            dev_levels
+LANG_ENGLISH         "???mZ?x?z("
+
+REFERENCE            diff_ranking_0
+LANG_ENGLISH         "??None"
+
+REFERENCE            diff_ranking_1
+LANG_ENGLISH         "??????Z7Y"
+
+REFERENCE            diff_ranking_2
+LANG_ENGLISH         "??1???"
+
+REFERENCE            diff_ranking_3
+LANG_ENGLISH         "?^Medium"
+
+REFERENCE            diff_ranking_4
+LANG_ENGLISH         "?F????"
+
+REFERENCE            diff_ranking_5
+LANG_ENGLISH         "??)R??`?="
+
+REFERENCE            different_diff
+LANG_ENGLISH         "?!Different difficulties selected."
+
+REFERENCE            edit_loadout
+LANG_ENGLISH         "??Q?K?&??#??:"
+
+REFERENCE            energy_weapon_choose
+LANG_ENGLISH         "???B[???)7??"
+
+REFERENCE            equipment_select
+LANG_ENGLISH         "??
+Equipment"
+
+REFERENCE            find_online_match_caps
+LANG_ENGLISH         "??#R?D??9?Rr*?*??"
+
+REFERENCE            first_difficulty_star
+LANG_ENGLISH         "?Mh???}@??a??g?,??0?<H??}??r?cN	!?Gj?H?k????;?
+G[e???
+??{?P?????,???"
+
+REFERENCE            first_difficulty_star_survival
+LANG_ENGLISH         "?3:???????4K??YN???;?7?????7?????YXN??,#?-???7X??,N?\"
+
+REFERENCE            for_the_record
+LANG_ENGLISH         "??D#?'@?Y?+???""
+
+REFERENCE            friend_lock_group_desc
+LANG_ENGLISH         "??&1???%?a??q?jB?0???(??@????p???A?H}+?"
+
+REFERENCE            friend_lock_op_desc
+LANG_ENGLISH         "?XO???z?@?n??[Y????????[?X:?\B??Y??NC?????@???????c?@+XN??(??9?7[?]?q"
+
+REFERENCE            friend_unlock_group_has
+LANG_ENGLISH         "?g	Has: &&1"
+
+REFERENCE            friend_unlock_group_req
+LANG_ENGLISH         "?k?YW?'????b"
+
+REFERENCE            griffs_recommended
+LANG_ENGLISH         "??Griff's Recommendation"
+
+REFERENCE            hamburg
+LANG_ENGLISH         "?|	???b(z?E"
+
+REFERENCE            hamburg_desc
+LANG_ENGLISH         "??DL2O??k}?????.?3??????n?????????`?eyH?h?:???[#h3??C(H/?c?H??"
+
+REFERENCE            headshots_pre
+LANG_ENGLISH         "??
+s@?'H??"
+
+REFERENCE            heist_title
+LANG_ENGLISH         "?!%?{Xz]???	?I`?P???????j??????Pg"
+
+REFERENCE            heistspace_title
+LANG_ENGLISH         "??$???NGZ??	c?????????@Q??S???!???V"
+
+REFERENCE            highest_difficulty
+LANG_ENGLISH         "?$K;C???"??????c?^4-???Ft@"
+
+REFERENCE            igr_unavailable
+LANG_ENGLISH         "??1???/??q??G@?Q??av?u2?I?????oY	?h?G?hj?T??m"
+
+REFERENCE            iis_legal
+LANG_ENGLISH         "???Xjd?&???-g-7?{??cZ?C???X???????{?????????N?]X?3????W,??
+??;?7???@,?VN??Z??Y'YF?N,F+[????@???l?Z?K???7
+??????K???R??"
+
+REFERENCE            invite_friend_pc_cpu
+LANG_ENGLISH         "??/}LC$??? ?????????I??+???G??w?<?0??KP#?+??"
+
+REFERENCE            item_achievement_unlocked
+LANG_ENGLISH         "??&):YkWs???mV?l4Z??V??sG]?????2?"
+
+REFERENCE            iw5_levels
+LANG_ENGLISH         "??Qg1?z??!?"
+
+REFERENCE            iw6_black_ice
+LANG_ENGLISH         "??8???:?)<??"
+
+REFERENCE            iw6_black_ice_desc
+LANG_ENGLISH         "?2:Sabotage the Atlas oil platform as a diversionary tactic."
+
+REFERENCE            iw6_carrier
+LANG_ENGLISH         "?`?R??tk????k?=7"
+
+REFERENCE            iw6_carrier_desc
+LANG_ENGLISH         "?gB)7????3???I????u???`??C=r?CmO?-x???"I?I?Z?????(?	QO"????]?"
+
+REFERENCE            iw6_characters
+LANG_ENGLISH         "??h?X??V??"
+
+REFERENCE            iw6_characters_whiteroom
+LANG_ENGLISH         "?L?,'?GY???K:Y??{?"
+
+REFERENCE            iw6_clockwork
+LANG_ENGLISH         "?
+????'?"
+
+REFERENCE            iw6_clockwork_desc
+LANG_ENGLISH         "??MInfiltrate a Federation facility and retrieve data on their missile program."
+
+REFERENCE            iw6_cornered
+LANG_ENGLISH         "?|???s?G?{`?j}?P"
+
+REFERENCE            iw6_cornered_desc
+LANG_ENGLISH         "??C?V?t??n?7?????'???????6???:??K?F??K7???N???:?Y????'?,????"
+
+REFERENCE            iw6_deerhunt
+LANG_ENGLISH         "??!????+?]??#"
+
+REFERENCE            iw6_deerhunt_desc
+LANG_ENGLISH         "?>g??Y?#x?c?3{??`"
+
+REFERENCE            iw6_enemyhq
+LANG_ENGLISH         "? ??_V????_?"
+
+REFERENCE            iw6_enemyhq_desc
+LANG_ENGLISH         "????2??+}0??O:1P???o???'ab_?"
+
+REFERENCE            iw6_factory
+LANG_ENGLISH         "???e???????!?4?h?"
+
+REFERENCE            iw6_factory_desc
+LANG_ENGLISH         "?KRInfiltrate the weapons factory to find out what the Federation has been building."
+
+REFERENCE            iw6_flood
+LANG_ENGLISH         "?A?+l?????-??????"
+
+REFERENCE            iw6_flood_desc
+LANG_ENGLISH         "??_g2?*?V3?":????-A3?g?}???9}?V5C?qA??
+ ??0?S???c???(H3??????(?s??y?M?#?dG???q/N?? ?'?X?"
+
+REFERENCE            iw6_homecoming
+LANG_ENGLISH         "?2Homecoming"
+
+REFERENCE            iw6_homecoming_desc
+LANG_ENGLISH         "??#(?+??????j{?K??@f????6c???\"
+
+REFERENCE            iw6_jungle_ghosts
+LANG_ENGLISH         "??Q[??A}????"
+
+REFERENCE            iw6_jungle_ghosts_desc
+LANG_ENGLISH         "? ?&g???kc????%? "
+
+REFERENCE            iw6_jungle_ghosts_intro
+LANG_ENGLISH         "?8?;?????g?H???g?????"
+
+REFERENCE            iw6_las_vegas
+LANG_ENGLISH         "?}	5??hZ??"
+
+REFERENCE            iw6_las_vegas_desc
+LANG_ENGLISH         "?x-Return to the safehouse and wait for Keegan."
+
+REFERENCE            iw6_levels
+LANG_ENGLISH         "?d,??X??????"
+
+REFERENCE            iw6_loki
+LANG_ENGLISH         "??x?o?"
+
+REFERENCE            iw6_nml
+LANG_ENGLISH         "????gO&????9?-S"
+
+REFERENCE            iw6_nml_desc
+LANG_ENGLISH         "??)o??p?h#,)(8+M7_k????Y?s?`???????????"
+
+REFERENCE            iw6_odin
+LANG_ENGLISH         "???J?"
+
+REFERENCE            iw6_oilrocks
+LANG_ENGLISH         "?!?N?n=3'??"
+
+REFERENCE            iw6_oilrocks_desc
+LANG_ENGLISH         "?u/Assault Rorke's hideout and capture him alive."
+
+REFERENCE            iw6_prologue
+LANG_ENGLISH         "?)Ghost Stories"
+
+REFERENCE            iw6_prologue_desc
+LANG_ENGLISH         "??+J??9????????:???2/+?????Z?v?6?X?v+#"
+
+REFERENCE            iw6_safehouse
+LANG_ENGLISH         "?uX:??{??69-??89???"
+
+REFERENCE            iw6_satfarm
+LANG_ENGLISH         "????s0???!?/?"
+
+REFERENCE            iw6_satfarm_desc
+LANG_ENGLISH         "???Lead a desperate attack against the Federation's ground array."
+
+REFERENCE            iw6_ship_graveyard
+LANG_ENGLISH         "?9)?????????Y"
+
+REFERENCE            iw6_ship_graveyard_desc
+LANG_ENGLISH         "?P>??X?H?PF?Cc.?=????;G?(???k{?-???<????????w@s0???+P??"
+
+REFERENCE            iw6_skyway
+LANG_ENGLISH         "??5H?!?4???N??????"
+
+REFERENCE            iw6_skyway_desc
+LANG_ENGLISH         "?*oW
+?`?e?	?O????????????t%Hh"
+
+REFERENCE            iw6_youngblood
+LANG_ENGLISH         "?i????/???U"
+
+REFERENCE            iw_best_time
+LANG_ENGLISH         "?S?u?Yn?-??"
+
+REFERENCE            iw_intel
+LANG_ENGLISH         "?J?fK?Z????9?Js???"
+
+REFERENCE            iw_kleenex
+LANG_ENGLISH         "?o??2????("
+
+REFERENCE            ja_asteriod_title
+LANG_ENGLISH         "?Q=??NG???@?9?@E????"
+
+REFERENCE            ja_mining_title
+LANG_ENGLISH         "?=???,??????,??Z?"
+
+REFERENCE            ja_spacestation_title
+LANG_ENGLISH         "???YN?????j?f?$????'"
+
+REFERENCE            ja_titan_title
+LANG_ENGLISH         "??9?Bg??????>@???{?"
+
+REFERENCE            ja_wreckage_title
+LANG_ENGLISH         "?x???GK?s?9?gV??Y?"
+
+REFERENCE            kills
+LANG_ENGLISH         "??KILLS"
+
+REFERENCE            kills_j_pre
+LANG_ENGLISH         "?????_e???????}?"
+
+REFERENCE            kleenex_levels
+LANG_ENGLISH         "??Kleenex Levels"
+
+REFERENCE            korea15_unavailable
+LANG_ENGLISH         "??/B???`?????+I??*?c(??p7C?CSW??*%?ir8?s~"
+
+REFERENCE            last_checkpoint_confirmation
+LANG_ENGLISH         "?b??k?A?Y]?'?A??!?6??A?[?;?"
+
+REFERENCE            leavelobby
+LANG_ENGLISH         "??Leave Lobby?"
+
+REFERENCE            level_avg_time
+LANG_ENGLISH         "??`????M?u`1Q#?????S/?I"
+
+REFERENCE            level_n
+LANG_ENGLISH         "?4
+Level &&1"
+
+REFERENCE            level_type
+LANG_ENGLISH         "??^l?k?TrP8:+???"
+
+REFERENCE            level_your_best_time
+LANG_ENGLISH         "??
+H???EK?V"
+
+REFERENCE            loading_transients
+LANG_ENGLISH         "???B?q?{????"
+
+REFERENCE            loadout_1
+LANG_ENGLISH         "??
+?H?7??%8!"
+
+REFERENCE            loadout_2
+LANG_ENGLISH         "??
+??F????F"
+
+REFERENCE            loadout_3
+LANG_ENGLISH         "??
+Loadout 3"
+
+REFERENCE            loadout_4
+LANG_ENGLISH         "??
+?????"
+
+REFERENCE            loadout_5
+LANG_ENGLISH         "??
+	/??????"
+
+REFERENCE            london
+LANG_ENGLISH         "?g?)'D??$*t
+?"
+
+REFERENCE            london_desc
+LANG_ENGLISH         "??++?%???A?????joI??
+?????????R??s{?!P>ope"
+
+REFERENCE            margin_horizontal_desc
+LANG_ENGLISH         "??1?w?2??????O?(? D?R>?????=?gZ???(??]?r????_?=>"
+
+REFERENCE            margin_vertical_desc
+LANG_ENGLISH         "?/Move the slider to adjust the vertical margin."
+
+REFERENCE            max_reward
+LANG_ENGLISH         "??I?k????XS??"
+
+REFERENCE            mission_key
+LANG_ENGLISH         "?1,?'Hz%??1?0?"
+
+REFERENCE            mission_mode_caps
+LANG_ENGLISH         "?	?l	??"
+
+REFERENCE            mission_mode_desc
+LANG_ENGLISH         "??\l?I???z??a?H???c?9?
+`?"
+
+REFERENCE            mission_pre
+LANG_ENGLISH         "?	Mission:"
+
+REFERENCE            na_for_this_op
+LANG_ENGLISH         "??"?????XZcX?@??N?????8????Z?7\"
+
+REFERENCE            need_one_more_player
+LANG_ENGLISH         "??'??F??7+?{?Y????+N??\"
+
+REFERENCE            need_sight
+LANG_ENGLISH         "?>A WEAPON SIGHT MUST BE ATTACHED IN THE FIRST ATTACHMENT SLOT."
+
+REFERENCE            need_two_more_players
+LANG_ENGLISH         "?/?*?Ers?=??????sG?0?5"
+
+REFERENCE            new_bestscore
+LANG_ENGLISH         "???e??W#?"???I"
+
+REFERENCE            new_besttime
+LANG_ENGLISH         "?????H+???*??+B"
+
+REFERENCE            next_unlock
+LANG_ENGLISH         "?????!?????????"
+
+REFERENCE            no_stars_for_locked_op
+LANG_ENGLISH         "??9No progress saved since you don't have this Op unlocked."
+
+REFERENCE            not_signed_in
+LANG_ENGLISH         "??Not signed in"
+
+REFERENCE            note_civilian
+LANG_ENGLISH         "??
+?{??"?"
+
+REFERENCE            note_explosives_knives_only
+LANG_ENGLISH         "??*<????????@?s??????c/"
+
+REFERENCE            note_slow_mo_breach
+LANG_ENGLISH         "?????K??H??,l?"
+
+REFERENCE            note_two_players_required
+LANG_ENGLISH         "?"Two Players Required"
+
+REFERENCE            offensive_are_you_sure
+LANG_ENGLISH         "?	+Are you sure you want to skip the content?"
+
+REFERENCE            offensive_checkbox_kbm
+LANG_ENGLISH         "??G???[???*5?~?@???????'?t?????0???3r??O-?Q	Pc?????BI0[?P????{???"
+
+REFERENCE            offensive_skip_1
+LANG_ENGLISH         "?:f??y=?r????s?U???`}????3w	????e???R?p?
+]AZgw?S1?????v??D??1???h?3?7M??Lk??????o/??{??"
+
+REFERENCE            offensive_skip_2
+LANG_ENGLISH         "??OW:]???)"OR?'???1???:?whX?J/????e????0?P?????M2?#`???K???8{
+???u?:?(?~??GRk?[[3hU??U? ???g????mf[??xp?B?q??@?? ??L????{?*k?x?6??M?@Cn"
+
+REFERENCE            offensive_skip_3
+LANG_ENGLISH         "??HIf you answer yes you will never be asked about skipping content again."
+
+REFERENCE            offensive_skip_4
+LANG_ENGLISH         "?????"k????????g%
+	[??z?!???N?.3? ?G?? ??s?????cO?k????"
+
+REFERENCE            offensive_skip_no_wont_get_offended
+LANG_ENGLISH         "?@"?`?????U????W???N???????X??RYY"
+
+REFERENCE            offensive_skip_now
+LANG_ENGLISH         "?j5?Z?{?:?s?"
+
+REFERENCE            offensive_skip_yes_ask_later
+LANG_ENGLISH         "??[HOLD] Yes, ask me later"
+
+REFERENCE            offensive_skip_yes_never_ask
+LANG_ENGLISH         "???????~e??g
+?z?????"
+
+REFERENCE            offensive_title
+LANG_ENGLISH         "?Disturbing Content Notice"
+
+REFERENCE            offensive_warning
+LANG_ENGLISH         "??N?X????v?Q4???X[???s????7??????XG??+?l{?G??:?X????V???3-???f?V?7?g??"
+
+REFERENCE            only_host_can_choose
+LANG_ENGLISH         "????6^?{?????6???;+?Y??8\"
+
+REFERENCE            operation_locked
+LANG_ENGLISH         "?`Operation Locked"
+
+REFERENCE            operator_reward
+LANG_ENGLISH         "??MP Operator - &&1"
+
+REFERENCE            opposition_force
+LANG_ENGLISH         "????C??9Kp??"
+
+REFERENCE            ops_unlocked_caps
+LANG_ENGLISH         "?<??j?r&??Q""
+
+REFERENCE            opsmap_tut_1_a
+LANG_ENGLISH         "?(Targets Of Opportunity"
+
+REFERENCE            opsmap_tut_1_b
+LANG_ENGLISH         "??#???????Vl("
+
+REFERENCE            opsmap_tut_1_c
+LANG_ENGLISH         "??????i$?`x?$"
+
+REFERENCE            opsmap_tut_1_d
+LANG_ENGLISH         "???e??i?"
+
+REFERENCE            opsmap_tut_2_a
+LANG_ENGLISH         "?:?t??9W?(?#????"
+
+REFERENCE            opsmap_tut_2_b
+LANG_ENGLISH         "?Air To Air Targets"
+
+REFERENCE            payback
+LANG_ENGLISH         "?LRETURN TO SENDER"
+
+REFERENCE            payback_desc
+LANG_ENGLISH         "?57?G?'kG+j?k??????7??????????'?;???'-6?"
+
+REFERENCE            percentage_completed
+LANG_ENGLISH         "??
+??*??tQ4????T??"
+
+REFERENCE            phparade_desc
+LANG_ENGLISH         "?H"Take in the sights of Fleet Week."
+
+REFERENCE            phparade_title
+LANG_ENGLISH         "?
+Black Sky: Parade"
+
+REFERENCE            phspace_title
+LANG_ENGLISH         "???\v0??)x"?z????A???k?6wh{"
+
+REFERENCE            phstreets_title
+LANG_ENGLISH         "?????????`J?']2?nWfc???"
+
+REFERENCE            play_story
+LANG_ENGLISH         "?vPlay Story"
+
+REFERENCE            prague
+LANG_ENGLISH         "????zdE	T????I?"
+
+REFERENCE            prague_desc
+LANG_ENGLISH         "?X1S,??W?????K?@V??k/????nG?????W?6:{?V??"
+
+REFERENCE            prisoner_title
+LANG_ENGLISH         "?/&Operation Black Flag: Prisoner Escort"
+
+REFERENCE            private_online_match_caps
+LANG_ENGLISH         "???R'??@Y?%??OH?'???"
+
+REFERENCE            profile_warning
+LANG_ENGLISH         "?g=You are not signed in to a profile. 
+Do you wish to sign in?"
+
+REFERENCE            profile_warning_sp
+LANG_ENGLISH         "??j?(?F??^????+?:????;im/??"???]????= L?m	h???r??<}?+?&?b?C????(bp??????m?"?(x7?@r&X?'#1{?"
+
+REFERENCE            rank_a
+LANG_ENGLISH         "???n???"
+
+REFERENCE            rank_b
+LANG_ENGLISH         "?J??[?!"
+
+REFERENCE            rank_c
+LANG_ENGLISH         "????@"
+
+REFERENCE            rank_d
+LANG_ENGLISH         "??"??9S"
+
+REFERENCE            rank_f
+LANG_ENGLISH         "??YsnD"
+
+REFERENCE            recent_unlocks_caps
+LANG_ENGLISH         "?{I?Q9EU???4?5"
+
+REFERENCE            recommendation
+LANG_ENGLISH         "??"?Y??????????8????.]????????q"
+
+REFERENCE            recommended
+LANG_ENGLISH         "?????Q??7?1"
+
+REFERENCE            require_primary_weapon
+LANG_ENGLISH         "?d%?:(???)?J???u?5???N?
+1??#??M??m??"
+
+REFERENCE            require_secondary_weapon
+LANG_ENGLISH         "??'f???? `"?!Cs?`W?r?S???
+???h????>"
+
+REFERENCE            requires_scrap
+LANG_ENGLISH         "???j(?QQ??????(Q%
+??=rj"
+
+REFERENCE            resource_level
+LANG_ENGLISH         "?<?+?????Vb?gY?"
+
+REFERENCE            reward_complete
+LANG_ENGLISH         "?Tbb&k??Y??N2???6?:???"
+
+REFERENCE            reward_incomplete
+LANG_ENGLISH         "??Lb?m?'????????[?????W"
+
+REFERENCE            reward_jackal_upgrade
+LANG_ENGLISH         "?????J???sq?*???"
+
+REFERENCE            reward_most_wanted
+LANG_ENGLISH         "??e?????1??"
+
+REFERENCE            reward_offline
+LANG_ENGLISH         "??26??????????&?????cV??7??Z??????4?6??s??7?"
+
+REFERENCE            reward_perk
+LANG_ENGLISH         "?PERK"
+
+REFERENCE            reward_title
+LANG_ENGLISH         "?CReward:"
+
+REFERENCE            reward_weapon
+LANG_ENGLISH         "? ????='"
+
+REFERENCE            rewards
+LANG_ENGLISH         "?C?Y?,???"
+
+REFERENCE            rouge_title
+LANG_ENGLISH         "???[x"Z}???i=z?????8?"
+
+REFERENCE            sa_assassination_title
+LANG_ENGLISH         "?????M?c????I;?1?j???"
+
+REFERENCE            sa_empambush_title
+LANG_ENGLISH         "?1zY???????{Y7??"
+
+REFERENCE            sa_vips_title
+LANG_ENGLISH         "??z8?????????Ys?????N"
+
+REFERENCE            sa_wounded_title
+LANG_ENGLISH         "????NX????@????"
+
+REFERENCE            select_attach
+LANG_ENGLISH         "?Select"
+
+REFERENCE            select_save_device_caps
+LANG_ENGLISH         "?z?????BoS????M?]"
+
+REFERENCE            select_your_diff
+LANG_ENGLISH         "?	Select your difficulty."
+
+REFERENCE            show_timer
+LANG_ENGLISH         "??]g???)?"
+
+REFERENCE            skip_mission
+LANG_ENGLISH         "?+M???j?n????"
+
+REFERENCE            so_mode_select_caps
+LANG_ENGLISH         "?|4???????*????"
+
+REFERENCE            so_player_options
+LANG_ENGLISH         "??(???'???K?77"
+
+REFERENCE            solo_play_caps
+LANG_ENGLISH         "??
+SOLO PLAY"
+
+REFERENCE            spec_ops_guest_cap
+LANG_ENGLISH         "?"m????"
+
+REFERENCE            special_ops_caps
+LANG_ENGLISH         "?SPECIAL OPS"
+
+REFERENCE            specialist_desc
+LANG_ENGLISH         "?TeI?K?7??hK?q0?9QM????HhS??c?I?aW2???Nk?7]n??3????X????????p????2?P??3*??&???+
+???6???(?w?"
+
+REFERENCE            stars_earned
+LANG_ENGLISH         "?X???b?????[??"
+
+REFERENCE            start_op
+LANG_ENGLISH         "??	Start Op"
+
+REFERENCE            start_op_desc
+LANG_ENGLISH         "?k??p
+3????;U?9???"
+
+REFERENCE            stat_game_progression
+LANG_ENGLISH         "?(q??n???m?Bg(2"
+
+REFERENCE            stat_hardened_progress
+LANG_ENGLISH         "?1??FY?+29?v9???"
+
+REFERENCE            stat_intel_items
+LANG_ENGLISH         "????:V?@??+??"
+
+REFERENCE            stat_mp_play_time
+LANG_ENGLISH         "??Multiplayer Play Time"
+
+REFERENCE            stat_mp_progression
+LANG_ENGLISH         "?????a?S?/?s?qB??J??"
+
+REFERENCE            stat_num_dot_percent
+LANG_ENGLISH         "?S	1b&?1#I"
+
+REFERENCE            stat_num_dot_percent_complete
+LANG_ENGLISH         "??????I
+???h1??X "
+
+REFERENCE            stat_num_percent
+LANG_ENGLISH         "?d?:?5"
+
+REFERENCE            stat_num_percent_complete
+LANG_ENGLISH         "??&&1% Complete"
+
+REFERENCE            stat_num_ratio
+LANG_ENGLISH         "?A&&1/&&2"
+
+REFERENCE            stat_play_time
+LANG_ENGLISH         "?:
+q?0???55"
+
+REFERENCE            stat_so_play_time
+LANG_ENGLISH         "?Special Ops Play Time"
+
+REFERENCE            stat_so_progression
+LANG_ENGLISH         "???8V??X6@?8??(????V?n"
+
+REFERENCE            stat_sp_easy_regular_progression
+LANG_ENGLISH         "??YP???@]@~_???p??q"yF#?"
+
+REFERENCE            stat_sp_play_time
+LANG_ENGLISH         "?]4????7A6X/????"
+
+REFERENCE            stat_sp_progression
+LANG_ENGLISH         "?h???????9???+?n"
+
+REFERENCE            stat_stars_earned
+LANG_ENGLISH         "??M?X??T????F"
+
+REFERENCE            stat_time_format
+LANG_ENGLISH         "?3??????????????9?o	'&0???b"
+
+REFERENCE            stat_total
+LANG_ENGLISH         "?}????"
+
+REFERENCE            stat_total_play_time
+LANG_ENGLISH         "??e?}j??{??i"
+
+REFERENCE            stat_total_stars
+LANG_ENGLISH         "??~"s1????a?f?"
+
+REFERENCE            stat_total_stars_trophy
+LANG_ENGLISH         "?>5R?+?p6??Z??"
+
+REFERENCE            stat_veteran_progress
+LANG_ENGLISH         "?\5?-0?5??Z??????"
+
+REFERENCE            steam_chat_hint
+LANG_ENGLISH         "?8"??1???-?[?????9ZVs?N???VZ???+????@?{-lV@l????"
+
+REFERENCE            story_caps
+LANG_ENGLISH         "??STORY"
+
+REFERENCE            streaming_install
+LANG_ENGLISH         "??!??7?X?c??;?{s:?s\??+XnY?????"
+
+REFERENCE            streaming_install_remaining
+LANG_ENGLISH         "??"?/???IXK???????"
+
+REFERENCE            survival_armory_caps
+LANG_ENGLISH         "?SURVIVAL ARMORY"
+
+REFERENCE            survival_highest_round
+LANG_ENGLISH         "??B?????G@??]??"
+
+REFERENCE            survival_mode_caps
+LANG_ENGLISH         "?,	?m???s0?"
+
+REFERENCE            survival_mode_desc
+LANG_ENGLISH         "??#_/??H~Wq?EH}???g?x?*	??xX??;??"
+
+REFERENCE            survival_pre
+LANG_ENGLISH         "?
+??N?-??6?"
+
+REFERENCE            time_played
+LANG_ENGLISH         "?}'??????Kc??"
+
+REFERENCE            time_played_dhms
+LANG_ENGLISH         "?k????b??4????[?1L??"
+
+REFERENCE            time_played_hms
+LANG_ENGLISH         "?1bG?F[?????"
+
+REFERENCE            timer_night_vision
+LANG_ENGLISH         "?C?g??AG#??c;@ZJ?"
+
+REFERENCE            titan_title
+LANG_ENGLISH         "?????E??7???2???6???????H?&??c"
+
+REFERENCE            titanjackal_title
+LANG_ENGLISH         "?e&Operation Burn Water: Fight or Flight"
+
+REFERENCE            total_progress
+LANG_ENGLISH         "???7	?????8=??"?e "
+
+REFERENCE            trials
+LANG_ENGLISH         "??Trials"
+
+REFERENCE            two_player_online
+LANG_ENGLISH         "?????a?????g??I?"
+
+REFERENCE            two_player_online_caps
+LANG_ENGLISH         "??????a?????g?#i?"
+
+REFERENCE            two_player_private
+LANG_ENGLISH         "??I??i?????8??????"
+
+REFERENCE            two_player_private_caps
+LANG_ENGLISH         "??I??i?????8????o"
+
+REFERENCE            two_player_split_screen
+LANG_ENGLISH         "??Two Player Split Screen"
+
+REFERENCE            two_player_split_screen_caps
+LANG_ENGLISH         "??TWO PLAYER SPLIT SCREEN"
+
+REFERENCE            type_assault
+LANG_ENGLISH         "?5
+?n,???"
+
+REFERENCE            type_assault_defend
+LANG_ENGLISH         "??0K??sP?`ny???@?"
+
+REFERENCE            type_driving
+LANG_ENGLISH         "?3Driving"
+
+REFERENCE            type_escort
+LANG_ENGLISH         "?D9?s??C"
+
+REFERENCE            type_killspree
+LANG_ENGLISH         "??M?@U? 1c??"
+
+REFERENCE            type_stealth
+LANG_ENGLISH         "?M??????"
+
+REFERENCE            type_time_assault
+LANG_ENGLISH         "???k??S?????UK"
+
+REFERENCE            type_timed_driving
+LANG_ENGLISH         "?bTimed Driving"
+
+REFERENCE            type_timed_escort
+LANG_ENGLISH         "??????????N?"
+
+REFERENCE            type_vehicle_killspree
+LANG_ENGLISH         "??1?P??7w???[X? ?"
+
+REFERENCE            type_wave_defense
+LANG_ENGLISH         "?!?j??r??>?"
+
+REFERENCE            unlock_at_rank
+LANG_ENGLISH         "??Unlocked at Lv.&&1."
+
+REFERENCE            unlock_new_mode
+LANG_ENGLISH         "???????a?f???{z?????8?"
+
+REFERENCE            unlock_new_mode_realism
+LANG_ENGLISH         "???8?6-??????????[?2"
+
+REFERENCE            unlock_new_mode_yolo
+LANG_ENGLISH         "??????=U???????"
+
+REFERENCE            v1
+LANG_ENGLISH         "?	K"
+
+REFERENCE            v2
+LANG_ENGLISH         "???"
+
+REFERENCE            veteran_is_extremely_difficult
+LANG_ENGLISH         "??X4E???v?:{^?b??%?{???3x??s8??"??KS*H*:9??6???Io?
+?Z?IK3?C/????0??mNDs{?0?8O"
+
+REFERENCE            vf_audio_cap_01
+LANG_ENGLISH         "??g_rorke_psycheval.wav"
+
+REFERENCE            vf_audio_cap_02
+LANG_ENGLISH         "??5?
+????5??MX7?L?q?8?"
+
+REFERENCE            vf_audio_cap_03
+LANG_ENGLISH         "? ramos_nml_log1.mp3"
+
+REFERENCE            vf_audio_cap_04
+LANG_ENGLISH         "???0??r?(???|ox???"
+
+REFERENCE            vf_audio_cap_05
+LANG_ENGLISH         "??S?N?'ya????KW??!$"
+
+REFERENCE            vf_audio_cap_06
+LANG_ENGLISH         "?Uq?J-0????M???"
+
+REFERENCE            vf_audio_cap_07
+LANG_ENGLISH         "?$??%ZT???;??????q??f"
+
+REFERENCE            vf_audio_cap_08
+LANG_ENGLISH         "??? ????'AI??!??e?"
+
+REFERENCE            vf_audio_cap_09
+LANG_ENGLISH         "??Jg*?xOwX?l????Dx[??"
+
+REFERENCE            vf_audio_cap_10
+LANG_ENGLISH         "????%-T????V??????7\??"
+
+REFERENCE            vf_audio_cap_11
+LANG_ENGLISH         "?K7?YN?Y?????w??"
+
+REFERENCE            vf_audio_cap_12
+LANG_ENGLISH         "????????X????}:?6?[8?"
+
+REFERENCE            vf_audio_cap_13
+LANG_ENGLISH         "????w????}??HJ??"
+
+REFERENCE            vf_audio_cap_14
+LANG_ENGLISH         "??Rorke_vegas_file.wav"
+
+REFERENCE            vf_audio_cap_15
+LANG_ENGLISH         "?Hesh_log_04.mp3"
+
+REFERENCE            vf_audio_cap_16
+LANG_ENGLISH         "??J?'?V?????&???F?K#Yq??"
+
+REFERENCE            vf_audio_cap_17
+LANG_ENGLISH         "?,?Y[??????3O?!??????"
+
+REFERENCE            vf_audio_cap_18
+LANG_ENGLISH         "?7??N?+?&?{??????f"
+
+REFERENCE            vf_audio_cap_19
+LANG_ENGLISH         "??+?w??????8?????;X???X?"
+
+REFERENCE            vf_audio_cap_20
+LANG_ENGLISH         "?????X??????????V??????;"
+
+REFERENCE            vf_audio_cap_21
+LANG_ENGLISH         "??k??8?FLf???????9??s"
+
+REFERENCE            vf_audio_caption_title
+LANG_ENGLISH         "?}AUDIO:"
+
+REFERENCE            vf_classifed
+LANG_ENGLISH         "???a???i??"
+
+REFERENCE            vf_date_caption_01_01
+LANG_ENGLISH         "??????"
+
+REFERENCE            vf_date_caption_01_02
+LANG_ENGLISH         "?0(;n?"
+
+REFERENCE            vf_date_caption_01_03
+LANG_ENGLISH         "??JAN30"
+
+REFERENCE            vf_date_caption_02_01
+LANG_ENGLISH         "??MAY6"
+
+REFERENCE            vf_date_caption_02_02
+LANG_ENGLISH         "?,JUL30"
+
+REFERENCE            vf_date_caption_02_03
+LANG_ENGLISH         "??MAR28"
+
+REFERENCE            vf_date_caption_03_01
+LANG_ENGLISH         "??P%?3"
+
+REFERENCE            vf_date_caption_03_02
+LANG_ENGLISH         "??2?H??"
+
+REFERENCE            vf_date_caption_03_03
+LANG_ENGLISH         "???1??"
+
+REFERENCE            vf_date_caption_04_01
+LANG_ENGLISH         "?w??wz"
+
+REFERENCE            vf_date_caption_04_02
+LANG_ENGLISH         "????)'"
+
+REFERENCE            vf_date_caption_04_03
+LANG_ENGLISH         "??APR09"
+
+REFERENCE            vf_date_caption_05_01
+LANG_ENGLISH         "??JAN10"
+
+REFERENCE            vf_date_caption_05_02
+LANG_ENGLISH         "??????"
+
+REFERENCE            vf_date_caption_05_03
+LANG_ENGLISH         "??????"
+
+REFERENCE            vf_date_caption_06_01
+LANG_ENGLISH         "?q?@#??"
+
+REFERENCE            vf_date_caption_06_02
+LANG_ENGLISH         "??l??'r"
+
+REFERENCE            vf_date_caption_06_03
+LANG_ENGLISH         "?,JUN02"
+
+REFERENCE            vf_date_caption_07_01
+LANG_ENGLISH         "?0SEP10"
+
+REFERENCE            vf_date_caption_07_02
+LANG_ENGLISH         "?u%??:,"
+
+REFERENCE            vf_date_caption_07_03
+LANG_ENGLISH         "??JAN05"
+
+REFERENCE            vf_date_caption_08_01
+LANG_ENGLISH         "??W??_p"
+
+REFERENCE            vf_date_caption_08_02
+LANG_ENGLISH         "??0/??"
+
+REFERENCE            vf_date_caption_08_03
+LANG_ENGLISH         "?o4[?"
+
+REFERENCE            vf_date_caption_09_01
+LANG_ENGLISH         "?,JUL13"
+
+REFERENCE            vf_date_caption_09_02
+LANG_ENGLISH         "?,%?b?M"
+
+REFERENCE            vf_date_caption_09_03
+LANG_ENGLISH         "?,aa%[:"
+
+REFERENCE            vf_date_caption_10_01
+LANG_ENGLISH         "???;)?"
+
+REFERENCE            vf_date_caption_10_02
+LANG_ENGLISH         "??c??B"
+
+REFERENCE            vf_date_caption_10_03
+LANG_ENGLISH         "?qNOV08"
+
+REFERENCE            vf_date_caption_11_01
+LANG_ENGLISH         "??FEB22"
+
+REFERENCE            vf_date_caption_11_02
+LANG_ENGLISH         "?0?SY?."
+
+REFERENCE            vf_date_caption_11_03
+LANG_ENGLISH         "?0?R?%"
+
+REFERENCE            vf_date_caption_12_01
+LANG_ENGLISH         "?????'r"
+
+REFERENCE            vf_date_caption_12_02
+LANG_ENGLISH         "???)?R?"
+
+REFERENCE            vf_date_caption_12_03
+LANG_ENGLISH         "???(=?"
+
+REFERENCE            vf_date_caption_13_01
+LANG_ENGLISH         "?I4#[?"
+
+REFERENCE            vf_date_caption_13_02
+LANG_ENGLISH         "??MAR30"
+
+REFERENCE            vf_date_caption_13_03
+LANG_ENGLISH         "??MAR30"
+
+REFERENCE            vf_date_caption_14_01
+LANG_ENGLISH         "??JAN14"
+
+REFERENCE            vf_date_caption_14_02
+LANG_ENGLISH         "?,%?r?"
+
+REFERENCE            vf_date_caption_14_03
+LANG_ENGLISH         "?????"
+
+REFERENCE            vf_date_caption_15_01
+LANG_ENGLISH         "??R?1"
+
+REFERENCE            vf_date_caption_15_02
+LANG_ENGLISH         "?????"
+
+REFERENCE            vf_date_caption_15_03
+LANG_ENGLISH         "?,??B?"
+
+REFERENCE            vf_date_caption_16_01
+LANG_ENGLISH         "??JUL2"
+
+REFERENCE            vf_date_caption_16_02
+LANG_ENGLISH         "?,%?r?"
+
+REFERENCE            vf_date_caption_16_03
+LANG_ENGLISH         "?????"
+
+REFERENCE            vf_date_caption_17_01
+LANG_ENGLISH         "??U/"
+
+REFERENCE            vf_date_caption_17_02
+LANG_ENGLISH         "??R?1"
+
+REFERENCE            vf_date_caption_17_03
+LANG_ENGLISH         "??R?1"
+
+REFERENCE            vf_date_caption_18_01
+LANG_ENGLISH         "??l???r"
+
+REFERENCE            vf_date_caption_18_02
+LANG_ENGLISH         "??U??"
+
+REFERENCE            vf_date_caption_18_03
+LANG_ENGLISH         "??2?$a?"
+
+REFERENCE            vf_date_caption_19_01
+LANG_ENGLISH         "?????'r"
+
+REFERENCE            vf_date_caption_19_02
+LANG_ENGLISH         "?q???J'"
+
+REFERENCE            vf_date_caption_19_03
+LANG_ENGLISH         "?0J=??"
+
+REFERENCE            vf_date_caption_20_01
+LANG_ENGLISH         "???U:f?"
+
+REFERENCE            vf_date_caption_20_02
+LANG_ENGLISH         "???)?R?"
+
+REFERENCE            vf_date_caption_20_03
+LANG_ENGLISH         "?????"
+
+REFERENCE            vf_date_caption_21_01
+LANG_ENGLISH         "?u$?5?"
+
+REFERENCE            vf_date_caption_21_02
+LANG_ENGLISH         "?,5=??"
+
+REFERENCE            vf_date_caption_21_03
+LANG_ENGLISH         "?q'?+?"
+
+REFERENCE            vf_date_caption_title
+LANG_ENGLISH         "?WD
+???"
+
+REFERENCE            vf_file_01_body
+LANG_ENGLISH         "CIA - HR3650092326177 // PSYCHIATRIC REPORT - 10/02
+
+Patient:  GABRIEL T. RORKE
+Rank: Captain - ACTIVE DUTY
+
+GABRIEL RORKE was involved in Operation: Sand Viper, and is one of only fifteen operators who survived the conflict.  For the past year, the traumatizing experience seems to have no effect on his combat readiness or mental sharpness.
+
+If anything, I would say the experience has given him purpose.  He seems more focused than ever.  Calm.  It's really quite inspiring, actually.  Most soldiers I've come across have "dead" eyes - they just look right through me, as if I'm not even there.
+
+Captain Rorke displays no medical hindrances, physical or mental.  
+
+Diagnosis:  Combat Ready."
+
+REFERENCE            vf_file_02_body
+LANG_ENGLISH         "CIA - SR91923000932-LW //  DEFENSE SYSTEM VULNERABILITIES
+
+Methods of Infiltration
+
+We've seen an increasing number of attacks against the Liberty Wall.  The source of the attacks, we believe, are Federation Recon Teams (FEDREC) operating in No Man's Land.
+
+As of now, the attacks have slowed.  However, our own FORCE RECON teams have reported an alarming number of civilian casualties outside the wall.  A detachment recently discovered mass graves in the craters south of Los Angeles. 
+
+We were able to determine that Federation forces are attempting to find alternative ways into the city.
+"
+
+REFERENCE            vf_file_03_body
+LANG_ENGLISH         "CIA - SR13727199-G // TIER 1 POWs
+
+Latest reports from OTW Recon show severe breaches in operator safety.  Specific teams that have operated in these areas have proven effective so far, however, at this time, we believe their security has been compromised.
+
+[OPERATOR SAFETY]
+We are currently aware of three (3) operators who have gone missing or have been reported K.I.A. near Zones Romeo and Sierra.
+Chris Greene    -   "Torch"
+Riddian Poe      -   "Grim"
+Alex Johnson   -   "Ajax"
+
+Note:  All operators are from the same unit - designation: STALKER
+"
+
+REFERENCE            vf_file_04_body
+LANG_ENGLISH         "CIA - SR13727201-G  //  ENEMY POSITIONS OTW
+
+New intel from OTW Recon teams outside the wall show enemy fortifications along the outskirts of San Diego, CA, listed below.
+
+[FIREBASE CHARLIE]
+An OTW team has tracked one of our missing POWs to a stadium a half-mile inland of San Diego.  Designated FIREBASE CHARLIE by enemy forces, we believe this to be a Forward Operating Base for the Federation, and a staging ground for launching attacks against the Wall.
+
+Intel suggests the enemy has been transporting POWs to this location and attempting to extract information via interrogation and torture. Due to the high level of security clearance these operators possess, we have issued protocols to ensure our safety. "
+
+REFERENCE            vf_file_05_body
+LANG_ENGLISH         "CIA - SR0008119192-LW  //  URGENT - IMPENDING ATTACK ON SANTA MONICA
+
+FEDERATION ASSAULT FORCE INBOUND TO FORT SANTA MONICA
+
+Intel has confirmed a large scale enemy force is inbound to Santa Monica and the surrounding areas - including Los Angeles and the Liberty Wall itself. Request immediate deployment of all QRF and Emergency Services.
+
+UPDATE - 5/4 11:23AM
+U.S. Forces at Fort Santa Monica have engaged enemy ground troops.  Federation Navy inbound. Attack routes and trajectories hitting GRID 7012 and GRID 3281.
+
+IMMEDIATE ASSISTANCE REQUIRED
+"
+
+REFERENCE            vf_file_06_body
+LANG_ENGLISH         "CIA - LB000012995  //  FEDERATION RISE TO POWER
+
+TRANSITION OF POWER AND RESOURCES AFTER TEL AVIV WAR
+
+After multiple conflicts in the Middle East, the invasion of Tel Aviv and the resulting collapse of energy and financial resources in the area resulted in crippling effects to First World countries - mainly those relying on such resources provided by allied governments.
+
+With NATO and Allied Forces spread thin, other governments seized an opportunity to monopolize their own resources and consolidate power over neighboring countries.
+
+Venezuela, Brazil, and Chile unite under one banner, calling themselves "The Federation".  Within the next few years, a massive financial boost to the Federation's economy resulted in a global dominance over energy markets."
+
+REFERENCE            vf_file_07_body
+LANG_ENGLISH         "CIA - LB000017955  //  VICTOR RAMOS - PROFILE
+
+Name: Victor H. Ramos
+Born: July 1st, ????
+Age:  Unknown
+
+Ramos is a high ranking officer in the Federation Science Division, in charge of covert operations outside of San Diego.
+
+Intel suggests he is utilized and protected by the Federation because of his knowledge of reverse engineering classified technology.  Former clients include China, Iran, and North Korea.  His breakthroughs in kinetic energy through projectiles laid the groundwork for the Orbital Defense Initiative (O.D.I.N.) satellite.
+
+He is one of the only people who deals directly with GABRIEL RORKE, and we believe he never stays in the same place more than twenty four hours.
+"
+
+REFERENCE            vf_file_08_body
+LANG_ENGLISH         "CIA - SR21945500  //  OPERATION: DEADBOLT
+
+A heavily damaged laptop was recovered from recent operations in Caracas, VZ, but we were able to pull critical data from the HDD.
+
+From what the files suggest, Rorke moves every twenty four hours, much like Victor Ramos - a man in his employ. We are unsure of how many pre-designated locations are used, however we were able to extract a cluster of them from the laptop.
+
+A series of oil platforms and government housing off the coast of the Yucatan Peninsula is the next stop along his route. Called "The Freeport", we believe this area houses small-arms militias loyal to The Federation.  The area is to be considered extremely hostile. The Freeport is our only link to Rorke and we are currently unsure of when his movement cycle will start over.
+
+Recommended COA:  UTILIZATION OF TIER1 TEAMS FOR IMMEDIATE ACTION
+"
+
+REFERENCE            vf_file_09_body
+LANG_ENGLISH         "CIA - SR21945616  //  ORDNANCE LAUNCHES IN YUCATAN
+
+Aerial surveillance during OPERATION: DEADBOLT (see CIA - SR21945500) located simultaneous missile-like projectiles launching from the nearby jungle.
+
+Exactly how many projectiles were used is unknown at this time, however allied forces in the area were able to determine at least six (6) of them were successfully launched. Long range tracking lost sight of them within minutes, though the angle of trajectory suggests the ordnance broke into the upper mesosphere.
+
+SAFETY MEASURES FOR U.S. CITIES
+Governing bodies of key U.S. cities have been notified, but at this time, the warning is preliminary.  The most current intel we've gathered suggests the projectiles never returned to the stratosphere.
+"
+
+REFERENCE            vf_file_10_body
+LANG_ENGLISH         "CIA - SR24100706  //  DAMAGE ESTIMATES 
+
+Below is a report taken from a recent intelligence-gathering operation in Federation occupied Argentina.  These estimates are potential casualties of an attack that, as of yet, has not occurred.
+
+WASHINGTON, D.C.         NEW YORK CITY, NY.
+TOTAL: 309,000 est.       TOTAL:  5,681,019 est.
+
+CHICAGO, IL.                     LOS ANGELES, CA.
+TOTAL: 1,510,400 est.     TOTAL: 2,773,380 est.
+
+The number of casualties on impact suggest the Federation plans on using nuclear or kinetic-based attacks on U.S. soil, though the latter is pure speculation at this point.
+"
+
+REFERENCE            vf_file_11_body
+LANG_ENGLISH         "CIA - AP1-385717 (TS)  // THE SHOP
+
+Intelligence gathered from recent operations in Southern Argentina points to a facility near Rio de Janeiro, Brazil, as a hub for Federation activity.  The significance of this facility, referred to as "The Shop", is unknown, but appears to be of great importance to the enemy.
+
+DIRECT ACTION OPERATIONS
+Surveillance rotations have resulted in the loss of one UAV drone that was shot down by anti-aircraft fire.  However, the drone was able to feed topography and enemy defense positions back to us.
+
+The Shop is heavily guarded by a naval fleet on the perimeter of two possible entrances.  Any direct action operations would require immobilization of this fleet. Utilizing STALKER on Atlas Platform proved successful.  The Federation naval fleet was diverted to the wreckage, leaving one AEGIS-CLASS DESTROYER guarding The Shop."
+
+REFERENCE            vf_file_12_body
+LANG_ENGLISH         "CIA - RDP921-1 // ADVANCED SYSTEMS OF THE FEDERATION NAVY
+
+Repurposed and reverse engineered U.S. technology has devastated areas where our military was prominent (see 'CIA - RDP921-3'). Current reports indicate an upgraded Arleigh Burke Class (AEGIS) Destroyer being tested somewhere off the coast of Mexico.
+
+The updated sonar-pulse system mimics that of a search sonar found on current AEGIS destroyers active within the U.S. Navy. A report suggests that human subjects (believed to be Federation Soldiers) were used in testing of the device. None were reported to have survived the blasts.
+
+Only one repurposed AEGIS Destroyer has been confirmed. We can safely assume more are in production."
+
+REFERENCE            vf_file_13_body
+LANG_ENGLISH         "CIA - IA699614202 (TS)  //  REVERSE ENGINEERED U.S. TECHNOLOGY
+
+Following operations near Rio de Janeiro, Brazil, and IA of "The Shop" (CIA - AP1-385717), we have learned of reverse engineering (RE) efforts of the Federation to rebuild and enhance wreckage of the United States Orbital Defense Initiative (ODIN) program.
+
+We believe that Victor RAMOS (see Library File LB000017955) aided the Federation in this effort before being declared K.I.A. in Caracas, VZ earlier this year.
+
+As of June, we have confirmation from eyes on the ground and STALKER that these efforts proved effective.  The Federation is in control of a working prototype of the ODIN satellite, referred to hereafter as "LOKI".  We believe Gabriel T. RORKE is responsible for divulging classified ODIN information to the Federation, allowing them to complete a prototype of LOKI.
+"
+
+REFERENCE            vf_file_14_body
+LANG_ENGLISH         "CIA - IA700001892 (TS)  //  COMPROMISED GHOST SAFEHOUSE
+
+Recently a location near Las Vegas, NV used by GHOST was compromised by a former operator in the team, Gabriel RORKE.  In the resulting attack, four operators were taken hostage and one, Elias T. WALKER, was killed in action.
+
+The three remaining operators taken hostage underwent interrogation from RORKE, but we currently do not believe any national security was compromised.  Debrief of the three operators concluded that RORKE's intention was "...vendetta more than [intelligence gathering]".
+
+RORKE was presumed dead during the events of Operation: Return to Sender, but we have since learned he survived and has been working for the Federation, primarily targeting members of GHOST.
+"
+
+REFERENCE            vf_file_15_body
+LANG_ENGLISH         "CIA - OA1005382-2 (TS)  //  OPERATION: BLINDSLIDE
+
+ADVISE:  OPERATIONS ARE CURRENTLY UNDERWAY
+
+NORAD has approved an offensive strike against a satellite array (SATFARM) in the Atacama Desert of Chile.  The SATFARM is communicating with the Federation controlled satellite (CIA-IA699614202) in an attempt to coordinate kinetic strikes against the United States.
+
+At this time, mobilization of forces is already underway at Fort Santa Monica.  Additional coordination with SOCOM and utilization of GHOST requested.  However, due to recent flaws of operational security assets, it is unknown if they can be of assistance.
+"
+
+REFERENCE            vf_file_16_body
+LANG_ENGLISH         "CIA - OA1005382-3 (TS)  //  OPERATION: BLINDSLIDE
+
+LOKI / SATFARM CONNECTION
+The SATFARM communicates with FEDSAT to direct attacks, however the satellite is still capable of kinetic bombardment of areas without any assistance.  These attacks would deal catastrophic damage to targets, but without SATFARM's involvement, FEDSAT is firing blind.
+
+CONTINGENCY OPERATIONS
+A decommissioned space shuttle has been repurposed for a direct action mission aimed directly at FEDSAT.  NORAD currently has an assault team standing by for tasking, should the SATFARM operation prove successful.  With SATFARM disabled, FEDSAT will be vulnerable to attack, allowing us to put strike teams onboard the station itself.
+"
+
+REFERENCE            vf_file_17_body
+LANG_ENGLISH         "CIA - OA1005382-4 (TS)  // ENHANCEMENTS OVER ODIN
+
+Further developments from intel recovered from The Shop (see CIA-AP1-385717) show that the Federation Satellite (FEDSAT) is an upgraded, more streamlined enhancement of the original ODIN prototype.
+
+Enhancements from intelligence gathered at The Shop described below:
+- Tungsten rod variations
+The U.S. operated ODIN used only 6.1 x 0.3m tungsten cylinders as projectiles. FEDSAT is using various sized rods not exceeding those of ODIN.  This allows for impacts closer to allied forces without the fear of danger close fire.
+
+- Necklace configuration
+FEDSAT is using subsidiary firing platforms controlled by a central HUB satellite.  These platforms allow for a greater range of potential targets. Current intel suggests the United States and Allied European countries are at the highest risk.
+"
+
+REFERENCE            vf_file_18_body
+LANG_ENGLISH         "I am Gabriel Rorke.
+
+I have been trained by your Government to be a weapon.  Trained to kill and destroy.  All in the name of Liberty and Justice.  Even surrender my very life in service to your country.
+
+But I am not one of you. The "Just" have turned their backs and become deaf to your cries.  Who, then, will show them justice?  Who will show you the Liberty they have promised?  The weapon they have created will be their undoing.
+
+But do not fear this.  Do not fear me.  It is only natural.  Like the collapse of Rome, your cities will crumble and there will be great sorrow.  But from the ashes of this diseased metropolis, a rebirth will occur.  It will be paid for with blood and steel. Liberty must be restored. I am Gabriel Rorke, and I am here to show you the true meaning of justice."
+
+REFERENCE            vf_file_19_body
+LANG_ENGLISH         "Age: 51
+Rank: Captain, RET.
+Birthplace: San Diego, CA
+Callsign: Scarecrow
+
+Captain Walker is the acting commander of GHOST, and is also one of its oldest operators.  A career soldier, his 30+ years of service have been invaluable to the safety of the United States.
+
+His two sons, Logan and David "Hesh" Walker, are also active duty operators - performing S&R/Recon outside the wall.
+
+Captain Walker has been nominated for the Congressional Medal of Honor, multiple Silver and Bronze stars, but has declined to receive any, preferring anonymity."
+
+REFERENCE            vf_file_20_body
+LANG_ENGLISH         "Age: 28
+Rank: Lieutenant
+Birthplace: San Diego, CA
+
+David Walker ("HESH") is the oldest son of Captain Elias T. Walker, RET.  His brother, Logan Walker, also serves in the same Outside the Wall (OTW) Recon team.
+
+Lt. Walker has received numerous commendations for operations near the border zone, referred to as No Man's Land.  His superiors have called him a "...natural born leader."
+
+At this time, he is being considered as a top tier candidate for Task Force: STALKER."
+
+REFERENCE            vf_file_21_body
+LANG_ENGLISH         "Age: 41
+Rank: Captain
+Birthplace: Sacramento, CA
+
+Thomas A. Merrick ("MERRICK") joined the United States Navy at age 17, and quickly became one of the youngest recruits to ever complete SEAL training. He was later assigned to SEAL Team Two, deploying to the Middle East.
+
+He was one of fifteen survivors of an operation near the Iran border. He was later assigned to Task Force STALKER (GHOST), where he currently resides as team leader in the field.
+
+Merrick is the third generation of his family to serve with the U.S. Military.  His grandfather, Clyde E. Merrick, was killed in Normandy during Operation Neptune. His father, SSgt. Nicholas "Bull" Merrick, was killed in Fallujah."
+
+REFERENCE            vf_file_caption_01_01
+LANG_ENGLISH         "?${?f?????m?????8?????"
+
+REFERENCE            vf_file_caption_01_02
+LANG_ENGLISH         "?B????V}?????Yc???^???:"
+
+REFERENCE            vf_file_caption_01_03
+LANG_ENGLISH         "?FM*?*??J???;"
+
+REFERENCE            vf_file_caption_02_01
+LANG_ENGLISH         "?%??I??F??{????[q5?"
+
+REFERENCE            vf_file_caption_02_02
+LANG_ENGLISH         "?"?c??NY??????6^?M??"
+
+REFERENCE            vf_file_caption_02_03
+LANG_ENGLISH         "??	/|??????!??k90?5?"?"
+
+REFERENCE            vf_file_caption_03_01
+LANG_ENGLISH         "??FED_embassy_SD.PNG"
+
+REFERENCE            vf_file_caption_03_02
+LANG_ENGLISH         "??STALKER_Torch_POL.PNG"
+
+REFERENCE            vf_file_caption_03_03
+LANG_ENGLISH         "?0??Yk1,?7????N??aJ2"
+
+REFERENCE            vf_file_caption_04_01
+LANG_ENGLISH         "????????/?ej?2"
+
+REFERENCE            vf_file_caption_04_02
+LANG_ENGLISH         "?ZFED_int_tech.PNG"
+
+REFERENCE            vf_file_caption_04_03
+LANG_ENGLISH         "?^?+???????CN?????????"
+
+REFERENCE            vf_file_caption_05_01
+LANG_ENGLISH         "?sFederation_KMI.XIF"
+
+REFERENCE            vf_file_caption_05_02
+LANG_ENGLISH         "??q?a??
+?!q/r???e??g"
+
+REFERENCE            vf_file_caption_05_03
+LANG_ENGLISH         "?W?U?q4?+y7?~???s??@x"
+
+REFERENCE            vf_file_caption_06_01
+LANG_ENGLISH         "??d?"?????????"
+
+REFERENCE            vf_file_caption_06_02
+LANG_ENGLISH         "?H<e3??v0XZ??#????c??"
+
+REFERENCE            vf_file_caption_06_03
+LANG_ENGLISH         "?%2????6X??{??Z?Z,6????"
+
+REFERENCE            vf_file_caption_07_01
+LANG_ENGLISH         "?QNX???}???????????R?"
+
+REFERENCE            vf_file_caption_07_02
+LANG_ENGLISH         "??@?W??%)?@|??~)??"
+
+REFERENCE            vf_file_caption_07_03
+LANG_ENGLISH         "?quantum_farms.XIF"
+
+REFERENCE            vf_file_caption_08_01
+LANG_ENGLISH         "??T"????Y????}????\???"
+
+REFERENCE            vf_file_caption_08_02
+LANG_ENGLISH         "??S?	{?A???6??(?>N??G"
+
+REFERENCE            vf_file_caption_08_03
+LANG_ENGLISH         "??t??:???R??????5)M"
+
+REFERENCE            vf_file_caption_09_01
+LANG_ENGLISH         "????1aW???H????p?'"
+
+REFERENCE            vf_file_caption_09_02
+LANG_ENGLISH         "???c??uHhJ????
+?(?"
+
+REFERENCE            vf_file_caption_09_03
+LANG_ENGLISH         "??j??l????,?+???S?5??"
+
+REFERENCE            vf_file_caption_10_01
+LANG_ENGLISH         "??SG_cnews_contact.PNG"
+
+REFERENCE            vf_file_caption_10_02
+LANG_ENGLISH         "??watchlist_TASat.PNG"
+
+REFERENCE            vf_file_caption_10_03
+LANG_ENGLISH         "??;C?K?nW??:B@}??g*!?"
+
+REFERENCE            vf_file_caption_11_01
+LANG_ENGLISH         "??FED_fleet_carrier.jpg"
+
+REFERENCE            vf_file_caption_11_02
+LANG_ENGLISH         "?AFED_the_shop.XIF"
+
+REFERENCE            vf_file_caption_11_03
+LANG_ENGLISH         "?R!i=?_G+???A?_??(&?{5"
+
+REFERENCE            vf_file_caption_12_01
+LANG_ENGLISH         "?AEGIS_proto.jpg"
+
+REFERENCE            vf_file_caption_12_02
+LANG_ENGLISH         "?8?]??=a/Ig??????"
+
+REFERENCE            vf_file_caption_12_03
+LANG_ENGLISH         "?;u??	??S>????????"
+
+REFERENCE            vf_file_caption_13_01
+LANG_ENGLISH         "?L???9}???6?N????95??"
+
+REFERENCE            vf_file_caption_13_02
+LANG_ENGLISH         "?i??2???????s????:??\??"
+
+REFERENCE            vf_file_caption_13_03
+LANG_ENGLISH         "?m9?#?????}h
+??r?"
+
+REFERENCE            vf_file_caption_14_01
+LANG_ENGLISH         "???}i?(??"
+
+REFERENCE            vf_file_caption_14_02
+LANG_ENGLISH         "?=m????qwg?uH????"
+
+REFERENCE            vf_file_caption_14_03
+LANG_ENGLISH         "?=t???Ks????9X???R?"
+
+REFERENCE            vf_file_caption_15_01
+LANG_ENGLISH         "???'?W?2??NN?}?V?qS;"
+
+REFERENCE            vf_file_caption_15_02
+LANG_ENGLISH         "??Y??Q?????G7????"
+
+REFERENCE            vf_file_caption_15_03
+LANG_ENGLISH         "???u???????B?_pJ?K???H"
+
+REFERENCE            vf_file_caption_16_01
+LANG_ENGLISH         "?g?XG??????G???q???"
+
+REFERENCE            vf_file_caption_16_02
+LANG_ENGLISH         "???X:}???n???l?}?q??:"
+
+REFERENCE            vf_file_caption_16_03
+LANG_ENGLISH         "??FED_kinetic_strike.PNG"
+
+REFERENCE            vf_file_caption_17_01
+LANG_ENGLISH         "???h??"?M??6P>?"
+
+REFERENCE            vf_file_caption_17_02
+LANG_ENGLISH         "?z"???8????L?'?"
+
+REFERENCE            vf_file_caption_17_03
+LANG_ENGLISH         "?j?mcF?7??;???F????'"
+
+REFERENCE            vf_file_caption_18_01
+LANG_ENGLISH         "?/RORKE_gabriel.jpg"
+
+REFERENCE            vf_file_caption_18_02
+LANG_ENGLISH         "????;8??k?(1f!"
+
+REFERENCE            vf_file_caption_18_03
+LANG_ENGLISH         "???OKl??S?(?????F[#?"
+
+REFERENCE            vf_file_caption_19_01
+LANG_ENGLISH         "??????'??U ?[h??P?"
+
+REFERENCE            vf_file_caption_19_02
+LANG_ENGLISH         "??G?????/c???x?"
+
+REFERENCE            vf_file_caption_19_03
+LANG_ENGLISH         "???Pb?%???c?/???\S8?"
+
+REFERENCE            vf_file_caption_20_01
+LANG_ENGLISH         "?wD?-?s?&?;?7\???"
+
+REFERENCE            vf_file_caption_20_02
+LANG_ENGLISH         "???aL???(???=gC?"
+
+REFERENCE            vf_file_caption_20_03
+LANG_ENGLISH         "??hunting_woods.jpg"
+
+REFERENCE            vf_file_caption_21_01
+LANG_ENGLISH         "?YVZ_flood_aftermath.PNG"
+
+REFERENCE            vf_file_caption_21_02
+LANG_ENGLISH         "??K}n?????,s2?,??q???"
+
+REFERENCE            vf_file_caption_21_03
+LANG_ENGLISH         "?bMERRICK_Clyde_E.jpg"
+
+REFERENCE            vf_file_caption_title
+LANG_ENGLISH         "???R&*"
+
+REFERENCE            vf_file_id_num_12
+LANG_ENGLISH         "?3"
+
+REFERENCE            vf_location_caption_01_01
+LANG_ENGLISH         "??Rheinland-Pfalz, Germany"
+
+REFERENCE            vf_location_caption_01_02
+LANG_ENGLISH         "??qh?}@?T?%?"
+
+REFERENCE            vf_location_caption_01_03
+LANG_ENGLISH         "??SH-116A"
+
+REFERENCE            vf_location_caption_02_01
+LANG_ENGLISH         "?cU??R?h1????"
+
+REFERENCE            vf_location_caption_02_02
+LANG_ENGLISH         "?????(??+cY???
+"
+
+REFERENCE            vf_location_caption_02_03
+LANG_ENGLISH         "?NML"
+
+REFERENCE            vf_location_caption_03_01
+LANG_ENGLISH         "?????-??a4??6Y"
+
+REFERENCE            vf_location_caption_03_02
+LANG_ENGLISH         "???%?-?l"
+
+REFERENCE            vf_location_caption_03_03
+LANG_ENGLISH         "?????-??a4??6Y"
+
+REFERENCE            vf_location_caption_04_01
+LANG_ENGLISH         "????gO&????9?-S"
+
+REFERENCE            vf_location_caption_04_02
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_04_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_05_01
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_05_02
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_05_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_06_01
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_location_caption_06_02
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_location_caption_06_03
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_location_caption_07_01
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_location_caption_07_02
+LANG_ENGLISH         "????W1?z.:??R+??"
+
+REFERENCE            vf_location_caption_07_03
+LANG_ENGLISH         "????W1?z.:??R+??"
+
+REFERENCE            vf_location_caption_08_01
+LANG_ENGLISH         "?!oo:?????	?IH' ????"
+
+REFERENCE            vf_location_caption_08_02
+LANG_ENGLISH         "?!oo:?????	?IH' ????"
+
+REFERENCE            vf_location_caption_08_03
+LANG_ENGLISH         "?!oo:?????	?IH' ????"
+
+REFERENCE            vf_location_caption_09_01
+LANG_ENGLISH         "?????????5Z??"
+
+REFERENCE            vf_location_caption_09_02
+LANG_ENGLISH         "?????????5Z??"
+
+REFERENCE            vf_location_caption_09_03
+LANG_ENGLISH         "?????????5Z??"
+
+REFERENCE            vf_location_caption_10_01
+LANG_ENGLISH         "?K???????????J?cy?"
+
+REFERENCE            vf_location_caption_10_02
+LANG_ENGLISH         "?K???????????J?cy?"
+
+REFERENCE            vf_location_caption_10_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_11_01
+LANG_ENGLISH         "???]????j???l{"
+
+REFERENCE            vf_location_caption_11_02
+LANG_ENGLISH         "????W1?z.:??R+??"
+
+REFERENCE            vf_location_caption_11_03
+LANG_ENGLISH         "??Drake Passage"
+
+REFERENCE            vf_location_caption_12_01
+LANG_ENGLISH         "??5???,W?X@9??c"
+
+REFERENCE            vf_location_caption_12_02
+LANG_ENGLISH         "?ZY?jPXj?Py????e?0?"
+
+REFERENCE            vf_location_caption_12_03
+LANG_ENGLISH         "?0?+?K?{?K?/X?5+?-??"
+
+REFERENCE            vf_location_caption_13_01
+LANG_ENGLISH         "????T,9?z9?-?"
+
+REFERENCE            vf_location_caption_13_02
+LANG_ENGLISH         "????T,9?z9?-?"
+
+REFERENCE            vf_location_caption_13_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_14_01
+LANG_ENGLISH         "????gO&????9?-S"
+
+REFERENCE            vf_location_caption_14_02
+LANG_ENGLISH         "????gO&????9?-S"
+
+REFERENCE            vf_location_caption_14_03
+LANG_ENGLISH         "?????Y???e"
+
+REFERENCE            vf_location_caption_15_01
+LANG_ENGLISH         "?H???>k?X?C?c?"
+
+REFERENCE            vf_location_caption_15_02
+LANG_ENGLISH         "?????(??+cY???
+"
+
+REFERENCE            vf_location_caption_15_03
+LANG_ENGLISH         "?H???>k?X?C?c?"
+
+REFERENCE            vf_location_caption_16_01
+LANG_ENGLISH         "?H???>k?X?C?c?"
+
+REFERENCE            vf_location_caption_16_02
+LANG_ENGLISH         "?D????k@???-6?:?"
+
+REFERENCE            vf_location_caption_16_03
+LANG_ENGLISH         "?P??mZ????@??????91??"
+
+REFERENCE            vf_location_caption_17_01
+LANG_ENGLISH         "????T,9?z9?-?"
+
+REFERENCE            vf_location_caption_17_02
+LANG_ENGLISH         "????T,9?z9?-?"
+
+REFERENCE            vf_location_caption_17_03
+LANG_ENGLISH         "????T,9?z9?-?"
+
+REFERENCE            vf_location_caption_18_01
+LANG_ENGLISH         "???g(e{wA"?N?"
+
+REFERENCE            vf_location_caption_18_02
+LANG_ENGLISH         "?9Annapolis, MD"
+
+REFERENCE            vf_location_caption_18_03
+LANG_ENGLISH         "???!???m??"
+
+REFERENCE            vf_location_caption_19_01
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_19_02
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_19_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_20_01
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_20_02
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_20_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_location_caption_21_01
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_location_caption_21_02
+LANG_ENGLISH         "???'????!y?0?p??"
+
+REFERENCE            vf_location_caption_21_03
+LANG_ENGLISH         "?'{?k?s#^a@????+"
+
+REFERENCE            vf_location_caption_title
+LANG_ENGLISH         "?N???=r"
+
+REFERENCE            vf_menu_select_case1
+LANG_ENGLISH         "?c??B?????J=#v?@0?6????"
+
+REFERENCE            vf_menu_select_case2
+LANG_ENGLISH         "?g?P???dRb????cZ?@????V?"
+
+REFERENCE            vf_menu_select_case3
+LANG_ENGLISH         "???[A?b??0?B~??4@????"
+
+REFERENCE            vf_menu_select_case4
+LANG_ENGLISH         "?8CASE FILE: Thomas Merrick"
+
+REFERENCE            vf_menu_select_classified
+LANG_ENGLISH         "???!???m??"
+
+REFERENCE            vf_menu_select_doi
+LANG_ENGLISH         "??DEPARTMENT OF INTELLIGENCE"
+
+REFERENCE            vf_menu_select_warning
+LANG_ENGLISH         "????U7???9??+?@?86Z?X??{?"
+
+REFERENCE            vf_mission_name_01
+LANG_ENGLISH         "?)Ghost Stories"
+
+REFERENCE            vf_mission_name_02
+LANG_ENGLISH         "??!????+?]??#"
+
+REFERENCE            vf_mission_name_03
+LANG_ENGLISH         "????gO&????9?-S"
+
+REFERENCE            vf_mission_name_04
+LANG_ENGLISH         "? ??_V????_?"
+
+REFERENCE            vf_mission_name_05
+LANG_ENGLISH         "?2Homecoming"
+
+REFERENCE            vf_mission_name_06
+LANG_ENGLISH         "?A?+l?????-??????"
+
+REFERENCE            vf_mission_name_07
+LANG_ENGLISH         "?|???s?G?{`?j}?P"
+
+REFERENCE            vf_mission_name_08
+LANG_ENGLISH         "?!?N?n=3'??"
+
+REFERENCE            vf_mission_name_09
+LANG_ENGLISH         "??Q[??A}????"
+
+REFERENCE            vf_mission_name_10
+LANG_ENGLISH         "?
+????'?"
+
+REFERENCE            vf_mission_name_11
+LANG_ENGLISH         "??8???:?)<??"
+
+REFERENCE            vf_mission_name_12
+LANG_ENGLISH         "?9)?????????Y"
+
+REFERENCE            vf_mission_name_13
+LANG_ENGLISH         "???e???????!?4?h?"
+
+REFERENCE            vf_mission_name_14
+LANG_ENGLISH         "?}	5??hZ??"
+
+REFERENCE            vf_mission_name_15
+LANG_ENGLISH         "?`?R??tk????k?=7"
+
+REFERENCE            vf_mission_name_16
+LANG_ENGLISH         "????s0???!?/?"
+
+REFERENCE            vf_mission_name_17
+LANG_ENGLISH         "??x?/?"
+
+REFERENCE            vf_mission_name_18
+LANG_ENGLISH         "??5H?!?4???N??????"
+
+REFERENCE            vf_mission_name_19
+LANG_ENGLISH         "??mg ?????????{"
+
+REFERENCE            vf_mission_name_20
+LANG_ENGLISH         "?`?+fZ?i??d8"
+
+REFERENCE            vf_mission_name_21
+LANG_ENGLISH         "?1Q???,?@??N?Kl?"
+
+REFERENCE            vf_mission_title
+LANG_ENGLISH         "?	MISSION:"
+
+REFERENCE            vf_op_name_01
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_op_name_02
+LANG_ENGLISH         "?????(??+cY???
+"
+
+REFERENCE            vf_op_name_03
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_op_name_04
+LANG_ENGLISH         "???R?	??=??\??"
+
+REFERENCE            vf_op_name_05
+LANG_ENGLISH         "?md????s?X???K??X?"
+
+REFERENCE            vf_op_name_06
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_op_name_07
+LANG_ENGLISH         "?zhX9???+K"
+
+REFERENCE            vf_op_name_08
+LANG_ENGLISH         "???]????j???l{"
+
+REFERENCE            vf_op_name_09
+LANG_ENGLISH         "?[?W?G???7Z?n??"
+
+REFERENCE            vf_op_name_10
+LANG_ENGLISH         "????3J?-.???A?xH?y?"
+
+REFERENCE            vf_op_name_11
+LANG_ENGLISH         "??'??Y??n???V?s?,??Zl,"
+
+REFERENCE            vf_op_name_12
+LANG_ENGLISH         "??Atlantic Ocean, South America"
+
+REFERENCE            vf_op_name_13
+LANG_ENGLISH         "?\8O???&?Bi?i?????sq#??"
+
+REFERENCE            vf_op_name_14
+LANG_ENGLISH         "?????Y???e"
+
+REFERENCE            vf_op_name_15
+LANG_ENGLISH         "?? ???b???*?c?tW???+?Z????8"
+
+REFERENCE            vf_op_name_16
+LANG_ENGLISH         "??Atacama Desert, CL"
+
+REFERENCE            vf_op_name_17
+LANG_ENGLISH         "????T,9?z9?-?"
+
+REFERENCE            vf_op_name_18
+LANG_ENGLISH         "????+%?????_??P?p3;K?R"
+
+REFERENCE            vf_op_name_19
+LANG_ENGLISH         "??K?????&?1_C"
+
+REFERENCE            vf_op_name_20
+LANG_ENGLISH         "?H????G?????K(l??;+D???"
+
+REFERENCE            vf_op_name_21
+LANG_ENGLISH         "?Y?????p????????????Sy"
+
+REFERENCE            vf_op_title
+LANG_ENGLISH         "??
+?G???C_"
+
+REFERENCE            vf_percent_complete
+LANG_ENGLISH         "?)???(?*"
+
+REFERENCE            vf_profile_title
+LANG_ENGLISH         "?	AI?2Rb?G"
+
+REFERENCE            vf_rank_title
+LANG_ENGLISH         "?IEH_?"
+
+REFERENCE            view_map
+LANG_ENGLISH         "??Browse Maps"
+
+REFERENCE            view_map_desc
+LANG_ENGLISH         "?????_???????^???"
+
+REFERENCE            view_mission
+LANG_ENGLISH         "?	????+?K77??7n"
+
+REFERENCE            view_mission_desc
+LANG_ENGLISH         "?*??5W?8E??w??C?Dj;s?????"
+
+REFERENCE            view_op
+LANG_ENGLISH         "??p?????/w@?"
+
+REFERENCE            view_op_desc
+LANG_ENGLISH         "?6???w??{m?#??nq"
+
+REFERENCE            view_unlocked_tip
+LANG_ENGLISH         "?}$_8?????'???
+7?X?N??"??`(s?i?F
+"
+
+REFERENCE            waiting_for_host
+LANG_ENGLISH         "?r??;cJ??U?9`??2????????"
+
+REFERENCE            waves_survived_pre
+LANG_ENGLISH         "?>?P??????JY)??D"
+
+REFERENCE            x_additional_unlocked
+LANG_ENGLISH         "??F???~?)<? ??I??y/???T????+"
+
+REFERENCE            x_additional_unlocked_singular
+LANG_ENGLISH         "?h?"??3??+??r?A?	??}?2?>?
+?"
+
+REFERENCE            x_attachments_unlocked
+LANG_ENGLISH         "?"?Lb?(??lk+????7???+2"
+
+REFERENCE            x_attachments_unlocked_singular
+LANG_ENGLISH         "?1Vzy?<????]????
+7h?T"
+
+REFERENCE            x_player_perk_unlocked
+LANG_ENGLISH         "????????u?Z?;b???U?'??"
+
+REFERENCE            x_slash_y_xp
+LANG_ENGLISH         "?%1?yb?F??"
+
+REFERENCE            x_weapons_unlocked
+LANG_ENGLISH         "?]A??$?Aw??x??a?U`"
+
+REFERENCE            x_weapons_unlocked_singular
+LANG_ENGLISH         "?????u?{????????"
+
+REFERENCE            yard_title
+LANG_ENGLISH         "?5,?H?s?[?((f??h/???_???6A?K?[@;(s
+???`??"
+
+REFERENCE            yolo_desc
+LANG_ENGLISH         "? -??r????????\???u0??R8????.??P?]??"n*?K???S&"
+
+REFERENCE            you_lock_op_desc
+LANG_ENGLISH         "?KYou have not unlocked this Op. However, you can still earn XP and rank up."
+
+REFERENCE            your_level_n
+LANG_ENGLISH         "?J??e???a[?8z???"
+
+
+ENDMARKER

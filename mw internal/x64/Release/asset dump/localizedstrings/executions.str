@@ -1,0 +1,1061 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            alex_default
+LANG_ENGLISH         "???Rs"
+
+REFERENCE            alex_default_desc
+LANG_ENGLISH         "?6???Y??}???yH???"
+
+REFERENCE            alex_variant_1
+LANG_ENGLISH         "??j??+8??V?Y?"
+
+REFERENCE            alex_variant_1_desc
+LANG_ENGLISH         "?:
+??Y
+?)????D*?"
+
+REFERENCE            alice_default
+LANG_ENGLISH         "??
+??V?]?K????"
+
+REFERENCE            alice_default_desc
+LANG_ENGLISH         "?P?J4???Q??bQ}"QMh"
+
+REFERENCE            alice_variant_1
+LANG_ENGLISH         "?y??q??????1"
+
+REFERENCE            alice_variant_1_desc
+LANG_ENGLISH         "??-???os)?7I4Y?h???"
+
+REFERENCE            alice_variant_2
+LANG_ENGLISH         "???c?????+H?v"
+
+REFERENCE            azur_default
+LANG_ENGLISH         "??Disable and Kill"
+
+REFERENCE            azur_default_desc
+LANG_ENGLISH         "??0n?c??	?9s]%??"
+
+REFERENCE            azur_variant_1
+LANG_ENGLISH         "?a???????"
+
+REFERENCE            azur_variant_1_desc
+LANG_ENGLISH         "??AZUR_VARIANT_1_DESC"
+
+REFERENCE            azur_variant_2
+LANG_ENGLISH         "?B?6c@?'????'"
+
+REFERENCE            bale_default
+LANG_ENGLISH         "??	Y????B??F"
+
+REFERENCE            bale_default_desc
+LANG_ENGLISH         "???+????????!!?ss"
+
+REFERENCE            bale_variant_1
+LANG_ENGLISH         "?HCounterplay"
+
+REFERENCE            bale_variant_1_desc
+LANG_ENGLISH         "??~???O?q7f??!?u?"
+
+REFERENCE            bale_variant_2
+LANG_ENGLISH         "?f??r+:_4??"
+
+REFERENCE            charly_default
+LANG_ENGLISH         "??Baton Dispatch"
+
+REFERENCE            charly_default_desc
+LANG_ENGLISH         "??CHARLY_DEFAULT_DESC"
+
+REFERENCE            charly_variant_1
+LANG_ENGLISH         "?U?O??i??@8
+?"
+
+REFERENCE            charly_variant_1_desc
+LANG_ENGLISH         "??g?????!7-?Q)y7;?k?6?"
+
+REFERENCE            charly_variant_2
+LANG_ENGLISH         "?I$+??++7@??Y???7"
+
+REFERENCE            crowfoot_default
+LANG_ENGLISH         "?;	?3nj??e?"
+
+REFERENCE            crowfoot_default_desc
+LANG_ENGLISH         "?U?%?????*?"d??b??DTj4"
+
+REFERENCE            crowfoot_variant_1
+LANG_ENGLISH         "?`?=?d??????(?E?b"
+
+REFERENCE            crowfoot_variant_1_desc
+LANG_ENGLISH         "?n??????y.???y?I??/x"
+
+REFERENCE            dday_default
+LANG_ENGLISH         "??????+??Z:???"
+
+REFERENCE            dday_default_desc
+LANG_ENGLISH         "??????Y???1???;"
+
+REFERENCE            dday_variant_1
+LANG_ENGLISH         "?_j????M??????"
+
+REFERENCE            dday_variant_1_desc
+LANG_ENGLISH         "????c??o??d?A??(??"
+
+REFERENCE            dday_variant_2
+LANG_ENGLISH         "??9??o?2??T??(#gZ"
+
+REFERENCE            default
+LANG_ENGLISH         "??none"
+
+REFERENCE            default_eastern
+LANG_ENGLISH         "??47???P???"
+
+REFERENCE            default_western
+LANG_ENGLISH         "?????E??(??P,?:"
+
+REFERENCE            dingo_default
+LANG_ENGLISH         "?a)9??}?
+??"
+
+REFERENCE            dingo_default_desc
+LANG_ENGLISH         "?Wmp?|??CM?????8?7x"
+
+REFERENCE            dingo_variant_1
+LANG_ENGLISH         "?(DHo??-???=?h?"
+
+REFERENCE            dingo_variant_1_desc
+LANG_ENGLISH         "?i?4?Y??96)e?'??P?~"
+
+REFERENCE            domino_default
+LANG_ENGLISH         "??iG?W????)?|"j?????-"
+
+REFERENCE            domino_default_desc
+LANG_ENGLISH         "?W?w??!?????!???I[??"
+
+REFERENCE            domino_variant_1
+LANG_ENGLISH         "?u???h*?pP?v?E?"
+
+REFERENCE            domino_variant_1_desc
+LANG_ENGLISH         "??"???9?}?P?J?'E?L?M"
+
+REFERENCE            domino_variant_2
+LANG_ENGLISH         "?a:?????"??;?'"
+
+REFERENCE            execution
+LANG_ENGLISH         "??#Z???????j?;V"
+
+REFERENCE            execution_038r
+LANG_ENGLISH         "?3n?g?????:"
+
+REFERENCE            execution_058
+LANG_ENGLISH         "?3n?g?????:"
+
+REFERENCE            execution_086
+LANG_ENGLISH         "?c?w?s?Z??@$??"
+
+REFERENCE            execution_108
+LANG_ENGLISH         "?R	?#?????]"
+
+REFERENCE            execution_110
+LANG_ENGLISH         "??E?/????_G??"
+
+REFERENCE            execution_111
+LANG_ENGLISH         "?L?w?s?q??R M"
+
+REFERENCE            execution_146
+LANG_ENGLISH         "?{^8K??p??I??#F?????"
+
+REFERENCE            execution_173
+LANG_ENGLISH         "?
+Leap Shot"
+
+REFERENCE            execution_174
+LANG_ENGLISH         "??$Z?F????]s"
+
+REFERENCE            execution_204
+LANG_ENGLISH         "?QF?O??Rp?
+??"
+
+REFERENCE            farah_default
+LANG_ENGLISH         "??Lose By A Neck"
+
+REFERENCE            farah_default_desc
+LANG_ENGLISH         "?Oys??yip;????"
+
+REFERENCE            farah_variant_1
+LANG_ENGLISH         "?2P%
+???????'Q??"
+
+REFERENCE            farah_variant_1_desc
+LANG_ENGLISH         "?????K????9??D)?*?eg?"
+
+REFERENCE            ghost_default
+LANG_ENGLISH         "??
+Slideshot"
+
+REFERENCE            ghost_default_desc
+LANG_ENGLISH         "??GHOST_DEFAULT_DESC"
+
+REFERENCE            ghost_variant_1
+LANG_ENGLISH         "?vBelly Flop"
+
+REFERENCE            ghost_variant_1_desc
+LANG_ENGLISH         "?k?	=???(?R?9E?b?M"
+
+REFERENCE            golem_default
+LANG_ENGLISH         "?]?Z???K????V?????????"
+
+REFERENCE            golem_default_desc
+LANG_ENGLISH         "???G???He??-?+3??3?"
+
+REFERENCE            golem_variant_1
+LANG_ENGLISH         "??	??^???"
+
+REFERENCE            golem_variant_1_desc
+LANG_ENGLISH         "?f??????+????E}??????"
+
+REFERENCE            golem_variant_2
+LANG_ENGLISH         "?z&XK??E?)+??"
+
+REFERENCE            griggs_default
+LANG_ENGLISH         "?i???na??C"
+
+REFERENCE            griggs_default_desc
+LANG_ENGLISH         "??Y_?I?7???	s??]??"
+
+REFERENCE            grinch_default
+LANG_ENGLISH         "?HInfiltration"
+
+REFERENCE            grinch_default_desc
+LANG_ENGLISH         "??Po??q??Q3CUf???n"
+
+REFERENCE            grinch_variant_1
+LANG_ENGLISH         "?(?Oo}???U?"
+
+REFERENCE            grinch_variant_1_desc
+LANG_ENGLISH         "?$GRINCH_VARIANT_1_DESC"
+
+REFERENCE            grinch_variant_2
+LANG_ENGLISH         "????X?j4?s????"
+
+REFERENCE            hooper_default
+LANG_ENGLISH         "?u? qe???????9"
+
+REFERENCE            hooper_default_desc
+LANG_ENGLISH         "?}	??????DT#(U?*????4"
+
+REFERENCE            hooper_variant_1
+LANG_ENGLISH         "??!??%???)R'???"
+
+REFERENCE            hooper_variant_1_desc
+LANG_ENGLISH         "?e{????7?1{a5?A!x???"
+
+REFERENCE            iskra_default
+LANG_ENGLISH         "?Q??ktx*"
+
+REFERENCE            iskra_default_desc
+LANG_ENGLISH         "?dISKRA_DEFAULT_DESC"
+
+REFERENCE            iskra_variant_1
+LANG_ENGLISH         "???_?sn??
+?a?? ?"
+
+REFERENCE            iskra_variant_1_desc
+LANG_ENGLISH         "?oISKRA_VARIANT_1_DESC"
+
+REFERENCE            kato_default
+LANG_ENGLISH         "???+	}??????"
+
+REFERENCE            kato_default_desc
+LANG_ENGLISH         "??KATO_DEFAULT_DESC"
+
+REFERENCE            kato_variant_1
+LANG_ENGLISH         "?KATO_VARIANT_1"
+
+REFERENCE            kato_variant_1_desc
+LANG_ENGLISH         "??iQ????)R??Q}L?"?5?"
+
+REFERENCE            kreuger_default
+LANG_ENGLISH         "??
+Take Down"
+
+REFERENCE            kreuger_default_desc
+LANG_ENGLISH         "???????1?}???a?t???"
+
+REFERENCE            kreuger_variant_1
+LANG_ENGLISH         "?i!?nn?2?f3"
+
+REFERENCE            kreuger_variant_1_desc
+LANG_ENGLISH         "??-IQUT%}?)?????&??T?4"
+
+REFERENCE            kreuger_variant_2
+LANG_ENGLISH         "?Y???3V?5?Y?+?W"
+
+REFERENCE            kyle_default
+LANG_ENGLISH         "???o??P??=SB??K"
+
+REFERENCE            kyle_default_desc
+LANG_ENGLISH         "?kKYLE_DEFAULT_DESC"
+
+REFERENCE            lerch_default
+LANG_ENGLISH         "?CBrick by Brick"
+
+REFERENCE            lerch_default_desc
+LANG_ENGLISH         "??y??F???U?^MA?[??w"
+
+REFERENCE            lynch_default
+LANG_ENGLISH         "?	?a?)W`??W?I"
+
+REFERENCE            lynch_default_desc
+LANG_ENGLISH         "??1?'4!????U1*?D??"
+
+REFERENCE            lynch_variant_1
+LANG_ENGLISH         "?+?+9h??+P%)
+'?&"
+
+REFERENCE            lynch_variant_1_desc
+LANG_ENGLISH         "????~?w??????st???"
+
+REFERENCE            mghost_default
+LANG_ENGLISH         "?5??+????V??lY"
+
+REFERENCE            mghost_default_desc
+LANG_ENGLISH         "?9i??<????V??{ge?;w"
+
+REFERENCE            mghost_variant_1
+LANG_ENGLISH         "?I?X?c8e??W?"
+
+REFERENCE            mghost_variant_1_desc
+LANG_ENGLISH         "?cc???F?????????$??"
+
+REFERENCE            minotavr_default
+LANG_ENGLISH         "?!?l?4????"
+
+REFERENCE            minotavr_default_desc
+LANG_ENGLISH         "?8???????c?8??ho?"
+
+REFERENCE            minotavr_variant_1
+LANG_ENGLISH         "???O???c???P?"
+
+REFERENCE            minotavr_variant_1_desc
+LANG_ENGLISH         "??MINOTAVR_VARIANT_1_DESC"
+
+REFERENCE            minotavr_variant_2
+LANG_ENGLISH         "?w?????"
+
+REFERENCE            murphy_default
+LANG_ENGLISH         "??QX??v?W??E??"
+
+REFERENCE            murphy_default_desc
+LANG_ENGLISH         "?????bSF?$lmo=??@?yW"
+
+REFERENCE            murphy_variant_1
+LANG_ENGLISH         "?g??{"???ojB????h"
+
+REFERENCE            murphy_variant_1_desc
+LANG_ENGLISH         "?SUJ(V?+??)?r?????4"
+
+REFERENCE            murphy_variant_2
+LANG_ENGLISH         "??
+Icy Veins"
+
+REFERENCE            neck_stab
+LANG_ENGLISH         "??
+Neck Stab"
+
+REFERENCE            nikolai_default
+LANG_ENGLISH         "??Do The Spadework"
+
+REFERENCE            nikolai_default_desc
+LANG_ENGLISH         "?Q?)-??)}*?P???DQj"
+
+REFERENCE            otter_default
+LANG_ENGLISH         "?(??73??A??s(]WlA"
+
+REFERENCE            otter_default_desc
+LANG_ENGLISH         "?????)?T2
+???"??4"
+
+REFERENCE            otter_variant_1
+LANG_ENGLISH         "??H3?e??K??"
+
+REFERENCE            otter_variant_1_desc
+LANG_ENGLISH         "?6OTTER_VARIANT_1_DESC"
+
+REFERENCE            otter_variant_2
+LANG_ENGLISH         "?zR6?'+?[?9"
+
+REFERENCE            price_default
+LANG_ENGLISH         "?_????????????/"
+
+REFERENCE            price_default_desc
+LANG_ENGLISH         "?D????S	????S??W|??+"
+
+REFERENCE            price_variant_1
+LANG_ENGLISH         "????-????V?"
+
+REFERENCE            price_variant_1_desc
+LANG_ENGLISH         "??9???;Y3?????????7C?"
+
+REFERENCE            quin_default
+LANG_ENGLISH         "??????y?cw?y"
+
+REFERENCE            quin_default_desc
+LANG_ENGLISH         "??w?v??????1????"
+
+REFERENCE            quin_variant_1
+LANG_ENGLISH         "??QUIN_VARIANT_1"
+
+REFERENCE            quin_variant_1_desc
+LANG_ENGLISH         "??Y?A?o<5???????"
+
+REFERENCE            raines_default
+LANG_ENGLISH         "?\o?G?E??a???0?]"
+
+REFERENCE            raines_default_desc
+LANG_ENGLISH         "?RAINES_DEFAULT_DESC"
+
+REFERENCE            raines_variant_1
+LANG_ENGLISH         "??Martial Law"
+
+REFERENCE            raines_variant_1_desc
+LANG_ENGLISH         "??Qy???n7?????Cb?"
+
+REFERENCE            raines_variant_2
+LANG_ENGLISH         "??	4????`c"
+
+REFERENCE            rodion_default
+LANG_ENGLISH         "?"??-?{]?:Y"
+
+REFERENCE            rodion_default_desc
+LANG_ENGLISH         "????"????*???Q?h"
+
+REFERENCE            rodion_variant_1
+LANG_ENGLISH         "?	Q?????w"
+
+REFERENCE            rodion_variant_1_desc
+LANG_ENGLISH         "?cRODION_VARIANT_1_DESC"
+
+REFERENCE            rodion_variant_2
+LANG_ENGLISH         "?+?c?@J??@??"
+
+REFERENCE            ronin_default
+LANG_ENGLISH         "?k??r%:??1a?]"
+
+REFERENCE            ronin_default_desc
+LANG_ENGLISH         "?????%r???2
+?1??"?5?"
+
+REFERENCE            ronin_variant_1
+LANG_ENGLISH         "????r??????R'???"
+
+REFERENCE            ronin_variant_1_desc
+LANG_ENGLISH         "??)???-Y3?????????7C?"
+
+REFERENCE            soap_default
+LANG_ENGLISH         "?
+??s????Y7"
+
+REFERENCE            soap_default_desc
+LANG_ENGLISH         "??l'?Y???????E?8"
+
+REFERENCE            sparks_default
+LANG_ENGLISH         "?{P?s?2??*?????Y"
+
+REFERENCE            sparks_default_desc
+LANG_ENGLISH         "???9;"??????/}??D`??"
+
+REFERENCE            spetsnaz_default
+LANG_ENGLISH         "?UP?9??"
+
+REFERENCE            spetsnaz_default_desc
+LANG_ENGLISH         "?ljT??'(???????*?DQ5?"
+
+REFERENCE            spetsnaz_variant_1
+LANG_ENGLISH         "??_????F^^??q??@[??V"
+
+REFERENCE            spetsnaz_variant_1_desc
+LANG_ENGLISH         "???_yy`?SO??1A?$??Q????"
+
+REFERENCE            spetsnaz_variant_2
+LANG_ENGLISH         "????Q??(???(I?('*?d"
+
+REFERENCE            stohli_default
+LANG_ENGLISH         "?+??=	?)?T?
+??"
+
+REFERENCE            stohli_default_desc
+LANG_ENGLISH         "??_??aA????q?a???"
+
+REFERENCE            stohli_variant_1
+LANG_ENGLISH         "?"?\?xSh[??{?N???"
+
+REFERENCE            stohli_variant_1_desc
+LANG_ENGLISH         "?(M??!?%?e(JJ
+??}L?"Q??"
+
+REFERENCE            syd_default
+LANG_ENGLISH         "??
+2??6(,^"
+
+REFERENCE            syd_default_desc
+LANG_ENGLISH         "??SYD_DEFAULT_DESC"
+
+REFERENCE            syd_variant_1
+LANG_ENGLISH         "?/m#?Vh?n?OR"
+
+REFERENCE            syd_variant_1_desc
+LANG_ENGLISH         "??f??w??????f??w???"
+
+REFERENCE            syd_variant_2
+LANG_ENGLISH         "?Precision Point"
+
+REFERENCE            t9_execution_001
+LANG_ENGLISH         "?2Helping Hand"
+
+REFERENCE            t9_execution_002
+LANG_ENGLISH         "???o??I?)X{??"
+
+REFERENCE            t9_execution_003
+LANG_ENGLISH         "?
+Cap & Tap"
+
+REFERENCE            t9_execution_004
+LANG_ENGLISH         "??Sneak Attack??"
+
+REFERENCE            t9_execution_004_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            t9_execution_005
+LANG_ENGLISH         "?Throat Cut"
+
+REFERENCE            t9_execution_007
+LANG_ENGLISH         "???U??C?????ty"
+
+REFERENCE            t9_execution_009
+LANG_ENGLISH         "?hHeart Ache"
+
+REFERENCE            t9_execution_010
+LANG_ENGLISH         "??G??N'p9+4?RR?7k[s?"
+
+REFERENCE            t9_execution_013
+LANG_ENGLISH         "?qRearranged Thoughts"
+
+REFERENCE            t9_execution_014
+LANG_ENGLISH         "??}???5??0?"
+
+REFERENCE            t9_execution_015
+LANG_ENGLISH         "??Maim & Tame"
+
+REFERENCE            t9_execution_016
+LANG_ENGLISH         "???C?[????w????"
+
+REFERENCE            t9_execution_017
+LANG_ENGLISH         "??  ????%}0&pw:1"
+
+REFERENCE            t9_execution_018
+LANG_ENGLISH         "??		?l?@R??"
+
+REFERENCE            t9_execution_020
+LANG_ENGLISH         "?2??sGZ?9??7??C+?"
+
+REFERENCE            t9_execution_021
+LANG_ENGLISH         "??{s
+?((?.~??"
+
+REFERENCE            t9_execution_022
+LANG_ENGLISH         "?J??[?????Y?&??"
+
+REFERENCE            t9_execution_023
+LANG_ENGLISH         "??	???C??cZ2?"
+
+REFERENCE            t9_execution_024
+LANG_ENGLISH         "??1?O??
+??{:"
+
+REFERENCE            t9_execution_025
+LANG_ENGLISH         "?
+??~????+"
+
+REFERENCE            t9_execution_026
+LANG_ENGLISH         "??????@U8"
+
+REFERENCE            t9_execution_027
+LANG_ENGLISH         "?XTactical Roll"
+
+REFERENCE            t9_execution_029
+LANG_ENGLISH         "??
+0X?G?K??"
+
+REFERENCE            t9_execution_030
+LANG_ENGLISH         "??Stomping Ground"
+
+REFERENCE            t9_execution_031
+LANG_ENGLISH         "??	???????"
+
+REFERENCE            t9_execution_032
+LANG_ENGLISH         "?"?????p??m?0k?"
+
+REFERENCE            t9_execution_033
+LANG_ENGLISH         "??J?(P???2kY??"
+
+REFERENCE            t9_execution_036
+LANG_ENGLISH         "??`?F???|i?bF??"
+
+REFERENCE            t9_execution_037
+LANG_ENGLISH         "?\?????P?w?"
+
+REFERENCE            t9_execution_037r
+LANG_ENGLISH         "?R"A!??/<?dd?G?"AIXX?????eL[?y??'"
+
+REFERENCE            t9_execution_038
+LANG_ENGLISH         "?0M??3?-?"
+
+REFERENCE            t9_execution_038r
+LANG_ENGLISH         "?3n?g?????:"
+
+REFERENCE            t9_execution_039bc
+LANG_ENGLISH         "???m_?9???oD"
+
+REFERENCE            t9_execution_043
+LANG_ENGLISH         "???s?Y??'?Z?v?"
+
+REFERENCE            t9_execution_048
+LANG_ENGLISH         "?L?R?+i~@??O"
+
+REFERENCE            t9_execution_051
+LANG_ENGLISH         "?d?6?3?
+l4???V7"
+
+REFERENCE            t9_execution_052
+LANG_ENGLISH         "?\?C??U8"
+
+REFERENCE            t9_execution_058
+LANG_ENGLISH         "?3n?g?????:"
+
+REFERENCE            t9_execution_059
+LANG_ENGLISH         "?r???G??????"
+
+REFERENCE            t9_execution_061
+LANG_ENGLISH         "? EXECUTION_061 placeholder"
+
+REFERENCE            t9_execution_062
+LANG_ENGLISH         "?[Y??+?s???@&V?7"
+
+REFERENCE            t9_execution_064
+LANG_ENGLISH         "??$?m???(??"
+
+REFERENCE            t9_execution_066
+LANG_ENGLISH         "????Z?"?K???"
+
+REFERENCE            t9_execution_067
+LANG_ENGLISH         "?"Placeholder 067"
+
+REFERENCE            t9_execution_084
+LANG_ENGLISH         "??h?L???k??'"
+
+REFERENCE            t9_execution_086
+LANG_ENGLISH         "?c?w?s?Z??@$??"
+
+REFERENCE            t9_execution_099
+LANG_ENGLISH         "???i0?`u?????|??"
+
+REFERENCE            t9_execution_100
+LANG_ENGLISH         "?dDangerous Approach"
+
+REFERENCE            t9_execution_101
+LANG_ENGLISH         "??	???B?u?"
+
+REFERENCE            t9_execution_108
+LANG_ENGLISH         "?R	?#?????]"
+
+REFERENCE            t9_execution_110
+LANG_ENGLISH         "??E?/????_G??"
+
+REFERENCE            t9_execution_111
+LANG_ENGLISH         "?L?w?s?q??R M"
+
+REFERENCE            t9_execution_112
+LANG_ENGLISH         "?bb?E"????8u?"
+
+REFERENCE            t9_execution_113
+LANG_ENGLISH         "??^h?)?!XXk"
+
+REFERENCE            t9_execution_117
+LANG_ENGLISH         "??????,?V?:"
+
+REFERENCE            t9_execution_118
+LANG_ENGLISH         "???p?????*}"
+
+REFERENCE            t9_execution_119
+LANG_ENGLISH         "?"(c?C{#?N@???"
+
+REFERENCE            t9_execution_120
+LANG_ENGLISH         "??Throat Chop"
+
+REFERENCE            t9_execution_121
+LANG_ENGLISH         "?GU???????????+????"
+
+REFERENCE            t9_execution_123
+LANG_ENGLISH         "???a???@?7n?;{"
+
+REFERENCE            t9_execution_124
+LANG_ENGLISH         "????????Y?=V"
+
+REFERENCE            t9_execution_125
+LANG_ENGLISH         "??Victim Inflicted"
+
+REFERENCE            t9_execution_126
+LANG_ENGLISH         "??o7r??????W8????"
+
+REFERENCE            t9_execution_127
+LANG_ENGLISH         "?:
+J?3??(?"
+
+REFERENCE            t9_execution_129
+LANG_ENGLISH         "???(?F?QC?"
+
+REFERENCE            t9_execution_13
+LANG_ENGLISH         "?qRearranged Thoughts"
+
+REFERENCE            t9_execution_130
+LANG_ENGLISH         "?tBow Breaker"
+
+REFERENCE            t9_execution_132
+LANG_ENGLISH         "?f?Bke?Z??c?;?"
+
+REFERENCE            t9_execution_133
+LANG_ENGLISH         "??^h?)?!XXk"
+
+REFERENCE            t9_execution_134
+LANG_ENGLISH         "???????"
+
+REFERENCE            t9_execution_135
+LANG_ENGLISH         "?M????%??"
+
+REFERENCE            t9_execution_136
+LANG_ENGLISH         "???S?r???
+??"
+
+REFERENCE            t9_execution_137
+LANG_ENGLISH         "??
+?9???&k??"
+
+REFERENCE            t9_execution_138
+LANG_ENGLISH         "??Splitting Hairs"
+
+REFERENCE            t9_execution_139
+LANG_ENGLISH         "?
+)????4??"
+
+REFERENCE            t9_execution_140
+LANG_ENGLISH         "?"Placeholder 140"
+
+REFERENCE            t9_execution_146
+LANG_ENGLISH         "?{^8K??p??I??#F?????"
+
+REFERENCE            t9_execution_147
+LANG_ENGLISH         "??v??`;?p(?b????"
+
+REFERENCE            t9_execution_148
+LANG_ENGLISH         "???X???G?:?-s?"
+
+REFERENCE            t9_execution_150
+LANG_ENGLISH         "?|?[[?????+'?WG"
+
+REFERENCE            t9_execution_158
+LANG_ENGLISH         "???U?+??????X?M?_"
+
+REFERENCE            t9_execution_159
+LANG_ENGLISH         "??Twisted Reverse"
+
+REFERENCE            t9_execution_173
+LANG_ENGLISH         "?
+Leap Shot"
+
+REFERENCE            t9_execution_174
+LANG_ENGLISH         "??$Z?F????]s"
+
+REFERENCE            t9_execution_201
+LANG_ENGLISH         "??(?F??/oQ"
+
+REFERENCE            t9_execution_201_desc
+LANG_ENGLISH         "??y??kg??	??>3#?@?.L6)1?"
+
+REFERENCE            t9_execution_202
+LANG_ENGLISH         "??Plague Hound"
+
+REFERENCE            t9_execution_203
+LANG_ENGLISH         "?!K?#{3????"
+
+REFERENCE            t9_execution_204
+LANG_ENGLISH         "?QF?O??Rp?
+??"
+
+REFERENCE            t9_execution_205
+LANG_ENGLISH         "?dKomodo Dragon"
+
+REFERENCE            t9_execution_32
+LANG_ENGLISH         "?"
+
+REFERENCE            t9_execution_62
+LANG_ENGLISH         "?[Y??+?s???@&V?7"
+
+REFERENCE            t9kgb_default
+LANG_ENGLISH         "??VTS_TEST_EXECUTION"
+
+REFERENCE            throat_cut
+LANG_ENGLISH         "?Throat Cut"
+
+REFERENCE            trigg_default
+LANG_ENGLISH         "??TRIGG_DEFAULT"
+
+REFERENCE            trigg_default_desc
+LANG_ENGLISH         "?6TRIGG_DEFAULT_DESC"
+
+REFERENCE            trigg_variant_1
+LANG_ENGLISH         "??Q?h\9W?=WtqIm??"
+
+REFERENCE            trigg_variant_1_desc
+LANG_ENGLISH         "?8???t?}YP)??'????????"
+
+REFERENCE            universal_variant_01
+LANG_ENGLISH         "?)??V?j???+?"
+
+REFERENCE            universal_variant_01_desc
+LANG_ENGLISH         "?UNIVERSAL_VARIANT_01_DESC"
+
+REFERENCE            universal_variant_02
+LANG_ENGLISH         "?k	Low Rise"
+
+REFERENCE            universal_variant_02_desc
+LANG_ENGLISH         "????wKR???{{O7a?37??Q?"
+
+REFERENCE            universal_variant_03
+LANG_ENGLISH         "??Gutted"
+
+REFERENCE            universal_variant_03_desc
+LANG_ENGLISH         "?l9p?55??????E??y??27?k?"
+
+REFERENCE            universal_variant_04
+LANG_ENGLISH         "?
+Perforate"
+
+REFERENCE            universal_variant_04_desc
+LANG_ENGLISH         "??k?qn`?'+?,????U?N??u?g"
+
+REFERENCE            universal_variant_05
+LANG_ENGLISH         "?SRiley"
+
+REFERENCE            universal_variant_05_desc
+LANG_ENGLISH         "??UNIVERSAL_VARIANT_05_DESC"
+
+REFERENCE            universal_variant_06
+LANG_ENGLISH         "????pCPH?"
+
+REFERENCE            universal_variant_06_desc
+LANG_ENGLISH         "??H???
+???avwP?????!???"
+
+REFERENCE            universal_variant_07
+LANG_ENGLISH         "??????:?<"????"
+
+REFERENCE            universal_variant_07_desc
+LANG_ENGLISH         "??U?R?Q??&??)??9*???}DMh"
+
+REFERENCE            universal_variant_08
+LANG_ENGLISH         "?Spin Cycle"
+
+REFERENCE            universal_variant_08_desc
+LANG_ENGLISH         "?hU?%?QJ?(??+%J??}?????jh"
+
+REFERENCE            universal_variant_09
+LANG_ENGLISH         "?APew Pew Pew"
+
+REFERENCE            universal_variant_09_desc
+LANG_ENGLISH         "??9p?55??????E??y??2#?k?"
+
+REFERENCE            universal_variant_10
+LANG_ENGLISH         "??e7???????S}"
+
+REFERENCE            universal_variant_10_desc
+LANG_ENGLISH         "??q_??:|{?????Q?"
+
+REFERENCE            universal_variant_11
+LANG_ENGLISH         "??U9%?*J5P&??
+)J
+9???"
+
+REFERENCE            universal_variant_11_desc
+LANG_ENGLISH         "?g% ??????]??????9?"
+
+REFERENCE            universal_variant_12
+LANG_ENGLISH         "?@
+??k9??@P"
+
+REFERENCE            universal_variant_12_desc
+LANG_ENGLISH         "??UNIVERSAL_VARIANT_12_DESC"
+
+REFERENCE            universal_variant_13
+LANG_ENGLISH         "?A???,??"
+
+REFERENCE            universal_variant_13_desc
+LANG_ENGLISH         "?U?Je??jP1??
+I%??Q?b??????"
+
+REFERENCE            universal_variant_14
+LANG_ENGLISH         "?$???)7?4??'+?"
+
+REFERENCE            universal_variant_14_desc
+LANG_ENGLISH         "?pU?%?QJ?(??+%J??}?????jh"
+
+REFERENCE            universal_variant_15
+LANG_ENGLISH         "?|
+Chip Shot"
+
+REFERENCE            universal_variant_15_desc
+LANG_ENGLISH         "?UNIVERSAL_VARIANT_15_DESC"
+
+REFERENCE            universal_variant_16
+LANG_ENGLISH         "?????YQI?(???(J%(r??b?"
+
+REFERENCE            universal_variant_16_desc
+LANG_ENGLISH         "?.U9??Q??(b?e??(??}???"T??"
+
+REFERENCE            universal_variant_17
+LANG_ENGLISH         "?n?Xv?T?"
+
+REFERENCE            universal_variant_17_desc
+LANG_ENGLISH         "??7??9?'-??a1?{??w/??Y???"
+
+REFERENCE            universal_variant_18
+LANG_ENGLISH         "??
+Sasquatch"
+
+REFERENCE            universal_variant_18_desc
+LANG_ENGLISH         "??)`?%%???????u?????b1?{?>"
+
+REFERENCE            universal_variant_19
+LANG_ENGLISH         "?!Sputnik"
+
+REFERENCE            universal_variant_19_desc
+LANG_ENGLISH         "???'R?*%??????
+?E??N}?T5?"
+
+REFERENCE            universal_variant_20
+LANG_ENGLISH         "?Y5?,?]"
+
+REFERENCE            universal_variant_20_desc
+LANG_ENGLISH         "???\????'C?t@q?z?1??g"
+
+REFERENCE            universal_variant_21
+LANG_ENGLISH         "?d
+Nevermore"
+
+REFERENCE            universal_variant_22
+LANG_ENGLISH         "??Tuco"
+
+REFERENCE            universal_variant_23
+LANG_ENGLISH         "?k
+Hellhound"
+
+REFERENCE            universal_variant_24
+LANG_ENGLISH         "?;Edward"
+
+REFERENCE            universal_variant_25
+LANG_ENGLISH         "???x"
+
+REFERENCE            universal_variant_25_desc
+LANG_ENGLISH         "??UNIVERSAL_VARIANT_25_DESC"
+
+REFERENCE            universal_variant_26
+LANG_ENGLISH         "????%+T)?(???JPr??F?"
+
+REFERENCE            universal_variant_26_desc
+LANG_ENGLISH         "?1?')???M?b?e??P?*???????"
+
+REFERENCE            velikan_default
+LANG_ENGLISH         "?G1?LS?'????"
+
+REFERENCE            velikan_default_desc
+LANG_ENGLISH         "??g?????/??a?c??@ON"
+
+REFERENCE            wyatt_default
+LANG_ENGLISH         "?}?7??ij?&?????"
+
+REFERENCE            wyatt_default_desc
+LANG_ENGLISH         "??+?EQ?"*2??}M"
+
+REFERENCE            wyatt_variant_1
+LANG_ENGLISH         "???????1?!"
+
+REFERENCE            wyatt_variant_1_desc
+LANG_ENGLISH         "????g??)u??c??C?????"
+
+REFERENCE            wyatt_variant_2
+LANG_ENGLISH         "?~Mighty Chop"
+
+REFERENCE            yegor_default
+LANG_ENGLISH         "??	??LcV?F????"
+
+REFERENCE            yegor_default_desc
+LANG_ENGLISH         "?'??:???Q?(?bE?*M?"
+
+REFERENCE            yegor_variant_1
+LANG_ENGLISH         "????X7n??:?6?"
+
+REFERENCE            yegor_variant_1_desc
+LANG_ENGLISH         "?????)a?+???]O??xW?"
+
+REFERENCE            yegor_variant_2
+LANG_ENGLISH         "?2
+Leg Sweep"
+
+REFERENCE            yolandi_default
+LANG_ENGLISH         "?:?U?????!??gy??"
+
+REFERENCE            yolandi_default_desc
+LANG_ENGLISH         "??YOLANDI_DEFAULT_DESC"
+
+REFERENCE            yolandi_variant_1
+LANG_ENGLISH         "?gV?1
+??J??P)%r??L"
+
+REFERENCE            yolandi_variant_1_desc
+LANG_ENGLISH         "?Gc???E?pA???5l??7k%f"
+
+REFERENCE            zane_default
+LANG_ENGLISH         "??
+7?????"
+
+REFERENCE            zane_default_desc
+LANG_ENGLISH         "????0[&??????78???"
+
+REFERENCE            zane_variant_1
+LANG_ENGLISH         "??r???I<?2'L??"
+
+REFERENCE            zane_variant_1_desc
+LANG_ENGLISH         "?!ZANE_VARIANT_1_DESC"
+
+REFERENCE            zane_variant_2
+LANG_ENGLISH         "?z
+?B?q???{n"
+
+REFERENCE            zedra_default
+LANG_ENGLISH         "???pP3?????"
+
+REFERENCE            zedra_default_desc
+LANG_ENGLISH         "??KTJP?"????1Q?D??4"
+
+REFERENCE            zedra_variant_1
+LANG_ENGLISH         "?;?+????!"
+
+REFERENCE            zedra_variant_1_desc
+LANG_ENGLISH         "??q????????,Y)?	h??"
+
+REFERENCE            zedra_variant_2
+LANG_ENGLISH         "?uW?Y??3?8,F??"
+
+
+ENDMARKER

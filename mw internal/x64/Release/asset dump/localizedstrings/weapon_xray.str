@@ -1,0 +1,510 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            7_62_25_mm
+LANG_ENGLISH         "?b
+????????["
+
+REFERENCE            ar_fasthandling_v5
+LANG_ENGLISH         "?HTree Trunk"
+
+REFERENCE            ar_t9accurate_v17
+LANG_ENGLISH         "??
+Go Getter"
+
+REFERENCE            ar_t9accurate_v18
+LANG_ENGLISH         "??Confrontation"
+
+REFERENCE            ar_t9accurate_v19
+LANG_ENGLISH         "?Kilowhopper"
+
+REFERENCE            ar_t9accurate_v20
+LANG_ENGLISH         "??Coyote Valley"
+
+REFERENCE            ar_t9accurate_v21
+LANG_ENGLISH         "??73????`Y??"
+
+REFERENCE            ar_t9accurate_v22
+LANG_ENGLISH         "??Beach Vibes"
+
+REFERENCE            ar_t9accurate_v26
+LANG_ENGLISH         "??Viperstrike"
+
+REFERENCE            ar_t9damage_v18
+LANG_ENGLISH         "??6?
+????"
+
+REFERENCE            ar_t9damage_v19
+LANG_ENGLISH         "?~Cursed Angel"
+
+REFERENCE            ar_t9fastburst
+LANG_ENGLISH         "?QJeq"
+
+REFERENCE            ar_t9fastburst_desc
+LANG_ENGLISH         "??|????:???+@?X?????9???V?j??Y',?????+???+??K??Kk?????2?f?'Y??V???Y?-c??:???\??3?Y6G??+?G??K??:???????,7??"
+
+REFERENCE            ar_t9fastburst_v2
+LANG_ENGLISH         "?~Konsole"
+
+REFERENCE            ar_t9fastfire_v16
+LANG_ENGLISH         "??Dive Bomber"
+
+REFERENCE            ar_t9fastfire_v17
+LANG_ENGLISH         "?E
+Fast Leak"
+
+REFERENCE            ar_t9fastfire_v18
+LANG_ENGLISH         "??Trauma Team"
+
+REFERENCE            ar_t9fastfire_v19
+LANG_ENGLISH         "??
+Auto Toon"
+
+REFERENCE            ar_t9fastfire_v20
+LANG_ENGLISH         "?B??Z?@??????r"
+
+REFERENCE            ar_t9fastfire_v21
+LANG_ENGLISH         "?&	Shredder"
+
+REFERENCE            ar_t9fasthandling_v5
+LANG_ENGLISH         "?HTree Trunk"
+
+REFERENCE            ar_t9fasthandling_v6
+LANG_ENGLISH         "??
+Clap Back"
+
+REFERENCE            ar_t9longburst_v2
+LANG_ENGLISH         "??AR_T9LONGBURST_V2"
+
+REFERENCE            ar_t9longburst_v22
+LANG_ENGLISH         "??Dune Jackal"
+
+REFERENCE            ar_t9longburst_v23
+LANG_ENGLISH         "?`%?????"
+
+REFERENCE            ar_t9longburst_v24
+LANG_ENGLISH         "?6
+7O???&?"
+
+REFERENCE            ar_t9longburst_v25
+LANG_ENGLISH         "??
+Incubator"
+
+REFERENCE            ar_t9mobility_v16
+LANG_ENGLISH         "??
+Camcorder"
+
+REFERENCE            ar_t9mobility_v17
+LANG_ENGLISH         "??Racecar"
+
+REFERENCE            ar_t9mobility_v18
+LANG_ENGLISH         "?@Artifact Alloy"
+
+REFERENCE            ar_t9mobility_v19
+LANG_ENGLISH         "??????]?QcZ:?"
+
+REFERENCE            ar_t9mobility_v20
+LANG_ENGLISH         "?7????C2?????="
+
+REFERENCE            ar_t9mobility_v21
+LANG_ENGLISH         "??Natural Wonder"
+
+REFERENCE            ar_t9slowhandling_v4
+LANG_ENGLISH         "?)Counter Offer"
+
+REFERENCE            ar_t9standard_v19
+LANG_ENGLISH         "?\	Vex Lord"
+
+REFERENCE            ar_t9standard_v20
+LANG_ENGLISH         "??Lasting Impression"
+
+REFERENCE            ar_t9standard_v21
+LANG_ENGLISH         "?Y
+Kingmaker"
+
+REFERENCE            ar_t9standard_v22
+LANG_ENGLISH         "??i ???0?<<?b?6"
+
+REFERENCE            barrel2_ar_t9fastburst
+LANG_ENGLISH         "?	?q??QZ,7KW?"
+
+REFERENCE            barrel2_sm_t9spray
+LANG_ENGLISH         "?P14.9" Ranger"
+
+REFERENCE            barrel2_sn_t9accurate
+LANG_ENGLISH         "??24.9" Combat Recon"
+
+REFERENCE            barrel_ar_t9fastburst
+LANG_ENGLISH         "??L???"I,???@?KNV"
+
+REFERENCE            barrel_sm_t9spray
+LANG_ENGLISH         "?N??}j?j??[?{???"
+
+REFERENCE            barrel_sn_t9accurate
+LANG_ENGLISH         "?U#C\?"Q<?7??"
+
+REFERENCE            extclip2_sm_t9spray
+LANG_ENGLISH         "?Z?+w?[?!z_o?i??????3"
+
+REFERENCE            extclip2_sm_t9spray_desc
+LANG_ENGLISH         "?1BdJ??S???as?????[A???XC??oz?u?T
+/?????b?`??n??F???Ph?x?JEh"
+
+REFERENCE            extclip2_sn_t9accurate
+LANG_ENGLISH         "????P?(:@??)?F"
+
+REFERENCE            extclip2_sn_t9accurate_desc
+LANG_ENGLISH         "?$9High-capacity magazine holds ^29 rounds^7 of ammunition."
+
+REFERENCE            extclip_sm_t9spray
+LANG_ENGLISH         "?6C?b????A%??"
+
+REFERENCE            extclip_sm_t9spray_desc
+LANG_ENGLISH         "??D?]?k?;?=??+@2Y7?vsV????7??????s???s7\h???XZ??y#SS????#????"
+
+REFERENCE            extclip_sn_t9accurate
+LANG_ENGLISH         "????95#"
+
+REFERENCE            extclip_sn_t9accurate_desc
+LANG_ENGLISH         "?4?<???#?2???=Z???????@?F?@9??72?y????X[kW???Z??\"
+
+REFERENCE            fastmag2_sn_t9accurate_desc
+LANG_ENGLISH         "??DLightweight magazine with an extended base to improve reload speed."
+
+REFERENCE            fastmag_sm_t9spray_desc
+LANG_ENGLISH         "?BSm???3:@?c?@?{???4??:?@k?;?=??V???[??????V??????"
+
+REFERENCE            fastmag_sn_t9accurate_desc
+LANG_ENGLISH         "?H???C????v:??;XOZ?Y?????,???7^?{@?N-?L?V??-?'{????c?X??????q"
+
+REFERENCE            grip2_sm_t9spray_desc
+LANG_ENGLISH         "??3j4?'???{+???'???Z@??9Z???;?F'+?{?????:'?6q"
+
+REFERENCE            heavy2_ar_t9fastburst
+LANG_ENGLISH         "?23.6" Match Grade"
+
+REFERENCE            heavy2_sm_t9spray
+LANG_ENGLISH         "?;??qN???-3?+#"
+
+REFERENCE            heavy2_sn_t9accurate
+LANG_ENGLISH         "??L\C?U??6?v4"
+
+REFERENCE            heavy_ar_t9fastburst
+LANG_ENGLISH         "?.??N?V[???.??zw?"
+
+REFERENCE            heavy_sm_t9spray
+LANG_ENGLISH         "?????7pGH??DS??W??E"
+
+REFERENCE            heavy_sn_t9accurate
+LANG_ENGLISH         "???^v???v?{??@c?????jv"
+
+REFERENCE            la_t9launcher_v3
+LANG_ENGLISH         "??Pipe Cleaner"
+
+REFERENCE            lm_t9accurate_v10
+LANG_ENGLISH         "?8Nuclear Cowboy"
+
+REFERENCE            lm_t9accurate_v11
+LANG_ENGLISH         "??Can Opener"
+
+REFERENCE            lm_t9accurate_v12
+LANG_ENGLISH         "?j&???`?>??G??K"
+
+REFERENCE            lm_t9accurate_v13
+LANG_ENGLISH         "?mSweeping Conquest"
+
+REFERENCE            lm_t9light_v13
+LANG_ENGLISH         "? Rapid Projectile Destroyer"
+
+REFERENCE            lm_t9slowfire_v8
+LANG_ENGLISH         "???o???W??"
+
+REFERENCE            me_t9ballisticknife
+LANG_ENGLISH         "???XT?????Q???y"
+
+REFERENCE            me_t9ballisticknife_desc
+LANG_ENGLISH         "??e??c?87q	s???eC??pIc???(????????? {#???P?N?{??U???P*?*^?3??7??x??9??y@??G??f2???!?%??#'??o??"
+
+REFERENCE            me_t9ballisticknife_v2
+LANG_ENGLISH         "??Black Inknife"
+
+REFERENCE            me_t9machete_v3
+LANG_ENGLISH         "?QCutting Edge"
+
+REFERENCE            me_t9sledgehammer_v3
+LANG_ENGLISH         "??Rustic Ranger"
+
+REFERENCE            mixbarrel2_ar_t9fastburst
+LANG_ENGLISH         "?
+?#??D???X???&?lY'"
+
+REFERENCE            mixbarrel2_sm_t9spray
+LANG_ENGLISH         "??7?0??2?!;?Z??F??"
+
+REFERENCE            mixbarrel2_sn_t9accurate
+LANG_ENGLISH         "???8??:?!7??f+5?r"
+
+REFERENCE            mixbarrel_ar_t9fastburst
+LANG_ENGLISH         "???9@?rJ/#?-x}?;gg"
+
+REFERENCE            mixbarrel_sm_t9spray
+LANG_ENGLISH         "?"?w?Ky?????eV???H?3??"
+
+REFERENCE            mixbarrel_sn_t9accurate
+LANG_ENGLISH         "?23.6" Rapid Fire"
+
+REFERENCE            mixclip2_ar_t9fastburst_desc
+LANG_ENGLISH         "?W_i?/?yg????g?`??C??p??? RK?(?[IU??"O??C??h?e?	?W?h,???????+?=???{7?????????Gr?8?7?So-`m"
+
+REFERENCE            mixclip2_sm_t9spray_desc
+LANG_ENGLISH         "?!O??+?#????v?:?Y-?C?k;X?K??@G?@?????;????????Y?#????Z???y?j?'??s#?ys?"
+
+REFERENCE            mixclip2_sn_t9accurate
+LANG_ENGLISH         "??8?N??F?h?v???{:???"
+
+REFERENCE            mixclip2_sn_t9accurate_desc
+LANG_ENGLISH         "?
+OdJ??G?h ?|?;c?u???Ii5??c????h???????c???7Q???:H?????B????B`s?f"
+
+REFERENCE            mixclip_sm_t9spray_desc
+LANG_ENGLISH         "??DExtended magazine contains ^240 rounds^7 and improves reload speed."
+
+REFERENCE            mixclip_sn_t9accurate
+LANG_ENGLISH         "?7 Rnd Speed Mag"
+
+REFERENCE            mixclip_sn_t9accurate_desc
+LANG_ENGLISH         "?IExtended magazine with increased gripping surface improves reload speed."
+
+REFERENCE            mixstock_sm_t9spray_desc
+LANG_ENGLISH         "??)?k?????????+?]???????{?wV?????{-7??X??7?-???v???#q"
+
+REFERENCE            muzzle_comp_ar_fastburst
+LANG_ENGLISH         "?kSW=?cV	?,???C?sf"
+
+REFERENCE            muzzle_comp_sn_accurate
+LANG_ENGLISH         "????"p,??H?h?"
+
+REFERENCE            muzzle_mixmuzzle_ar_fastburst
+LANG_ENGLISH         "?????????'C\??"
+
+REFERENCE            muzzle_mixmuzzle_sn_accurate
+LANG_ENGLISH         "???????B??Y?????"
+
+REFERENCE            pi_t9burst_v12
+LANG_ENGLISH         "??ac?IC=g??"
+
+REFERENCE            pi_t9burst_v13
+LANG_ENGLISH         "?
+Short Fuse"
+
+REFERENCE            pi_t9burst_v14
+LANG_ENGLISH         "?;	Amped Up"
+
+REFERENCE            pi_t9burst_v15
+LANG_ENGLISH         "?F
+Tap Dance"
+
+REFERENCE            pi_t9revolver_v9
+LANG_ENGLISH         "?NTropic Elite"
+
+REFERENCE            pi_t9semiauto_v12
+LANG_ENGLISH         "?A	?:?X?6"
+
+REFERENCE            pi_t9semiauto_v13
+LANG_ENGLISH         "?NX&?;8??p?G?"
+
+REFERENCE            pi_t9semiauto_v14
+LANG_ENGLISH         "??Paperweight"
+
+REFERENCE            sh_t9fullauto_v6
+LANG_ENGLISH         "??Blotter"
+
+REFERENCE            sh_t9fullauto_v7
+LANG_ENGLISH         "??Breaker Box"
+
+REFERENCE            sh_t9pump_v14
+LANG_ENGLISH         "??0?o??w27???"
+
+REFERENCE            sh_t9pump_v15
+LANG_ENGLISH         "?zSignature Cinder"
+
+REFERENCE            sh_t9pump_v16
+LANG_ENGLISH         "?Tree Branch"
+
+REFERENCE            sh_t9semiauto_v12
+LANG_ENGLISH         "???V?X???c???"
+
+REFERENCE            sh_t9semiauto_v13
+LANG_ENGLISH         "?Flash Point"
+
+REFERENCE            sh_t9semiauto_v14
+LANG_ENGLISH         "??Paint Splatter"
+
+REFERENCE            sm_standard_v15
+LANG_ENGLISH         "??	????:?8%?H??5"
+
+REFERENCE            sm_standard_v16
+LANG_ENGLISH         "?8
+Subtropic"
+
+REFERENCE            sm_t9accurate_v3
+LANG_ENGLISH         "?ODog Fighter"
+
+REFERENCE            sm_t9accurate_v4
+LANG_ENGLISH         "??	Thrasher"
+
+REFERENCE            sm_t9burst_v16
+LANG_ENGLISH         "?xPurple Wave"
+
+REFERENCE            sm_t9burst_v17
+LANG_ENGLISH         "??Nuclear Response"
+
+REFERENCE            sm_t9burst_v18
+LANG_ENGLISH         "?oColor Burst"
+
+REFERENCE            sm_t9burst_v19
+LANG_ENGLISH         "??Show Stopper"
+
+REFERENCE            sm_t9capacity_v15
+LANG_ENGLISH         "??
+Horseplay"
+
+REFERENCE            sm_t9capacity_v16
+LANG_ENGLISH         "??Glow Catalyst"
+
+REFERENCE            sm_t9capacity_v17
+LANG_ENGLISH         "?&Subtle Threat"
+
+REFERENCE            sm_t9fastfire_v6
+LANG_ENGLISH         "?j
+Telephoto"
+
+REFERENCE            sm_t9fastfire_v7
+LANG_ENGLISH         "??Cross Multiply"
+
+REFERENCE            sm_t9handling_v18
+LANG_ENGLISH         "?MBlue Bomber"
+
+REFERENCE            sm_t9handling_v19
+LANG_ENGLISH         "??Head Jammer"
+
+REFERENCE            sm_t9handling_v20
+LANG_ENGLISH         "??Vidame"
+
+REFERENCE            sm_t9heavy_v17
+LANG_ENGLISH         "?MField Infantry"
+
+REFERENCE            sm_t9heavy_v18
+LANG_ENGLISH         "?e	',?G????"
+
+REFERENCE            sm_t9heavy_v19
+LANG_ENGLISH         "??Full Frontal"
+
+REFERENCE            sm_t9heavy_v20
+LANG_ENGLISH         "?m
+The Setup"
+
+REFERENCE            sm_t9powerburst_v10
+LANG_ENGLISH         "??Toxic Contaminant"
+
+REFERENCE            sm_t9powerburst_v11
+LANG_ENGLISH         "????{????????s"
+
+REFERENCE            sm_t9powerburst_v12
+LANG_ENGLISH         "?>Jewel Thief"
+
+REFERENCE            sm_t9powerburst_v13
+LANG_ENGLISH         "?|Pop Star II"
+
+REFERENCE            sm_t9powerburst_v14
+LANG_ENGLISH         "??Tanner"
+
+REFERENCE            sm_t9spray
+LANG_ENGLISH         "?PPSh-41"
+
+REFERENCE            sm_t9spray_desc
+LANG_ENGLISH         "?p~Full-auto submachine gun.  Faster fire rate with a large bullet spread.  Reliable damage range with less control when firing."
+
+REFERENCE            sm_t9spray_v2
+LANG_ENGLISH         "??
+??F
+?+"
+
+REFERENCE            sm_t9standard_v15
+LANG_ENGLISH         "??	????:?8%?H??5"
+
+REFERENCE            sm_t9standard_v16
+LANG_ENGLISH         "?8
+Subtropic"
+
+REFERENCE            sm_t9standard_v17
+LANG_ENGLISH         "?!Decomposer"
+
+REFERENCE            sm_t9standard_v18
+LANG_ENGLISH         "??Ragweed"
+
+REFERENCE            sm_t9standard_v19
+LANG_ENGLISH         "?KSterilizer"
+
+REFERENCE            sn_t9accurate
+LANG_ENGLISH         "?#
+Swiss K31"
+
+REFERENCE            sn_t9accurate_desc
+LANG_ENGLISH         "???Bolt-action sniper rifle.  Improved accuracy with moderate recoil.  Fast rechamber and aiming speed with a larger ammo capacity."
+
+REFERENCE            sn_t9accurate_v2
+LANG_ENGLISH         "?TRoman Standard"
+
+REFERENCE            sn_t9cannon_v3
+LANG_ENGLISH         "?Extended Vacation "
+
+REFERENCE            sn_t9crossbow_v4
+LANG_ENGLISH         "??	??{7"
+
+REFERENCE            sn_t9damagesemi_v13
+LANG_ENGLISH         "??Signature Classic"
+
+REFERENCE            sn_t9damagesemi_v14
+LANG_ENGLISH         "?KFace First"
+
+REFERENCE            sn_t9powersemi_v7
+LANG_ENGLISH         "???-??,k?@??G+?"
+
+REFERENCE            sn_t9powersemi_v8
+LANG_ENGLISH         "??Long Division"
+
+REFERENCE            sn_t9powersemi_v9
+LANG_ENGLISH         "?TDivine Blossom"
+
+REFERENCE            sn_t9precisionsemi_v6
+LANG_ENGLISH         "??Energy Emitter"
+
+REFERENCE            sn_t9precisionsemi_v7
+LANG_ENGLISH         "???yH$?~?????f?A"
+
+REFERENCE            sn_t9quickscope_v12
+LANG_ENGLISH         "??Mesa Moderator"
+
+REFERENCE            sn_t9standard_v10
+LANG_ENGLISH         "??Half Cocked"
+
+REFERENCE            sn_t9standard_v12
+LANG_ENGLISH         "?}Barren Waste"
+
+REFERENCE            sn_t9standard_v13
+LANG_ENGLISH         "??????,?V?:"
+
+REFERENCE            sprintout2_cqb_stock
+LANG_ENGLISH         "?)
+?{??????J"
+
+REFERENCE            sprintout_sm_t9spray_desc
+LANG_ENGLISH         "??ERemoved stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stalker_sm_t9spray_desc
+LANG_ENGLISH         "??G???y????Wa??(?c>????+?#??gz ??????????????{??1?t ??_u.???4??B"
+
+
+ENDMARKER

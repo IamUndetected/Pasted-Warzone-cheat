@@ -1,0 +1,1175 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            2400cp
+LANG_ENGLISH         "??d??h"
+
+REFERENCE            500cp
+LANG_ENGLISH         "?e?R_=P"
+
+REFERENCE            bundle_includes
+LANG_ENGLISH         "?T??[????[???K"
+
+REFERENCE            category_codpoints
+LANG_ENGLISH         "????:H?.<?"
+
+REFERENCE            category_dlc
+LANG_ENGLISH         "?"b"
+
+REFERENCE            category_featured
+LANG_ENGLISH         "??	Featured"
+
+REFERENCE            category_franchise
+LANG_ENGLISH         "??Y-P??B?[?K?u?MU?`S??"
+
+REFERENCE            category_misc
+LANG_ENGLISH         "???Q?Q"
+
+REFERENCE            category_titleids
+LANG_ENGLISH         "?!!Call of Duty??: Modern Warfare??"
+
+REFERENCE            category_zeus
+LANG_ENGLISH         "?o#Call of Duty??: Black Ops Cold War"
+
+REFERENCE            pro_pack_s02
+LANG_ENGLISH         "??.?J?W????? ???>Yo????{??
+z?(?u! ???Q?"
+
+REFERENCE            pro_pack_s02_desc
+LANG_ENGLISH         "Get incredible value on in-game content for Black Ops Cold War and Warzone???. The Gilded Age III: Pro Pack includes 2400 Call of Duty?? Points, plus a legendary Operator skin, two legendary weapon blueprints and MORE!
+
+Pack includes:
+
+- 2400 Call of Duty?? Points*
+- Legendary Operator Skin for Stitch
+- Legendary Assault Rifle Blueprint
+- Legendary LMG Blueprint
+- Epic Calling Card
+- 1 Legendary Emblem
+
+Call of Duty?? Points (CP) are the in-game currency that can be used to obtain in-game content for use in Warzone??? or Black Ops Cold War Multiplayer and Zombies game modes.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            pro_pack_s04
+LANG_ENGLISH         "??.?J?W????? ???>Yo????{??
+z?(?u! ???Q?"
+
+REFERENCE            pro_pack_s04_desc
+LANG_ENGLISH         "Get incredible value on in-game content for Black Ops Cold War and Warzone???. The Gilded Age III: Pro Pack includes 2400 Call of Duty?? Points, plus a legendary Operator skin, two legendary weapon blueprints and MORE!
+
+Pack includes:
+
+- 2400 Call of Duty?? Points*
+- Legendary Operator Skin for Stitch
+- Legendary Assault Rifle Blueprint
+- Legendary LMG Blueprint
+- Epic Calling Card
+- 1 Legendary Emblem
+
+Call of Duty?? Points (CP) are the in-game currency that can be used to obtain in-game content for use in Warzone??? or Black Ops Cold War Multiplayer and Zombies game modes.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_battlepass_edition
+LANG_ENGLISH         "??7?{?r??i??# @%??=????s?;h!?lp*?w`AX[??Y?i??G?#?7P"
+
+REFERENCE            product_battlepass_edition_desc
+LANG_ENGLISH         "?J???G?]??H???1?KW??sm*????????3?C	????M?@C(??/???
+??sv??sY??D??3g???
+:3?7?7_??m'n?B??_-?Kv?K????.????!???????? B??3u?#?????2(HZ??Wo???a'l?????+??o7??h?? ????)??0??????R"??O????a??????YP?8\?????????V5K??D????(????z?`??g?W]??@?C"
+
+REFERENCE            product_cdllaunch
+LANG_ENGLISH         "?m%Call of Duty League??? - Launch Pack"
+
+REFERENCE            product_cdllaunch_desc
+LANG_ENGLISH         "Run it back! We're celebrating the return to Call of Duty League??? in Season 2 with a special Launch Pack. Choose from a slick black or white urban outfit for a new special CDL Operator in this pack. Both Home and Away outfits are included. The pack also includes 2 calling cards, 3 emblems and 5 weapon stickers with favorite community sayings.
+
+Are you a main assault rifle player, a flex player or a sub player? Are you a camper or slayer? Sport your playstyle with a weapon sticker.
+
+Use these items in both Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, WARZONE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc. The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_01
+LANG_ENGLISH         "??0???I?'????????(so????	??;???p?????? '??{	?"
+
+REFERENCE            product_cdlpack_01_desc
+LANG_ENGLISH         "?F?MC????]N@7?8?'?@???
+?X???d?i?Z????n??d@?3??CY???c@{?"W??@1?v?Y?$Q	??Yd?FL(?m???????7@d@??N?:?????sn@????N???2????,?Y?????????N?????@??X??7???{aw????s?X?V?KGV??w??????????nG?6?Y9a???K7?6???@Xs@V[?6+kq"
+
+REFERENCE            product_cdlpack_02
+LANG_ENGLISH         "??1h?c?3D]??&+v???T?@zEZ?@CZl?v{?m?#&"
+
+REFERENCE            product_cdlpack_02_desc
+LANG_ENGLISH         "???[?p????s1??J????????q`?N??y? v??!jI6}%P?+?-?8R??r?X??]?`???r9?8??Q4??R*:V??Q????P??Ts?7?????S^??"???L3Fqnc??gX??)h?????K8???"Y%??????*S???z??/3?"_?)?j?x?.hCD?A"?/O{*?B'?B??????Q???(jn??R???????
+?#Q?&?a??;?W??^???_2?}b)??r"
+
+REFERENCE            product_cdlpack_03
+LANG_ENGLISH         "?T1Call of Duty League??? - Dallas Empire Pack 2021"
+
+REFERENCE            product_cdlpack_03_desc
+LANG_ENGLISH         "???	?b[?????:??"1?Mc?]?????f?s???+F????Z?7-?u`m???????B%9?????3???K??????d?"?
+S?!Qf?????d??w_????M???oR??(??vA>3??F??yE8????????iu???S??Zcp???J+?_``??ZX(???t??r????z!r??Q]#?g??a?[??:^????b??k?:2sr?Q!?0?_???Q??;????""
+
+REFERENCE            product_cdlpack_04
+LANG_ENGLISH         "?	5Call of Duty League??? - Florida Mutineers Pack 2021"
+
+REFERENCE            product_cdlpack_04_desc
+LANG_ENGLISH         "????{w@??]?@??????????@?4???6?????]???VVN???jY???7??f??+@??????"??/Y,?W??H$??CV@dFL
+??????c]?Y???????9??-??PNZ?X?^?X??@?c?VNsG??+????K3?'?7?a@,@?????7????????4??????X[+??????#??X?????[????Z[??X??6?-?;?N2@,72??1??q"
+
+REFERENCE            product_cdlpack_05
+LANG_ENGLISH         "??7?by?????J?g??S?,Eb*?zS'??M???????????N???6????!"
+
+REFERENCE            product_cdlpack_05_desc
+LANG_ENGLISH         "Show your support for the London Royal Ravens in Season 2 of the Call of Duty League???! The 2021 Pack includes 2 Operator skins (primary and alternate team uniforms), a weapon camo, watch, a sneaker-themed weapon charm, sticker, calling card, and emblem."
+
+REFERENCE            product_cdlpack_06
+LANG_ENGLISH         "??1Hp?m??T@???&?8?H??oEp5?7#??KK?g?? )??J?"
+
+REFERENCE            product_cdlpack_06_desc
+LANG_ENGLISH         "Show your support for the Los Angeles Guerrillas in Season 2 of the Call of Duty League???! The 2021 Pack includes 2 Operator skins (primary and alternate team uniforms), a weapon camo, watch, a sneaker-themed weapon charm, sticker, calling card, and emblem."
+
+REFERENCE            product_cdlpack_07
+LANG_ENGLISH         "??3hX6c{3D??^&???]V?$T@K5Z????????I????@?@#F?"
+
+REFERENCE            product_cdlpack_07_desc
+LANG_ENGLISH         "???Show your support for Minnesota Rokkr in Season 2 of the Call of Duty League???! The 2021 Pack includes 2 Operator skins (primary and alternate team uniforms), a weapon camo, watch, a sneaker-themed weapon charm, sticker, calling card, and emblem."
+
+REFERENCE            product_cdlpack_08
+LANG_ENGLISH         "?6????{?"WG?@&Y??W????@Z@?????9?M]??-7Y??A????`?&"
+
+REFERENCE            product_cdlpack_08_desc
+LANG_ENGLISH         "??????/{?????????{?@??r?????????6-7?9????V?n????f??4???@?f????@?V????H?$*4V#?@(?l??7c?2+?d@????,?{???-7?????[,????#??+9??G??????-???[?I????VX?????a?????@X???,??9i??????????@???N[????K6??NX??c?????????X??????Y["
+
+REFERENCE            product_cdlpack_09
+LANG_ENGLISH         "?y.#???^?xFx??@??E??})?<b?6y????;&?cj?c`?.??"F"
+
+REFERENCE            product_cdlpack_09_desc
+LANG_ENGLISH         "Show your support for the Los Angeles Thieves in Season 2 of the Call of Duty League???! The 2021 Pack includes 2 Operator skins (primary and alternate team uniforms), a weapon camo, watch, a sneaker-themed weapon charm, sticker, calling card, and emblem."
+
+REFERENCE            product_cdlpack_10
+LANG_ENGLISH         "??0?X??????????X?]??$???'???Y????A?????&"
+
+REFERENCE            product_cdlpack_10_desc
+LANG_ENGLISH         "?O?Show your support for Paris Legion in Season 2 of the Call of Duty League???! The 2021 Pack includes 2 Operator skins (primary and alternate team uniforms), a weapon camo, watch, a sneaker-themed weapon charm, sticker, calling card, and emblem."
+
+REFERENCE            product_cdlpack_11
+LANG_ENGLISH         "??14?c?@???]?/&?X???qZ?+X???j]?vY[?d?"
+
+REFERENCE            product_cdlpack_11_desc
+LANG_ENGLISH         "?
+?c?H????sY??bG????5?GJ?????U2???o?	2?_?:??5*C3u?4z(?????T%yk-?Z#v@6?y???zB?n?&y??'?}c+#?'_?p??v8?
+???d????K?O.`??-P???Z????J1?S??c????v???????z??Q???@F@k,ki
+W?S?I?O
+:????8??????p???:u??R??aR??y??9??]XN?????';wZ?UJ? ?J"
+
+REFERENCE            product_cdlpack_12
+LANG_ENGLISH         "?e1!?T?q??5SC??G??w?!`~6??*%H??0*_?KEj^??0?Z"
+
+REFERENCE            product_cdlpack_12_desc
+LANG_ENGLISH         "???????J)??+f(??]!Z?H?+?#]?`?G??????n.'????(N???>U??-Q??*??b??ss7	???+??G???19??????1??#?????r%`@J)|?@???m??j??K? ???`7#gAC???|??????}^;??/. ?????2?????O`?na?g?O{???k??????.[????1k?r??o??U6"^:??J?&?!??a:?Z?C	c+G A?aP???Mn????J?r"
+
+REFERENCE            product_cdlpack_champs_2020
+LANG_ENGLISH         "??/?y]X?H??(????????W"
+
+REFERENCE            product_cdlpack_champs_2020_desc
+LANG_ENGLISH         "The CDL Champs 2020 are here! Play like a pro with 3 CDL blueprints with pro-approved attachments and many more items to celebrate Champs! Pack contains: M4/HDR/M19 Blueprints, 2 charms, 55 player signatures (from 11 teams), 3 calling cards, 3 emblems, and 3 sprays."
+
+REFERENCE            product_cdlpack_stage
+LANG_ENGLISH         "?-(oo*???g?KT?'????W???r?X}!@????'?>w??"
+
+REFERENCE            product_cdlpack_stage_desc
+LANG_ENGLISH         "Get ready to rock the freshest fit with this mafia themed summer pack.
+
+The pack includes:
+
+- Operator Karla Rivas in a Call of Duty League??? black and neon skin
+- Legendary Assault Rifle Blueprint with pro-approved attachments
+- 2 Calling Cards
+- 2 Emblems
+- 4 Weapon Stickers
+
+Use these items in both Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, WARZONE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc. The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_team_supporter
+LANG_ENGLISH         "??"???Y?????8??:Y'
+X?"
+
+REFERENCE            product_cdlpack_team_supporter_2021
+LANG_ENGLISH         "??2	?&H?`??8?Y!??}i?ap?????C3[?S???C??6[??"
+
+REFERENCE            product_cdlpack_team_supporter_2021_desc
+LANG_ENGLISH         "Show your support for all 12 teams in Season 2 of the Call of Duty League??? with this pack full of team-designed items!
+
+The 2021 Pack includes:
+
+- 12 calling cards (1 for each team)
+- 12 emblems (1 for each team) 
+- Player signature weapon stickers (11 of the 12 teams)
+
+Use these items in both Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, WARZONE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc. The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_team_supporter_2_2021
+LANG_ENGLISH         "??2	?&H?`??8?Y!??}i?ap?????C3[?S???C??6[??"
+
+REFERENCE            product_cdlpack_team_supporter_2_2021_desc
+LANG_ENGLISH         "Show your support for all 12 teams in Season 2 of the Call of Duty League??? with this pack full of team-designed items!
+
+The 2021 Pack includes:
+
+- 12 calling cards (1 for each team)
+- 12 emblems (1 for each team) 
+- Player signature weapon stickers (11 of the 12 teams)
+
+Use these items in both Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, WARZONE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc. The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_team_supporter_desc
+LANG_ENGLISH         "??????????6b????????D??/V???GY??7?ZG????n?l?f???9??v????7-?/?8???':C??+F?G???\?l[6??GXZ?7t@L?????7???,?F7?#??1?+?nX@??b??????"
+
+REFERENCE            product_codepack
+LANG_ENGLISH         "?;N/yb?@?:?`[???u??
+H??Op1y?%?Y?{?????~~!e?oPQ?r1?'WH"
+
+REFERENCE            product_codepack_2
+LANG_ENGLISH         "??9n?
+??#??w???n??/r?0???0?0U?)?H?>????h?;?
+Q????gY??"
+
+REFERENCE            product_codepack_2_desc
+LANG_ENGLISH         "Support our military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Fearless Pack for Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone, created in partnership with and inspired by the combat service of Medal of Honor recipient CPT Florent 'Flo' Groberg.
+
+The Endowment provides grants to not-for-profits in the US* and registered UK charities which place veterans in the US and UK into high quality civilian jobs. By purchasing this pack, you will directly contribute to the Endowment???s mission.
+
+The full purchase price for this special item, less VAT, will be donated to the Call of Duty Endowment (EIN: 37-1589072)*. This is a limited time offer and this special item will be withdrawn from sale once $3 million has been raised globally for the cause.
+
+Pack includes:
+
+- 1 Operator
+- 1 Assault Rifle Blueprint
+- 1 Camo
+- 1 Watch
+- 1 Charm
+- 1 Spray
+- 2 Calling Cards
+- 2 Emblems
+
+
+*For more information please see https://www.callofdutyendowment.org/partners.
+
+?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codepack_4
+LANG_ENGLISH         "??4???q?????????8PK??[??n????? ????Yu????e??_v??0ZD"
+
+REFERENCE            product_codepack_4_desc
+LANG_ENGLISH         "This Military Appreciation Month, support US and UK military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Battle Doc Pack for Call of Duty??: Black Ops Cold War and Call of Duty?? Warzone???, created in partnership with U.S. Army Combat Medical Badge recipient, Sergeant First Class Timothy 'Doc' Hobbs, Jr., U.S. Army (Ret.), who served on four combat deployments and one humanitarian mission.
+
+The Endowment pack includes:
+
+- 1 Epic Operator Skin for Sims
+- 1 Legendary Assault Rifle Blueprint
+- 1 Epic Weapon Charm
+- 1 Epic Calling Card
+- 1 Epic Emblem
+- Double Weapon XP Token
+
+The Call of Duty Endowment places unemployed and underemployed veterans in the U.S. and U.K. into high-quality jobs*. By purchasing this pack, you will directly contribute to the Endowment???s mission.
+
+This is a limited time offer that will end once $2 million USD has been raised for the cause.
+
+*For more information please see https://www.callofdutyendowment.org/partners.
+
+?? 2020-2021 The Call of Duty Endowment and Activision Publishing, Inc.  The Call of Duty Endowment logos are trademarks of The Call of Duty Endowment."
+
+REFERENCE            product_codepack_desc
+LANG_ENGLISH         "Defend those who defended our freedom! Support civilian careers for veterans through your purchase of the Call of Duty Endowment (C.O.D.E.) Defender Pack for Modern Warfare??! We heard from the fans, so our biggest Endowment cosmetic content pack ever is back. It includes The Defender Pistol cosmetic weapon variant, weapon camo, watch, weapon charm, weapon sticker, 2 environment sprays, 3 emblems, and a calling card!
+
+100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high-quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
+
+
+?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codepack_zeus
+LANG_ENGLISH         "?";???;??U??[????(?????j/???b?V?vF?vB?2????
+???0*J??'z???/"
+
+REFERENCE            product_codepack_zeus_desc
+LANG_ENGLISH         "Are you up for the challenge? Support US and UK military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Challenger Pack for Call of Duty?? Black Ops Cold War and Call of Duty??: Warzone???.
+
+The first Endowment pack to feature 2 cosmetic weapon blueprints includes:
+
+- 1 'The Standard Issue' Pistol Weapon Blueprint
+- 1 'The Stripe' Rifle Weapon Blueprint
+- 1 Weapon Charm
+- 1 Calling Card (Static)
+- 1 Animated Emblem
+- 1 Sticker
+- Double Weapon XP Token
+
+The Call of Duty Endowment places unemployed and underemployed veterans in the U.S. and U.K. into high-quality jobs*. By purchasing this pack, you will directly contribute to the Endowment???s mission.
+
+This is a limited time offer that will end once $5 million USD has been raised for the cause. The Challenger Pack will be available in Call of Duty??: Warzone??? from mid-December, 2020.
+
+*For more information please see https://www.callofdutyendowment.org/partners.
+
+?? 2020 The Call of Duty Endowment and Activision Publishing, Inc.  The Call of Duty Endowment logos are trademarks of The Call of Duty Endowment."
+
+REFERENCE            product_codpoints_1100
+LANG_ENGLISH         "??(N???z6}?R'Z?????&??g.?
+P~????????h?"
+
+REFERENCE            product_codpoints_1100_desc
+LANG_ENGLISH         "This bundle includes 1,000 + 100 Bonus Call of Duty?? Points.
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+ 
+With your CP, you can purchase the latest Battle Pass which allows you to unlock up to 100 Tiers of epic in-game items.
+
+Tier contents include:
+
+- 1,300 CP
+- New Operator
+- Legendary and Epic Operator Skins
+- Epic and Rare Weapon Blueprints
+- XP and Weapon XP Tokens
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_codpoints_13000
+LANG_ENGLISH         "?0)?3`?@?,?@{?DW?^,?G]?????Y??Q??7?"
+
+REFERENCE            product_codpoints_13000_desc
+LANG_ENGLISH         "This bundle includes 10,000 + 3000 Bonus Call of Duty?? Points.
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+ 
+With your CP, you can purchase the latest Battle Pass which allows you to unlock up to 100 Tiers of epic in-game items.
+
+Tier contents include:
+
+- 1,300 CP
+- New Operator
+- Legendary and Epic Operator Skins
+- Epic and Rare Weapon Blueprints
+- XP and Weapon XP Tokens
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_codpoints_200
+LANG_ENGLISH         "?&]:2??????????34?z??j?O??.H??a}`&"
+
+REFERENCE            product_codpoints_200_desc
+LANG_ENGLISH         "This bundle includes 200 Call of Duty?? Points (CP).
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+
+With your CP, you can enhance your experience by purchasing new items and accessories that are added with each new season throughout the year. Battle Pass Owners can also use their CP to unlock Tiers and instantly access epic content.
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_codpoints_2400
+LANG_ENGLISH         "?e(2,400 Call of Duty??: Warzone??? Points"
+
+REFERENCE            product_codpoints_2400_desc
+LANG_ENGLISH         "This bundle includes 2,000 + 400 Bonus Call of Duty?? Points.
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+ 
+With your CP, you can purchase the latest Battle Pass which allows you to unlock up to 100 Tiers of epic in-game items.
+
+Tier contents include:
+
+- 1,300 CP
+- New Operator
+- Legendary and Epic Operator Skins
+- Epic and Rare Weapon Blueprints
+- XP and Weapon XP Tokens
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_codpoints_500
+LANG_ENGLISH         "?1&?7:yU?$yG?q	??`?&P???Bz???N?8?A?"
+
+REFERENCE            product_codpoints_5000
+LANG_ENGLISH         "??(5,000 Call of Duty??: Warzone??? Points"
+
+REFERENCE            product_codpoints_5000_desc
+LANG_ENGLISH         "This bundle includes 4,000 + 1000 Bonus Call of Duty?? Points.
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+ 
+With your CP, you can purchase the latest Battle Pass which allows you to unlock up to 100 Tiers of epic in-game items.
+
+Tier contents include:
+
+- 1,300 CP
+- New Operator
+- Legendary and Epic Operator Skins
+- Epic and Rare Weapon Blueprints
+- XP and Weapon XP Tokens
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_codpoints_500_desc
+LANG_ENGLISH         "This bundle includes 500 Call of Duty?? Points (CP).
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+
+With your CP, you can enhance your experience by purchasing new items and accessories that are added with each new season throughout the year. Battle Pass Owners can also use their CP to unlock Tiers and instantly access epic content.
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_codpoints_9500
+LANG_ENGLISH         "?O(??M??????"WG^a??u,???????KsG?"
+
+REFERENCE            product_codpoints_9500_desc
+LANG_ENGLISH         "This bundle includes 7,500 + 2000 Bonus Call of Duty?? Points.
+
+Call of Duty?? Points are the in-game currency that can be used in Warzone???, Black Ops Cold War and Modern Warfare?? to obtain new content.
+ 
+With your CP, you can purchase the latest Battle Pass which allows you to unlock up to 100 Tiers of epic in-game items.
+
+Tier contents include:
+
+- 1,300 CP
+- New Operator
+- Legendary and Epic Operator Skins
+- Epic and Rare Weapon Blueprints
+- XP and Weapon XP Tokens
+
+Call of Duty??: Warzone??? or Call of Duty??: Modern Warfare?? game required, sold/downloaded separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_dlc_cp1
+LANG_ENGLISH         "??Ho(??????i??"
+
+REFERENCE            product_dlc_cp1_desc
+LANG_ENGLISH         "?$1?{X????o??6xa$??P??=???????`H?z?(y?q???_?3?"
+
+REFERENCE            product_dlc_cp2
+LANG_ENGLISH         "???]?g?g?????"
+
+REFERENCE            product_dlc_cp2_desc
+LANG_ENGLISH         "??7?c????YunWX+?????m????/GA???a?????&M)y??o??;-;;I?"
+
+REFERENCE            product_dlc_cp3
+LANG_ENGLISH         "?2F?g?+??
+i?q7?;?g?"
+
+REFERENCE            product_dlc_cp3_desc
+LANG_ENGLISH         "??3Special Ops Pack 2 is required to play Special Ops"
+
+REFERENCE            product_dlc_dp1
+LANG_ENGLISH         "????JP1fI"
+
+REFERENCE            product_dlc_dp1_desc
+LANG_ENGLISH         "??L??kj2??????f?xSch??{????gq???p??(?N/?a?????????P??	S??Q	W???p????? "
+
+REFERENCE            product_dlc_dp2
+LANG_ENGLISH         "?f{?1`?8@?:"
+
+REFERENCE            product_dlc_dp2_desc
+LANG_ENGLISH         "??A'*???W_?,?O????]???GeH(?o???;?'y??I? =?s7SA9#o?
+?o?Y?? ?;"
+
+REFERENCE            product_dlc_mp1
+LANG_ENGLISH         "?Multiplayer Pack"
+
+REFERENCE            product_dlc_mp1_desc
+LANG_ENGLISH         "?m1?q)??vx??(?_'Bc&?
+HckDK????????GC???%?@?z??+"
+
+REFERENCE            product_dlc_mp2
+LANG_ENGLISH         "??Multiplayer Pack 2"
+
+REFERENCE            product_dlc_mp2_desc
+LANG_ENGLISH         "?[3L?S????3?2??JmYo?????[?????{8?SY@x C[?Cx?k?R?;"
+
+REFERENCE            product_dlc_mp3
+LANG_ENGLISH         "?????G??X?Y?(????"
+
+REFERENCE            product_dlc_mp3_desc
+LANG_ENGLISH         "?23Multiplayer Pack 3 is required to play Multiplayer"
+
+REFERENCE            product_dlc_optional1
+LANG_ENGLISH         "??High Resolution Texture Pack 1"
+
+REFERENCE            product_dlc_optional1_desc
+LANG_ENGLISH         "??^@?0?>????????kp???1a?/?2??kyP?"p?S???????+?/[??K????M?????1x??m??@????g??V????"
+
+REFERENCE            product_dlc_optional2
+LANG_ENGLISH         "?????b?A?
+???|H?p4?@??y?1??f"
+
+REFERENCE            product_dlc_optional2_desc
+LANG_ENGLISH         "?3^High Resolution Texture Pack 2 is an optional pack that is not required to play any game mode"
+
+REFERENCE            product_dlc_optional3
+LANG_ENGLISH         "??High Resolution Texture Pack 3"
+
+REFERENCE            product_dlc_optional3_desc
+LANG_ENGLISH         "??^S,?i:??(?5???????KQ??b??{????3?N2???S????An"?nt~??{rp??@?S???J?CmSz?W?[??0???iQo?*g?"
+
+REFERENCE            product_dlc_optional4
+LANG_ENGLISH         "??High Resolution Texture Pack 4"
+
+REFERENCE            product_dlc_optional4_desc
+LANG_ENGLISH         "?^?-?J?????:Z???????Y?????K?X????Z??X?8X?mG??????????W-?V??8?^??????Y??F?"
+
+REFERENCE            product_dlc_optional5
+LANG_ENGLISH         "?????&??3'??{??@???3???P??D:M"
+
+REFERENCE            product_dlc_optional5_desc
+LANG_ENGLISH         "??^?0?l?'?7y??t?`??!???HP?q????[J??bP?!?8O?1????S???X)??+????
+?3?????LX???&????i?a???"
+
+REFERENCE            product_dlc_remaster_cp
+LANG_ENGLISH         "??Ho(??????i??"
+
+REFERENCE            product_dlc_remaster_cp_desc
+LANG_ENGLISH         "?$1?{X????o??6xa$??P??=???????`H?z?(y?q???_?3?"
+
+REFERENCE            product_dlc_remaster_cp_mp
+LANG_ENGLISH         "??+j]6?Z?,/+??j??K???n@??????1??-?^?X??"
+
+REFERENCE            product_dlc_remaster_cp_mp_desc
+LANG_ENGLISH         "??[??:??+?^??+?Z????4???????????A?[Z??NY????+#??@?6??@?]6???X?????#?j?Y??6????"
+
+REFERENCE            product_dlc_remaster_cp_sp
+LANG_ENGLISH         "?v(?Xk????s????Zc@z8?@4???1K?-:??Xlm"
+
+REFERENCE            product_dlc_remaster_cp_sp_desc
+LANG_ENGLISH         "?BUCampaign/Special Ops Compatability Pack is required to play Campaign and Special Ops"
+
+REFERENCE            product_dlc_remaster_mp
+LANG_ENGLISH         "?Multiplayer Pack"
+
+REFERENCE            product_dlc_remaster_mp_desc
+LANG_ENGLISH         "?m1?q)??vx??(?_'Bc&?
+HckDK????????GC???%?@?z??+"
+
+REFERENCE            product_dlc_remaster_sp
+LANG_ENGLISH         "?????@9??az?:"
+
+REFERENCE            product_dlc_remaster_sp_desc
+LANG_ENGLISH         "?3+4?K??X??@?7NY.W???F?8?X??,??,Kv7"
+
+REFERENCE            product_dlc_sp1
+LANG_ENGLISH         "??gg2???/0y8?>?"
+
+REFERENCE            product_dlc_sp1_desc
+LANG_ENGLISH         "??-????s:?????m@?Bx?0?#???/?gjH?A????7B?"
+
+REFERENCE            product_dlc_sp2
+LANG_ENGLISH         "??Campaign Pack 2"
+
+REFERENCE            product_dlc_sp2_desc
+LANG_ENGLISH         "??-h,[?-??,??F???9V.?K??#?????@?,???vs"
+
+REFERENCE            product_head_start_pack
+LANG_ENGLISH         "?5Call of Duty??: Warzone - Combat Pack (Season Three)"
+
+REFERENCE            product_head_start_pack_2
+LANG_ENGLISH         "?R4Call of Duty??: Warzone - Combat Pack (Season Five)"
+
+REFERENCE            product_head_start_pack_2_desc
+LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by Verdansk???s Stadium.
+
+This pack includes:
+
+- Epic Operator Skin for Zane
+- Epic SMG Weapon Blueprint
+- Epic Cosmetic Watch
+- Epic Weapon Charm
+- Epic Calling Card
+- Epic Emblem
+- 60-minute 2XP Token
+
+Timed exclusive for PlayStation??Plus members until October 1, 2020.
+
+Call of Duty??: Modern Warfare?? (or free-to-play Warzone) required. Sold separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_3
+LANG_ENGLISH         "??0??f?7 ??a*?'_S???p	?>???O???????75????e{"
+
+REFERENCE            product_head_start_pack_3_desc
+LANG_ENGLISH         "Clean up on aisle nine! Grab a free bundle of in-game goods, inspired by one of the hottest drop locations - Atlas Superstore.
+
+This pack includes:
+
+- Epic Operator Skin for Otter
+- Legendary Pistol Weapon Blueprint
+- Epic Knife
+- Epic Weapon Charm
+- Epic Calling Card
+- Epic Emblem
+- 60-minute Double XP Token
+
+Timed exclusive for PlayStation??Plus members until October 1, 2020.
+
+Call of Duty??: Modern Warfare?? (or free-to-play Warzone???) required. Sold separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_4
+LANG_ENGLISH         "?%6???;??U??[?????y1??Kz4??????????z
+H?????o?6P
+'?S?"
+
+REFERENCE            product_head_start_pack_4_desc
+LANG_ENGLISH         "Get a free in-game bundle, inspired by the infamous Verdansk Gulag.
+
+This pack includes:
+
+- Epic Operator Skin for Rodion
+- Legendary Handgun Weapon Blueprint
+- Epic Knife
+- Epic Weapon Charm
+- Epic Calling Card
+- Epic Emblem
+- Epic Sticker
+- 60-minute Double XP Token
+
+Timed exclusive for PlayStation??Plus members until December 1, 2020.
+
+Call of Duty??: Modern Warfare?? (or free-to-play Call of Duty??: Warzone???) required. Sold separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, MODERN WARFARE, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_5
+LANG_ENGLISH         "?	????{@?"
+
+REFERENCE            product_head_start_pack_5_desc
+LANG_ENGLISH         "?	????{@?"
+
+REFERENCE            product_head_start_pack_6
+LANG_ENGLISH         "??4h,???DW??,?G???=??+$Ei??[&?G@,6[+sWk????"
+
+REFERENCE            product_head_start_pack_6_desc
+LANG_ENGLISH         "Get a free in-game bundle, inspired by the deniable operations in Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+This pack includes:
+
+- Epic Operator Skin for Sims
+- Legendary LMG Weapon Blueprint
+- Legendary Watch
+- Legendary Calling Card
+- Legendary Emblem
+- Epic Weapon Charm
+- 60-minute Double XP Token
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_7
+LANG_ENGLISH         "?=???????W?!??????h?6?u?NZ?{??A??[??#W??????"
+
+REFERENCE            product_head_start_pack_7_desc
+LANG_ENGLISH         "PlayStation??Plus members get a free in-game bundle, inspired by the jungle warfare in Season Two of Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+This pack includes:
+
+- Epic Operator Skin for Baker
+- Epic Tactical Rifle Blueprint
+- Epic Pistol Blueprint
+- Epic Tactical Knife Blueprint
+- Epic Weapon Charm
+- Legendary Calling Card
+- 60-minute Double XP Token
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_8
+LANG_ENGLISH         "?>hqi?n?X?c0??????x???B?p???C=)9z??f???{@{??r? ?7?????&"
+
+REFERENCE            product_head_start_pack_8_desc
+LANG_ENGLISH         "PlayStation??Plus members get a free in-game bundle to celebrate Season Three of Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+This pack includes:
+
+- Epic Operator Skin for Garcia
+- Epic Assault Rifle Blueprint
+- Epic Weapon Charm
+- Epic Emblem
+- Epic Wrist Accessory
+- Legendary Calling Card
+- 60-minute Double XP Token
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_9
+LANG_ENGLISH         "??;?X???3??G?u??l?zn?{??]?'???k???@(?P??^??[R"
+
+REFERENCE            product_head_start_pack_9_desc
+LANG_ENGLISH         "PlayStation??Plus members get a free in-game bundle to celebrate Season Four of Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+This pack includes:
+
+- Epic Operator Skin for Helen Park
+- Epic Sniper Rifle Blueprint
+- Epic Melee Weapon
+- Epic Weapon Charm
+- Epic Emblem
+- Legendary Calling Card
+- 60-minute Double XP Token
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_desc
+LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by the mountains of Verdansk.
+
+This pack includes:
+
+- Epic Operator Skin for Wyatt
+- Legendary Marksman Rifle Blueprint
+- Epic Pistol Blueprint
+- Epic Tactical Knife
+- Epic Weapon Charm
+- Epic Animated Calling Card
+- Rare Spray
+- 60-minute 2x Weapon XP Token
+
+Timed exclusive for PlayStation??Plus members until October 1, 2020.
+
+Call of Duty??: Modern Warfare?? (or free-to-play Warzone) required. Sold separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_mw2r
+LANG_ENGLISH         "?s7???8?Z??????5??BY?tQ2???:?km???BH-?*?3??I??7X?#???b"
+
+REFERENCE            product_mw2r_desc
+LANG_ENGLISH         "INCLUDES the Underwater Demo Team Classic Ghost Bundle, available for use in Call of Duty??: Modern Warfare??, including Warzone*.
+
+Gear up with one of the most iconic Ghost looks from the Call of Duty??: Modern Warfare?? 2 campaign mission 'The Only Easy Day??? Was Yesterday' and bring it  into Modern Warfare?? including the free to play version, Call of Duty??: Warzone.
+
+Bundle includes:
+
+- UDT Classic Ghost Skin
+- 2 Weapon Blueprints
+- Weapon Charm
+- Finishing Move
+- Voice Quip
+- Animated Calling Card
+- Emblem
+- 2 Battle Pass Tier Skips
+
+Relive the epic single-player Campaign from the 2009 blockbuster Call of Duty??: Modern Warfare?? 2, remastered for a new generation in true high-definition.
+
+The Call of Duty??: Modern Warfare?? 2 Campaign has been fully remastered with improved textures, animations, physically based rendering, high-dynamic range lighting and much more.
+
+*Call of Duty??: Modern Warfare?? or Call of Duty??: Warzone required (Sold/downloaded separately).
+
+?? 2009, 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. Contains the campaign mode from the original Call of Duty??: Modern Warfare?? 2 only; Multiplayer and cooperative modes are not included."
+
+REFERENCE            product_standard_edition
+LANG_ENGLISH         "?!!Call of Duty??: Modern Warfare??"
+
+REFERENCE            product_standard_edition_desc
+LANG_ENGLISH         "??XE?+??X??X????ZK?7?K7???#YnX?????[?si:kV@?????Z?-3VXs2???@?Ji?+????A?lm"
+
+REFERENCE            product_t9_dlc_cp1
+LANG_ENGLISH         "??5??6?????u??,??=?????]X'Z4X?????A???L"
+
+REFERENCE            product_t9_dlc_cp1_desc
+LANG_ENGLISH         "?%Q?????6m{???Zs????????7?{???7??"
+
+REFERENCE            product_t9_dlc_cp2
+LANG_ENGLISH         "??5????E???k?>??1m??^???ygH?H!k?W?[??>?{?1|??"qi[?2f"
+
+REFERENCE            product_t9_dlc_cp2_desc
+LANG_ENGLISH         "?%Q?????6m{???Zs????????7?{???7??"
+
+REFERENCE            product_t9_dlc_cp3
+LANG_ENGLISH         "??5?6???????a???!??[?7??????K?????;?@(?9G?"
+
+REFERENCE            product_t9_dlc_cp3_desc
+LANG_ENGLISH         "?%Q?????6m{???Zs????????7?{???7??"
+
+REFERENCE            product_t9_dlc_doa
+LANG_ENGLISH         "?e:?ri??;??_?Z???/???? ???B?lf?G?????.v???CQpo? "
+
+REFERENCE            product_t9_dlc_doa_desc
+LANG_ENGLISH         "??,?	?b???J?????9????Y????>o???*???3???H"
+
+REFERENCE            product_t9_dlc_mp1
+LANG_ENGLISH         "?%>Call of Duty??: Black Ops Cold War - Multiplayer Base Install"
+
+REFERENCE            product_t9_dlc_mp1_desc
+LANG_ENGLISH         "?H(E???8X???????,???SW??Kc??Y'??7????"
+
+REFERENCE            product_t9_dlc_zm1
+LANG_ENGLISH         "?:???bP!???5??F5p"??N?<?3??u?????*??P2*?G???3????U??"
+
+REFERENCE            product_t9_dlc_zm1_desc
+LANG_ENGLISH         "?$AKzV???i`CP7???O????~???hx?zk%??"
+
+REFERENCE            starter_pack_desc
+LANG_ENGLISH         "Purchase this limited-time bundle of content for Modern Warfare?? and Warzone. This Starter Pack includes 500 Call of Duty?? Points (a $4.99 value), PLUS a new Operator Skin, a Shotgun Blueprint with five attachments, and MORE!
+
+Pack includes:
+
+- 500 Call of Duty Points* ($4.99 value)
+- Epic Operator Skin for Kreuger
+- Legendary Shotgun Blueprint
+- Epic Calling Card
+- Epic Emblem
+- 60-Minute Double Weapon XP Token
+- 60-Minute Double Battle Pass Tier XP Token
+
+Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare to obtain in-game content for use in Multiplayer, Special Ops and Warzone game modes.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Modern Warfare?? or Call of Duty??: Warzone required (Sold/downloaded separately).
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            starterpack_2_desc
+LANG_ENGLISH         "Get incredible value on in-game content for Modern Warfare?? and Warzone???. This Pro Pack includes 2400 Call of Duty?? Points, plus an epic Operator skin, two legendary weapon blueprints and MORE!
+
+Pack includes:
+
+- 2400 Call of Duty?? Points*
+- Epic Operator Skin for Ghost
+- Legendary LMG Blueprint
+- Legendary Handgun Blueprint
+- Rare Calling Card
+- Rare Emblem
+- 60-Minute Double Weapon XP Token
+- 60-Minute Double Battle Pass Tier XP Token
+
+Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain in-game content for use in Multiplayer, Special Ops and Warzone??? game modes.
+
+This pack may not be cross-platform supported.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available.
+
+Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Modern Warfare?? or Call of Duty??: Warzone??? required (Sold/downloaded separately).
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, MODERN WARFARE, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            starterpack_2_title
+LANG_ENGLISH         "??&?K?B?{?fw??1xU?_3?k??!?*=??]'???"?"
+
+REFERENCE            starterpack_3_desc
+LANG_ENGLISH         "Purchase this limited-time bundle of content for Black Ops Cold War and Warzone???. This Starter Pack includes 500 Call of Duty?? Points plus a new Operator Skin, two Battle Pass Tier Skips and MORE!
+
+Pack includes:
+
+- 500 Call of Duty?? Points*
+- Epic Operator Skin for Adler
+- Epic Calling Card
+- Epic Emblem
+- Two Battle Pass Tier Skips
+
+Call of Duty?? Points (CP) are the in-game currency that can be used to obtain in-game content for use in Warzone??? or Black Ops Cold War Multiplayer and Zombies game modes.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            starterpack_3_title
+LANG_ENGLISH         "?[2?Y?H?^_??I@}z?w????B?)	??????.?)>?????O??w"
+
+REFERENCE            starterpack_title
+LANG_ENGLISH         "??'?.??i?Zq?4????D??MH??b"?Ks#??5^N!???"
+
+REFERENCE            upsell_daily
+LANG_ENGLISH         "??1
+66?????CX???s???@X?XKcXL6??7?????c??,??\"
+
+REFERENCE            upsell_hint
+LANG_ENGLISH         "???????4e??1?????2??5aY????"
+
+REFERENCE            upsell_missions
+LANG_ENGLISH         "?3All mission challenges available in the full game."
+
+REFERENCE            upsell_weekly
+LANG_ENGLISH         "?y2???Y????6????????X;??6?K?@????W???,?Y?"
+
+REFERENCE            zeus_cross_gen_description
+LANG_ENGLISH         "Buy this digital current-gen version of Call of Duty??: Black Ops Cold War and download the next-gen version at no extra cost when it launches.
+
+The Cross-Gen Bundle includes:
+
+- Cross-Gen Bundle of Call of Duty??: Black Ops Cold War game
+-- Includes current-gen version and next-gen version when it launches
+- Confrontation Weapons Pack
+
+The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
+
+Black Ops Cold War will drop fans into the depths of the Cold War???s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.
+
+As elite operatives, you will follow the trail of a shadowy figure named Perseus who is on a mission to destabilize the global balance of power and change the course of history. Descend into the dark center of this global conspiracy alongside iconic characters Woods, Mason and Hudson and a new cast of operatives attempting to stop a plot decades in the making.
+
+Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipment into the next generation of Multiplayer and Zombies experiences.
+
+Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
+
+
+**Offer content and availability may vary by region and is subject to change. Call of Duty??: Modern Warfare??/Call of Duty??: Warzone??? required to redeem offer. Sold/downloaded separately. Must be redeemed by November 13th 2021.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            zeus_cross_gen_title
+LANG_ENGLISH         "??6h???????G???cX?z?????F??i?9??????@?W?#??"
+
+REFERENCE            zeus_standard_description
+LANG_ENGLISH         "Standard Edition includes:
+
+- Call of Duty??: Black Ops Cold War game
+- Confrontation Weapons Pack
+
+The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
+
+Black Ops Cold War will drop fans into the depths of the Cold War???s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.
+
+As elite operatives, you will follow the trail of a shadowy figure named Perseus who is on a mission to destabilize the global balance of power and change the course of history. Descend into the dark center of this global conspiracy alongside iconic characters Woods, Mason and Hudson and a new cast of operatives attempting to stop a plot decades in the making.
+
+Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipment into the next generation of Multiplayer and Zombies experiences.
+
+Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
+
+
+**Offer content and availability may vary by region and is subject to change. Call of Duty??: Modern Warfare??/Call of Duty??: Warzone??? required to redeem offer. Sold/downloaded separately. Must be redeemed by November 13th 2021.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            zeus_standard_title
+LANG_ENGLISH         "??6???q??????tU?9??
+??v???Ov)???C9/??d?I??(p+??"
+
+REFERENCE            zeus_trial_desc
+LANG_ENGLISH         "Experience the next generation of Multiplayer with Black Ops Cold War Free Access, from December 17th to December 24th. Bring an arsenal of weapons and equipment into the depths of the Cold War's volatile geopolitical battle of the early 1980s.
+
+The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
+
+Welcome to the brink. Welcome to Black Ops Cold War.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and CALL OF DUTY BLACK OPS, are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            zeus_trial_event_desc
+LANG_ENGLISH         "Play Zombies and Multiplayer for free, live from February 25th to March 4th.
+
+Welcome to Outbreak - a new, large-scale Zombies experience. Travel with the squad across snowy slopes, immense fields and deserted buildings as you outwit and outgun zombie hordes.
+
+Plus, get access to Multiplayer and immerse yourself in the signature Black Ops first-person shooter gameplay.
+
+Start your free trial to Black Ops Cold War now.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY and CALL OF DUTY BLACK OPS are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the property of their respective owners.
+"
+
+REFERENCE            zeus_trial_event_title
+LANG_ENGLISH         "??6F????0M?c?e??Nj?p??r?C???l??s?+B??U?y????3??'??"
+
+REFERENCE            zeus_trial_title
+LANG_ENGLISH         "?1j?Ar?!?%[?N???"W??????x?[?gAk???/??? ??.?s{"
+
+REFERENCE            zeus_trial_zm_desc
+LANG_ENGLISH         "Live from January 14th to January 21st.
+
+Experience the next generation of Zombies with Black Ops Cold War Zombies Free Access.
+
+Black Ops Cold War Zombies is set to take veterans and newcomers alike on a bold and terrifying journey that expands on an iconic part of the Call of Duty?? franchise. This co-op mode includes new ways to progress, classic Perks and an arsenal of Cold War-era Zombies weaponry that will help survivors dominate the legions of undead.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020-2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY and CALL OF DUTY BLACK OPS are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the property of their respective owners."
+
+REFERENCE            zeus_trial_zm_title
+LANG_ENGLISH         "?09X?c??"?:?W???,?[????h?c#@?9?@-????n?2???@l???n"
+
+REFERENCE            zeus_ultimate_description
+LANG_ENGLISH         "The Ultimate Edition is packed full of content and delivers the best value for fans. Contents include:
+
+- Call of Duty??: Black Ops Cold War game
+-- Note: console versions include current-gen version and next-gen version when it launches
+- Land, Sea and Air Pack
+-- 3 Operator Skins
+-- 3 Vehicle Skins
+-- 3 Weapon Blueprints
+- Battle Pass Bundle (1 Season Battle Pass + 20 Tier Skips)***
+- Confrontation Weapons Pack
+
+The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
+
+Black Ops Cold War will drop fans into the depths of the Cold War???s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.
+
+As elite operatives, you will follow the trail of a shadowy figure named Perseus who is on a mission to destabilize the global balance of power and change the course of history. Descend into the dark center of this global conspiracy alongside iconic characters Woods, Mason and Hudson and a new cast of operatives attempting to stop a plot decades in the making.
+
+Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipment into the next generation of Multiplayer and Zombies experiences.
+
+Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
+
+
+***Battle Pass and Tier Skips will be accessible in Call of Duty??: Black Ops Cold War once the first Battle Pass is made available in game. Battle Pass redemption applies to one season of Battle Pass only.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            zeus_ultimate_title
+LANG_ENGLISH         "??7Call of Duty??: Black Ops Cold War - Ultimate Edition "
+
+REFERENCE            zeus_upgrade_standard_to_ultimate_description
+LANG_ENGLISH         "The Ultimate Edition is packed full of content and delivers the best value for fans. Contents include:
+
+- Call of Duty??: Black Ops Cold War game
+-- Note: console versions include current-gen version and next-gen version when it launches
+- Land, Sea and Air Pack
+-- 3 Operator Skins
+-- 3 Vehicle Skins
+-- 3 Weapon Blueprints
+- Battle Pass Bundle (1 Season Battle Pass + 20 Tier Skips)***
+- Confrontation Weapons Pack
+
+The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
+
+Black Ops Cold War will drop fans into the depths of the Cold War???s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.
+
+As elite operatives, you will follow the trail of a shadowy figure named Perseus who is on a mission to destabilize the global balance of power and change the course of history. Descend into the dark center of this global conspiracy alongside iconic characters Woods, Mason and Hudson and a new cast of operatives attempting to stop a plot decades in the making.
+
+Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipment into the next generation of Multiplayer and Zombies experiences.
+
+Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
+
+
+***Battle Pass and Tier Skips will be accessible in Call of Duty??: Black Ops Cold War once the first Battle Pass is made available in game. Battle Pass redemption applies to one season of Battle Pass only.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            zeus_upgrade_standard_to_ultimate_title
+LANG_ENGLISH         "??7Call of Duty??: Black Ops Cold War - Ultimate Edition "
+
+
+ENDMARKER

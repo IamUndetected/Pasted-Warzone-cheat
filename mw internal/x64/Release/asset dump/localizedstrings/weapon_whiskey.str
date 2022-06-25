@@ -1,0 +1,62 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ar_t9accurate_v16
+LANG_ENGLISH         "?&	Gargoyle"
+
+REFERENCE            ar_t9accurate_v9
+LANG_ENGLISH         "?&	Gargoyle"
+
+REFERENCE            ar_t9longburst_v21
+LANG_ENGLISH         "??Powderizer"
+
+REFERENCE            ar_t9longburst_v24
+LANG_ENGLISH         "?6
+7O???&?"
+
+REFERENCE            ar_t9slowhandling_v3
+LANG_ENGLISH         "?&Home Grown"
+
+REFERENCE            ar_t9slowhandling_v4
+LANG_ENGLISH         "?&Home Grown"
+
+REFERENCE            ar_t9standard_v16
+LANG_ENGLISH         "?Swatt Master"
+
+REFERENCE            ar_t9standard_v18
+LANG_ENGLISH         "??Ultimate Hunter"
+
+REFERENCE            lm_t9accurate_v9
+LANG_ENGLISH         "??
+Big Smoke"
+
+REFERENCE            me_t9sledgehammer_2_flavor
+LANG_ENGLISH         "??1s??[xj?6?+ARO???Pa_??h?HK????????w??R??B"
+
+REFERENCE            me_t9sledgehammer_v2
+LANG_ENGLISH         "??Doom Hammer"
+
+REFERENCE            pi_t9burst_v11
+LANG_ENGLISH         "?Monumental"
+
+REFERENCE            sh_t9fullauto_v5
+LANG_ENGLISH         "?hBrutalizer"
+
+REFERENCE            sm_t9capacity_v14
+LANG_ENGLISH         "?YSoft Touch"
+
+REFERENCE            sm_t9capacity_v5
+LANG_ENGLISH         "?OPower Coil"
+
+REFERENCE            sm_t9fastfire_v5
+LANG_ENGLISH         "?Overrun"
+
+REFERENCE            sn_t9quickscope_v10
+LANG_ENGLISH         "?(Mortal Anguish"
+
+REFERENCE            sn_t9quickscope_v11
+LANG_ENGLISH         "??Cottontail"
+
+
+ENDMARKER

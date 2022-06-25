@@ -1,0 +1,445 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ammo_nail
+LANG_ENGLISH         "??f?Gy????:"
+
+REFERENCE            ar_t9accurate_v23
+LANG_ENGLISH         "??Victorian Age"
+
+REFERENCE            ar_t9accurate_v24
+LANG_ENGLISH         "?`Phoenix Captain"
+
+REFERENCE            ar_t9accurate_v25
+LANG_ENGLISH         "??Soldier Bee"
+
+REFERENCE            ar_t9accurate_v26
+LANG_ENGLISH         "??Viperstrike"
+
+REFERENCE            ar_t9damage_v22
+LANG_ENGLISH         "?$Retro Rifle"
+
+REFERENCE            ar_t9damage_v23
+LANG_ENGLISH         "???C??????"
+
+REFERENCE            ar_t9damage_v24
+LANG_ENGLISH         "??Lethal Damage"
+
+REFERENCE            ar_t9damage_v25
+LANG_ENGLISH         "??wB!y???????~%_#"
+
+REFERENCE            ar_t9damage_v26
+LANG_ENGLISH         "??Eastern Wall II"
+
+REFERENCE            ar_t9damage_v27
+LANG_ENGLISH         "?Monochrome"
+
+REFERENCE            ar_t9damage_v28
+LANG_ENGLISH         "?2Neurologist"
+
+REFERENCE            ar_t9fastfire_v22
+LANG_ENGLISH         "??Molten Lava"
+
+REFERENCE            ar_t9fastfire_v23
+LANG_ENGLISH         "??AR_T9FASTFIRE_V23"
+
+REFERENCE            ar_t9fastfire_v24
+LANG_ENGLISH         "?Prospector"
+
+REFERENCE            ar_t9fastfire_v25
+LANG_ENGLISH         "??
+Lifesaver"
+
+REFERENCE            ar_t9fasthandling_v7
+LANG_ENGLISH         "??Mother Board"
+
+REFERENCE            ar_t9fasthandling_v8
+LANG_ENGLISH         "?$x'?#8I??	?=??????<?"
+
+REFERENCE            ar_t9fasthandling_v9
+LANG_ENGLISH         "??Grizzy Blossom"
+
+REFERENCE            ar_t9longburst_v24
+LANG_ENGLISH         "?6
+7O???&?"
+
+REFERENCE            ar_t9longburst_v28
+LANG_ENGLISH         "?m??a????t????????"
+
+REFERENCE            ar_t9longburst_v29
+LANG_ENGLISH         "?mAR_T9LONGBURST_V29"
+
+REFERENCE            ar_t9mobility_v22
+LANG_ENGLISH         "?p-R??????U"
+
+REFERENCE            ar_t9mobility_v23
+LANG_ENGLISH         "?Shark Attack"
+
+REFERENCE            ar_t9mobility_v24
+LANG_ENGLISH         "?cAR_T9MOBILITY_V24"
+
+REFERENCE            ar_t9slowfire
+LANG_ENGLISH         "?C58"
+
+REFERENCE            ar_t9slowfire_desc
+LANG_ENGLISH         "???Full-auto assault rifle.  High damage at close range with a slower fire rate.  Fast bullet velocity and reliable recoil control with less ammo capacity."
+
+REFERENCE            ar_t9slowfire_v2
+LANG_ENGLISH         "?iForgotten Oasis"
+
+REFERENCE            ar_t9slowhandling_v6
+LANG_ENGLISH         "????Q!???8??Y?x?1??-"
+
+REFERENCE            ar_t9standard_v24
+LANG_ENGLISH         "??Western Wall II"
+
+REFERENCE            ar_t9standard_v25
+LANG_ENGLISH         "??Cleanup Crew"
+
+REFERENCE            ar_t9standard_v26
+LANG_ENGLISH         "??Blasting Star"
+
+REFERENCE            barrel2_ar_desc
+LANG_ENGLISH         "??X?z?Y?;??h=?88b>?q??-??j??#
+???A??$????????Z???4?ut??{??p??p1?C$??}?@+]??Hb???c"
+
+REFERENCE            barrel2_ar_t9slowfire
+LANG_ENGLISH         "????^?Y?Z?c"
+
+REFERENCE            barrel2_lm_t9fastfire
+LANG_ENGLISH         "?p2v?3??r8?????@C8??"
+
+REFERENCE            barrel_ar_desc
+LANG_ENGLISH         "??`?)x?[?A??i;??X?p???;???#S????;???+?%1?*fC??Q,}???
+0??9???pg?W????z?)?8?o)q?????U?"
+
+REFERENCE            barrel_ar_t9slowfire
+LANG_ENGLISH         "??G???AY[????%"
+
+REFERENCE            barrel_lm_t9fastfire
+LANG_ENGLISH         "??7?}???}t?e_"
+
+REFERENCE            extclip2_150
+LANG_ENGLISH         "??*
+'P??LM??F"
+
+REFERENCE            extclip2_150_desc
+LANG_ENGLISH         "?)-Extended ammo belt contains ^2150 rounds^7. "
+
+REFERENCE            extclip_125
+LANG_ENGLISH         "???5?N0?"
+
+REFERENCE            extclip_125_desc
+LANG_ENGLISH         "??-_?}.?7.1xe
+?%GsY???nD?p?Q???Y?"???????"
+
+REFERENCE            fastmags2_lm_desc
+LANG_ENGLISH         "?jELightweight ammo box with adjustable handle to improve reload speed."
+
+REFERENCE            fastmags_lm_desc
+LANG_ENGLISH         "?/\?????#7?K(]e?Y??P??o???3v????_D0??:??
+???"
+
+REFERENCE            heavy2_ar_t9slowfire
+LANG_ENGLISH         "??b?\?DU???????4?"
+
+REFERENCE            heavy2_lm_desc
+LANG_ENGLISH         "??[%c????`> ??????sy??bj"???{h?9=CW[k?Vj??7??????????{k?3?/N??h??r????g??a?wy??P???"
+
+REFERENCE            heavy2_lm_t9fastfire
+LANG_ENGLISH         "??&??b?????tN2+"
+
+REFERENCE            heavy_ar_t9slowfire
+LANG_ENGLISH         "????????Se?m?????"??"
+
+REFERENCE            heavy_lm_desc
+LANG_ENGLISH         "??dQ?????+F????Vc?????????s,6N?3Ks?q)????+??????????????????c????????'?l?K?l??????"
+
+REFERENCE            heavy_lm_t9fastfire
+LANG_ENGLISH         "?S16.4" Task Force"
+
+REFERENCE            lm_t9accurate_v14
+LANG_ENGLISH         "?????@S???9??"
+
+REFERENCE            lm_t9fastfire
+LANG_ENGLISH         "??MG 82"
+
+REFERENCE            lm_t9fastfire_desc
+LANG_ENGLISH         "???GR????#X???lj+I??
+{(??Q??z7FCSoc???p????8???_?????I????)?????Q;?L?dN??E?LNW	??8??}hQo??}????rS(?N?iF?(9??	g??P??????PnC????c??a0?N"
+
+REFERENCE            lm_t9fastfire_v2
+LANG_ENGLISH         "?KHigh Stakes"
+
+REFERENCE            lm_t9light_v15
+LANG_ENGLISH         "?Dawn Breaker"
+
+REFERENCE            lm_t9slowfire_v10
+LANG_ENGLISH         "?u?S??N??????JT?e??"
+
+REFERENCE            me_t9ballisticknife_v3
+LANG_ENGLISH         "??ST?Q?$?1?M??i?R#?}??"
+
+REFERENCE            me_t9bat
+LANG_ENGLISH         "??Baseball Bat"
+
+REFERENCE            me_t9bat_desc
+LANG_ENGLISH         "??}Lethal sporting equipment.  Lightweight bat with a cork center.  Swing for the fences to knock your enemies out of the park."
+
+REFERENCE            me_t9bat_v2
+LANG_ENGLISH         "?Nut Cracker"
+
+REFERENCE            me_t9sledgehammer_v4
+LANG_ENGLISH         "??
+u??QP? "
+
+REFERENCE            me_t9sledgehammer_v5
+LANG_ENGLISH         "???(?????w?yH(??KO??"
+
+REFERENCE            mixbarrel2_ar_desc
+LANG_ENGLISH         "?/\?)x?[?A??I????p? ?*?8*????6?????H?$x???gCmP?3PE????(?7w?;????g?Q?????s?9U???/{?ZcR?"
+
+REFERENCE            mixbarrel2_ar_t9slowfire
+LANG_ENGLISH         "???\S?Q,?[#?'?Y"
+
+REFERENCE            mixbarrel2_lm_t9fastfire
+LANG_ENGLISH         "??'? ??B?1.??g??Z?m;"
+
+REFERENCE            mixbarrel_ar_desc
+LANG_ENGLISH         "??T???_U???5?????>j?USM?????@g?gB??????E???`?{p?^G~`[?r?sw1a??w#?P??|(?????+?"
+
+REFERENCE            mixbarrel_ar_t9slowfire
+LANG_ENGLISH         "??18.7" Reinforced Heavy"
+
+REFERENCE            mixbarrel_lm_t9fastfire
+LANG_ENGLISH         "??9azC???K???"
+
+REFERENCE            mixbarrel_lm_t9fastfire_desc
+LANG_ENGLISH         "??]73b?8?=9??pm?KI??vH?K???
+?i{?>`6m?78???o#??z??G?`^'P?????G?L?m@[0M??+???t?????"
+
+REFERENCE            mixclip2_150
+LANG_ENGLISH         "??5???{M@?s22????;"
+
+REFERENCE            mixclip2_150_desc
+LANG_ENGLISH         "?=P?]???K?kjp??5?	?Y?cn#[m["ML?q???h?#??]w??h??????_W+"???.???????k?k?Jn?"
+
+REFERENCE            mixclip2_50
+LANG_ENGLISH         "?}KExtended steel magazine contains ^250 rounds^7 and improves reload speed. "
+
+REFERENCE            mixclip_125
+LANG_ENGLISH         "??125 Rnd Speed Mag"
+
+REFERENCE            mixclip_125_desc
+LANG_ENGLISH         "??E??klG????????k?9??V???{?7??+??4??:???/??#SN??72ny?"
+
+REFERENCE            mixclip_40
+LANG_ENGLISH         "??dx"???,p?h????B??ao?8i&*???sk?{????K???IR?????#@hO??a??????+M?F?P???@??H??]7??["
+
+REFERENCE            pi_semiauto_v16
+LANG_ENGLISH         "??Bell Ringer"
+
+REFERENCE            pi_semiauto_v17
+LANG_ENGLISH         "??Firecrackers"
+
+REFERENCE            pi_t9burst_v16
+LANG_ENGLISH         "?xRegal Shiv"
+
+REFERENCE            pi_t9burst_v17
+LANG_ENGLISH         "??Phoenix Sergeant"
+
+REFERENCE            pi_t9revolver_v10
+LANG_ENGLISH         "??
+Pop Piece"
+
+REFERENCE            pi_t9revolver_v11
+LANG_ENGLISH         "?LDouble Brush"
+
+REFERENCE            pi_t9revolver_v12
+LANG_ENGLISH         "?C??P_O9?????B?"
+
+REFERENCE            pi_t9revolver_v13
+LANG_ENGLISH         "?MPrivate Party"
+
+REFERENCE            pi_t9semiauto_v15
+LANG_ENGLISH         "?Squishy Slimes"
+
+REFERENCE            pi_t9semiauto_v16
+LANG_ENGLISH         "??Bell Ringer"
+
+REFERENCE            pi_t9semiauto_v17
+LANG_ENGLISH         "??Firecrackers"
+
+REFERENCE            sh_t9fullauto_v10
+LANG_ENGLISH         "?If??_?O????S??Wn?O"
+
+REFERENCE            sh_t9fullauto_v8
+LANG_ENGLISH         "?Street Splasher"
+
+REFERENCE            sh_t9fullauto_v9
+LANG_ENGLISH         "??SH_T9FULLAUTO_V9"
+
+REFERENCE            sh_t9pump_v18
+LANG_ENGLISH         "?
+
+Punk Rock"
+
+REFERENCE            sh_t9semiauto_v16
+LANG_ENGLISH         "??
+Fumigator"
+
+REFERENCE            sh_t9semiauto_v17
+LANG_ENGLISH         "?G5??NjSR(??????s"
+
+REFERENCE            sm_accurate_v5
+LANG_ENGLISH         "?Footballer "
+
+REFERENCE            sm_accurate_v6
+LANG_ENGLISH         "?9Neurotransmitter"
+
+REFERENCE            sm_t9accurate_v5
+LANG_ENGLISH         "?Footballer "
+
+REFERENCE            sm_t9accurate_v6
+LANG_ENGLISH         "?9Neurotransmitter"
+
+REFERENCE            sm_t9burst_v20
+LANG_ENGLISH         "??Ancient Scarab"
+
+REFERENCE            sm_t9burst_v21
+LANG_ENGLISH         "??Kintek Burst"
+
+REFERENCE            sm_t9burst_v22
+LANG_ENGLISH         "?HRough Nugget"
+
+REFERENCE            sm_t9burst_v23
+LANG_ENGLISH         "??Y?;?m?JC-?j?"
+
+REFERENCE            sm_t9capacity_v19
+LANG_ENGLISH         "?PSquirtFrog"
+
+REFERENCE            sm_t9capacity_v20
+LANG_ENGLISH         "??Serpent Idol"
+
+REFERENCE            sm_t9fastfire_v9
+LANG_ENGLISH         "??Regal Sword"
+
+REFERENCE            sm_t9handling_v21
+LANG_ENGLISH         "?pSM_T9HANDLING_V21"
+
+REFERENCE            sm_t9handling_v22
+LANG_ENGLISH         "?p???+8?UY?p??W?cs"
+
+REFERENCE            sm_t9handling_v23
+LANG_ENGLISH         "?nHeat Flash"
+
+REFERENCE            sm_t9handling_v24
+LANG_ENGLISH         "??Flower Power"
+
+REFERENCE            sm_t9handling_v25
+LANG_ENGLISH         "??Milly Blossom"
+
+REFERENCE            sm_t9heavy_v22
+LANG_ENGLISH         "?#Penumbra Carbon"
+
+REFERENCE            sm_t9heavy_v23
+LANG_ENGLISH         "??Street Legal"
+
+REFERENCE            sm_t9heavy_v24
+LANG_ENGLISH         "?.??}EN*??V?+#"
+
+REFERENCE            sm_t9nailgun
+LANG_ENGLISH         "??	Nail Gun"
+
+REFERENCE            sm_t9nailgun_desc
+LANG_ENGLISH         "???Full-auto nail gun.  Slow firing power tool uses compressed air to launch fast moving projectiles.  High damage at close range with fast handling speeds. "
+
+REFERENCE            sm_t9nailgun_v2
+LANG_ENGLISH         "?GPuncture Wound"
+
+REFERENCE            sm_t9powerburst_v16
+LANG_ENGLISH         "??Crimson Sky"
+
+REFERENCE            sm_t9powerburst_v17
+LANG_ENGLISH         "?,
+Headstone"
+
+REFERENCE            sm_t9powerburst_v18
+LANG_ENGLISH         "??Shell Shock"
+
+REFERENCE            sm_t9powerburst_v19
+LANG_ENGLISH         "?Sudden Bite"
+
+REFERENCE            sm_t9spray_v3
+LANG_ENGLISH         "?tLast Words"
+
+REFERENCE            sm_t9standard_v21
+LANG_ENGLISH         "??Paint Blaster"
+
+REFERENCE            sm_t9standard_v22
+LANG_ENGLISH         "?7?N????????"
+
+REFERENCE            sm_t9standard_v23
+LANG_ENGLISH         "?Barrage"
+
+REFERENCE            sm_t9standard_v24
+LANG_ENGLISH         "?R?whGb??{????5"
+
+REFERENCE            sn_t9cannon_v4
+LANG_ENGLISH         "??
+Beat Drop"
+
+REFERENCE            sn_t9damagesemi_v15
+LANG_ENGLISH         "?UM9????P?5????eL?"
+
+REFERENCE            sn_t9damagesemi_v16
+LANG_ENGLISH         "??Regal Scepter"
+
+REFERENCE            sn_t9powersemi_v10
+LANG_ENGLISH         "??Ancient Spear"
+
+REFERENCE            sn_t9powersemi_v11
+LANG_ENGLISH         "??	Resistor"
+
+REFERENCE            sn_t9powersemi_v12
+LANG_ENGLISH         "?Lead Weight"
+
+REFERENCE            sn_t9precisionsemi_v10
+LANG_ENGLISH         "?aArcade Hobby"
+
+REFERENCE            sn_t9precisionsemi_v11
+LANG_ENGLISH         "?]N???3??8+???"
+
+REFERENCE            sn_t9precisionsemi_v12
+LANG_ENGLISH         "??????j)s<?:}i?Y5?B"
+
+REFERENCE            sn_t9quickscope_v14
+LANG_ENGLISH         "??}??Q???MS"
+
+REFERENCE            sn_t9quickscope_v15
+LANG_ENGLISH         "??}??Q???MS"
+
+REFERENCE            sn_t9quickscope_v16
+LANG_ENGLISH         "??Wind Rider"
+
+REFERENCE            sn_t9standard_v14
+LANG_ENGLISH         "???J?M????"
+
+REFERENCE            sn_t9standard_v23
+LANG_ENGLISH         "?Barrage"
+
+REFERENCE            sprintout2_lm_t9fastfire_desc
+LANG_ENGLISH         "?jORemoved stock enables concealment versatility to improve sprint recovery time."
+
+REFERENCE            sprintout_lm_t9fastfire_desc
+LANG_ENGLISH         "?JG?+i*??A?b;??"?????'B?i?-q???Wc??z,"s??0@#`E??????8??:?(?????Bi?*?"
+
+REFERENCE            stalker2_lm_t9fastfire_desc
+LANG_ENGLISH         "?"\Shortened synthetic stock reduces weight to improve movement speeds when aiming and firing."
+
+REFERENCE            stalker_lm_t9fastfire_desc
+LANG_ENGLISH         "?Gc?y\?"??gq;?~?}?Wi,?*XO??w?7_?V*???2?#?!?6???F????H8J???:????{?"
+
+
+ENDMARKER

@@ -1,0 +1,1383 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            aerial_cam
+LANG_ENGLISH         "??Aerial Camera"
+
+REFERENCE            aerial_camera_default
+LANG_ENGLISH         "??$
+Y9?X?h,k?N,??"????@???V9??&??m"
+
+REFERENCE            aerial_camera_default_desc
+LANG_ENGLISH         "?o?4{??????:CV'??Y@??D,??+N?7X??{k:-??^??G???????,?c,????9??G?C?7?????4K????:??+'Z???????"
+
+REFERENCE            an_bomb_pickup
+LANG_ENGLISH         "??		???[&"
+
+REFERENCE            an_bomb_planted
+LANG_ENGLISH         "?+Bomb planted at &&1"
+
+REFERENCE            an_bomb_planting
+LANG_ENGLISH         "?X??,???????X?1?b"
+
+REFERENCE            an_called_a_scorestreak
+LANG_ENGLISH         "?&&1"
+
+REFERENCE            an_ctf_captured
+LANG_ENGLISH         "??Flag captured"
+
+REFERENCE            an_ctf_killcarrier
+LANG_ENGLISH         "?cZZ??+?3???@??'K??"
+
+REFERENCE            an_ctf_pickup
+LANG_ENGLISH         "??1"noS?u??sx??"
+
+REFERENCE            an_ctf_return
+LANG_ENGLISH         "???????/?k?!I"
+
+REFERENCE            an_defusing
+LANG_ENGLISH         "?i	Defusing"
+
+REFERENCE            an_dom_secure_point
+LANG_ENGLISH         "???!?w??O!???"
+
+REFERENCE            an_emp_pickup
+LANG_ENGLISH         "??
+??m+FWj
+"
+
+REFERENCE            an_emp_planted
+LANG_ENGLISH         "??L?&???,??+????T?("
+
+REFERENCE            an_first_blood
+LANG_ENGLISH         "??d??n@???#"
+
+REFERENCE            an_gunfight_flag
+LANG_ENGLISH         "??Overtime Flag Available"
+
+REFERENCE            an_hardpoint_available
+LANG_ENGLISH         "??,?\3????Q????X?.(?"
+
+REFERENCE            an_hardpoint_capturing
+LANG_ENGLISH         "?&
+??????7;"
+
+REFERENCE            an_hardpoint_contest
+LANG_ENGLISH         "?\
+^%Y?;??"
+
+REFERENCE            an_hardpoint_new
+LANG_ENGLISH         "?gKy<Q?#??a0"
+
+REFERENCE            an_hq_available
+LANG_ENGLISH         "??{??;W?2?I9?"
+
+REFERENCE            an_hq_captured
+LANG_ENGLISH         "?V?????????2?E"
+
+REFERENCE            an_hq_destroyed
+LANG_ENGLISH         "?g???Ya?(?O?"
+
+REFERENCE            an_hq_new
+LANG_ENGLISH         "?X?V??Y2???'???"
+
+REFERENCE            an_killed_defuser
+LANG_ENGLISH         "?v$??????F?x???"
+
+REFERENCE            an_killstreak
+LANG_ENGLISH         "??Zi????b?+????d??"
+
+REFERENCE            an_last_man_standing
+LANG_ENGLISH         "?}Last man standing"
+
+REFERENCE            an_last_player_standing
+LANG_ENGLISH         "??Last Alive"
+
+REFERENCE            an_multikill
+LANG_ENGLISH         "??????-??6?@<bL&"
+
+REFERENCE            an_uplink_ball_pickup
+LANG_ENGLISH         "?8J???NK@?7??G?"
+
+REFERENCE            an_uplink_ball_reset
+LANG_ENGLISH         "??'??V???V?"
+
+REFERENCE            an_uplink_dunk
+LANG_ENGLISH         "?b	??????n"
+
+REFERENCE            an_uplink_long_shot
+LANG_ENGLISH         "?w??Ib?"
+
+REFERENCE            announcement_all
+LANG_ENGLISH         "??I?h ??{???H???"
+
+REFERENCE            announcement_major_only
+LANG_ENGLISH         "??yS?kW????"
+
+REFERENCE            announcement_minor_only
+LANG_ENGLISH         "?R?z(0?}x0?"
+
+REFERENCE            arena_time_health_ended_game
+LANG_ENGLISH         "?GBfKM?x?w'.?!?(yY"
+
+REFERENCE            arena_time_lives_ended_game
+LANG_ENGLISH         "?B&&1 HAS MORE PLAYERS ALIVE"
+
+REFERENCE            assign_to_team
+LANG_ENGLISH         "?Assign to &&1"
+
+REFERENCE            bindings_aerial_camera_focus
+LANG_ENGLISH         "?&Aerial Camera - Focus Selected Player"
+
+REFERENCE            bindings_aerial_camera_focus_desc
+LANG_ENGLISH         "?QP?S?+?V9???G???,?VN@????V?????:Vc??Y'@?C?6Y??????:?Y@/S??-@hX?Y??n?"
+
+REFERENCE            bindings_aerial_camera_lock
+LANG_ENGLISH         "??%?s(?G????H]3^{?X?;-???P??j??1p?"
+
+REFERENCE            bindings_aerial_camera_lock_desc
+LANG_ENGLISH         "??_???r? ??n??h?????/nz??kD?*s?asS?3???cL??????w)=p0??H?;?i]?	h9?[??H?U?+C?*?Y??g??n?`"
+
+REFERENCE            bindings_aerial_central_player
+LANG_ENGLISH         "??(Aerial Camera - Spectate Central Player"
+
+REFERENCE            bindings_aerial_central_player_desc
+LANG_ENGLISH         "?cc??[??J?!???'?*#qN??????`??3??r/?`?t?Y?V?3O??`Z{??Fw=?,??OrKi????lY1kxSX?????jW??:#[,???g"[??"
+
+REFERENCE            bindings_aerialcam
+LANG_ENGLISH         "??Aerial Camera"
+
+REFERENCE            bindings_aerialcam_desc
+LANG_ENGLISH         "??WVw????X.n?I#]?5??	??@??^n???\??w?02?][??H?&?????@v?+?????(?f??PJ??/q????1?"
+
+REFERENCE            bindings_announcements
+LANG_ENGLISH         "??Announcements"
+
+REFERENCE            bindings_announcements_desc
+LANG_ENGLISH         "?:?Display or hide ^5Announcements^7 in the Information Panel.
+
+Announcements include messages about objectives, killing sprees, first bloods and a few other in-game events.
+Announcements are only displayed if the ^5Score Header^7 setting is enabled."
+
+REFERENCE            bindings_campreset1
+LANG_ENGLISH         "??h??V??Y?Y:@L"
+
+REFERENCE            bindings_campreset10
+LANG_ENGLISH         "?????)????S?????"
+
+REFERENCE            bindings_campreset10_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 10^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset1_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 1^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset2
+LANG_ENGLISH         "??Camera Preset 2"
+
+REFERENCE            bindings_campreset2_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 2^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset3
+LANG_ENGLISH         "??4????,9??+:?"
+
+REFERENCE            bindings_campreset3_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 3^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset4
+LANG_ENGLISH         "?????)????S????"
+
+REFERENCE            bindings_campreset4_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 4^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset5
+LANG_ENGLISH         "??4?k????Y??j"
+
+REFERENCE            bindings_campreset5_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 5^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset6
+LANG_ENGLISH         "??h????NV?+??"
+
+REFERENCE            bindings_campreset6_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 6^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset7
+LANG_ENGLISH         "??`X??i/hB?s??R"
+
+REFERENCE            bindings_campreset7_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 7^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset8
+LANG_ENGLISH         "??hX?????????V?"
+
+REFERENCE            bindings_campreset8_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 8^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset9
+LANG_ENGLISH         "???X?V??
+?+??:?"
+
+REFERENCE            bindings_campreset9_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 9^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_dataview
+LANG_ENGLISH         "??
+?X?,??+?"
+
+REFERENCE            bindings_dataview_desc
+LANG_ENGLISH         "?3???{w09^a????#?'?b?(E]?V??m??????gv?1??"??a3?F????	??2Wjo??c?x??+?S?C????bW?????h?K???j/X?1?_??v?K???`?-?)???<????z=?6"
+
+REFERENCE            bindings_fieldupgradeview
+LANG_ENGLISH         "???Z??#??;?,??+?V?"
+
+REFERENCE            bindings_fieldupgradeview_desc
+LANG_ENGLISH         "???80?j?A?@7vA?t?8????3\5???)??zh???%??w????x???I?X43a?sYj{?=?????QV+#??#?????????U?????0?Z?C.?pE?v$Q'd???17zI??L?)g*w??z?yj? ??l=??v??2??????bg???I?Jz(9k???/????sH?????Z?V?n?j?"
+
+REFERENCE            bindings_freecam
+LANG_ENGLISH         "??Free Camera"
+
+REFERENCE            bindings_freecam_desc
+LANG_ENGLISH         "??Wj?Z?????,????9?????+???aX??????{?G{fc^?9{W?#??V?????@n???:?+????kX?lC?"
+
+REFERENCE            bindings_fullscreenmap
+LANG_ENGLISH         "???W???9?Y?5?+?V?"
+
+REFERENCE            bindings_fullscreenmap_desc
+LANG_ENGLISH         "??-Display or hide the ^5Fullscreen Map View^7."
+
+REFERENCE            bindings_hidelayer
+LANG_ENGLISH         "??O2_???/?^???
+9?O%"
+
+REFERENCE            bindings_hidelayer_desc
+LANG_ENGLISH         "?,0Display or hide ^5all CoDCaster HUD elements^7."
+
+REFERENCE            bindings_killfeed
+LANG_ENGLISH         "??	Killfeed"
+
+REFERENCE            bindings_killfeed_desc
+LANG_ENGLISH         "?\@Display or hide the ^5Killfeed^7 which lists all in-game kills."
+
+REFERENCE            bindings_killstreakview
+LANG_ENGLISH         "???Z????N?[Y???"
+
+REFERENCE            bindings_killstreakview_desc
+LANG_ENGLISH         "??(@??mps??}???y?????????iP????~Ww???X?%?????????S????]?B/??k??5??????2?x??-'????@??o??p.!7?????e#&?????1"????2???A???:1???7z????inj&`a`?? ??m3*?loN?}Y?Q8F;??bc????"
+
+REFERENCE            bindings_listenin
+LANG_ENGLISH         "?;?|???????8?bg??"
+
+REFERENCE            bindings_listenin_desc
+LANG_ENGLISH         "??@?7XcV?'?????V6Z??V??sv?@?CY?+l?????,??7????@?,G?"
+
+REFERENCE            bindings_medals
+LANG_ENGLISH         "????Y(6?/????#???"
+
+REFERENCE            bindings_medals_desc
+LANG_ENGLISH         "?8?08?r?I?x?~9?|? ?z??o' ?@%???'??r???K??`-?W???Z??[?Q?pTO??M"
+
+REFERENCE            bindings_minimap
+LANG_ENGLISH         "??Minimap"
+
+REFERENCE            bindings_minimap_desc
+LANG_ENGLISH         "??!Display or hide the ^5Minimap^7."
+
+REFERENCE            bindings_nightvision
+LANG_ENGLISH         "?>???v6??????:??7-??@?K??"
+
+REFERENCE            bindings_nightvision_desc
+LANG_ENGLISH         "??ksC??`m?S.Tp?B??K@???	?d+88JJ??;x???(C^????????h?????????+????H?????hw"?iwc"?2??i???????7:??u&?#="
+
+REFERENCE            bindings_pause_game
+LANG_ENGLISH         "??Pause Game"
+
+REFERENCE            bindings_pause_game_desc
+LANG_ENGLISH         "?t??A??#Y?t?<?su??hZ6?`???`??q?????l=I???(???"y[???i???@?3b??s7x??3??kH???E!??????[!?`?KVc??R? `??Y?????K#?>"
+
+REFERENCE            bindings_playercard
+LANG_ENGLISH         "??Player Card"
+
+REFERENCE            bindings_playercard_desc
+LANG_ENGLISH         "?;{Display or hide the ^5Player Card^7.
+
+This widget displays the player name, operator, team logo, equipped weapon and ammo."
+
+REFERENCE            bindings_playerhud
+LANG_ENGLISH         "?1Player HUD"
+
+REFERENCE            bindings_playerhud_desc
+LANG_ENGLISH         "??%Display or hide Player HUD elements."
+
+REFERENCE            bindings_playernumbers
+LANG_ENGLISH         "??Player Numbers"
+
+REFERENCE            bindings_playernumbers_desc
+LANG_ENGLISH         "??=Display or hide ^5Player Numbers^7 on the ^5Portrait List^7."
+
+REFERENCE            bindings_playerstats
+LANG_ENGLISH         "?)Toggle Player Stats"
+
+REFERENCE            bindings_playerstats_desc
+LANG_ENGLISH         "??$?K?????????@1'?Y?@??????7???n?"
+
+REFERENCE            bindings_scoreheader
+LANG_ENGLISH         "??Score Header"
+
+REFERENCE            bindings_scoreheader_desc
+LANG_ENGLISH         "?UtDisplay or hide the ^5Score Header^7 which hosts team scores, game and objective clocks, and the information panel."
+
+REFERENCE            bindings_selectnext
+LANG_ENGLISH         "??jV?V6:@9?G?A??+?"
+
+REFERENCE            bindings_selectnext_desc
+LANG_ENGLISH         "??D?R;c?c????)??0?>?????x?{?y???R?Y?????s??i?*8:+?CE?my??Q\s 1w?"
+
+REFERENCE            bindings_selectprevious
+LANG_ENGLISH         "??_o:M|SFp??1!#???"
+
+REFERENCE            bindings_selectprevious_desc
+LANG_ENGLISH         "??HMove the ^5Player Selector^7 on the previous slot of the ^5Team List^7."
+
+REFERENCE            bindings_selectspectate
+LANG_ENGLISH         "???+??+???+??+?(????'"
+
+REFERENCE            bindings_selectspectate_desc
+LANG_ENGLISH         "?LJ?k???/Bh???1Nx??^)?W??qB?Y?w?B\Y?h?>;qk????h?j????S?vjM????(S???"
+
+REFERENCE            bindings_set_camera_preset
+LANG_ENGLISH         "????WQ1?+6X??gs!"
+
+REFERENCE            bindings_set_camera_preset_desc
+LANG_ENGLISH         "???S???i???+??V????]	??b0?}?????S&????H???S[g5?t*?{?{:??C????N[iB??????s??c??Sg?G?p???07#?s??K9:??SZ?8???0o[??2o????{c???s?^	?a??h
+??9{??u7?b?????(??)??b?????[H?(??????` ^?;C!;???@8??k?"
+
+REFERENCE            bindings_settingsmenu
+LANG_ENGLISH         "?9Open CoDCaster Options"
+
+REFERENCE            bindings_settingsmenu_desc
+LANG_ENGLISH         "??*??????+????"??:V??8?K??7y?@k????1?"
+
+REFERENCE            bindings_spectate1
+LANG_ENGLISH         "??a????i]??X3x??"
+
+REFERENCE            bindings_spectate10
+LANG_ENGLISH         "??C7???X??a?'???o"
+
+REFERENCE            bindings_spectate10_desc
+LANG_ENGLISH         "?${???6?$\???)??????;kx?J?????"
+
+REFERENCE            bindings_spectate1_desc
+LANG_ENGLISH         "??#?j"??	?pR?(?iOS????????t	?????"
+
+REFERENCE            bindings_spectate2
+LANG_ENGLISH         "???J??)?2kL9??r??"
+
+REFERENCE            bindings_spectate2_desc
+LANG_ENGLISH         "??#Spectate the player in ^5Slot 2^7."
+
+REFERENCE            bindings_spectate3
+LANG_ENGLISH         "??5?+l??V@?,^???"
+
+REFERENCE            bindings_spectate3_desc
+LANG_ENGLISH         "??#j8Y??VV8c??9???j????fy??"
+
+REFERENCE            bindings_spectate4
+LANG_ENGLISH         "??Spectate Player 4"
+
+REFERENCE            bindings_spectate4_desc
+LANG_ENGLISH         "??#Spectate the player in ^5Slot 4^7."
+
+REFERENCE            bindings_spectate5
+LANG_ENGLISH         "??5??l?,GY???+???"
+
+REFERENCE            bindings_spectate5_desc
+LANG_ENGLISH         "??#??????V??c,?????@yS??{???n"
+
+REFERENCE            bindings_spectate6
+LANG_ENGLISH         "??Vp?i?VS0")-?b?g?"
+
+REFERENCE            bindings_spectate6_desc
+LANG_ENGLISH         "??#??????V@4V@?6??V?-???j??{?/n?"
+
+REFERENCE            bindings_spectate7
+LANG_ENGLISH         "??j8?6?YcX????"
+
+REFERENCE            bindings_spectate7_desc
+LANG_ENGLISH         "??#5?+l??V@??8?X^+??s?S?c???/??"
+
+REFERENCE            bindings_spectate8
+LANG_ENGLISH         "??Spectate Player 8"
+
+REFERENCE            bindings_spectate8_desc
+LANG_ENGLISH         "?#?0??????9? x??`PE?Q?^??<aB??"
+
+REFERENCE            bindings_spectate9
+LANG_ENGLISH         "????O?-???#????"
+
+REFERENCE            bindings_spectate9_desc
+LANG_ENGLISH         "?#Spectate the player in ^5Slot 9^7."
+
+REFERENCE            bindings_spectatenext
+LANG_ENGLISH         "??f??K?k?????ivra?hr?"
+
+REFERENCE            bindings_spectatenext_desc
+LANG_ENGLISH         "??/j8?6?YCY?Y??????9-????SV[?-n???"
+
+REFERENCE            bindings_spectateprevious
+LANG_ENGLISH         "???8?6???
+?+?????(?^??"
+
+REFERENCE            bindings_spectateprevious_desc
+LANG_ENGLISH         "?h35Yl????C????;Z{????,???@??:??????[@???:/??"
+
+REFERENCE            bindings_subcat_title
+LANG_ENGLISH         "??CoDCaster Keybinds"
+
+REFERENCE            bindings_teamlist
+LANG_ENGLISH         "??
+Team List"
+
+REFERENCE            bindings_teamlist_desc
+LANG_ENGLISH         "????K;?:x??)??G??y?+????Y??????????RK\????4?f?K???????y?????f?k??p0???????V????Gj?-?=O?yW BM9??h k??????z???????#[?Of"y?E?X3p?e??+?a??)????*?U??)?.?'t?K?g?Ny?}??qx?K??r?"
+
+REFERENCE            bindings_teamlistype
+LANG_ENGLISH         "?Team List Type"
+
+REFERENCE            bindings_teamlistype_desc
+LANG_ENGLISH         "?{?????l?&?G?VV?-?????????C?/j?'?9???-??/n?N?C??M??????1???/??-?:C?y??+????????\P??Y?/j{?????:@&??G?s?-??,??@?V9?????'?9?Z?7?Q4???S/?'?-??????????,???L???????^?N7???"
+
+REFERENCE            bindings_thirdperson
+LANG_ENGLISH         "????c$:?w?shf?N#gWU/"
+
+REFERENCE            bindings_thirdperson_desc
+LANG_ENGLISH         "?A=?W???46?8N!?????[?Q_;?0?v_?g?6???gE?*?7??;??????*(??RU"
+
+REFERENCE            bindings_title
+LANG_ENGLISH         "?v	7?1?????"
+
+REFERENCE            bindings_xray
+LANG_ENGLISH         "?TXRAY"
+
+REFERENCE            bindings_xray_desc
+LANG_ENGLISH         "??Display or hide XRAY on players and objectives.
+
+XRAY Type and First Person Weapon XRAY settings can be adjusted in the Misc category."
+
+REFERENCE            bloodoption
+LANG_ENGLISH         "?ZIn-game Blood"
+
+REFERENCE            bloodoption_desc
+LANG_ENGLISH         "?o#Display or hide ^5in-game blood^7."
+
+REFERENCE            camera_keybinds
+LANG_ENGLISH         "??Camera Keybinds"
+
+REFERENCE            camera_settings
+LANG_ENGLISH         "??Camera Settings"
+
+REFERENCE            camera_smoothing
+LANG_ENGLISH         "???{????J?`?????"
+
+REFERENCE            camera_smoothing_desc
+LANG_ENGLISH         "?N?-????M2?sH?vp?SH?:K[??0U???????Ak[z'??c???J??G??8?.Ih????????`^??'?(`l
+????0?"?X???B?1??.???9?H??O?+??xhh??[?`?b_?#???????p?kc??;2????8~~(?????"Z??"?A?????G???????!??@XB????V?t???c??????'??`9m????????????"
+
+REFERENCE            caps
+LANG_ENGLISH         "??
+CODCASTER"
+
+REFERENCE            codcaster_button_disabled
+LANG_ENGLISH         "??)Change your team to CoDCaster to unlock."
+
+REFERENCE            codcaster_paused_game_text
+LANG_ENGLISH         "?:[Y@???nYF"
+
+REFERENCE            codcaster_paused_game_title
+LANG_ENGLISH         "?:[Y@???nYF"
+
+REFERENCE            codcaster_title
+LANG_ENGLISH         "??
+G?^{?S"
+
+REFERENCE            codecaster_resume_button_label
+LANG_ENGLISH         "?I?????@t,?+"
+
+REFERENCE            column_captures
+LANG_ENGLISH         "??	h????'Y7"
+
+REFERENCE            column_kills_deaths
+LANG_ENGLISH         "??K / D"
+
+REFERENCE            column_ratio
+LANG_ENGLISH         "??)[?"
+
+REFERENCE            column_scores
+LANG_ENGLISH         "??+????"
+
+REFERENCE            column_streak
+LANG_ENGLISH         "??j:NV?["
+
+REFERENCE            column_time
+LANG_ENGLISH         "???K?Y"
+
+REFERENCE            column_uplinks
+LANG_ENGLISH         "?aUplinks"
+
+REFERENCE            default_camera
+LANG_ENGLISH         "?kDefault Camera"
+
+REFERENCE            display_settings
+LANG_ENGLISH         "????{w09^a/?(#B/'"
+
+REFERENCE            display_settings_caps
+LANG_ENGLISH         "???oyg1a'?)3@?g"
+
+REFERENCE            display_settings_desc
+LANG_ENGLISH         "?GControl which Display Settings are enabled by default when CODcasting."
+
+REFERENCE            ds_announcement
+LANG_ENGLISH         "??Announcements"
+
+REFERENCE            ds_announcement_desc
+LANG_ENGLISH         "?:?Display or hide ^5Announcements^7 in the Information Panel.
+
+Announcements include messages about objectives, killing sprees, first bloods and a few other in-game events.
+Announcements are only displayed if the ^5Score Header^7 setting is enabled."
+
+REFERENCE            ds_callout_cards
+LANG_ENGLISH         "?yCallout Cards"
+
+REFERENCE            ds_callout_cards_desc
+LANG_ENGLISH         "??FDisplay identity cards that call out team
+actions and who was killed."
+
+REFERENCE            ds_cameraicon
+LANG_ENGLISH         "?-??k????R??7?"
+
+REFERENCE            ds_cameraicon_desc
+LANG_ENGLISH         "?i$Display camera icons on the minimap"
+
+REFERENCE            ds_field_upgrade
+LANG_ENGLISH         "?bField Upgrades Notifications"
+
+REFERENCE            ds_field_upgrade_desc
+LANG_ENGLISH         "?=pDisplay or hide ^5Field Upgrades Notifications^7 that appear over the ^5Portrait List^7 when a player earns it."
+
+REFERENCE            ds_flip_score_panel
+LANG_ENGLISH         "?KFlip Score Panel"
+
+REFERENCE            ds_flip_score_panel_desc
+LANG_ENGLISH         "??%???[??x:???'U??n7?p+??B????uAH?R"
+
+REFERENCE            ds_inventory
+LANG_ENGLISH         "?Ammo Counter"
+
+REFERENCE            ds_inventory_desc
+LANG_ENGLISH         "?|#Display the current weapon's ammo."
+
+REFERENCE            ds_killfeed
+LANG_ENGLISH         "??	Killfeed"
+
+REFERENCE            ds_killfeed_desc
+LANG_ENGLISH         "?\@Display or hide the ^5Killfeed^7 which lists all in-game kills."
+
+REFERENCE            ds_killstreaks
+LANG_ENGLISH         "?Killstreaks"
+
+REFERENCE            ds_killstreaks_desc
+LANG_ENGLISH         "?OChoose whether or not you can see the player's currently equipped Killstreaks."
+
+REFERENCE            ds_killstreaks_notifications
+LANG_ENGLISH         "?	Killstreak Notifications"
+
+REFERENCE            ds_killstreaks_notifications_desc
+LANG_ENGLISH         "?CoDisplay or hide ^5Killstreaks Notifications^7 that appear over the ^5Portrait List^7 when a player earns them."
+
+REFERENCE            ds_minimap
+LANG_ENGLISH         "??Minimap"
+
+REFERENCE            ds_minimap_desc
+LANG_ENGLISH         "??!Display or hide the ^5Minimap^7."
+
+REFERENCE            ds_objective_status
+LANG_ENGLISH         "??Objective Status"
+
+REFERENCE            ds_objective_status_desc
+LANG_ENGLISH         "??&Display objective game modes' status."
+
+REFERENCE            ds_perks
+LANG_ENGLISH         "??Perks"
+
+REFERENCE            ds_perks_desc
+LANG_ENGLISH         "??R$?3?M??F9???@??~?'S?N"x???=P$????0?.?	?'7??'???-?^hok????4??$[?f?@??gk?z?"
+
+REFERENCE            ds_player_notifications
+LANG_ENGLISH         "??Medals Notifications"
+
+REFERENCE            ds_player_notifications_desc
+LANG_ENGLISH         "??&Display the notifications for Medals."
+
+REFERENCE            ds_playerpoints
+LANG_ENGLISH         "?pPlayer Points"
+
+REFERENCE            ds_playerpoints_desc
+LANG_ENGLISH         "??)Display the points earned by the player."
+
+REFERENCE            ds_scorestreak_notifications
+LANG_ENGLISH         "???Q@Jb?????????[?/???+????"
+
+REFERENCE            ds_scorestreak_notifications_desc
+LANG_ENGLISH         "???/?H??????????[?/???+????#m????&???Bo?G'????J?Y0J1??-?|?"
+
+REFERENCE            ds_scorestreaks
+LANG_ENGLISH         "??5??N+nG?????"
+
+REFERENCE            ds_scorestreaks_desc
+LANG_ENGLISH         "??PChoose whether or not you can see the player's currently equipped Scorestreaks."
+
+REFERENCE            ds_specialist
+LANG_ENGLISH         "??G#?V????k"
+
+REFERENCE            ds_specialist_notifications
+LANG_ENGLISH         "??Specialist Perk Notifications"
+
+REFERENCE            ds_specialist_notifications_desc
+LANG_ENGLISH         "??tDisplay or hide ^5Specialist Perks Notifications^7 that appear over the ^5Portrait List^7 when a player earns them."
+
+REFERENCE            ds_team_identity
+LANG_ENGLISH         "??Team Identity"
+
+REFERENCE            ds_team_identity_desc
+LANG_ENGLISH         "??Display Team Logos and Names."
+
+REFERENCE            ds_team_score
+LANG_ENGLISH         "??Team Score"
+
+REFERENCE            ds_team_score_desc
+LANG_ENGLISH         "??%Display the standard team score HUD."
+
+REFERENCE            ds_toolbar
+LANG_ENGLISH         "??`h??9?(T@?SN("
+
+REFERENCE            ds_toolbar_desc
+LANG_ENGLISH         "??5?y?u??Jy?K??QOB ???+J??3??Z??????S?????????|"?0]"
+
+REFERENCE            ds_voip_dock
+LANG_ENGLISH         "?UVoice Icon"
+
+REFERENCE            ds_voip_dock_desc
+LANG_ENGLISH         "?.vDisplay the names of CoDCasters when speaking. This will also display players while the Listen In setting is enabled."
+
+REFERENCE            ds_waypoint_markers
+LANG_ENGLISH         "?Waypoint Markers"
+
+REFERENCE            ds_waypoint_markers_desc
+LANG_ENGLISH         "??1Display or hide objectives ^5Waypoint Markers^7."
+
+REFERENCE            ds_xray
+LANG_ENGLISH         "??
+XRAY Type"
+
+REFERENCE            ds_xray_desc
+LANG_ENGLISH         "??ODisplay outlines on the ^5allied^7 team, the ^5enemy^7 team or ^5both^7 teams."
+
+REFERENCE            edit_settings
+LANG_ENGLISH         "??G?ep!??w??m??3k_W"
+
+REFERENCE            edit_settings_tool_tip
+LANG_ENGLISH         "?MSet your CoDCaster settings."
+
+REFERENCE            enable_follow_drone
+LANG_ENGLISH         "?? ???e????y?m?Q?
+??"
+
+REFERENCE            end_result_win
+LANG_ENGLISH         "?	??R??C$?"
+
+REFERENCE            end_result_win_plural
+LANG_ENGLISH         "?&&1 WIN"
+
+REFERENCE            faction_eliminated
+LANG_ENGLISH         "???L*?J???(EQ""
+
+REFERENCE            faction_forfeited
+LANG_ENGLISH         "?????#z?dT??Q?"
+
+REFERENCE            first_person_xray
+LANG_ENGLISH         "??First Person Weapon XRAY"
+
+REFERENCE            first_person_xray_desc
+LANG_ENGLISH         "???Display or hide ^5XRAY^7 outlines on a player's weapon in First Person view for a few seconds when switching players.
+
+This setting is independent from the other XRAY settings."
+
+REFERENCE            fly_down_zoom_in
+LANG_ENGLISH         "???/?"???y?????7"
+
+REFERENCE            fly_down_zoom_in_desc
+LANG_ENGLISH         "?+[Hold to fly downward while in ^5Free Camera^7.
+Hold to Zoom In while in ^5Aerial Camera^7."
+
+REFERENCE            fly_up_zoom_out
+LANG_ENGLISH         "?U???@U??i?{?z?"
+
+REFERENCE            fly_up_zoom_out_desc
+LANG_ENGLISH         "?[Z???????c????'?K?????Md????,??',/?qP?{F?{@?????????w?Y??@?S
+Y9?,c4,????s?"
+
+REFERENCE            follow
+LANG_ENGLISH         "?|eu????"
+
+REFERENCE            follow_drone_enabled
+LANG_ENGLISH         "?1?Y??????G??:u?????"
+
+REFERENCE            follower
+LANG_ENGLISH         "?>	??6c??V9"
+
+REFERENCE            follower_caps
+LANG_ENGLISH         "?>	??&b??T)"
+
+REFERENCE            free_camera_high_factor
+LANG_ENGLISH         "?"Free Camera High Speed Multiplier"
+
+REFERENCE            free_camera_high_factor_desc
+LANG_ENGLISH         "??KMultiples the movement speed for the slow movement of the ^5Free Camera^7."
+
+REFERENCE            free_camera_input_type
+LANG_ENGLISH         "??&Free Camera Speed Modifier Input Type"
+
+REFERENCE            free_camera_input_type_desc
+LANG_ENGLISH         "??hUse ^5Hold^7 or ^5Toggle^7 behavior when using the slow or high speed controls for the ^5Free Camera^7."
+
+REFERENCE            free_camera_slow_factor
+LANG_ENGLISH         "?I"Free Camera Slow Speed Multiplier"
+
+REFERENCE            free_camera_slow_factor_desc
+LANG_ENGLISH         "??KMultiples the movement speed for the slow movement of the ^5Free Camera^7."
+
+REFERENCE            free_camera_smoothing
+LANG_ENGLISH         "??Free Camera Smoothing"
+
+REFERENCE            free_camera_smoothing_desc
+LANG_ENGLISH         "??/Adjust the ^5Free Camera^7 movement smoothing."
+
+REFERENCE            free_camera_speed
+LANG_ENGLISH         "??Free Camera Movement Speed"
+
+REFERENCE            free_camera_speed_desc
+LANG_ENGLISH         "??3Adjust the ^5Free Camera^7 default movement speed."
+
+REFERENCE            freecam
+LANG_ENGLISH         "??Free Camera"
+
+REFERENCE            freecam_preset_toast
+LANG_ENGLISH         "?????"
+
+REFERENCE            freecam_preset_toast_header
+LANG_ENGLISH         "?6?m????????????????"
+
+REFERENCE            hide_followers
+LANG_ENGLISH         "?RHide followers"
+
+REFERENCE            highlight_player
+LANG_ENGLISH         "? !?P???s>)?9qox"
+
+REFERENCE            highlight_player_button
+LANG_ENGLISH         "????2?X??????-l????"
+
+REFERENCE            highlight_player_pc
+LANG_ENGLISH         "??Arrow Up/Down"
+
+REFERENCE            hud_caps
+LANG_ENGLISH         "?HUD"
+
+REFERENCE            hud_settings
+LANG_ENGLISH         "??HUD Settings"
+
+REFERENCE            kb_comma
+LANG_ENGLISH         "?L,"
+
+REFERENCE            kb_cyclecameras
+LANG_ENGLISH         "?X?NA1"???"
+
+REFERENCE            kb_dot
+LANG_ENGLISH         "?L"
+
+REFERENCE            kb_loadout
+LANG_ENGLISH         "?u??????"
+
+REFERENCE            kb_loadoutsettings
+LANG_ENGLISH         "??Loadout Settings"
+
+REFERENCE            kb_map
+LANG_ENGLISH         "??)Z"
+
+REFERENCE            kb_menu
+LANG_ENGLISH         "??E?xS"
+
+REFERENCE            kb_nextliveplayer
+LANG_ENGLISH         "???7Gzc)?=P?'??Q???????"
+
+REFERENCE            kb_nextplayer
+LANG_ENGLISH         "?2'???A?,???"
+
+REFERENCE            kb_perks
+LANG_ENGLISH         "??Perks"
+
+REFERENCE            kb_playercard
+LANG_ENGLISH         "??Player Card"
+
+REFERENCE            kb_playerhud
+LANG_ENGLISH         "?1Player HUD"
+
+REFERENCE            kb_playerlist
+LANG_ENGLISH         "??Player List"
+
+REFERENCE            kb_playernumbers
+LANG_ENGLISH         "??Player Numbers"
+
+REFERENCE            kb_previousplayer
+LANG_ENGLISH         "?Previous Player"
+
+REFERENCE            kb_quicksettings
+LANG_ENGLISH         "??*W?l????-???"
+
+REFERENCE            kb_scoreboard
+LANG_ENGLISH         "?YScoreboard"
+
+REFERENCE            kb_scorepanel
+LANG_ENGLISH         "???[?s?NIX(2u"
+
+REFERENCE            kb_settings
+LANG_ENGLISH         "?{	Settings"
+
+REFERENCE            kb_shortcuts
+LANG_ENGLISH         "?L?"
+
+REFERENCE            kb_team1
+LANG_ENGLISH         "?TEAM #1 Players"
+
+REFERENCE            kb_team2
+LANG_ENGLISH         "?u*Q?F????V??"
+
+REFERENCE            kb_thirdperson
+LANG_ENGLISH         "??Third Person"
+
+REFERENCE            kb_toolbar
+LANG_ENGLISH         "???_?H?;"
+
+REFERENCE            kb_xray
+LANG_ENGLISH         "?TXRAY"
+
+REFERENCE            keyboard_shortcuts
+LANG_ENGLISH         "?*ZY??XN2?4??:???"
+
+REFERENCE            keyboard_shortcuts_desc
+LANG_ENGLISH         "?$View the keyboard shortcuts layout."
+
+REFERENCE            loadout
+LANG_ENGLISH         "?u??????"
+
+REFERENCE            loadout_settings
+LANG_ENGLISH         "??Loadout Settings"
+
+REFERENCE            loadout_settings_caps
+LANG_ENGLISH         "??LOADOUT SETTINGS"
+
+REFERENCE            loadout_settings_desc
+LANG_ENGLISH         "??G^o???????l?@?$?7?9??8??y?_6U??E??h?u??\???/????@??o?s?o?(??"
+
+REFERENCE            ls_equipment
+LANG_ENGLISH         "??
+Equipment"
+
+REFERENCE            ls_equipment_desc
+LANG_ENGLISH         "?Display Lethals and Tacticals."
+
+REFERENCE            ls_perks
+LANG_ENGLISH         "??Perks"
+
+REFERENCE            ls_perks_desc
+LANG_ENGLISH         "??Display Perks."
+
+REFERENCE            ls_player_operator
+LANG_ENGLISH         "?RPlayer Operator"
+
+REFERENCE            ls_player_operator_desc
+LANG_ENGLISH         "??Display the player's Operator."
+
+REFERENCE            ls_player_specialist
+LANG_ENGLISH         "?1Player Rig"
+
+REFERENCE            ls_player_specialist_desc
+LANG_ENGLISH         "???2zI 7????O?Q??+F?X?"
+
+REFERENCE            ls_primary_weapon
+LANG_ENGLISH         "??Primary Weapon"
+
+REFERENCE            ls_primary_weapon_attachments
+LANG_ENGLISH         "??Primary Weapon Attachments"
+
+REFERENCE            ls_primary_weapon_attachments_desc
+LANG_ENGLISH         "?D$Display Primary Weapon Attachments."
+
+REFERENCE            ls_primary_weapon_desc
+LANG_ENGLISH         "??Display Primary weapons."
+
+REFERENCE            ls_secondary_weapon
+LANG_ENGLISH         "??Secondary Weapon"
+
+REFERENCE            ls_secondary_weapon_attachments
+LANG_ENGLISH         "?sSecondary Weapon Attachments"
+
+REFERENCE            ls_secondary_weapon_attachments_desc
+LANG_ENGLISH         "?&Display Secondary Weapon Attachments."
+
+REFERENCE            ls_secondary_weapon_desc
+LANG_ENGLISH         "??Display Secondary weapons."
+
+REFERENCE            ls_specialist_weapon_ability
+LANG_ENGLISH         "?d1X?K)C??WQR?e??????"
+
+REFERENCE            ls_specialist_weapon_ability_desc
+LANG_ENGLISH         "??Display Rig Payload and Trait."
+
+REFERENCE            ls_wildcards
+LANG_ENGLISH         "??
+?????Fn"
+
+REFERENCE            ls_wildcards_desc
+LANG_ENGLISH         "??Display the Wildcards."
+
+REFERENCE            minimap_full_view
+LANG_ENGLISH         "??
+???q???|"
+
+REFERENCE            minimap_standard
+LANG_ENGLISH         "??	Standard"
+
+REFERENCE            misc_settings_caps
+LANG_ENGLISH         "???qwU"
+
+REFERENCE            move_back_desc
+LANG_ENGLISH         "?ZL;O??i3?:???????g33?Z??f?I?c??#?Xw?Chx~75Q?x&??C??Z???A?????s??0??}"
+
+REFERENCE            move_down
+LANG_ENGLISH         "?b
+G?T:H@???"
+
+REFERENCE            move_forward_desc
+LANG_ENGLISH         "??K	??????j???Y#?'?XN/???-+????;?Y??VY???????@??+9?X???k+?X?"
+
+REFERENCE            move_left_desc
+LANG_ENGLISH         "??H	???:??j??g?&+f?n??c???K7??Yd??+X??9???:?+?Z6??[??,?"
+
+REFERENCE            move_right_desc
+LANG_ENGLISH         "?oIs?y
+h??>??qcE??ow????Q?< ???%g???????i??Y??@??sKG???TO??[s??w?Mp??"
+
+REFERENCE            move_up
+LANG_ENGLISH         "???W??K"
+
+REFERENCE            perks_alwayson
+LANG_ENGLISH         "??
+
+???????"
+
+REFERENCE            perks_onspawn
+LANG_ENGLISH         "?^	On Spawn"
+
+REFERENCE            player_numbers
+LANG_ENGLISH         "??Player Numbers"
+
+REFERENCE            player_numbers_desc
+LANG_ENGLISH         "??=Display or hide ^5Player Numbers^7 on the ^5Portrait List^7."
+
+REFERENCE            player_numbers_type
+LANG_ENGLISH         "??Player Number Type"
+
+REFERENCE            player_numbers_type_default
+LANG_ENGLISH         "??Default Player Numbers"
+
+REFERENCE            player_numbers_type_desc
+LANG_ENGLISH         "?ZDisplay either ^5Default Player Numbers^7 or replace them with ^5Jersey Player Numbers^7."
+
+REFERENCE            player_numbers_type_jersey
+LANG_ENGLISH         "??Jersey Player Numbers"
+
+REFERENCE            player_order
+LANG_ENGLISH         "??X?P?.????"
+
+REFERENCE            player_order_desc
+LANG_ENGLISH         "?/<Ss?+??@????Y?????N?????Z?c?+W7V?@?????=???Z7v?"
+
+REFERENCE            playerlist_toggle
+LANG_ENGLISH         "??Player List"
+
+REFERENCE            portraitlist_toggle
+LANG_ENGLISH         "?\Portrait List"
+
+REFERENCE            qs_listen_in
+LANG_ENGLISH         "?[
+Listen In"
+
+REFERENCE            qs_listen_in_hint
+LANG_ENGLISH         "??/Listen in to the team of the spectated player."
+
+REFERENCE            qs_player_card
+LANG_ENGLISH         "??Player Card"
+
+REFERENCE            qs_player_card_hint
+LANG_ENGLISH         "?;{Display or hide the ^5Player Card^7.
+
+This widget displays the player name, operator, team logo, equipped weapon and ammo."
+
+REFERENCE            qs_player_card_hud
+LANG_ENGLISH         "????r????5?n???t?"
+
+REFERENCE            qs_player_hud
+LANG_ENGLISH         "?1Player HUD"
+
+REFERENCE            qs_player_hud_hint
+LANG_ENGLISH         "??:Display the in-game player HUD as configured in Settings."
+
+REFERENCE            qs_player_list
+LANG_ENGLISH         "?Team List Type"
+
+REFERENCE            qs_player_list_hint
+LANG_ENGLISH         "???Display either the ^5Portrait List^7 or the ^5Player List^7 in the ^5Team List^7.
+
+The ^5Portrait List^7 displays operator portraits.
+The ^5Player List^7 displays brief player stats."
+
+REFERENCE            qs_playernameplates
+LANG_ENGLISH         "??Player Nameplates"
+
+REFERENCE            qs_playernameplates_desc
+LANG_ENGLISH         "?`9Display or hide ^5Player Names^7 over in-game operators."
+
+REFERENCE            qs_playernameplates_hint
+LANG_ENGLISH         "?????X/??@'???????Y??$???"
+
+REFERENCE            qs_score_panel
+LANG_ENGLISH         "??Score Header"
+
+REFERENCE            qs_score_panel_hint
+LANG_ENGLISH         "?UtDisplay or hide the ^5Score Header^7 which hosts team scores, game and objective clocks, and the information panel."
+
+REFERENCE            qs_screen_border
+LANG_ENGLISH         "?556NYY????N??9"
+
+REFERENCE            qs_screen_border_hint
+LANG_ENGLISH         "?PH????6/????,?V?k??c?'??1?9???????#:????l???????+???????s??c??9?"
+
+REFERENCE            qs_team_list
+LANG_ENGLISH         "??
+Team List"
+
+REFERENCE            qs_team_list_desc
+LANG_ENGLISH         "??Display or hide the ^5Team List^7.
+
+When Enabled, this widget displays the ^5Portrait List^7 or the ^5Player List^7.
+The displayed list can be set using the ^5Team List Type^7 option."
+
+REFERENCE            qs_third_person
+LANG_ENGLISH         "??Third Person"
+
+REFERENCE            qs_third_person_hint
+LANG_ENGLISH         "?b'M?S?Z8pC69?+?6??b???0~?{?'x??/c}"
+
+REFERENCE            qs_xray
+LANG_ENGLISH         "?TXRAY"
+
+REFERENCE            qs_xray_desc
+LANG_ENGLISH         "??gE????Y???P?f???????VN???2{1M?6?-?Y?\??)????@?X?1???CX??V????C??n??????:?s?????i???Y???/?"
+
+REFERENCE            qs_xray_hint
+LANG_ENGLISH         "?Display or hide ^5XRAY^7 outlines for players and objectives.
+
+XRAY Type can be changed using the ^5XRAY Type^7 setting below."
+
+REFERENCE            quick_settings
+LANG_ENGLISH         "??*W?l????-???"
+
+REFERENCE            quick_settings_caps
+LANG_ENGLISH         "??*U%h????)9?"
+
+REFERENCE            quick_settings_desc
+LANG_ENGLISH         "?[E{??'?????4?W-??@???-?v?@,'???7X&?2@L??????????7?"??G-???"
+
+REFERENCE            reorder_lobby
+LANG_ENGLISH         "?Reorder lobby"
+
+REFERENCE            reorder_lobby_tool_tip
+LANG_ENGLISH         "?D	?t#??Sn?
+??S?{?<??X?&3??"?x?o??cN??J???_?j?f?eK?O?VB?S??h?7"
+
+REFERENCE            select_player
+LANG_ENGLISH         "?<M?+??X?VN"
+
+REFERENCE            selected_logo
+LANG_ENGLISH         "??5????V??;?"
+
+REFERENCE            settings
+LANG_ENGLISH         "?{	Settings"
+
+REFERENCE            show_followers
+LANG_ENGLISH         "??Show followers"
+
+REFERENCE            slow_down
+LANG_ENGLISH         "?(
+?0W??G??"
+
+REFERENCE            slow_down_desc
+LANG_ENGLISH         "??pS???i?Z??%1??eV?:W	??0?}P+"???Zr?Q?Nj??}:g~???[?#???!?#??m??u?|?@j??IZ?&y&??MBO?*??C^??=??=K("w I?J"
+
+REFERENCE            spectating
+LANG_ENGLISH         "??Spectating"
+
+REFERENCE            speed_up
+LANG_ENGLISH         "??	?I??#??"
+
+REFERENCE            speed_up_desc
+LANG_ENGLISH         "?8p!?#?@]??,/SfX?V???g???s???+#???K?#'??@,??9q?)V???7???9???N?@:?@?{'??c@??+Y@4?k?'??????V7?@?8+Y??"
+
+REFERENCE            starting_camera
+LANG_ENGLISH         "?+Starting Camera"
+
+REFERENCE            starting_camera_desc
+LANG_ENGLISH         "?/lChoose whether the match starts using the ^5Default Camera^7, the ^5Free Camera^7 or the ^5Aerial Camera^7."
+
+REFERENCE            stats_damage
+LANG_ENGLISH         "?DMG"
+
+REFERENCE            swap_teams
+LANG_ENGLISH         "?W?|????r??R??e9.?s"
+
+REFERENCE            swap_teams_desc
+LANG_ENGLISH         "?u-Z4S????2??????\???N??"7?`g?????C@I?G?{n"
+
+REFERENCE            team1
+LANG_ENGLISH         "?q?!??"
+
+REFERENCE            team1_color
+LANG_ENGLISH         "?A?+o
+?Z?e8??"
+
+REFERENCE            team1_color_desc
+LANG_ENGLISH         "?????v?*+X????l?c?9?"
+
+REFERENCE            team1_logo
+LANG_ENGLISH         "?A?Y??????O"
+
+REFERENCE            team1_logo_desc
+LANG_ENGLISH         "?H;???????????Q??2?"
+
+REFERENCE            team1_name
+LANG_ENGLISH         "?)???~????C?"
+
+REFERENCE            team1_name_desc
+LANG_ENGLISH         "??Change Team 1's name."
+
+REFERENCE            team1_num_alive
+LANG_ENGLISH         "?P#?:?.????P??????????`??? ?C?Z?X?[E_"
+
+REFERENCE            team1_settings
+LANG_ENGLISH         "?*?????Y?:K?v?"
+
+REFERENCE            team1_settings_desc
+LANG_ENGLISH         "??,???-??:???[V@?????s?l?{?3??Y[L\"
+
+REFERENCE            team2
+LANG_ENGLISH         "?q*????d"
+
+REFERENCE            team2_color
+LANG_ENGLISH         "??a?E?SKo??+"
+
+REFERENCE            team2_color_desc
+LANG_ENGLISH         "?H???HYCiP??zg?B??"
+
+REFERENCE            team2_logo
+LANG_ENGLISH         "?????k??"???"
+
+REFERENCE            team2_logo_desc
+LANG_ENGLISH         "?vv??!?B?/????Oy?Z??"
+
+REFERENCE            team2_name
+LANG_ENGLISH         "??Q8?U?C???Qq"
+
+REFERENCE            team2_name_desc
+LANG_ENGLISH         "????Eq7?????'?
+h:e??"
+
+REFERENCE            team2_num_alive
+LANG_ENGLISH         "??#$(scoreboard.team3.numAlive) Alive"
+
+REFERENCE            team2_settings
+LANG_ENGLISH         "??Team 2 Settings"
+
+REFERENCE            team2_settings_desc
+LANG_ENGLISH         "??,l2S???Aq?????
+?9??????mQ??0???yb?_?_?c?Z?"
+
+REFERENCE            team_01
+LANG_ENGLISH         "??
+??,?@??3"
+
+REFERENCE            team_02
+LANG_ENGLISH         "???aP??uWj?"
+
+REFERENCE            team_03
+LANG_ENGLISH         "?vV?[5??#?9"
+
+REFERENCE            team_04
+LANG_ENGLISH         "??1??????Q{:?"
+
+REFERENCE            team_05
+LANG_ENGLISH         "??
+??X?i??v"
+
+REFERENCE            team_caps
+LANG_ENGLISH         "??E?"
+
+REFERENCE            team_color_colon
+LANG_ENGLISH         "??v??"
+
+REFERENCE            team_color_preview
+LANG_ENGLISH         "?y4???NA?+???w"
+
+REFERENCE            team_identity
+LANG_ENGLISH         "??Team Identity"
+
+REFERENCE            team_identity_custom
+LANG_ENGLISH         "?4Custom"
+
+REFERENCE            team_identity_desc
+LANG_ENGLISH         "?!\Choose default ^5Factions^7 team identities or use ^5Custom^7 team logos, names and colors."
+
+REFERENCE            team_identity_factions
+LANG_ENGLISH         "?		Factions"
+
+REFERENCE            team_logo_colon
+LANG_ENGLISH         "????v??"
+
+REFERENCE            team_name
+LANG_ENGLISH         "??
+?9????C??"
+
+REFERENCE            team_name_100_thieves
+LANG_ENGLISH         "?"100 Thieves"
+
+REFERENCE            team_name_100_thieves_short
+LANG_ENGLISH         "??100T"
+
+REFERENCE            team_name_colon
+LANG_ENGLISH         "???y85?"
+
+REFERENCE            team_name_team_envy
+LANG_ENGLISH         "?S
+EV?k??;^"
+
+REFERENCE            team_name_team_envy_short
+LANG_ENGLISH         "?`????"
+
+REFERENCE            team_primary_color_colon
+LANG_ENGLISH         "?a?'-?9?{???"
+
+REFERENCE            team_secondary_color_colon
+LANG_ENGLISH         "??A?????K????msx?O"
+
+REFERENCE            team_settings
+LANG_ENGLISH         "?-Team Settings"
+
+REFERENCE            team_settings_caps
+LANG_ENGLISH         "?-Q?j??????t?"
+
+REFERENCE            team_settings_tips_desc
+LANG_ENGLISH         "- Team names allow up to 30 characters in length.
+
+- Primary colors are the main colors used to identify teams on various CoDCaster elements. This includes the Portrait List, Player Card, Score Header, XRAYS, Announcements, Minimap arrows and more.
+
+- Secondary colors are used on detailing elements including Player Names the Team List and the Player Card, on Announcements and Objective Waypoints letters.
+
+- Pick primary and secondary colors that have good contrast between them.
+
+- Avoid color combinations that are unfriendly for colorblind viewers such as using red and green."
+
+REFERENCE            team_settings_tips_title
+LANG_ENGLISH         "????#?Z?}??`?J???[?"
+
+REFERENCE            ticker_space
+LANG_ENGLISH         "?Bottom Elements Offset"
+
+REFERENCE            ticker_space_desc
+LANG_ENGLISH         "???Offset the ^5bottom CoDCaster elements^7 toward the top of the screen.
+
+This allows CoDCasters to display their own overlays at the bottom of the screen without the need to hide CoDCaster elements."
+
+REFERENCE            time_to_beat_ctf_ended_game
+LANG_ENGLISH         "?n$????
+?d?j??*@???
+
+?U?Q?d??"
+
+REFERENCE            time_to_beat_uplink_ended_game
+LANG_ENGLISH         "?S???Bk;)???7?oup?_?y?P("
+
+REFERENCE            visual_settings
+LANG_ENGLISH         "?FVisual Settings"
+
+REFERENCE            visual_settings_caps
+LANG_ENGLISH         "?F/p?u???oK?????I"
+
+REFERENCE            voice_settings
+LANG_ENGLISH         "??Voice Settings"
+
+REFERENCE            voice_settings_caps
+LANG_ENGLISH         "??Y??4???*R9?j"
+
+REFERENCE            xray_both
+LANG_ENGLISH         "??Both"
+
+REFERENCE            xray_enemy
+LANG_ENGLISH         "??Enemy"
+
+REFERENCE            xray_friendly
+LANG_ENGLISH         "??Allied"
+
+REFERENCE            xray_none
+LANG_ENGLISH         "??None"
+
+
+ENDMARKER

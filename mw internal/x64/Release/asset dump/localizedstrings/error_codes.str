@@ -1,0 +1,2079 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            0_0
+LANG_ENGLISH         "??
+GOLDFLAKE"
+
+REFERENCE            0_1
+LANG_ENGLISH         "???x	=?"
+
+REFERENCE            0_10
+LANG_ENGLISH         "???
+??2"
+
+REFERENCE            0_11
+LANG_ENGLISH         "??	?\??"
+
+REFERENCE            0_12
+LANG_ENGLISH         "??	4??j??Q%"
+
+REFERENCE            0_13
+LANG_ENGLISH         "??	h??T?bQ"
+
+REFERENCE            0_14
+LANG_ENGLISH         "?<	REPROACH"
+
+REFERENCE            0_15
+LANG_ENGLISH         "? ?'P?s?"
+
+REFERENCE            0_16
+LANG_ENGLISH         "?????{"
+
+REFERENCE            0_17
+LANG_ENGLISH         "?<	?T(d???"
+
+REFERENCE            0_18
+LANG_ENGLISH         "??	!?'?%$P?"
+
+REFERENCE            0_19
+LANG_ENGLISH         "?1WARDEN"
+
+REFERENCE            0_2
+LANG_ENGLISH         "???U1)?"
+
+REFERENCE            0_20
+LANG_ENGLISH         "?DANBURY"
+
+REFERENCE            0_21
+LANG_ENGLISH         "??=???$?"
+
+REFERENCE            0_22
+LANG_ENGLISH         "??COMET"
+
+REFERENCE            0_23
+LANG_ENGLISH         "???U$Q?*JR??"
+
+REFERENCE            0_3
+LANG_ENGLISH         "?5?Sl??7????"
+
+REFERENCE            0_4
+LANG_ENGLISH         "??}???G"
+
+REFERENCE            0_5
+LANG_ENGLISH         "??TECHNOLOGY"
+
+REFERENCE            0_6
+LANG_ENGLISH         "?a
+JrQ)1?D?"
+
+REFERENCE            0_7
+LANG_ENGLISH         "???'??"
+
+REFERENCE            0_8
+LANG_ENGLISH         "??H?=("5??JD"
+
+REFERENCE            0_9
+LANG_ENGLISH         "??G8??1??"
+
+REFERENCE            10_0
+LANG_ENGLISH         "?@
+A!?M"
+
+REFERENCE            10_1
+LANG_ENGLISH         "?4y???s?m"
+
+REFERENCE            10_10
+LANG_ENGLISH         "??1P?1???????m{j"
+
+REFERENCE            10_11
+LANG_ENGLISH         "?C	hPU?"???"
+
+REFERENCE            10_12
+LANG_ENGLISH         "??????"
+
+REFERENCE            10_13
+LANG_ENGLISH         "??	?cn?v"
+
+REFERENCE            10_14
+LANG_ENGLISH         "?.
+DEXTERITY"
+
+REFERENCE            10_15
+LANG_ENGLISH         "?MONTANO"
+
+REFERENCE            10_16
+LANG_ENGLISH         "?^TJT?"
+
+REFERENCE            10_17
+LANG_ENGLISH         "??
+????]?fe"
+
+REFERENCE            10_2
+LANG_ENGLISH         "??rp??W"
+
+REFERENCE            10_3
+LANG_ENGLISH         "?????%e??"
+
+REFERENCE            10_4
+LANG_ENGLISH         "??	BLISSFUL"
+
+REFERENCE            10_5
+LANG_ENGLISH         "?4???&`?"
+
+REFERENCE            10_6
+LANG_ENGLISH         "??lV"
+
+REFERENCE            10_7
+LANG_ENGLISH         "???xw??[Y ?7
+?"
+
+REFERENCE            10_8
+LANG_ENGLISH         "?	BULLSEYE"
+
+REFERENCE            10_9
+LANG_ENGLISH         "??	??-?%?T"
+
+REFERENCE            11_0
+LANG_ENGLISH         "??
+BARBARITY"
+
+REFERENCE            11_1
+LANG_ENGLISH         "??
+VENTILATE"
+
+REFERENCE            11_10
+LANG_ENGLISH         "?f	hP???"(%"
+
+REFERENCE            11_11
+LANG_ENGLISH         "???R?ZQ?"
+
+REFERENCE            11_12
+LANG_ENGLISH         "??)?????S*?"
+
+REFERENCE            11_13
+LANG_ENGLISH         "??
+A??*??"
+
+REFERENCE            11_14
+LANG_ENGLISH         "?!RUDDER"
+
+REFERENCE            11_15
+LANG_ENGLISH         "?@CARPETBAGGER"
+
+REFERENCE            11_16
+LANG_ENGLISH         "?AULTRA"
+
+REFERENCE            11_17
+LANG_ENGLISH         "?<I???QQ"
+
+REFERENCE            11_18
+LANG_ENGLISH         "??tB?M???"
+
+REFERENCE            11_19
+LANG_ENGLISH         "??
+?'D???Q"
+
+REFERENCE            11_2
+LANG_ENGLISH         "??
+?U?*)"
+
+REFERENCE            11_20
+LANG_ENGLISH         "?????kg"
+
+REFERENCE            11_21
+LANG_ENGLISH         "?DMEDITERRANEAN"
+
+REFERENCE            11_22
+LANG_ENGLISH         "?y??L???"
+
+REFERENCE            11_23
+LANG_ENGLISH         "??????"
+
+REFERENCE            11_24
+LANG_ENGLISH         "?/	???zI???"
+
+REFERENCE            11_25
+LANG_ENGLISH         "??
+??q4 ??3O"
+
+REFERENCE            11_26
+LANG_ENGLISH         "?g[?l"
+
+REFERENCE            11_27
+LANG_ENGLISH         "??5???"
+
+REFERENCE            11_3
+LANG_ENGLISH         "?pq???{w?G?"
+
+REFERENCE            11_4
+LANG_ENGLISH         "??%X?????"
+
+REFERENCE            11_5
+LANG_ENGLISH         "?
+o???I????"
+
+REFERENCE            11_6
+LANG_ENGLISH         "?D	]?*??1?"
+
+REFERENCE            11_7
+LANG_ENGLISH         "?????h*"
+
+REFERENCE            11_8
+LANG_ENGLISH         "?u?Qd{??"
+
+REFERENCE            11_9
+LANG_ENGLISH         "??
+?3???????"
+
+REFERENCE            12_0
+LANG_ENGLISH         "??
+.790??Sg"
+
+REFERENCE            12_1
+LANG_ENGLISH         "?RABAT"
+
+REFERENCE            12_10
+LANG_ENGLISH         "??Ptk?"
+
+REFERENCE            12_11
+LANG_ENGLISH         "?H?9??"
+
+REFERENCE            12_12
+LANG_ENGLISH         "??
+?D?q?"
+
+REFERENCE            12_13
+LANG_ENGLISH         "??)?V?J?i"
+
+REFERENCE            12_14
+LANG_ENGLISH         "??Q)?_"
+
+REFERENCE            12_15
+LANG_ENGLISH         "?v4???j"
+
+REFERENCE            12_16
+LANG_ENGLISH         "?(SILENTSNIPER"
+
+REFERENCE            12_17
+LANG_ENGLISH         "??	????b?"
+
+REFERENCE            12_18
+LANG_ENGLISH         "?w?t??9"
+
+REFERENCE            12_19
+LANG_ENGLISH         "?FQ	??#"
+
+REFERENCE            12_2
+LANG_ENGLISH         "??????
+?:"
+
+REFERENCE            12_20
+LANG_ENGLISH         "??p??W???"
+
+REFERENCE            12_21
+LANG_ENGLISH         "?I???j"
+
+REFERENCE            12_22
+LANG_ENGLISH         "?&??Q(%?"
+
+REFERENCE            12_23
+LANG_ENGLISH         "??VICTORY"
+
+REFERENCE            12_24
+LANG_ENGLISH         "??	
+P'"???5"
+
+REFERENCE            12_25
+LANG_ENGLISH         "??%??iQ?"
+
+REFERENCE            12_26
+LANG_ENGLISH         "???9????"
+
+REFERENCE            12_27
+LANG_ENGLISH         "???????K?PX?"
+
+REFERENCE            12_28
+LANG_ENGLISH         "?~	-p??1?"
+
+REFERENCE            12_29
+LANG_ENGLISH         "??_#p??"
+
+REFERENCE            12_3
+LANG_ENGLISH         "??(	??t"
+
+REFERENCE            12_30
+LANG_ENGLISH         "???/???"
+
+REFERENCE            12_31
+LANG_ENGLISH         "???9	
+?EP'??z%*Q"
+
+REFERENCE            12_32
+LANG_ENGLISH         "?X	?QI??r??"
+
+REFERENCE            12_33
+LANG_ENGLISH         "??h?E?)"
+
+REFERENCE            12_34
+LANG_ENGLISH         "??yu"
+
+REFERENCE            12_35
+LANG_ENGLISH         "??DANIEL"
+
+REFERENCE            12_36
+LANG_ENGLISH         "??????"
+
+REFERENCE            12_37
+LANG_ENGLISH         "?y	?PU?&?E"
+
+REFERENCE            12_38
+LANG_ENGLISH         "??FABIAN"
+
+REFERENCE            12_39
+LANG_ENGLISH         "?`?yeo?"
+
+REFERENCE            12_4
+LANG_ENGLISH         "?J$J(?
+"
+
+REFERENCE            12_40
+LANG_ENGLISH         "?41?H????"
+
+REFERENCE            12_41
+LANG_ENGLISH         "??5?*"
+
+REFERENCE            12_42
+LANG_ENGLISH         "??
+???3????"
+
+REFERENCE            12_43
+LANG_ENGLISH         "??
+BULBASKET"
+
+REFERENCE            12_44
+LANG_ENGLISH         "??SPARK"
+
+REFERENCE            12_45
+LANG_ENGLISH         "??	MANDRILL"
+
+REFERENCE            12_46
+LANG_ENGLISH         "????=5?"
+
+REFERENCE            12_47
+LANG_ENGLISH         "???*S?)jQ"
+
+REFERENCE            12_48
+LANG_ENGLISH         "???I?"
+
+REFERENCE            12_49
+LANG_ENGLISH         "??OTTO"
+
+REFERENCE            12_5
+LANG_ENGLISH         "?RING"
+
+REFERENCE            12_50
+LANG_ENGLISH         "??jQ?J?9"
+
+REFERENCE            12_51
+LANG_ENGLISH         "?|	???b(z?E"
+
+REFERENCE            12_52
+LANG_ENGLISH         "??$??I?"
+
+REFERENCE            12_53
+LANG_ENGLISH         "??VIKING"
+
+REFERENCE            12_54
+LANG_ENGLISH         "?2
+?(?1M?z??"
+
+REFERENCE            12_55
+LANG_ENGLISH         "?i
+'{?C?1?h"
+
+REFERENCE            12_56
+LANG_ENGLISH         "??DICING"
+
+REFERENCE            12_57
+LANG_ENGLISH         "??	E?P?%"
+
+REFERENCE            12_58
+LANG_ENGLISH         "?
+LARKSWOOD"
+
+REFERENCE            12_59
+LANG_ENGLISH         "?d/#??w?"
+
+REFERENCE            12_6
+LANG_ENGLISH         "??????r?"
+
+REFERENCE            12_60
+LANG_ENGLISH         "?bE%?"T'"
+
+REFERENCE            12_61
+LANG_ENGLISH         "??i???Q"
+
+REFERENCE            12_62
+LANG_ENGLISH         "??TUNNEL"
+
+REFERENCE            12_7
+LANG_ENGLISH         "??MAGPIE"
+
+REFERENCE            12_8
+LANG_ENGLISH         "?I	???&@?="
+
+REFERENCE            12_9
+LANG_ENGLISH         "?|
+($??"JET"
+
+REFERENCE            13_0
+LANG_ENGLISH         "??)Q(D?&"
+
+REFERENCE            13_1
+LANG_ENGLISH         "?1-*??"
+
+REFERENCE            14_0
+LANG_ENGLISH         "???PE?"
+
+REFERENCE            14_1
+LANG_ENGLISH         "??	?B?)?`?"
+
+REFERENCE            14_10
+LANG_ENGLISH         "?OLYMPIC"
+
+REFERENCE            14_11
+LANG_ENGLISH         "???)?????=}"
+
+REFERENCE            14_12
+LANG_ENGLISH         "???R?4$"
+
+REFERENCE            14_2
+LANG_ENGLISH         "??
+BASEPLATE"
+
+REFERENCE            14_3
+LANG_ENGLISH         "??IRONHAMMER"
+
+REFERENCE            14_4
+LANG_ENGLISH         "?	,???9&<?"
+
+REFERENCE            14_5
+LANG_ENGLISH         "??WOLF"
+
+REFERENCE            14_6
+LANG_ENGLISH         "?A	?l7??`?"
+
+REFERENCE            14_7
+LANG_ENGLISH         "??	(??C??Q?"
+
+REFERENCE            14_8
+LANG_ENGLISH         "??hdA??"
+
+REFERENCE            14_9
+LANG_ENGLISH         "??	?????U??"
+
+REFERENCE            15_0
+LANG_ENGLISH         "???u??"
+
+REFERENCE            15_1
+LANG_ENGLISH         "?)TALON"
+
+REFERENCE            16_0
+LANG_ENGLISH         "?m
+??f/???nr"
+
+REFERENCE            16_1
+LANG_ENGLISH         "??P4?=H?"
+
+REFERENCE            17_0
+LANG_ENGLISH         "?	?hS??{!?"
+
+REFERENCE            17_1
+LANG_ENGLISH         "??
+O????1+"
+
+REFERENCE            18_0
+LANG_ENGLISH         "?O??4*)ERr
+"
+
+REFERENCE            18_1
+LANG_ENGLISH         "?'AgD?{"
+
+REFERENCE            18_2
+LANG_ENGLISH         "??
+$8???!"
+
+REFERENCE            19_0
+LANG_ENGLISH         "?TRANSFIGURE"
+
+REFERENCE            19_1
+LANG_ENGLISH         "?fSTABLES"
+
+REFERENCE            19_10
+LANG_ENGLISH         "??
+hQ	Q??'Q"
+
+REFERENCE            19_11
+LANG_ENGLISH         "???9:??"
+
+REFERENCE            19_12
+LANG_ENGLISH         "?	?g??YE?"
+
+REFERENCE            19_13
+LANG_ENGLISH         "?????R(QJ??"
+
+REFERENCE            19_14
+LANG_ENGLISH         "??$?????KW?"
+
+REFERENCE            19_15
+LANG_ENGLISH         "?vo??7?"
+
+REFERENCE            19_16
+LANG_ENGLISH         "??ZOMBIE"
+
+REFERENCE            19_17
+LANG_ENGLISH         "???+)???"
+
+REFERENCE            19_18
+LANG_ENGLISH         "??	L?(E????"
+
+REFERENCE            19_19
+LANG_ENGLISH         "??	?Q)M
+?"
+
+REFERENCE            19_2
+LANG_ENGLISH         "?k	AHO?,/e"
+
+REFERENCE            19_20
+LANG_ENGLISH         "?$
+
+5?Q?"???"
+
+REFERENCE            19_21
+LANG_ENGLISH         "??
+?a?????"
+
+REFERENCE            19_22
+LANG_ENGLISH         "??	?p?Gv"
+
+REFERENCE            19_23
+LANG_ENGLISH         "??O?eP"
+
+REFERENCE            19_24
+LANG_ENGLISH         "?:
+?(Q??A?1"
+
+REFERENCE            19_25
+LANG_ENGLISH         "?MFAHRENHEIT"
+
+REFERENCE            19_26
+LANG_ENGLISH         "???r?)??"
+
+REFERENCE            19_27
+LANG_ENGLISH         "?AXE"
+
+REFERENCE            19_28
+LANG_ENGLISH         "?.	SANDCRAB"
+
+REFERENCE            19_29
+LANG_ENGLISH         "??
+??1??????"
+
+REFERENCE            19_3
+LANG_ENGLISH         "???y=I??<??"
+
+REFERENCE            19_30
+LANG_ENGLISH         "??
+?Qj$%(??"
+
+REFERENCE            19_31
+LANG_ENGLISH         "??	PLATYPUS"
+
+REFERENCE            19_32
+LANG_ENGLISH         "??
+???$???e"
+
+REFERENCE            19_33
+LANG_ENGLISH         "??PADDLE"
+
+REFERENCE            19_34
+LANG_ENGLISH         "???P?9"
+
+REFERENCE            19_35
+LANG_ENGLISH         "?z
+?0?3u??k?"
+
+REFERENCE            19_36
+LANG_ENGLISH         "?x??=u??"
+
+REFERENCE            19_37
+LANG_ENGLISH         "???J?(%?*??"
+
+REFERENCE            19_38
+LANG_ENGLISH         "??
+FLINTLOCK"
+
+REFERENCE            19_39
+LANG_ENGLISH         "??	Qot}?	??"
+
+REFERENCE            19_4
+LANG_ENGLISH         "?	PARAVANE"
+
+REFERENCE            19_40
+LANG_ENGLISH         "??	?N=??V?"
+
+REFERENCE            19_41
+LANG_ENGLISH         "??HTI??
+?"
+
+REFERENCE            19_42
+LANG_ENGLISH         "?o
+?????(J:"
+
+REFERENCE            19_43
+LANG_ENGLISH         "?5	??????}|"
+
+REFERENCE            19_44
+LANG_ENGLISH         "?n	v??wG??"
+
+REFERENCE            19_45
+LANG_ENGLISH         "?r?J=:"
+
+REFERENCE            19_46
+LANG_ENGLISH         "?3{??X#q??[??"
+
+REFERENCE            19_47
+LANG_ENGLISH         "??
+????J9:"
+
+REFERENCE            19_48
+LANG_ENGLISH         "?a
+?UM?????9"
+
+REFERENCE            19_49
+LANG_ENGLISH         "??	??mO?]k?"
+
+REFERENCE            19_5
+LANG_ENGLISH         "??(???9"
+
+REFERENCE            19_50
+LANG_ENGLISH         "??DU?hQ??"
+
+REFERENCE            19_51
+LANG_ENGLISH         "??	h%4?&?I"
+
+REFERENCE            19_52
+LANG_ENGLISH         "?#H?C?a?"
+
+REFERENCE            19_53
+LANG_ENGLISH         "?
+?*???*R?Q"
+
+REFERENCE            19_54
+LANG_ENGLISH         "??
+EAGLECLAW"
+
+REFERENCE            19_55
+LANG_ENGLISH         "??MANNA"
+
+REFERENCE            19_56
+LANG_ENGLISH         "?rSMASH"
+
+REFERENCE            19_57
+LANG_ENGLISH         "??
+SUBSTANCE"
+
+REFERENCE            19_58
+LANG_ENGLISH         "?vDEVIL"
+
+REFERENCE            19_59
+LANG_ENGLISH         "?l	?P)J?zbD"
+
+REFERENCE            19_6
+LANG_ENGLISH         "?wMARCIUS"
+
+REFERENCE            19_60
+LANG_ENGLISH         "?GISELLA"
+
+REFERENCE            19_61
+LANG_ENGLISH         "?n
+MAJORDOMO"
+
+REFERENCE            19_62
+LANG_ENGLISH         "??
+?????r?W["
+
+REFERENCE            19_7
+LANG_ENGLISH         "?	?J?????"
+
+REFERENCE            19_8
+LANG_ENGLISH         "?l?T????"
+
+REFERENCE            19_9
+LANG_ENGLISH         "??	?+?>?t?"
+
+REFERENCE            1_0
+LANG_ENGLISH         "??;ysh"
+
+REFERENCE            1_1
+LANG_ENGLISH         "?f
+k???~?"
+
+REFERENCE            1_10
+LANG_ENGLISH         "???x\??"
+
+REFERENCE            1_11
+LANG_ENGLISH         "?0MACDUFF"
+
+REFERENCE            1_12
+LANG_ENGLISH         "???t??w"
+
+REFERENCE            1_13
+LANG_ENGLISH         "???9????0?M"
+
+REFERENCE            1_14
+LANG_ENGLISH         "??VENONA"
+
+REFERENCE            1_15
+LANG_ENGLISH         "??
+MOONSHINE"
+
+REFERENCE            1_16
+LANG_ENGLISH         "?MPLUTO"
+
+REFERENCE            1_17
+LANG_ENGLISH         "??
+???5?r??M"
+
+REFERENCE            1_18
+LANG_ENGLISH         "?JBRAVADO"
+
+REFERENCE            1_19
+LANG_ENGLISH         "?e	????,b"
+
+REFERENCE            1_2
+LANG_ENGLISH         "??	}#??xy"
+
+REFERENCE            1_20
+LANG_ENGLISH         "???`+???"
+
+REFERENCE            1_21
+LANG_ENGLISH         "?o?T)?
+%""
+
+REFERENCE            1_22
+LANG_ENGLISH         "??	POLONIUS"
+
+REFERENCE            1_23
+LANG_ENGLISH         "??
+??P"b?:?E"
+
+REFERENCE            1_24
+LANG_ENGLISH         "???u???M?"
+
+REFERENCE            1_25
+LANG_ENGLISH         "??	`o?#?I?"
+
+REFERENCE            1_26
+LANG_ENGLISH         "??	??j??n_"
+
+REFERENCE            1_27
+LANG_ENGLISH         "?9?y3?"
+
+REFERENCE            1_28
+LANG_ENGLISH         "?/NICANOR"
+
+REFERENCE            1_29
+LANG_ENGLISH         "?`?X?y
+"
+
+REFERENCE            1_3
+LANG_ENGLISH         "??	%?`???eU"
+
+REFERENCE            1_30
+LANG_ENGLISH         "??	ALPHABET"
+
+REFERENCE            1_31
+LANG_ENGLISH         "??
+?U%????"
+
+REFERENCE            1_32
+LANG_ENGLISH         "??yh??"
+
+REFERENCE            1_33
+LANG_ENGLISH         "??	??1?R??*"
+
+REFERENCE            1_4
+LANG_ENGLISH         "?^	???r??"
+
+REFERENCE            1_5
+LANG_ENGLISH         "?#??=?"
+
+REFERENCE            1_6
+LANG_ENGLISH         "?jhP?"??"
+
+REFERENCE            1_7
+LANG_ENGLISH         "?+??c??Wn?,;"
+
+REFERENCE            1_8
+LANG_ENGLISH         "?????Qz"
+
+REFERENCE            1_9
+LANG_ENGLISH         "??$???55)B"
+
+REFERENCE            20_0
+LANG_ENGLISH         "??SCREWDRIVER"
+
+REFERENCE            20_1
+LANG_ENGLISH         "?b???s"
+
+REFERENCE            20_2
+LANG_ENGLISH         "?u
+BRUSHWOOD"
+
+REFERENCE            20_3
+LANG_ENGLISH         "??WONDERLAND"
+
+REFERENCE            20_4
+LANG_ENGLISH         "?
+BRUNSWICK"
+
+REFERENCE            21_0
+LANG_ENGLISH         "??HATS"
+
+REFERENCE            21_1
+LANG_ENGLISH         "?+?y?Y?{"
+
+REFERENCE            21_10
+LANG_ENGLISH         "??	RODERIGO"
+
+REFERENCE            21_11
+LANG_ENGLISH         "????T?["
+
+REFERENCE            21_12
+LANG_ENGLISH         "?f5?R???
+?????:"
+
+REFERENCE            21_2
+LANG_ENGLISH         "?z?TP?Q?"
+
+REFERENCE            21_3
+LANG_ENGLISH         "??????gv?>o"
+
+REFERENCE            21_4
+LANG_ENGLISH         "?%	Q???%?T"
+
+REFERENCE            21_5
+LANG_ENGLISH         "??K?A???"
+
+REFERENCE            21_6
+LANG_ENGLISH         "?U
+S)9?T5?Q"
+
+REFERENCE            21_7
+LANG_ENGLISH         "?N1??"
+
+REFERENCE            21_8
+LANG_ENGLISH         "?LIVERY"
+
+REFERENCE            21_9
+LANG_ENGLISH         "??FRIDAY"
+
+REFERENCE            22_0
+LANG_ENGLISH         "?d	???7??"
+
+REFERENCE            22_1
+LANG_ENGLISH         "???????"?"
+
+REFERENCE            22_10
+LANG_ENGLISH         "?I	?=?"
+
+REFERENCE            22_11
+LANG_ENGLISH         "?i	54??
+R=r"
+
+REFERENCE            22_12
+LANG_ENGLISH         "?SJR??"
+
+REFERENCE            22_13
+LANG_ENGLISH         "?
+??Q)Q?D?"
+
+REFERENCE            22_14
+LANG_ENGLISH         "??1/"
+
+REFERENCE            22_15
+LANG_ENGLISH         "?R	=r'??<q?"
+
+REFERENCE            22_16
+LANG_ENGLISH         "?dDESERTSHIELD"
+
+REFERENCE            22_17
+LANG_ENGLISH         "?'	GRATIANO"
+
+REFERENCE            22_18
+LANG_ENGLISH         "??e??"
+
+REFERENCE            22_19
+LANG_ENGLISH         "?m	CADILLAC"
+
+REFERENCE            22_2
+LANG_ENGLISH         "?7
+??)?i"
+
+REFERENCE            22_20
+LANG_ENGLISH         "??iR1?*?"
+
+REFERENCE            22_21
+LANG_ENGLISH         "??S?r?"
+
+REFERENCE            22_22
+LANG_ENGLISH         "?P?i???A!yC?o"
+
+REFERENCE            22_23
+LANG_ENGLISH         "?}
+)???	????"
+
+REFERENCE            22_24
+LANG_ENGLISH         "??	~?@ID??q"
+
+REFERENCE            22_25
+LANG_ENGLISH         "?@
+m?&?D??W?"
+
+REFERENCE            22_3
+LANG_ENGLISH         "??	1Y??/?}"
+
+REFERENCE            22_4
+LANG_ENGLISH         "?FW?e?F??"
+
+REFERENCE            22_5
+LANG_ENGLISH         "??>e?"
+
+REFERENCE            22_6
+LANG_ENGLISH         "?'?y??"
+
+REFERENCE            22_7
+LANG_ENGLISH         "?	??e???"
+
+REFERENCE            22_8
+LANG_ENGLISH         "??JT?E??"
+
+REFERENCE            22_9
+LANG_ENGLISH         "?{??b?5T"
+
+REFERENCE            23_0
+LANG_ENGLISH         "?	?y?y??"
+
+REFERENCE            23_1
+LANG_ENGLISH         "????#w?"
+
+REFERENCE            23_10
+LANG_ENGLISH         "?a?=??"
+
+REFERENCE            23_11
+LANG_ENGLISH         "??4?P?"
+
+REFERENCE            23_12
+LANG_ENGLISH         "?yINSULIN"
+
+REFERENCE            23_2
+LANG_ENGLISH         "?F???q?"
+
+REFERENCE            23_3
+LANG_ENGLISH         "??
+*+A????Q"
+
+REFERENCE            23_4
+LANG_ENGLISH         "?	??3`??)?"
+
+REFERENCE            23_5
+LANG_ENGLISH         "??	h?????"
+
+REFERENCE            23_6
+LANG_ENGLISH         "????["
+
+REFERENCE            23_7
+LANG_ENGLISH         "??	J?Y?r?U5"
+
+REFERENCE            23_8
+LANG_ENGLISH         "?????"
+
+REFERENCE            23_9
+LANG_ENGLISH         "?,??97?M?oo??"
+
+REFERENCE            24_0
+LANG_ENGLISH         "?+?EFWcq"
+
+REFERENCE            24_1
+LANG_ENGLISH         "?
+:)?V	?U?"
+
+REFERENCE            24_2
+LANG_ENGLISH         "?g"????z"
+
+REFERENCE            24_3
+LANG_ENGLISH         "?y?~kuA"
+
+REFERENCE            24_4
+LANG_ENGLISH         "?'??5j"
+
+REFERENCE            25_0
+LANG_ENGLISH         "??
+?J*??????"
+
+REFERENCE            25_1
+LANG_ENGLISH         "??????"
+
+REFERENCE            25_2
+LANG_ENGLISH         "???0?1???"
+
+REFERENCE            25_3
+LANG_ENGLISH         "?b5?)??*)"
+
+REFERENCE            25_4
+LANG_ENGLISH         "??	T??"%zA"
+
+REFERENCE            25_5
+LANG_ENGLISH         "?:???*%?Q?%??"
+
+REFERENCE            2_0
+LANG_ENGLISH         "??R?b???"
+
+REFERENCE            2_1
+LANG_ENGLISH         "??
+
+???*E??"
+
+REFERENCE            2_10
+LANG_ENGLISH         "??	?U?=:+J?"
+
+REFERENCE            2_11
+LANG_ENGLISH         "??DUNLOP"
+
+REFERENCE            2_12
+LANG_ENGLISH         "?QFRANTIC"
+
+REFERENCE            2_13
+LANG_ENGLISH         "?	?UI#?&"
+
+REFERENCE            2_14
+LANG_ENGLISH         "?Q???uG??2"
+
+REFERENCE            2_15
+LANG_ENGLISH         "?
+b??QJ"
+
+REFERENCE            2_16
+LANG_ENGLISH         "??#??p??a"
+
+REFERENCE            2_17
+LANG_ENGLISH         "??(?#??"
+
+REFERENCE            2_18
+LANG_ENGLISH         "???P?Q"
+
+REFERENCE            2_19
+LANG_ENGLISH         "?\?O?n"
+
+REFERENCE            2_2
+LANG_ENGLISH         "?}*U?")
+rt??"
+
+REFERENCE            2_20
+LANG_ENGLISH         "???e ??-+"
+
+REFERENCE            2_21
+LANG_ENGLISH         "??LACQUER"
+
+REFERENCE            2_22
+LANG_ENGLISH         "?x
+??I3`?"
+
+REFERENCE            2_23
+LANG_ENGLISH         "?>
+f??}I????"
+
+REFERENCE            2_24
+LANG_ENGLISH         "??w+H?"
+
+REFERENCE            2_25
+LANG_ENGLISH         "?U%r????(??*"
+
+REFERENCE            2_26
+LANG_ENGLISH         "?E?(M??.?$?n"
+
+REFERENCE            2_27
+LANG_ENGLISH         "? jP5?"
+
+REFERENCE            2_28
+LANG_ENGLISH         "??	????Q???"
+
+REFERENCE            2_29
+LANG_ENGLISH         "??	?u???S??"
+
+REFERENCE            2_3
+LANG_ENGLISH         "?XT?J??"
+
+REFERENCE            2_30
+LANG_ENGLISH         "????V?M??4w|"
+
+REFERENCE            2_31
+LANG_ENGLISH         "??p??Q?5???"
+
+REFERENCE            2_32
+LANG_ENGLISH         "??UQUS?R???'??"
+
+REFERENCE            2_33
+LANG_ENGLISH         "?BABOON"
+
+REFERENCE            2_34
+LANG_ENGLISH         "?F`B5"
+
+REFERENCE            2_35
+LANG_ENGLISH         "??	VITALITY"
+
+REFERENCE            2_36
+LANG_ENGLISH         "?;
+V??s}????"
+
+REFERENCE            2_37
+LANG_ENGLISH         "????^?5"
+
+REFERENCE            2_38
+LANG_ENGLISH         "??
+F??h#Kg"
+
+REFERENCE            2_39
+LANG_ENGLISH         "?iu~S7"
+
+REFERENCE            2_4
+LANG_ENGLISH         "?w????????"
+
+REFERENCE            2_40
+LANG_ENGLISH         "?	?[???G?@"
+
+REFERENCE            2_41
+LANG_ENGLISH         "?????KL?"
+
+REFERENCE            2_42
+LANG_ENGLISH         "??
+!??????"
+
+REFERENCE            2_43
+LANG_ENGLISH         "??)'???z"
+
+REFERENCE            2_44
+LANG_ENGLISH         "??	????T)U?"
+
+REFERENCE            2_45
+LANG_ENGLISH         "??h?y7"
+
+REFERENCE            2_46
+LANG_ENGLISH         "?z
+PAPERCLIP"
+
+REFERENCE            2_47
+LANG_ENGLISH         "??
+#??%?%??"
+
+REFERENCE            2_5
+LANG_ENGLISH         "??JUPITER"
+
+REFERENCE            2_6
+LANG_ENGLISH         "???????(?"
+
+REFERENCE            2_7
+LANG_ENGLISH         "?)*?????1"
+
+REFERENCE            2_8
+LANG_ENGLISH         "?I
+
+??)!zZ?"
+
+REFERENCE            2_9
+LANG_ENGLISH         "?,
++*????P*"
+
+REFERENCE            3_0
+LANG_ENGLISH         "??BREACH"
+
+REFERENCE            3_1
+LANG_ENGLISH         "??	F?????'"
+
+REFERENCE            3_10
+LANG_ENGLISH         "??`)?_G??~?"
+
+REFERENCE            3_11
+LANG_ENGLISH         "??G?fa"
+
+REFERENCE            3_12
+LANG_ENGLISH         "??(7]Y?&????"
+
+REFERENCE            3_13
+LANG_ENGLISH         "?):???T"
+
+REFERENCE            3_14
+LANG_ENGLISH         "?;???]gm"
+
+REFERENCE            3_15
+LANG_ENGLISH         "?+MARINE"
+
+REFERENCE            3_16
+LANG_ENGLISH         "?kSWITCHBACK"
+
+REFERENCE            3_17
+LANG_ENGLISH         "???x?5??"
+
+REFERENCE            3_18
+LANG_ENGLISH         "????`??_A?z??"
+
+REFERENCE            3_19
+LANG_ENGLISH         "?"	h??
+A???"
+
+REFERENCE            3_2
+LANG_ENGLISH         "?T?U'???T"
+
+REFERENCE            3_20
+LANG_ENGLISH         "?y2&?"
+
+REFERENCE            3_21
+LANG_ENGLISH         "?	HEATHER"
+
+REFERENCE            3_22
+LANG_ENGLISH         "?}??#/"
+
+REFERENCE            3_23
+LANG_ENGLISH         "?
+?U???'?"
+
+REFERENCE            3_24
+LANG_ENGLISH         "?????,"
+
+REFERENCE            3_25
+LANG_ENGLISH         "??
+??????Ku"
+
+REFERENCE            3_26
+LANG_ENGLISH         "?
+CHARNWOOD"
+
+REFERENCE            3_27
+LANG_ENGLISH         "??THESEUS"
+
+REFERENCE            3_28
+LANG_ENGLISH         "??		??'?"
+
+REFERENCE            3_29
+LANG_ENGLISH         "??
+)??k??o~"
+
+REFERENCE            3_3
+LANG_ENGLISH         "??	I
+?z'"
+
+REFERENCE            3_30
+LANG_ENGLISH         "??	??????7"
+
+REFERENCE            3_31
+LANG_ENGLISH         "???????u?"
+
+REFERENCE            3_32
+LANG_ENGLISH         "?r???T?"
+
+REFERENCE            3_33
+LANG_ENGLISH         "???}???"
+
+REFERENCE            3_34
+LANG_ENGLISH         "???J???*I4?P'E"
+
+REFERENCE            3_35
+LANG_ENGLISH         "????"
+
+REFERENCE            3_36
+LANG_ENGLISH         "??	$h?H???"
+
+REFERENCE            3_37
+LANG_ENGLISH         "?_{??X#?T???"
+
+REFERENCE            3_38
+LANG_ENGLISH         "??(?T?"
+
+REFERENCE            3_39
+LANG_ENGLISH         "??	??Q???"
+
+REFERENCE            3_4
+LANG_ENGLISH         "?MUSKET"
+
+REFERENCE            3_40
+LANG_ENGLISH         "??	?????"
+
+REFERENCE            3_41
+LANG_ENGLISH         "???j?_??????"
+
+REFERENCE            3_42
+LANG_ENGLISH         "??X?70??H?"
+
+REFERENCE            3_43
+LANG_ENGLISH         "??$)?N+?"
+
+REFERENCE            3_44
+LANG_ENGLISH         "?I???"
+
+REFERENCE            3_45
+LANG_ENGLISH         "?xCHARIOT"
+
+REFERENCE            3_46
+LANG_ENGLISH         "??	CLAYMORE"
+
+REFERENCE            3_47
+LANG_ENGLISH         "???&?4??P"
+
+REFERENCE            3_48
+LANG_ENGLISH         "??	?'?]???"
+
+REFERENCE            3_49
+LANG_ENGLISH         "?86u????"
+
+REFERENCE            3_5
+LANG_ENGLISH         "?}????P"
+
+REFERENCE            3_50
+LANG_ENGLISH         "?? ??"
+
+REFERENCE            3_51
+LANG_ENGLISH         "??'*T9??"
+
+REFERENCE            3_52
+LANG_ENGLISH         "?A?Ltg?:?x??"
+
+REFERENCE            3_53
+LANG_ENGLISH         "????a"
+
+REFERENCE            3_54
+LANG_ENGLISH         "?:18:?"
+
+REFERENCE            3_55
+LANG_ENGLISH         "???J?'?"
+
+REFERENCE            3_56
+LANG_ENGLISH         "?`GREENLEAVES"
+
+REFERENCE            3_57
+LANG_ENGLISH         "??4q?;{<WB%"
+
+REFERENCE            3_58
+LANG_ENGLISH         "?Z
++?H-i??"
+
+REFERENCE            3_59
+LANG_ENGLISH         "???i"
+
+REFERENCE            3_6
+LANG_ENGLISH         "??`Y??O"
+
+REFERENCE            3_60
+LANG_ENGLISH         "??(???U4-"
+
+REFERENCE            3_61
+LANG_ENGLISH         "????%Q9j?z?(??'"
+
+REFERENCE            3_7
+LANG_ENGLISH         "???!?"
+
+REFERENCE            3_8
+LANG_ENGLISH         "??????"
+
+REFERENCE            3_9
+LANG_ENGLISH         "?r???Q??"
+
+REFERENCE            4_0
+LANG_ENGLISH         "?fCHAPTER"
+
+REFERENCE            4_1
+LANG_ENGLISH         "?|????"
+
+REFERENCE            4_10
+LANG_ENGLISH         "????1jQ??'?"
+
+REFERENCE            4_11
+LANG_ENGLISH         "??HECATE"
+
+REFERENCE            4_12
+LANG_ENGLISH         "?q??2??"
+
+REFERENCE            4_13
+LANG_ENGLISH         "???????[?"
+
+REFERENCE            4_14
+LANG_ENGLISH         "?K?t{?)!???"
+
+REFERENCE            4_15
+LANG_ENGLISH         "???EK,??"
+
+REFERENCE            4_16
+LANG_ENGLISH         "??y???9"
+
+REFERENCE            4_17
+LANG_ENGLISH         "?
+???*9&)?T"
+
+REFERENCE            4_18
+LANG_ENGLISH         "?gROUNDUP"
+
+REFERENCE            4_19
+LANG_ENGLISH         "?
+FERDINAND"
+
+REFERENCE            4_2
+LANG_ENGLISH         "?#MATTERHORN"
+
+REFERENCE            4_20
+LANG_ENGLISH         "?5?"
+
+REFERENCE            4_21
+LANG_ENGLISH         "?yFOIL"
+
+REFERENCE            4_22
+LANG_ENGLISH         "??	?1?Q?"
+
+REFERENCE            4_23
+LANG_ENGLISH         "??	??bz?
+E"
+
+REFERENCE            4_24
+LANG_ENGLISH         "???H]????"
+
+REFERENCE            4_25
+LANG_ENGLISH         "??pI?c"
+
+REFERENCE            4_26
+LANG_ENGLISH         "?>URGENTFURY"
+
+REFERENCE            4_27
+LANG_ENGLISH         "?u$?V"
+
+REFERENCE            4_28
+LANG_ENGLISH         "?	MONGOOSE"
+
+REFERENCE            4_29
+LANG_ENGLISH         "??	?s?K???"
+
+REFERENCE            4_3
+LANG_ENGLISH         "?
+&???J"
+
+REFERENCE            4_30
+LANG_ENGLISH         "??
+????? ?"
+
+REFERENCE            4_31
+LANG_ENGLISH         "?^	?e???!?H"
+
+REFERENCE            4_32
+LANG_ENGLISH         "???Q	?"
+
+REFERENCE            4_33
+LANG_ENGLISH         "????????"
+
+REFERENCE            4_34
+LANG_ENGLISH         "???|??]??B|"
+
+REFERENCE            4_35
+LANG_ENGLISH         "?eHERRINGTON"
+
+REFERENCE            4_36
+LANG_ENGLISH         "?l??"
+
+REFERENCE            4_37
+LANG_ENGLISH         "??	??p???)"
+
+REFERENCE            4_38
+LANG_ENGLISH         "??
+9???"
+
+REFERENCE            4_39
+LANG_ENGLISH         "?#=B?qv?"
+
+REFERENCE            4_4
+LANG_ENGLISH         "?OVARSITY"
+
+REFERENCE            4_40
+LANG_ENGLISH         "????????"
+
+REFERENCE            4_41
+LANG_ENGLISH         "???-.??q"
+
+REFERENCE            4_42
+LANG_ENGLISH         "?#?!??K?"
+
+REFERENCE            4_43
+LANG_ENGLISH         "?????
+Q?
+*?z?"
+
+REFERENCE            4_44
+LANG_ENGLISH         "?~FIGURE"
+
+REFERENCE            4_45
+LANG_ENGLISH         "??	t??\??"
+
+REFERENCE            4_46
+LANG_ENGLISH         "?RQE"
+
+REFERENCE            4_47
+LANG_ENGLISH         "?SPAN"
+
+REFERENCE            4_48
+LANG_ENGLISH         "?}4?WD"
+
+REFERENCE            4_49
+LANG_ENGLISH         "?93ITc?z"
+
+REFERENCE            4_5
+LANG_ENGLISH         "?HILLCAT"
+
+REFERENCE            4_50
+LANG_ENGLISH         "??S?nP"
+
+REFERENCE            4_51
+LANG_ENGLISH         "??k??W"
+
+REFERENCE            4_52
+LANG_ENGLISH         "?dPILEDRIVER"
+
+REFERENCE            4_53
+LANG_ENGLISH         "??????5?"
+
+REFERENCE            4_54
+LANG_ENGLISH         "???q??"
+
+REFERENCE            4_55
+LANG_ENGLISH         "??TY(?je?&??"
+
+REFERENCE            4_56
+LANG_ENGLISH         "?js??8"
+
+REFERENCE            4_57
+LANG_ENGLISH         "??BLUEFOX"
+
+REFERENCE            4_58
+LANG_ENGLISH         "????????"
+
+REFERENCE            4_59
+LANG_ENGLISH         "??'?"
+
+REFERENCE            4_6
+LANG_ENGLISH         "??L??_["
+
+REFERENCE            4_60
+LANG_ENGLISH         "?:AI?l7??"
+
+REFERENCE            4_61
+LANG_ENGLISH         "??h?????Q)??"
+
+REFERENCE            4_62
+LANG_ENGLISH         "?I	?P????""
+
+REFERENCE            4_7
+LANG_ENGLISH         "??h??%?'"
+
+REFERENCE            4_8
+LANG_ENGLISH         "?LOBSTER"
+
+REFERENCE            4_9
+LANG_ENGLISH         "??	?z?"??jT"
+
+REFERENCE            5_0
+LANG_ENGLISH         "??MULE"
+
+REFERENCE            5_1
+LANG_ENGLISH         "????]?"
+
+REFERENCE            5_2
+LANG_ENGLISH         "?PIKE"
+
+REFERENCE            5_3
+LANG_ENGLISH         "? 
+GRATITUDE"
+
+REFERENCE            5_4
+LANG_ENGLISH         "?????"
+
+REFERENCE            5_5
+LANG_ENGLISH         "??BONGO"
+
+REFERENCE            5_6
+LANG_ENGLISH         "?ICEPUSH"
+
+REFERENCE            5_7
+LANG_ENGLISH         "??
+?=?J?r"
+
+REFERENCE            6_0
+LANG_ENGLISH         "?>?[_D?0?"
+
+REFERENCE            6_1
+LANG_ENGLISH         "?i????Y"
+
+REFERENCE            6_10
+LANG_ENGLISH         "??q\??g"
+
+REFERENCE            6_11
+LANG_ENGLISH         "?$?KI?c"
+
+REFERENCE            6_12
+LANG_ENGLISH         "?y?`"
+
+REFERENCE            6_13
+LANG_ENGLISH         "?`D*?(B??rE"
+
+REFERENCE            6_2
+LANG_ENGLISH         "?e?U&?
+?"
+
+REFERENCE            6_3
+LANG_ENGLISH         "????z?)U???"
+
+REFERENCE            6_4
+LANG_ENGLISH         "??	??????#"
+
+REFERENCE            6_5
+LANG_ENGLISH         "?????y5?GC?"
+
+REFERENCE            6_6
+LANG_ENGLISH         "?e(9:S(r"
+
+REFERENCE            6_7
+LANG_ENGLISH         "??????"
+
+REFERENCE            6_8
+LANG_ENGLISH         "?^	?!z?=??"
+
+REFERENCE            6_9
+LANG_ENGLISH         "?MEUCALYPTUS"
+
+REFERENCE            7_0
+LANG_ENGLISH         "??
+0???W??)?"
+
+REFERENCE            7_1
+LANG_ENGLISH         "?TCOUNTENANCE"
+
+REFERENCE            7_10
+LANG_ENGLISH         "???Pj???"
+
+REFERENCE            7_11
+LANG_ENGLISH         "?m
+)?5jZ??"
+
+REFERENCE            7_12
+LANG_ENGLISH         "????'E?S?U??"
+
+REFERENCE            7_13
+LANG_ENGLISH         "??/??n???"
+
+REFERENCE            7_14
+LANG_ENGLISH         "????!*(?"
+
+REFERENCE            7_15
+LANG_ENGLISH         "?R?????"
+
+REFERENCE            7_16
+LANG_ENGLISH         "???'???9"
+
+REFERENCE            7_17
+LANG_ENGLISH         "?,?P`?"
+
+REFERENCE            7_18
+LANG_ENGLISH         "??W?"
+
+REFERENCE            7_19
+LANG_ENGLISH         "??G?0???"
+
+REFERENCE            7_2
+LANG_ENGLISH         "?????%b"
+
+REFERENCE            7_20
+LANG_ENGLISH         "?????}?3"
+
+REFERENCE            7_21
+LANG_ENGLISH         "???.?~"
+
+REFERENCE            7_22
+LANG_ENGLISH         "??/!?"
+
+REFERENCE            7_23
+LANG_ENGLISH         "??#?????$T?E?%"
+
+REFERENCE            7_24
+LANG_ENGLISH         "?`$???P?"
+
+REFERENCE            7_25
+LANG_ENGLISH         "???;???9"
+
+REFERENCE            7_26
+LANG_ENGLISH         "?fW???A?|??"
+
+REFERENCE            7_27
+LANG_ENGLISH         "?ST?4??+"
+
+REFERENCE            7_28
+LANG_ENGLISH         "?6?9"QA??*?*"
+
+REFERENCE            7_29
+LANG_ENGLISH         "?? #??{"
+
+REFERENCE            7_3
+LANG_ENGLISH         "??
+?!???lu"
+
+REFERENCE            7_30
+LANG_ENGLISH         "?"ARCHERY"
+
+REFERENCE            7_31
+LANG_ENGLISH         "??P?"
+
+REFERENCE            7_32
+LANG_ENGLISH         "??	S+%G?a?"
+
+REFERENCE            7_33
+LANG_ENGLISH         "?z
+P?bP?	?"
+
+REFERENCE            7_34
+LANG_ENGLISH         "??
+LOCKSMITH"
+
+REFERENCE            7_35
+LANG_ENGLISH         "???1"
+
+REFERENCE            7_36
+LANG_ENGLISH         "??	^(@?T??"
+
+REFERENCE            7_37
+LANG_ENGLISH         "??POSTMASTER"
+
+REFERENCE            7_38
+LANG_ENGLISH         "?,	P?#???=?"
+
+REFERENCE            7_39
+LANG_ENGLISH         "????Q?
+E?PM"
+
+REFERENCE            7_4
+LANG_ENGLISH         "?
+?-.?!??"
+
+REFERENCE            7_40
+LANG_ENGLISH         "?w
+H??j??z?T"
+
+REFERENCE            7_41
+LANG_ENGLISH         "???U!?/"
+
+REFERENCE            7_42
+LANG_ENGLISH         "??ATMOSPHERE"
+
+REFERENCE            7_43
+LANG_ENGLISH         "?&??	?S?Q?"
+
+REFERENCE            7_44
+LANG_ENGLISH         "???9???"
+
+REFERENCE            7_45
+LANG_ENGLISH         "??h?w?"
+
+REFERENCE            7_46
+LANG_ENGLISH         "??	DOWNFALL"
+
+REFERENCE            7_47
+LANG_ENGLISH         "?
+(??zI????"
+
+REFERENCE            7_48
+LANG_ENGLISH         "??q^???"
+
+REFERENCE            7_49
+LANG_ENGLISH         "???????"
+
+REFERENCE            7_5
+LANG_ENGLISH         "??	??????"
+
+REFERENCE            7_50
+LANG_ENGLISH         "????1(q??"
+
+REFERENCE            7_51
+LANG_ENGLISH         "???????,"
+
+REFERENCE            7_52
+LANG_ENGLISH         "??v?0CE??"
+
+REFERENCE            7_53
+LANG_ENGLISH         "?kSLING"
+
+REFERENCE            7_54
+LANG_ENGLISH         "??=o??"
+
+REFERENCE            7_55
+LANG_ENGLISH         "??BISHOP"
+
+REFERENCE            7_56
+LANG_ENGLISH         "??DOWNEND"
+
+REFERENCE            7_57
+LANG_ENGLISH         "?j???$+"
+
+REFERENCE            7_58
+LANG_ENGLISH         "??	Q]?C???"
+
+REFERENCE            7_59
+LANG_ENGLISH         "??COMPASS"
+
+REFERENCE            7_6
+LANG_ENGLISH         "?		??U?%?5"
+
+REFERENCE            7_60
+LANG_ENGLISH         "??T??Ij??"
+
+REFERENCE            7_7
+LANG_ENGLISH         "????*?DQ"
+
+REFERENCE            7_8
+LANG_ENGLISH         "?^?IJSM=?"
+
+REFERENCE            7_9
+LANG_ENGLISH         "??)P??U?"
+
+REFERENCE            8_0
+LANG_ENGLISH         "????"
+
+REFERENCE            8_1
+LANG_ENGLISH         "??	FRESHMAN"
+
+REFERENCE            8_2
+LANG_ENGLISH         "??	?3?????"
+
+REFERENCE            8_3
+LANG_ENGLISH         "??LOST"
+
+REFERENCE            8_4
+LANG_ENGLISH         "???lc,?"
+
+REFERENCE            8_5
+LANG_ENGLISH         "?
+AMBASSADOR"
+
+REFERENCE            8_6
+LANG_ENGLISH         "?S	c?e?O???"
+
+REFERENCE            8_7
+LANG_ENGLISH         "?????M?"
+
+REFERENCE            8_8
+LANG_ENGLISH         "???IE??}"
+
+REFERENCE            8_9
+LANG_ENGLISH         "?'????	?=???"
+
+REFERENCE            9_0
+LANG_ENGLISH         "????"
+
+REFERENCE            9_1
+LANG_ENGLISH         "?	??1? ?"
+
+REFERENCE            9_10
+LANG_ENGLISH         "??H?5?"
+
+REFERENCE            9_11
+LANG_ENGLISH         "?=	?y(?A??"
+
+REFERENCE            9_12
+LANG_ENGLISH         "?r'??C"
+
+REFERENCE            9_13
+LANG_ENGLISH         "??~ ??G"
+
+REFERENCE            9_14
+LANG_ENGLISH         "?WOP"
+
+REFERENCE            9_15
+LANG_ENGLISH         "??
+j????)y"
+
+REFERENCE            9_16
+LANG_ENGLISH         "??HAWKEYE"
+
+REFERENCE            9_17
+LANG_ENGLISH         "?X?(?b???*?"
+
+REFERENCE            9_18
+LANG_ENGLISH         "?c	?I?????z"
+
+REFERENCE            9_19
+LANG_ENGLISH         "???Od??	"
+
+REFERENCE            9_2
+LANG_ENGLISH         "??g??y"
+
+REFERENCE            9_20
+LANG_ENGLISH         "??`IG?"
+
+REFERENCE            9_21
+LANG_ENGLISH         "????P3?"
+
+REFERENCE            9_22
+LANG_ENGLISH         "??]"
+
+REFERENCE            9_23
+LANG_ENGLISH         "???e?a????A"
+
+REFERENCE            9_24
+LANG_ENGLISH         "???y??"
+
+REFERENCE            9_25
+LANG_ENGLISH         "?(M??A
+?"
+
+REFERENCE            9_26
+LANG_ENGLISH         "??	??g???S?"
+
+REFERENCE            9_27
+LANG_ENGLISH         "??;9?|??"
+
+REFERENCE            9_28
+LANG_ENGLISH         "?&?a)B??>*?&"
+
+REFERENCE            9_29
+LANG_ENGLISH         "?EA!???"
+
+REFERENCE            9_3
+LANG_ENGLISH         "????EQTI"
+
+REFERENCE            9_30
+LANG_ENGLISH         "???Gqma??/?6!"
+
+REFERENCE            9_31
+LANG_ENGLISH         "?FIz?*?"
+
+REFERENCE            9_32
+LANG_ENGLISH         "????U4?"
+
+REFERENCE            9_33
+LANG_ENGLISH         "?j??????"
+
+REFERENCE            9_34
+LANG_ENGLISH         "?mDETROIT"
+
+REFERENCE            9_35
+LANG_ENGLISH         "??l ?"
+
+REFERENCE            9_36
+LANG_ENGLISH         "?.?SyJ??G?h?("
+
+REFERENCE            9_37
+LANG_ENGLISH         "??d?Q,?"
+
+REFERENCE            9_38
+LANG_ENGLISH         "??-$?Z9?"
+
+REFERENCE            9_39
+LANG_ENGLISH         "??Q???
+?"
+
+REFERENCE            9_4
+LANG_ENGLISH         "??	?)`??L"
+
+REFERENCE            9_40
+LANG_ENGLISH         "?E	#?H;???"
+
+REFERENCE            9_41
+LANG_ENGLISH         "?m?H?	?k?OY[??"
+
+REFERENCE            9_42
+LANG_ENGLISH         "?R?U):???"
+
+REFERENCE            9_43
+LANG_ENGLISH         "???Y?"
+
+REFERENCE            9_44
+LANG_ENGLISH         "?t	*U?")
+rE"
+
+REFERENCE            9_45
+LANG_ENGLISH         "??????"
+
+REFERENCE            9_46
+LANG_ENGLISH         "??	??'|A?"
+
+REFERENCE            9_47
+LANG_ENGLISH         "?f	ALACRITY"
+
+REFERENCE            9_48
+LANG_ENGLISH         "??;u???@"
+
+REFERENCE            9_49
+LANG_ENGLISH         "?)$z?r"?????	"
+
+REFERENCE            9_5
+LANG_ENGLISH         "???U9?"
+
+REFERENCE            9_50
+LANG_ENGLISH         "??	?OO?]i"
+
+REFERENCE            9_51
+LANG_ENGLISH         "?uT??r"
+
+REFERENCE            9_52
+LANG_ENGLISH         "?FIN"
+
+REFERENCE            9_53
+LANG_ENGLISH         "?K	??????*"
+
+REFERENCE            9_54
+LANG_ENGLISH         "??a ??"
+
+REFERENCE            9_55
+LANG_ENGLISH         "?m
+2?&?JJY?)"
+
+REFERENCE            9_56
+LANG_ENGLISH         "??-.??)??7??"
+
+REFERENCE            9_57
+LANG_ENGLISH         "????Ix??ia"
+
+REFERENCE            9_58
+LANG_ENGLISH         "?x
+??i?`??"
+
+REFERENCE            9_59
+LANG_ENGLISH         "?-??????"
+
+REFERENCE            9_6
+LANG_ENGLISH         "?	??C1????"
+
+REFERENCE            9_60
+LANG_ENGLISH         "?NBRUTUS"
+
+REFERENCE            9_61
+LANG_ENGLISH         "? THUNDERCLAP"
+
+REFERENCE            9_62
+LANG_ENGLISH         "?A?m???)"
+
+REFERENCE            9_7
+LANG_ENGLISH         "??jT?91?"
+
+REFERENCE            9_8
+LANG_ENGLISH         "?6h?'M1P*?"
+
+REFERENCE            9_9
+LANG_ENGLISH         "??
+??????"
+
+
+ENDMARKER

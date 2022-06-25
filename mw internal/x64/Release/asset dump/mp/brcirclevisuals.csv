@@ -1,0 +1,5 @@
+default,vfx/iw8_br/gameplay/vfx_br_circle_mainwall,vision/mp_br_outside_circle.vision,1.5,1.5,1,1.5,1.5,1,2,2,0.5,2,2,0.5,0,0,0.03,1,75,1000,0.36,0.34,0.06,1,
+mp_don4,vfx/iw8_br/gameplay/vfx_br_circle_mainwall_don4,,,,,,,,0.45,0.8,0.3,0.45,0.8,0.3,,,,,,,0.36,0.34,0.06,0,
+mp_escape2,,,,,,,,,2,2,1,2,2,1,0,1,,,,20,0,0,0,0,
+mp_escape2_pm,,,0.1,0.1,0.035,0.1,0.1,0.035,0.2,0.2,0.025,0.2,0.2,0.025,,,,,,,0,0,0,0,
+mp_escape3,,vision/mp_br_outside_circle(mp_escape3).vision,0.2,0.15,0.025,0.1,0.1,0.025,1,1,0.035,2,2,0.035,0,0,0.05,2,100,,0,0,0,0,

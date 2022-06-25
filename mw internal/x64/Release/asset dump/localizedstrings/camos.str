@@ -1,0 +1,798 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            apc_camo_019
+LANG_ENGLISH         "????KS???c"
+
+REFERENCE            apc_camo_020
+LANG_ENGLISH         "???smw}?s?n?*???32?4"
+
+REFERENCE            apc_camo_027
+LANG_ENGLISH         "????KS???c"
+
+REFERENCE            atv_camo_001
+LANG_ENGLISH         "?_5V??X?"
+
+REFERENCE            atv_camo_002
+LANG_ENGLISH         "??"??9S)?c?"
+
+REFERENCE            atv_camo_003
+LANG_ENGLISH         "???:????4c?J?"
+
+REFERENCE            atv_camo_004
+LANG_ENGLISH         "??Stubbed TItle"
+
+REFERENCE            atv_camo_005
+LANG_ENGLISH         "?D
+?[j?????p"
+
+REFERENCE            atv_camo_009
+LANG_ENGLISH         "?????!??o??7?"
+
+REFERENCE            atv_camo_014
+LANG_ENGLISH         "?B???p???W??"
+
+REFERENCE            atv_camo_015
+LANG_ENGLISH         "?B?y?9??ey??"
+
+REFERENCE            atv_camo_016
+LANG_ENGLISH         "?B
+?Y}?????&c"
+
+REFERENCE            atv_camo_020
+LANG_ENGLISH         "??Blood Splatter"
+
+REFERENCE            atv_camo_022
+LANG_ENGLISH         "???bo?q<??W????S"
+
+REFERENCE            atv_camo_023
+LANG_ENGLISH         "??P???&?2<?(?"
+
+REFERENCE            atv_camo_024
+LANG_ENGLISH         "??	Stuntman"
+
+REFERENCE            atv_camo_025
+LANG_ENGLISH         "?:	??_?,?k"
+
+REFERENCE            atv_camo_026
+LANG_ENGLISH         "?Z
+I?#?)??H"
+
+REFERENCE            atv_camo_027
+LANG_ENGLISH         "???s?S??"
+
+REFERENCE            atv_camo_028
+LANG_ENGLISH         "?:????M??s?"
+
+REFERENCE            atv_camo_029
+LANG_ENGLISH         "??Manta"
+
+REFERENCE            atv_camo_030
+LANG_ENGLISH         "?E?]??:+?"
+
+REFERENCE            atv_camo_031
+LANG_ENGLISH         "?1???????z?"
+
+REFERENCE            camo_00a
+LANG_ENGLISH         "?lHot and Cold"
+
+REFERENCE            camo_00b
+LANG_ENGLISH         "?
+
+??Z??X??"
+
+REFERENCE            camo_00c
+LANG_ENGLISH         "???XsFV?"
+
+REFERENCE            camo_00d
+LANG_ENGLISH         "?f
+~??A??"
+
+REFERENCE            camo_01a
+LANG_ENGLISH         "??Desert Snake"
+
+REFERENCE            camo_01b
+LANG_ENGLISH         "??	^8KB?P?"
+
+REFERENCE            camo_01c
+LANG_ENGLISH         "?Rip n'Tear"
+
+REFERENCE            camo_01d
+LANG_ENGLISH         "?r?'?8??"?!)????"
+
+REFERENCE            camo_01e
+LANG_ENGLISH         "?????+N???+9"
+
+REFERENCE            camo_01f
+LANG_ENGLISH         "?Q-??bm?"
+
+REFERENCE            camo_01g
+LANG_ENGLISH         "?
+????9-?V?W??"
+
+REFERENCE            camo_01h
+LANG_ENGLISH         "???*/???CU?"
+
+REFERENCE            camo_01i
+LANG_ENGLISH         "??
+?Z;?G?c"
+
+REFERENCE            camo_01j
+LANG_ENGLISH         "?r?????"
+
+REFERENCE            camo_02a
+LANG_ENGLISH         "??[?U?"
+
+REFERENCE            camo_02b
+LANG_ENGLISH         "??/?%??GXe??o
+k"
+
+REFERENCE            camo_02c
+LANG_ENGLISH         "?="Yn???B/?N?2"
+
+REFERENCE            camo_02d
+LANG_ENGLISH         "?Jf?kY??????"
+
+REFERENCE            camo_02e
+LANG_ENGLISH         "??
+Marshland"
+
+REFERENCE            camo_02f
+LANG_ENGLISH         "??Kill Brush"
+
+REFERENCE            camo_02g
+LANG_ENGLISH         "??Warcom Greens"
+
+REFERENCE            camo_02h
+LANG_ENGLISH         "?hWarcom Blues"
+
+REFERENCE            camo_02i
+LANG_ENGLISH         "?k??????{?"
+
+REFERENCE            camo_02j
+LANG_ENGLISH         "????KXh?"
+
+REFERENCE            camo_03a
+LANG_ENGLISH         "???=??[?eb?(5?="
+
+REFERENCE            camo_03b
+LANG_ENGLISH         "??Jungle Digital"
+
+REFERENCE            camo_03c
+LANG_ENGLISH         "?Arctic Digital"
+
+REFERENCE            camo_03d
+LANG_ENGLISH         "?k?m?{??"??????"
+
+REFERENCE            camo_03e
+LANG_ENGLISH         "?LMarsh Digital"
+
+REFERENCE            camo_03f
+LANG_ENGLISH         "?!?["K?K?,?"
+
+REFERENCE            camo_03g
+LANG_ENGLISH         "?????"Z?Z??"
+
+REFERENCE            camo_03h
+LANG_ENGLISH         "???77-6"???X?"
+
+REFERENCE            camo_03i
+LANG_ENGLISH         "???%??%?g?po*"
+
+REFERENCE            camo_03j
+LANG_ENGLISH         "?g???+7"?v??X?"
+
+REFERENCE            camo_04a
+LANG_ENGLISH         "?H2O"
+
+REFERENCE            camo_04b
+LANG_ENGLISH         "?g?9"
+
+REFERENCE            camo_04c
+LANG_ENGLISH         "??h?_j"
+
+REFERENCE            camo_04d
+LANG_ENGLISH         "???k?w'?"
+
+REFERENCE            camo_04e
+LANG_ENGLISH         "?
+m[?^????"
+
+REFERENCE            camo_04f
+LANG_ENGLISH         "?[!2??4"
+
+REFERENCE            camo_04g
+LANG_ENGLISH         "?G??Gi?????"
+
+REFERENCE            camo_04h
+LANG_ENGLISH         "?B
+Yz??1{)p?"
+
+REFERENCE            camo_04i
+LANG_ENGLISH         "??Q?XZc?????'"
+
+REFERENCE            camo_04j
+LANG_ENGLISH         "???????"
+
+REFERENCE            camo_05a
+LANG_ENGLISH         "??Tundra"
+
+REFERENCE            camo_05b
+LANG_ENGLISH         "?#?PK?????"
+
+REFERENCE            camo_05c
+LANG_ENGLISH         "??
+d????&?:?"
+
+REFERENCE            camo_05d
+LANG_ENGLISH         "?zR6?'+?[?9"
+
+REFERENCE            camo_05e
+LANG_ENGLISH         "?jRuins"
+
+REFERENCE            camo_05f
+LANG_ENGLISH         "??????+?????"
+
+REFERENCE            camo_05g
+LANG_ENGLISH         "?aAngles"
+
+REFERENCE            camo_05h
+LANG_ENGLISH         "?#w????5?P??]"
+
+REFERENCE            camo_05i
+LANG_ENGLISH         "?;Arctic Abstract"
+
+REFERENCE            camo_05j
+LANG_ENGLISH         "?_?bg?X???r"
+
+REFERENCE            camo_06a
+LANG_ENGLISH         "??	_<??????"
+
+REFERENCE            camo_06b
+LANG_ENGLISH         "???[4?z7>3"
+
+REFERENCE            camo_06c
+LANG_ENGLISH         "?o
+SX'74=?"
+
+REFERENCE            camo_06d
+LANG_ENGLISH         "???W????Ys<? "
+
+REFERENCE            camo_06e
+LANG_ENGLISH         "?t	????+?_"
+
+REFERENCE            camo_06f
+LANG_ENGLISH         "??Vector Trails"
+
+REFERENCE            camo_06g
+LANG_ENGLISH         "?D
+E{??9??"
+
+REFERENCE            camo_06h
+LANG_ENGLISH         "??J???? "
+
+REFERENCE            camo_06i
+LANG_ENGLISH         "?M	??????F"
+
+REFERENCE            camo_06j
+LANG_ENGLISH         "??
+SandStorm"
+
+REFERENCE            camo_07a
+LANG_ENGLISH         "??
+=?Y?;????"
+
+REFERENCE            camo_07b
+LANG_ENGLISH         "??	qK???T?"
+
+REFERENCE            camo_07c
+LANG_ENGLISH         "?8?#?j?? Z??"
+
+REFERENCE            camo_07d
+LANG_ENGLISH         "?W
+???K???"
+
+REFERENCE            camo_07e
+LANG_ENGLISH         "??Faded Veil"
+
+REFERENCE            camo_07f
+LANG_ENGLISH         "??d??,?@?V???"
+
+REFERENCE            camo_07g
+LANG_ENGLISH         "?:18?7?a?,"?3??"
+
+REFERENCE            camo_07h
+LANG_ENGLISH         "??"?n?????:"
+
+REFERENCE            camo_07i
+LANG_ENGLISH         "??
+??)???|??"
+
+REFERENCE            camo_07j
+LANG_ENGLISH         "?Blue Tiger"
+
+REFERENCE            camo_08a
+LANG_ENGLISH         "?|
+/k?0??pI"
+
+REFERENCE            camo_08b
+LANG_ENGLISH         "?cTigers Mane"
+
+REFERENCE            camo_08c
+LANG_ENGLISH         "??	The Khan"
+
+REFERENCE            camo_08d
+LANG_ENGLISH         "??	??n9??^?"
+
+REFERENCE            camo_08e
+LANG_ENGLISH         "?1-+??"
+
+REFERENCE            camo_08f
+LANG_ENGLISH         "??
+H????????"
+
+REFERENCE            camo_08g
+LANG_ENGLISH         "?K(????"
+
+REFERENCE            camo_08h
+LANG_ENGLISH         "?_,?bt?K??u?60'"
+
+REFERENCE            camo_08i
+LANG_ENGLISH         "?????Y?;???"
+
+REFERENCE            camo_08j
+LANG_ENGLISH         "??y0???&?*?"
+
+REFERENCE            camo_09a
+LANG_ENGLISH         "?E???)?"
+
+REFERENCE            camo_09b
+LANG_ENGLISH         "?5Rattlesnake"
+
+REFERENCE            camo_09c
+LANG_ENGLISH         "??????7H"
+
+REFERENCE            camo_09d
+LANG_ENGLISH         "?B??W??J;??7?"
+
+REFERENCE            camo_09e
+LANG_ENGLISH         "??Chupacabra"
+
+REFERENCE            camo_09f
+LANG_ENGLISH         "??(Z?????{s"
+
+REFERENCE            camo_09g
+LANG_ENGLISH         "?y	?R?P{?"
+
+REFERENCE            camo_09h
+LANG_ENGLISH         "?9
+?W6c????"
+
+REFERENCE            camo_09i
+LANG_ENGLISH         "??Gecko"
+
+REFERENCE            camo_09j
+LANG_ENGLISH         "???X9???????"
+
+REFERENCE            camo_10a
+LANG_ENGLISH         "???+?9???K?"
+
+REFERENCE            camo_10a_loc
+LANG_ENGLISH         "???+?9???K?"
+
+REFERENCE            camo_10b
+LANG_ENGLISH         "?{Corpse Digger"
+
+REFERENCE            camo_10c
+LANG_ENGLISH         "??7?WX??"
+
+REFERENCE            camo_10d
+LANG_ENGLISH         "?-	Haunting"
+
+REFERENCE            camo_10e
+LANG_ENGLISH         "??
+4,??{["
+
+REFERENCE            camo_10f
+LANG_ENGLISH         "?c????7?]??C"
+
+REFERENCE            camo_10g
+LANG_ENGLISH         "?O!?[{???ZX?"
+
+REFERENCE            camo_10h
+LANG_ENGLISH         "???P?T?????>k"
+
+REFERENCE            camo_10i
+LANG_ENGLISH         "?Z4??cC?"
+
+REFERENCE            camo_10j
+LANG_ENGLISH         "??	Lichyard"
+
+REFERENCE            camo_11a
+LANG_ENGLISH         "?rGold"
+
+REFERENCE            camo_11b
+LANG_ENGLISH         "?<	??w{+eS`"
+
+REFERENCE            camo_11c
+LANG_ENGLISH         "?M	Damascus"
+
+REFERENCE            camo_11d
+LANG_ENGLISH         "?n	?&?Z#??"
+
+REFERENCE            camo_12a
+LANG_ENGLISH         "?|P?7G?-?"
+
+REFERENCE            camo_12b
+LANG_ENGLISH         "?h?????@?]7G??+?"
+
+REFERENCE            camo_12c
+LANG_ENGLISH         "??+??R??p<??"
+
+REFERENCE            camo_12d
+LANG_ENGLISH         "?-v?H??iN??]???S??"
+
+REFERENCE            camo_12e
+LANG_ENGLISH         "??Los Angeles Guerrillas"
+
+REFERENCE            camo_12f
+LANG_ENGLISH         "?&?s2?7???/?c%X????"
+
+REFERENCE            camo_12g
+LANG_ENGLISH         "???,?????X?M???"
+
+REFERENCE            camo_12h
+LANG_ENGLISH         "?C??i?2?????b????"
+
+REFERENCE            camo_12i
+LANG_ENGLISH         "??????X???;?1???(??????"
+
+REFERENCE            camo_12j
+LANG_ENGLISH         "???a?(??0???"
+
+REFERENCE            camo_12k
+LANG_ENGLISH         "??Seattle Surge"
+
+REFERENCE            camo_12l
+LANG_ENGLISH         "?#?H[?????5?~"
+
+REFERENCE            camo_black_unlock_text
+LANG_ENGLISH         "?1?7c???????K?]??k?@?{N?????{7?cX??+n?"
+
+REFERENCE            camo_diamond_sniper_unlock_text
+LANG_ENGLISH         "?J???{????Yt??#lX?????N??Y'?wY??{????+@5?K?VN?X?#???m??X?????n+??"
+
+REFERENCE            camo_diamond_unlock_text
+LANG_ENGLISH         "?V5e?c8?H?????\W?	?`?/:p?B??+g?ma????B?kLS?Zk??8"
+
+REFERENCE            camo_gold_unlock_text
+LANG_ENGLISH         "?.Complete all camo challenges for this weapon."
+
+REFERENCE            cargo_truck_camo_001
+LANG_ENGLISH         "?dz??w(??"
+
+REFERENCE            cargo_truck_camo_002
+LANG_ENGLISH         "??	?Y'?2???"
+
+REFERENCE            cargo_truck_camo_004
+LANG_ENGLISH         "??{O?E?`=?=U?"
+
+REFERENCE            cargo_truck_camo_006
+LANG_ENGLISH         "??Cargo Truck Name Stub"
+
+REFERENCE            cargo_truck_camo_009
+LANG_ENGLISH         "??Purple People Eater"
+
+REFERENCE            cargo_truck_camo_010
+LANG_ENGLISH         "?e
+???[Yz-?"
+
+REFERENCE            cargo_truck_camo_011
+LANG_ENGLISH         "??Blue Ridge Racer"
+
+REFERENCE            cargo_truck_camo_012
+LANG_ENGLISH         "???
+????%?????j??bF"
+
+REFERENCE            cargo_truck_camo_013
+LANG_ENGLISH         "??CARGO_TRUCK_CAMO_013"
+
+REFERENCE            cargo_truck_camo_015
+LANG_ENGLISH         "??Bachelor's Delight"
+
+REFERENCE            cargo_truck_camo_016
+LANG_ENGLISH         "????????)??-?P5???l"
+
+REFERENCE            cargo_truck_camo_019
+LANG_ENGLISH         "??Vector"
+
+REFERENCE            cargo_truck_camo_021
+LANG_ENGLISH         "?IMonster Mash"
+
+REFERENCE            cargo_truck_camo_022
+LANG_ENGLISH         "??H?7??"
+
+REFERENCE            cargo_truck_camo_026
+LANG_ENGLISH         "?q?3p?)o????"
+
+REFERENCE            cargo_truck_camo_027
+LANG_ENGLISH         "?E?s)c????"
+
+REFERENCE            cargo_truck_camo_029
+LANG_ENGLISH         "????Q???1C?????"
+
+REFERENCE            cargo_truck_camo_030
+LANG_ENGLISH         "?0????j{	?+??C"
+
+REFERENCE            cargo_truck_camo_031
+LANG_ENGLISH         "????b?`S??"
+
+REFERENCE            cargo_truck_camo_032
+LANG_ENGLISH         "?,Iron Curtain"
+
+REFERENCE            cargo_truck_camo_033
+LANG_ENGLISH         "?ZGrizzly End"
+
+REFERENCE            cargo_truck_camo_034
+LANG_ENGLISH         "??!??u???s?"
+
+REFERENCE            cargo_truck_camo_041
+LANG_ENGLISH         "?M???XK"
+
+REFERENCE            category_completion
+LANG_ENGLISH         "??Completionist"
+
+REFERENCE            category_dazzle
+LANG_ENGLISH         "?a	Splinter"
+
+REFERENCE            category_digital
+LANG_ENGLISH         "??Digital"
+
+REFERENCE            category_kryptek
+LANG_ENGLISH         "??Topo"
+
+REFERENCE            category_reptile
+LANG_ENGLISH         "??Reptile"
+
+REFERENCE            category_skulls
+LANG_ENGLISH         "??Skulls"
+
+REFERENCE            category_special
+LANG_ENGLISH         "?_V?????["
+
+REFERENCE            category_spray_paint
+LANG_ENGLISH         "??Spray Paint"
+
+REFERENCE            category_stripes
+LANG_ENGLISH         "??Stripes"
+
+REFERENCE            category_tiger
+LANG_ENGLISH         "?lTiger"
+
+REFERENCE            category_urban
+LANG_ENGLISH         "??Dragon"
+
+REFERENCE            category_woodland
+LANG_ENGLISH         "?M	Woodland"
+
+REFERENCE            default
+LANG_ENGLISH         "??None"
+
+REFERENCE            jeep_camo_001
+LANG_ENGLISH         "?+
+Contagion"
+
+REFERENCE            jeep_camo_002
+LANG_ENGLISH         "?5
+?n,???"
+
+REFERENCE            jeep_camo_003
+LANG_ENGLISH         "??
+?#?@??=?"
+
+REFERENCE            jeep_camo_004
+LANG_ENGLISH         "????:m?2?v?"
+
+REFERENCE            jeep_camo_008
+LANG_ENGLISH         "???y????c:mj???RU??"
+
+REFERENCE            jeep_camo_011
+LANG_ENGLISH         "?Xi?k?1?"
+
+REFERENCE            jeep_camo_012
+LANG_ENGLISH         "??
+??????"
+
+REFERENCE            jeep_camo_014
+LANG_ENGLISH         "???%??a]=???y"
+
+REFERENCE            jeep_camo_015
+LANG_ENGLISH         "??}/7??X9!?b#"
+
+REFERENCE            jeep_camo_017
+LANG_ENGLISH         "??????6?CO??:<"
+
+REFERENCE            jeep_camo_023
+LANG_ENGLISH         "??B?!o?5???'??"
+
+REFERENCE            jeep_camo_024
+LANG_ENGLISH         "??h???s?X"
+
+REFERENCE            jeep_camo_027
+LANG_ENGLISH         "??P???"
+
+REFERENCE            jeep_camo_028
+LANG_ENGLISH         "??b??:V9"
+
+REFERENCE            jeep_camo_029
+LANG_ENGLISH         "?Eagle Rock"
+
+REFERENCE            jeep_camo_030
+LANG_ENGLISH         "????l^"
+
+REFERENCE            jeep_camo_031
+LANG_ENGLISH         "??Bengali"
+
+REFERENCE            jeep_camo_032
+LANG_ENGLISH         "?x????V"
+
+REFERENCE            jeep_camo_035
+LANG_ENGLISH         "??Hammer of the Gods"
+
+REFERENCE            jeep_camo_036
+LANG_ENGLISH         "??Night Ranger"
+
+REFERENCE            jeep_camo_037
+LANG_ENGLISH         "??
+?8;Y
+?}??"
+
+REFERENCE            jeep_camo_038
+LANG_ENGLISH         "???9??@?Y+Y8"
+
+REFERENCE            jeep_camo_039
+LANG_ENGLISH         "?*?????Y???"
+
+REFERENCE            little_bird_camo_001
+LANG_ENGLISH         "???????"
+
+REFERENCE            little_bird_camo_002
+LANG_ENGLISH         "??"Z?G?	-?#"
+
+REFERENCE            little_bird_camo_008
+LANG_ENGLISH         "????('No????)"
+
+REFERENCE            little_bird_camo_010
+LANG_ENGLISH         "???{W??[1?(!!I???'_?"
+
+REFERENCE            little_bird_camo_011
+LANG_ENGLISH         "?????-????6?"
+
+REFERENCE            little_bird_camo_012
+LANG_ENGLISH         "??	j???????"
+
+REFERENCE            little_bird_camo_013
+LANG_ENGLISH         "?5	?X7????Y"
+
+REFERENCE            little_bird_camo_017
+LANG_ENGLISH         "??	Savagery"
+
+REFERENCE            little_bird_camo_018
+LANG_ENGLISH         "???m0R??x7nu? j?"
+
+REFERENCE            little_bird_camo_022
+LANG_ENGLISH         "?|Forrest Canopy"
+
+REFERENCE            little_bird_camo_024
+LANG_ENGLISH         "?%?	?g?"
+
+REFERENCE            little_bird_camo_025
+LANG_ENGLISH         "?,U*??x?H??4"
+
+REFERENCE            little_bird_camo_026
+LANG_ENGLISH         "?	Kawaiicopter"
+
+REFERENCE            little_bird_camo_027
+LANG_ENGLISH         "?????+N???+9"
+
+REFERENCE            little_bird_camo_028
+LANG_ENGLISH         "??	?C??+??"
+
+REFERENCE            little_bird_camo_029
+LANG_ENGLISH         "?)?n???"
+
+REFERENCE            little_bird_camo_030
+LANG_ENGLISH         "?C	Air Raid"
+
+REFERENCE            little_bird_camo_031
+LANG_ENGLISH         "??????????+?"
+
+REFERENCE            little_bird_camo_032
+LANG_ENGLISH         "?R??j7??j??R?PUr??M"
+
+REFERENCE            little_bird_camo_033
+LANG_ENGLISH         "??Golden Bull"
+
+REFERENCE            little_bird_camo_034
+LANG_ENGLISH         "???K3b?{?f?? &j"
+
+REFERENCE            lm_mkilo3_5_flavor
+LANG_ENGLISH         "?+?@???@G??,????Z?@?4V?N???*9,?s1???"
+
+REFERENCE            tac_rover_camo_001
+LANG_ENGLISH         "????+"
+
+REFERENCE            tac_rover_camo_002
+LANG_ENGLISH         "?dRocky Road"
+
+REFERENCE            tac_rover_camo_003
+LANG_ENGLISH         "?H?twm?p:??C????0???"
+
+REFERENCE            tac_rover_camo_006
+LANG_ENGLISH         "???9X[?G?"
+
+REFERENCE            tac_rover_camo_009
+LANG_ENGLISH         "??
+r????s???"
+
+REFERENCE            tac_rover_camo_010
+LANG_ENGLISH         "??
+???c[u??"
+
+REFERENCE            tac_rover_camo_011
+LANG_ENGLISH         "????[?#?4?/?"
+
+REFERENCE            tac_rover_camo_012
+LANG_ENGLISH         "??-kR??????@"
+
+REFERENCE            tac_rover_camo_014
+LANG_ENGLISH         "?3Skull Pile"
+
+REFERENCE            tac_rover_camo_015
+LANG_ENGLISH         "?uY'&?"
+
+REFERENCE            tac_rover_camo_016
+LANG_ENGLISH         "??	??-X??"
+
+REFERENCE            tac_rover_camo_018
+LANG_ENGLISH         "?	?????l??"
+
+REFERENCE            tac_rover_camo_019
+LANG_ENGLISH         "??a(?????%&1?????"
+
+REFERENCE            tac_rover_camo_021
+LANG_ENGLISH         "?x
+?N?????+"
+
+REFERENCE            tac_rover_camo_023
+LANG_ENGLISH         "??3&???"
+
+REFERENCE            tac_rover_camo_024
+LANG_ENGLISH         "??????"
+
+REFERENCE            tac_rover_camo_032
+LANG_ENGLISH         "??	Q?9'?7?"
+
+REFERENCE            tac_rover_camo_033
+LANG_ENGLISH         "??G??+?"
+
+REFERENCE            tank_east_camo_003
+LANG_ENGLISH         "?v?]'n?"
+
+REFERENCE            tank_east_camo_016
+LANG_ENGLISH         "?4????V?!?s?"
+
+REFERENCE            tank_west_camo_010
+LANG_ENGLISH         "?r?????Q??
+5=??"
+
+REFERENCE            tank_west_camo_017
+LANG_ENGLISH         "?5
+_b?;???px"
+
+REFERENCE            tank_west_camo_020
+LANG_ENGLISH         "?X?O????6	 ??"
+
+
+ENDMARKER

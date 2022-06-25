@@ -1,0 +1,352 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            challenge_complete
+LANG_ENGLISH         "??Challenge Completed"
+
+REFERENCE            challenge_locked
+LANG_ENGLISH         "?_BC?c???vY@K7??lm+F????????@???-???6????7/???'V,??@'X7?1?"
+
+REFERENCE            challenge_locked_max
+LANG_ENGLISH         "??Bv??	@?{??*???????gjY)?K?7?_?w;???y{???'(3*???S?M?!???WI??Qn?"
+
+REFERENCE            emblem_challenge_update
+LANG_ENGLISH         "?	;??j????k+??u????0?Hpo?)c?f????2xw???b^n?F?p??hr"
+
+REFERENCE            new_rank
+LANG_ENGLISH         "??	9??I?m"
+
+REFERENCE            player_rank_reset
+LANG_ENGLISH         "??Player Rank Reset"
+
+REFERENCE            progress
+LANG_ENGLISH         "???*/????_C?b???c?K#"
+
+REFERENCE            progress_count
+LANG_ENGLISH         "?A&&1/&&2"
+
+REFERENCE            rank_reset_time
+LANG_ENGLISH         "?d?X??'???G??L1?"
+
+REFERENCE            ribbon_of_honor
+LANG_ENGLISH         "??X`?P!??	?F`C"
+
+REFERENCE            ribbon_of_honor_001
+LANG_ENGLISH         "??]p????8=5?
+?"
+
+REFERENCE            ribbon_of_honor_002
+LANG_ENGLISH         "???vb/H1??QgXR
+"
+
+REFERENCE            ribbon_of_honor_003
+LANG_ENGLISH         "??)??oJ?(??????B?"
+
+REFERENCE            ribbon_of_honor_004
+LANG_ENGLISH         "????? ?B??*?xU??OU"
+
+REFERENCE            ribbon_of_honor_005
+LANG_ENGLISH         "??Ribbon of Honor 5"
+
+REFERENCE            ribbon_of_honor_006
+LANG_ENGLISH         "??????????B???'?"
+
+REFERENCE            ribbon_of_honor_007
+LANG_ENGLISH         "????Zy??.?$?' ??
+"
+
+REFERENCE            ribbon_of_honor_008
+LANG_ENGLISH         "??JZ&??7??@????'?"
+
+REFERENCE            ribbon_of_honor_009
+LANG_ENGLISH         "??%??L???3B?7????"
+
+REFERENCE            ribbon_of_honor_010
+LANG_ENGLISH         "?.????F?>???g3?R
+"
+
+REFERENCE            ribbon_of_honor_011
+LANG_ENGLISH         "?.Ribbon of Honor 11"
+
+REFERENCE            ribbon_of_honor_012
+LANG_ENGLISH         "?.?N{?P??x\87?;	??"
+
+REFERENCE            ribbon_of_honor_013
+LANG_ENGLISH         "?.)?1?7???${?????"
+
+REFERENCE            ribbon_of_honor_014
+LANG_ENGLISH         "?.Ribbon of Honor 14"
+
+REFERENCE            ribbon_of_honor_015
+LANG_ENGLISH         "?.Ribbon of Honor 15"
+
+REFERENCE            ribbon_of_honor_016
+LANG_ENGLISH         "?.Ribbon of Honor 16"
+
+REFERENCE            ribbon_of_honor_017
+LANG_ENGLISH         "?.)K?s?3@	????&?"
+
+REFERENCE            ribbon_of_honor_018
+LANG_ENGLISH         "?.d??^?X(?@-J?/?"
+
+REFERENCE            ribbon_of_honor_019
+LANG_ENGLISH         "?.
++e??`?[???
+'>j?"
+
+REFERENCE            ribbon_of_honor_020
+LANG_ENGLISH         "?.??b?'?P??Hx?S???"
+
+REFERENCE            ribbon_of_honor_021
+LANG_ENGLISH         "?.??F_???+??H?pR"
+
+REFERENCE            ribbon_of_honor_022
+LANG_ENGLISH         "?.?????s@????s?9#F"
+
+REFERENCE            ribbon_of_honor_023
+LANG_ENGLISH         "?.J???7?f$????F?"
+
+REFERENCE            ribbon_of_honor_024
+LANG_ENGLISH         "?.I???s?3????NF?"
+
+REFERENCE            ribbon_of_honor_025
+LANG_ENGLISH         "?.7??F?H??pT@?3??"
+
+REFERENCE            ribbon_of_honor_026
+LANG_ENGLISH         "?.Ribbon of Honor 26"
+
+REFERENCE            ribbon_of_honor_027
+LANG_ENGLISH         "?.???U??????kh??/?"
+
+REFERENCE            ribbon_of_honor_028
+LANG_ENGLISH         "?.ypn??1???E?????"
+
+REFERENCE            ribbon_of_honor_029
+LANG_ENGLISH         "?.??&?s??@?{??9?'"
+
+REFERENCE            ribbon_of_honor_030
+LANG_ENGLISH         "?.?Z&???3@$????f?"
+
+REFERENCE            ribbon_of_honor_031
+LANG_ENGLISH         "?.??L1???3@	?s?????"
+
+REFERENCE            ribbon_of_honor_032
+LANG_ENGLISH         "?.MO???????hP7??!J"
+
+REFERENCE            ribbon_of_honor_033
+LANG_ENGLISH         "?.Ribbon of Honor 33"
+
+REFERENCE            ribbon_of_honor_034
+LANG_ENGLISH         "?.I@^???????up????"
+
+REFERENCE            ribbon_of_honor_035
+LANG_ENGLISH         "?.??????h?d@K?]U??"?"
+
+REFERENCE            ribbon_of_honor_036
+LANG_ENGLISH         "?.????J?O?yn?????"
+
+REFERENCE            ribbon_of_honor_037
+LANG_ENGLISH         "?.Ribbon of Honor 37"
+
+REFERENCE            ribbon_of_honor_038
+LANG_ENGLISH         "?.?????s@????s?93"
+
+REFERENCE            ribbon_of_honor_039
+LANG_ENGLISH         "?.??F_???+??H?pS"
+
+REFERENCE            ribbon_of_honor_040
+LANG_ENGLISH         "?.b? ??A?2YC???}???"
+
+REFERENCE            ribbon_of_honor_041
+LANG_ENGLISH         "?.Ribbon of Honor 41"
+
+REFERENCE            ribbon_of_honor_042
+LANG_ENGLISH         "?.
++e??`?[???
+'>+."
+
+REFERENCE            ribbon_of_honor_043
+LANG_ENGLISH         "?.d??^?X(?@-J??j"
+
+REFERENCE            ribbon_of_honor_044
+LANG_ENGLISH         "?.?Q? ??&??#@?????"
+
+REFERENCE            ribbon_of_honor_045
+LANG_ENGLISH         "?.)?L??s??3?????@S"
+
+REFERENCE            ribbon_of_honor_046
+LANG_ENGLISH         "?.??bv0>^??f0??jc??"
+
+REFERENCE            ribbon_of_honor_047
+LANG_ENGLISH         "?.????hj/5???P_?I??"
+
+REFERENCE            ribbon_of_honor_048
+LANG_ENGLISH         "?.)?1?7???${????"
+
+REFERENCE            ribbon_of_honor_049
+LANG_ENGLISH         "?.?N{?P??x\87?;	{"
+
+REFERENCE            ribbon_of_honor_050
+LANG_ENGLISH         "?.Ribbon of Honor 50"
+
+REFERENCE            ribbon_of_honor_051
+LANG_ENGLISH         "?.I?????@??B{?????"
+
+REFERENCE            ribbon_of_honor_052
+LANG_ENGLISH         "?.???&????$???N@??"
+
+REFERENCE            ribbon_of_honor_053
+LANG_ENGLISH         "?.?-?L???fB???N?f"
+
+REFERENCE            ribbon_of_honor_054
+LANG_ENGLISH         "?.?!?P??6??3??5????"
+
+REFERENCE            ribbon_of_honor_055
+LANG_ENGLISH         "?.??&?s??@?{??9??"
+
+REFERENCE            ribbon_of_honor_056
+LANG_ENGLISH         "?.Ribbon of Honor 56"
+
+REFERENCE            ribbon_of_honor_057
+LANG_ENGLISH         "?.???U??????kh??_?"
+
+REFERENCE            ribbon_of_honor_058
+LANG_ENGLISH         "?.????hj/5???P_?I?`"
+
+REFERENCE            ribbon_of_honor_059
+LANG_ENGLISH         "?.??bv0>^??f0??jc??>"
+
+REFERENCE            ribbon_of_honor_060
+LANG_ENGLISH         "?.Ribbon of Honor 60"
+
+REFERENCE            ribbon_of_honor_061
+LANG_ENGLISH         "?.??bv0>^??f0??jc??"
+
+REFERENCE            ribbon_of_honor_062
+LANG_ENGLISH         "?.????hj/5???P_?I??"
+
+REFERENCE            ribbon_of_honor_063
+LANG_ENGLISH         "?.?Q? ??&??#@?????"
+
+REFERENCE            ribbon_of_honor_064
+LANG_ENGLISH         "?.???&????$???N@??"
+
+REFERENCE            ribbon_of_honor_065
+LANG_ENGLISH         "?.
++e??`?[???
+'>??"
+
+REFERENCE            ribbon_of_honor_066
+LANG_ENGLISH         "?.d??^?X(?@-J??+"
+
+REFERENCE            ribbon_of_honor_067
+LANG_ENGLISH         "?.b? ??A?2YC???}???"
+
+REFERENCE            ribbon_of_honor_068
+LANG_ENGLISH         "?.Ribbon of Honor 68"
+
+REFERENCE            ribbon_of_honor_069
+LANG_ENGLISH         "?.I?????@??B{?????"
+
+REFERENCE            ribbon_of_honor_070
+LANG_ENGLISH         "?.Ribbon of Honor 70"
+
+REFERENCE            ribbon_of_honor_071
+LANG_ENGLISH         "?.I?????@??B{?????"
+
+REFERENCE            ribbon_of_honor_072
+LANG_ENGLISH         "?.Ribbon of Honor 72"
+
+REFERENCE            ribbon_of_honor_073
+LANG_ENGLISH         "?.???U??????kh??{"
+
+REFERENCE            ribbon_of_honor_074
+LANG_ENGLISH         "?.?!?P??6??3??5????"
+
+REFERENCE            ribbon_of_honor_075
+LANG_ENGLISH         "?.??&?s??@?{??9??"
+
+REFERENCE            ribbon_of_honor_076
+LANG_ENGLISH         "?.ypn??1???E????3"
+
+REFERENCE            ribbon_of_honor_077
+LANG_ENGLISH         "?.???U??????kh???"
+
+REFERENCE            ribbon_of_honor_078
+LANG_ENGLISH         "?.Ribbon of Honor 78"
+
+REFERENCE            ribbon_of_honor_079
+LANG_ENGLISH         "?.7??F?H??pT@?3w"
+
+REFERENCE            ribbon_of_honor_080
+LANG_ENGLISH         "?.????J?O?yn?????"
+
+REFERENCE            ribbon_of_honor_081
+LANG_ENGLISH         "?.??????h?d@K?]U??z?"
+
+REFERENCE            ribbon_of_honor_082
+LANG_ENGLISH         "?.?Z&???3@$????p?"
+
+REFERENCE            ribbon_of_honor_083
+LANG_ENGLISH         "?.Ribbon of Honor 83"
+
+REFERENCE            ribbon_of_honor_084
+LANG_ENGLISH         "?.MO???????hP7??!R"
+
+REFERENCE            ribbon_of_honor_085
+LANG_ENGLISH         "?.??L1???3@	?s?????"
+
+REFERENCE            ribbon_of_honor_086
+LANG_ENGLISH         "?.?????7??????c"
+
+REFERENCE            ribbon_of_honor_087
+LANG_ENGLISH         "?.Ribbon of Honor 87"
+
+REFERENCE            ribbon_of_honor_088
+LANG_ENGLISH         "?.)K?s?3@	????"
+
+REFERENCE            ribbon_of_honor_089
+LANG_ENGLISH         "?.Ribbon of Honor 89"
+
+REFERENCE            ribbon_of_honor_090
+LANG_ENGLISH         "?.??F_???+??H?pY"
+
+REFERENCE            ribbon_of_honor_091
+LANG_ENGLISH         "?.??b?'?P??Hx?S???"
+
+REFERENCE            ribbon_of_honor_092
+LANG_ENGLISH         "?.J???7?f$????'?"
+
+REFERENCE            ribbon_of_honor_093
+LANG_ENGLISH         "?.?????s@????s?9?f"
+
+REFERENCE            ribbon_of_honor_094
+LANG_ENGLISH         "?.7??F?H??pT@?3??"
+
+REFERENCE            ribbon_of_honor_095
+LANG_ENGLISH         "?.I???s?3????N'?"
+
+REFERENCE            ribbon_of_honor_096
+LANG_ENGLISH         "?.???U??????kh????"
+
+REFERENCE            ribbon_of_honor_097
+LANG_ENGLISH         "?.Ribbon of Honor 97"
+
+REFERENCE            ribbon_of_honor_098
+LANG_ENGLISH         "?.??&?s??@?{??9?"
+
+REFERENCE            ribbon_of_honor_099
+LANG_ENGLISH         "?.ypn??1???E???w?"
+
+REFERENCE            ribbon_of_honor_100
+LANG_ENGLISH         "????bv0>^??f0??jc???"
+
+REFERENCE            season_unlock_desc
+LANG_ENGLISH         "??<SC:Hc?????o7B????	?<r8JJ/??KY?????^???!??GB?4???9???"
+
+REFERENCE            weapon_unlocks
+LANG_ENGLISH         "?8???8rco????"
+
+
+ENDMARKER

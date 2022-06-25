@@ -1,0 +1,370 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ability_warning
+LANG_ENGLISH         "?
+???3??W"
+
+REFERENCE            ballistics
+LANG_ENGLISH         "?w?,?cZn?-??"
+
+REFERENCE            boost
+LANG_ENGLISH         "??k?zz5?W"
+
+REFERENCE            bradley_accelerate
+LANG_ENGLISH         "???[???kX?2"
+
+REFERENCE            bradley_aim
+LANG_ENGLISH         "?Aim"
+
+REFERENCE            bradley_ammo
+LANG_ENGLISH         "??{H?Vz?ZF?L"
+
+REFERENCE            bradley_ammo_empty
+LANG_ENGLISH         "??
+?-]8?????"
+
+REFERENCE            bradley_ammo_low
+LANG_ENGLISH         "??	???c?:?"
+
+REFERENCE            bradley_destruct_warning
+LANG_ENGLISH         "?[5V?????N?l:J??Z7?7?"
+
+REFERENCE            bradley_driver_label
+LANG_ENGLISH         "??9?F?+?@*,?[???;Y?"
+
+REFERENCE            bradley_exit_switch_driver
+LANG_ENGLISH         "???c?ai^?j4"
+
+REFERENCE            bradley_exit_switch_gunner
+LANG_ENGLISH         "???c?ai^?j4"
+
+REFERENCE            bradley_fire
+LANG_ENGLISH         "?ZK?+?,???s"
+
+REFERENCE            bradley_fire_warning
+LANG_ENGLISH         "??Weapon Systems Damaged"
+
+REFERENCE            bradley_gunner_label
+LANG_ENGLISH         "??*??U?"??f??6?d=rK#"
+
+REFERENCE            bradley_health
+LANG_ENGLISH         "?d?:?5"
+
+REFERENCE            bradley_missile
+LANG_ENGLISH         "?\??+S???Z?V"
+
+REFERENCE            bradley_missile_count
+LANG_ENGLISH         "???'??s??Jh]7?mq"
+
+REFERENCE            bradley_move_warning
+LANG_ENGLISH         "?mMovement Systems Damaged"
+
+REFERENCE            bradley_reverse
+LANG_ENGLISH         "?Reverse"
+
+REFERENCE            bradley_smoke
+LANG_ENGLISH         "?r?????"
+
+REFERENCE            bradley_smoke_count
+LANG_ENGLISH         "??P?G?;V?????????L??"
+
+REFERENCE            bradley_speed_boost
+LANG_ENGLISH         "?Y*???????{??"
+
+REFERENCE            bradley_speed_boost_count
+LANG_ENGLISH         "???].????6??!b&'"
+
+REFERENCE            bradley_steer
+LANG_ENGLISH         "??Steer"
+
+REFERENCE            bradley_switch_seat
+LANG_ENGLISH         "????-??C????"
+
+REFERENCE            bradley_time
+LANG_ENGLISH         "??18?7?/?51?????"
+
+REFERENCE            bronze_honors
+LANG_ENGLISH         "?]	??sO????{'?"
+
+REFERENCE            bullettype
+LANG_ENGLISH         "?X?????E???"
+
+REFERENCE            c12
+LANG_ENGLISH         "?C12"
+
+REFERENCE            c12_missile_count
+LANG_ENGLISH         "???Rw?+???W??W"Fz"
+
+REFERENCE            c12_target_count
+LANG_ENGLISH         "??@??,K???vuYG???"
+
+REFERENCE            c12_targeting
+LANG_ENGLISH         "??H?~#A^=uh??}b?"
+
+REFERENCE            connected
+LANG_ENGLISH         "??
+Connected"
+
+REFERENCE            contextual_ping_hint
+LANG_ENGLISH         "??[{+ping,+actionslot 1}] Ping"
+
+REFERENCE            cyber_msg
+LANG_ENGLISH         "???up%"
+
+REFERENCE            degrees
+LANG_ENGLISH         "??a,"
+
+REFERENCE            dz_msg
+LANG_ENGLISH         "?p
+Drop Zone"
+
+REFERENCE            east
+LANG_ENGLISH         "?LE"
+
+REFERENCE            energy
+LANG_ENGLISH         "??5z???"
+
+REFERENCE            engage_thrusters
+LANG_ENGLISH         "?:M?o?7??P;{???*?"
+
+REFERENCE            field_orders
+LANG_ENGLISH         "??Mission"
+
+REFERENCE            final_moments
+LANG_ENGLISH         "???[???z??=? <?"
+
+REFERENCE            fire
+LANG_ENGLISH         "?x?"*s"
+
+REFERENCE            fraction
+LANG_ENGLISH         "?A&&1/&&2"
+
+REFERENCE            gold_honors
+LANG_ENGLISH         "?????b??
+K?"
+
+REFERENCE            hack_c6_robot
+LANG_ENGLISH         "??C6 - TACTICAL ROBOT"
+
+REFERENCE            hack_c8_robot
+LANG_ENGLISH         "??C8 - TACTICAL ROBOT"
+
+REFERENCE            hack_complete
+LANG_ENGLISH         "??X?~???o?P?9?"
+
+REFERENCE            hack_connect_target
+LANG_ENGLISH         "??4???Y???7?Q?@??9?+:"
+
+REFERENCE            hack_connecting
+LANG_ENGLISH         "??h???+??Ks?"
+
+REFERENCE            hack_connection_lost
+LANG_ENGLISH         "???s7Y??Z??b?7"
+
+REFERENCE            hack_failed
+LANG_ENGLISH         "?@HACK FAILED"
+
+REFERENCE            hack_hacking
+LANG_ENGLISH         "??	;A?H??B?"
+
+REFERENCE            hack_initiated
+LANG_ENGLISH         "??Robot Hack Initiated"
+
+REFERENCE            hack_online
+LANG_ENGLISH         "??Online"
+
+REFERENCE            hack_openining_connection
+LANG_ENGLISH         "?zOpening Connection"
+
+REFERENCE            hack_system_readout
+LANG_ENGLISH         "?[???+?i_s-"
+
+REFERENCE            hack_version
+LANG_ENGLISH         "?G+????b??r"
+
+REFERENCE            hardpoint_msg
+LANG_ENGLISH         "?{
+Hardpoint"
+
+REFERENCE            hq_msg
+LANG_ENGLISH         "?QHeadquarters"
+
+REFERENCE            injured
+LANG_ENGLISH         "???`#???"
+
+REFERENCE            jackal
+LANG_ENGLISH         "??Jackal"
+
+REFERENCE            jackal_30mm
+LANG_ENGLISH         "??
+30mm Gren"
+
+REFERENCE            jackal_50mm
+LANG_ENGLISH         "?V???A?4??7#??"
+
+REFERENCE            jackal_air_ground
+LANG_ENGLISH         "?EK?i???t????S-n??6?n"
+
+REFERENCE            jackal_targets
+LANG_ENGLISH         "??	Targets:"
+
+REFERENCE            kill
+LANG_ENGLISH         "???8??"
+
+REFERENCE            losing_signal
+LANG_ENGLISH         "??9??????????"
+
+REFERENCE            loss_imminent
+LANG_ENGLISH         "?JLoss Imminent!"
+
+REFERENCE            meter_oxg
+LANG_ENGLISH         "?l?"
+
+REFERENCE            meter_temp
+LANG_ENGLISH         "?TMP"
+
+REFERENCE            mission_complete
+LANG_ENGLISH         "???w?*?????T?"
+
+REFERENCE            new_weapon
+LANG_ENGLISH         "??=)??%;O?"
+
+REFERENCE            no_injury
+LANG_ENGLISH         "??
+NO INJURY"
+
+REFERENCE            north
+LANG_ENGLISH         "?LN"
+
+REFERENCE            north_east
+LANG_ENGLISH         "?NE"
+
+REFERENCE            north_west
+LANG_ENGLISH         "?NW"
+
+REFERENCE            nvg_instruction
+LANG_ENGLISH         "?%[{ONFOOT:+actionslot 2;nightvision}]"
+
+REFERENCE            objective_distance
+LANG_ENGLISH         "?d&&1m"
+
+REFERENCE            objective_done
+LANG_ENGLISH         "?p??V0K????g?`?K?"
+
+REFERENCE            objective_failed
+LANG_ENGLISH         "??Objective Failed"
+
+REFERENCE            out_of_range
+LANG_ENGLISH         "?#<???x?jU{;x?"
+
+REFERENCE            out_of_range_hack_paused
+LANG_ENGLISH         "??g???yN_5?wQVC??????"??"
+
+REFERENCE            percentage
+LANG_ENGLISH         "?r??B"
+
+REFERENCE            point_1_msg
+LANG_ENGLISH         "??????P"
+
+REFERENCE            point_2_msg
+LANG_ENGLISH         "?Point B"
+
+REFERENCE            point_3_msg
+LANG_ENGLISH         "?({Ks:"
+
+REFERENCE            point_4_msg
+LANG_ENGLISH         "?Point D"
+
+REFERENCE            point_5_msg
+LANG_ENGLISH         "????sG?"
+
+REFERENCE            points_popup_score
+LANG_ENGLISH         "??+&&1"
+
+REFERENCE            points_popup_xp
+LANG_ENGLISH         "????$?6??"
+
+REFERENCE            proximity_hack
+LANG_ENGLISH         "?B?E)???????g<"
+
+REFERENCE            ready
+LANG_ENGLISH         "???+??"
+
+REFERENCE            rebirth_points
+LANG_ENGLISH         "??n??"
+
+REFERENCE            remote_missile
+LANG_ENGLISH         "?Y?y:????????B?)??Bm"
+
+REFERENCE            rms_desc
+LANG_ENGLISH         "??]?x??2???Cp?{?R?^???	?_??"
+
+REFERENCE            rms_end
+LANG_ENGLISH         "?END"
+
+REFERENCE            rms_start
+LANG_ENGLISH         "????"
+
+REFERENCE            searching_target
+LANG_ENGLISH         "?8F?w????x(??s??N?#"
+
+REFERENCE            silver_honors
+LANG_ENGLISH         "??????????7???"
+
+REFERENCE            sonic
+LANG_ENGLISH         "?a?????"
+
+REFERENCE            south
+LANG_ENGLISH         "?LS"
+
+REFERENCE            south_east
+LANG_ENGLISH         "?SE"
+
+REFERENCE            south_west
+LANG_ENGLISH         "?SW"
+
+REFERENCE            specialfeatures
+LANG_ENGLISH         "?bSpecial Features"
+
+REFERENCE            stack_grenade_stacking
+LANG_ENGLISH         "????
+?]??"
+
+REFERENCE            stack_grenade_will_stack
+LANG_ENGLISH         "???w?t2?P??[og,"
+
+REFERENCE            temperature
+LANG_ENGLISH         "?O?r??_o?
+m?{wY?"
+
+REFERENCE            thor_fire_missiles
+LANG_ENGLISH         "??Fire Missiles"
+
+REFERENCE            thrust
+LANG_ENGLISH         "?,?6#y4?_?@'q)?I"
+
+REFERENCE            tracking
+LANG_ENGLISH         "??	?w^???"
+
+REFERENCE            tracking_vision
+LANG_ENGLISH         "?,',??Z7??-?K??"
+
+REFERENCE            under_barrel_and_ammo
+LANG_ENGLISH         "??b??1???"
+
+REFERENCE            weapon_swap
+LANG_ENGLISH         "?bu?j??r?"
+
+REFERENCE            weapontype
+LANG_ENGLISH         "???JF????8?"
+
+REFERENCE            west
+LANG_ENGLISH         "?LW"
+
+REFERENCE            win_imminent
+LANG_ENGLISH         "?MWin Imminent!"
+
+
+ENDMARKER

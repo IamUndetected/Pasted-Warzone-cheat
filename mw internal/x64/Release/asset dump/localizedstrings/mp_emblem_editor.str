@@ -1,0 +1,1693 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            add_to_favorites
+LANG_ENGLISH         "??ADD TO FAVORITES"
+
+REFERENCE            america
+LANG_ENGLISH         "??	(??'?X?"
+
+REFERENCE            angel_wings
+LANG_ENGLISH         "?eP?*?)???"
+
+REFERENCE            apply_paint_job
+LANG_ENGLISH         "????+@(??*?="
+
+REFERENCE            arabian_sword
+LANG_ENGLISH         "?Y%(?R(9???J""
+
+REFERENCE            arrow
+LANG_ENGLISH         "??c??@Q"
+
+REFERENCE            arrow_banner
+LANG_ENGLISH         "?r??%??@??rT)"
+
+REFERENCE            badge
+LANG_ENGLISH         "??BADGE"
+
+REFERENCE            banner
+LANG_ENGLISH         "??BANNER"
+
+REFERENCE            banner_edge
+LANG_ENGLISH         "?HP??*I*??"
+
+REFERENCE            barber_blade
+LANG_ENGLISH         "?m??????
+"T"
+
+REFERENCE            barcode
+LANG_ENGLISH         "??;9{???"
+
+REFERENCE            bird
+LANG_ENGLISH         "??BIRD"
+
+REFERENCE            blue
+LANG_ENGLISH         "???0?M"
+
+REFERENCE            bowl
+LANG_ENGLISH         "???z?&"
+
+REFERENCE            bright_star
+LANG_ENGLISH         "???????????"
+
+REFERENCE            bullseye
+LANG_ENGLISH         "?	BULLSEYE"
+
+REFERENCE            canvas
+LANG_ENGLISH         "???BM??"
+
+REFERENCE            cat
+LANG_ENGLISH         "?CAT"
+
+REFERENCE            champion_belt
+LANG_ENGLISH         "?{CHAMPION BELT"
+
+REFERENCE            change_layer
+LANG_ENGLISH         "?I^??e?j?????"
+
+REFERENCE            change_layer_order
+LANG_ENGLISH         "?I'?w???%#"
+
+REFERENCE            change_opacity
+LANG_ENGLISH         "????u??_??????;"
+
+REFERENCE            choose_decal
+LANG_ENGLISH         "??(???y-?P}"
+
+REFERENCE            circle
+LANG_ENGLISH         "?????"
+
+REFERENCE            circle_border
+LANG_ENGLISH         "?<??>????TR???"
+
+REFERENCE            clear_layer
+LANG_ENGLISH         "???ET?hs1??r"
+
+REFERENCE            clipboard
+LANG_ENGLISH         "??
+?J?	?P?""
+
+REFERENCE            clipboard_controls
+LANG_ENGLISH         "?[??%?$=(I??r?????"
+
+REFERENCE            cog
+LANG_ENGLISH         "??G"
+
+REFERENCE            color_gradient
+LANG_ENGLISH         "??COLOR GRADIENT"
+
+REFERENCE            color_mixer
+LANG_ENGLISH         "????Te???z"
+
+REFERENCE            color_picker
+LANG_ENGLISH         "??????'H#Ig"
+
+REFERENCE            community
+LANG_ENGLISH         "??
+?4y???c?Y"
+
+REFERENCE            confirm_delete_emblem_message
+LANG_ENGLISH         "??-????hE??o??@O???!c??x??G?P?+???????e?5}"
+
+REFERENCE            confirm_delete_paint_job_message
+LANG_ENGLISH         "??0?J?9??R?3???w???g8?s0b:?ia;m7}h/???
+??=??O"
+
+REFERENCE            controls
+LANG_ENGLISH         "??	?`1???"
+
+REFERENCE            copy_layer
+LANG_ENGLISH         "??e????Q??"
+
+REFERENCE            cotton_reel
+LANG_ENGLISH         "??Cotton Reel"
+
+REFERENCE            create_new
+LANG_ENGLISH         "??%*?*??"
+
+REFERENCE            creed
+LANG_ENGLISH         "??hJQ?""
+
+REFERENCE            curved_triangle
+LANG_ENGLISH         "?9CURVED TRIANGLE"
+
+REFERENCE            custom
+LANG_ENGLISH         "?4?U?=5"
+
+REFERENCE            customize
+LANG_ENGLISH         "??
+?a??g?"
+
+REFERENCE            cut_layer
+LANG_ENGLISH         "??
+h?QbVTJ"
+
+REFERENCE            death
+LANG_ENGLISH         "?uDEATH"
+
+REFERENCE            decal_tab_alphas
+LANG_ENGLISH         "?	????,????NK"
+
+REFERENCE            decal_tab_icons
+LANG_ENGLISH         "?vs/R?0"
+
+REFERENCE            decal_tab_ranks
+LANG_ENGLISH         "????'R"
+
+REFERENCE            decal_tab_symbols
+LANG_ENGLISH         "?"B#{?? ("
+
+REFERENCE            decal_tab_weapons
+LANG_ENGLISH         "?weapons"
+
+REFERENCE            default
+LANG_ENGLISH         "?DEFAULT"
+
+REFERENCE            default_emblem_name
+LANG_ENGLISH         "?W??Jqp???_x"
+
+REFERENCE            default_paint_job_name
+LANG_ENGLISH         "?=MyPaintJob"
+
+REFERENCE            delete_emblem
+LANG_ENGLISH         "?"*b***Qj???5"
+
+REFERENCE            delete_paint_job
+LANG_ENGLISH         "????!?????+L+f?)`"
+
+REFERENCE            detailed_arrow
+LANG_ENGLISH         "?\?Q??1??
+??z?"
+
+REFERENCE            diamond_formation
+LANG_ENGLISH         "??qfY?`??KQ???_-"
+
+REFERENCE            diamond_star
+LANG_ENGLISH         "??K????e????S"
+
+REFERENCE            diamond_triangle
+LANG_ENGLISH         "?=	?~??We
+GE?WP?"
+
+REFERENCE            discard
+LANG_ENGLISH         "?SDISCARD"
+
+REFERENCE            double_hourglass
+LANG_ENGLISH         "???/V?H???	'!o"
+
+REFERENCE            downloading_emblems
+LANG_ENGLISH         "???o????8h????
+A5?g"
+
+REFERENCE            duplicate_layer
+LANG_ENGLISH         "?t??%?m	TYAw(?="
+
+REFERENCE            earth
+LANG_ENGLISH         "?SEARTH"
+
+REFERENCE            eclipse
+LANG_ENGLISH         "?u?Qd{??"
+
+REFERENCE            edge
+LANG_ENGLISH         "?`9W?"
+
+REFERENCE            edit_layer
+LANG_ENGLISH         "?>*)?1
+??I"
+
+REFERENCE            edit_layer_title
+LANG_ENGLISH         "?>*)?1
+??I"
+
+REFERENCE            emblem_editor
+LANG_ENGLISH         "??EMBLEM EDITOR"
+
+REFERENCE            emblem_equipped_message
+LANG_ENGLISH         "??VY?6?k4??+Y???ZY#?"
+
+REFERENCE            emblem_live_preview
+LANG_ENGLISH         "?HEMBLEM LIVE PREVIEW"
+
+REFERENCE            emblem_title
+LANG_ENGLISH         "?lQ%"
+
+REFERENCE            enter_name
+LANG_ENGLISH         "??ENTER NAME"
+
+REFERENCE            equip
+LANG_ENGLISH         "?????X?+??X?V????2"
+
+REFERENCE            favorites
+LANG_ENGLISH         "?'
+nY?y{	?"
+
+REFERENCE            feather
+LANG_ENGLISH         "?0FEATHER"
+
+REFERENCE            flag
+LANG_ENGLISH         "?1?:?P"
+
+REFERENCE            flag_stars
+LANG_ENGLISH         "???T??qY?R?"
+
+REFERENCE            flip
+LANG_ENGLISH         "?9FLIP LAYER"
+
+REFERENCE            flipped_pentagon
+LANG_ENGLISH         "?JFLIPPED PENTAGON"
+
+REFERENCE            fox
+LANG_ENGLISH         "?#??"
+
+REFERENCE            gear
+LANG_ENGLISH         "?q!HN?"
+
+REFERENCE            geometric
+LANG_ENGLISH         "??
+-?????;'"
+
+REFERENCE            george_shield
+LANG_ENGLISH         "???S?J?E?x,?+7"
+
+REFERENCE            greek_leafs
+LANG_ENGLISH         "??GREEK LEAFS"
+
+REFERENCE            green
+LANG_ENGLISH         "?)??%?"
+
+REFERENCE            group_layer
+LANG_ENGLISH         "?T???U(?1P???"
+
+REFERENCE            grouping_controls
+LANG_ENGLISH         "?sI?UA??4??*%??j"
+
+REFERENCE            guitarpick
+LANG_ENGLISH         "??:U?QPI
+)?"
+
+REFERENCE            halberd_axe
+LANG_ENGLISH         "??!?&$%?,Q"
+
+REFERENCE            half_rainbow
+LANG_ENGLISH         "??HALF RAINBOW"
+
+REFERENCE            half_tube
+LANG_ENGLISH         "??
+?;?/B?g??"
+
+REFERENCE            hazzard
+LANG_ENGLISH         "?"HAZARD"
+
+REFERENCE            heptagon
+LANG_ENGLISH         "??	$Q?(???"
+
+REFERENCE            hexagon
+LANG_ENGLISH         "?HEXAGON"
+
+REFERENCE            hockey_stick
+LANG_ENGLISH         "?X!=?Z*V??R?"
+
+REFERENCE            hour_glass
+LANG_ENGLISH         "??
+HOURGLASS"
+
+REFERENCE            icon_advanced_uav
+LANG_ENGLISH         "?<??????^?"
+
+REFERENCE            icon_aerial_assault
+LANG_ENGLISH         "??g?\?(??iS)?"
+
+REFERENCE            icon_air_defense
+LANG_ENGLISH         "??,??#V?V?7?"
+
+REFERENCE            icon_alpha_lockdown
+LANG_ENGLISH         "?j??a????'????"
+
+REFERENCE            icon_apex
+LANG_ENGLISH         "??AP-3X"
+
+REFERENCE            icon_apex_outline
+LANG_ENGLISH         "?yAP-3X outline"
+
+REFERENCE            icon_ar_star
+LANG_ENGLISH         "??n?,W?:7?9"
+
+REFERENCE            icon_arrow
+LANG_ENGLISH         "??#+?PP"
+
+REFERENCE            icon_assault__package
+LANG_ENGLISH         "?)?n?,W?:,?X??"
+
+REFERENCE            icon_avenger
+LANG_ENGLISH         "?|??????"
+
+REFERENCE            icon_bandage
+LANG_ENGLISH         "??L??F?;Y"
+
+REFERENCE            icon_blackout
+LANG_ENGLISH         "??	L??{?G"
+
+REFERENCE            icon_boltcutter
+LANG_ENGLISH         "?W1?c????+?"
+
+REFERENCE            icon_bomb
+LANG_ENGLISH         "???}re"
+
+REFERENCE            icon_bomb_case
+LANG_ENGLISH         "?%
+????n+"
+
+REFERENCE            icon_bomb_protector
+LANG_ENGLISH         "?Qbomb protector"
+
+REFERENCE            icon_bombardment
+LANG_ENGLISH         "????LX?#??sG"
+
+REFERENCE            icon_bravo_hot
+LANG_ENGLISH         "?8
+?????@?"
+
+REFERENCE            icon_bravo_lockdown
+LANG_ENGLISH         "???9?g???????"
+
+REFERENCE            icon_broom
+LANG_ENGLISH         "?broom"
+
+REFERENCE            icon_bullet
+LANG_ENGLISH         "?&??3IPk"
+
+REFERENCE            icon_c8
+LANG_ENGLISH         "??q:?@???L\???"
+
+REFERENCE            icon_cannon
+LANG_ENGLISH         "??cannon"
+
+REFERENCE            icon_car
+LANG_ENGLISH         "??f"
+
+REFERENCE            icon_charlie_lockdown
+LANG_ENGLISH         "??charlie lockdown"
+
+REFERENCE            icon_cleaver
+LANG_ENGLISH         "??5?}"
+
+REFERENCE            icon_counter_uav
+LANG_ENGLISH         "??_?????y?z?"
+
+REFERENCE            icon_counter_uav_outline
+LANG_ENGLISH         "??Y????*O?1#?O????:?"
+
+REFERENCE            icon_cross_bones
+LANG_ENGLISH         "?l????L??Y?"
+
+REFERENCE            icon_crosshair
+LANG_ENGLISH         "??
+???nn????"
+
+REFERENCE            icon_crushing_victory
+LANG_ENGLISH         "??'??Z7??-?????"
+
+REFERENCE            icon_defeat
+LANG_ENGLISH         "?#??Y,:"
+
+REFERENCE            icon_dog
+LANG_ENGLISH         "?!W?"
+
+REFERENCE            icon_dog_tag
+LANG_ENGLISH         "??dog tag"
+
+REFERENCE            icon_dome_shield
+LANG_ENGLISH         "????V7?Z??2"
+
+REFERENCE            icon_double_denied
+LANG_ENGLISH         "????o??????3?"
+
+REFERENCE            icon_double_headshot
+LANG_ENGLISH         "???0ek????e?0????"
+
+REFERENCE            icon_drone
+LANG_ENGLISH         "??#9???"
+
+REFERENCE            icon_drone_outline
+LANG_ENGLISH         "???a?h??B"
+
+REFERENCE            icon_drone_package
+LANG_ENGLISH         "?,'?7Y8???,?+"
+
+REFERENCE            icon_dropship
+LANG_ENGLISH         "?n	dropship"
+
+REFERENCE            icon_explode
+LANG_ENGLISH         "???????"
+
+REFERENCE            icon_explosion
+LANG_ENGLISH         "?D
+explosion"
+
+REFERENCE            icon_feather_duster
+LANG_ENGLISH         "?????G?V??????N"
+
+REFERENCE            icon_fighter_jet
+LANG_ENGLISH         "?NI?????S?}'?"
+
+REFERENCE            icon_final_defense
+LANG_ENGLISH         "??B?52?%.?(??"
+
+REFERENCE            icon_fist
+LANG_ENGLISH         "?x???9"
+
+REFERENCE            icon_focus_fire
+LANG_ENGLISH         "??focus fire"
+
+REFERENCE            icon_gold
+LANG_ENGLISH         "?r??9"
+
+REFERENCE            icon_grenade_launcher
+LANG_ENGLISH         "?dv'Y?X?+?6,??????"
+
+REFERENCE            icon_grim_reaper
+LANG_ENGLISH         "??;9??@????9"
+
+REFERENCE            icon_gunfighter
+LANG_ENGLISH         "???]??K???+?"
+
+REFERENCE            icon_gurdian
+LANG_ENGLISH         "?S	guardian"
+
+REFERENCE            icon_hacker_tool
+LANG_ENGLISH         "????7?Z?p??"
+
+REFERENCE            icon_hand
+LANG_ENGLISH         "??I??"
+
+REFERENCE            icon_hand_gun
+LANG_ENGLISH         "?a	hand gun"
+
+REFERENCE            icon_hard_counter
+LANG_ENGLISH         "?vhard counter"
+
+REFERENCE            icon_helicopter
+LANG_ENGLISH         "?p*??h???""
+
+REFERENCE            icon_hijacked
+LANG_ENGLISH         "??	???h?$"
+
+REFERENCE            icon_interruption
+LANG_ENGLISH         "??interruption"
+
+REFERENCE            icon_jackal_bottom
+LANG_ENGLISH         "??? S"i???=
+?"
+
+REFERENCE            icon_jackal_front
+LANG_ENGLISH         "??jackal front"
+
+REFERENCE            icon_jackal_top
+LANG_ENGLISH         "????m??G?"
+
+REFERENCE            icon_jammer
+LANG_ENGLISH         "??jammer"
+
+REFERENCE            icon_jet
+LANG_ENGLISH         "?SYG"
+
+REFERENCE            icon_ladder
+LANG_ENGLISH         "????2F?'"
+
+REFERENCE            icon_last_man
+LANG_ENGLISH         "?}last man standing"
+
+REFERENCE            icon_laughter
+LANG_ENGLISH         "??	?osG?9??"
+
+REFERENCE            icon_lethal
+LANG_ENGLISH         "??]+p??"
+
+REFERENCE            icon_lightening
+LANG_ENGLISH         "??
+????K?;"
+
+REFERENCE            icon_lizard
+LANG_ENGLISH         "?llizard"
+
+REFERENCE            icon_lmg_star
+LANG_ENGLISH         "??	???@nG?9"
+
+REFERENCE            icon_merciless
+LANG_ENGLISH         "?
+??c?K<3"
+
+REFERENCE            icon_micro_turret
+LANG_ENGLISH         "???Z????W'9?"
+
+REFERENCE            icon_mini_gun
+LANG_ENGLISH         "?)	3O
+[????"
+
+REFERENCE            icon_ninja_mask
+LANG_ENGLISH         "?j?Z?MX@k??["
+
+REFERENCE            icon_paw
+LANG_ENGLISH         "??"?"
+
+REFERENCE            icon_payload
+LANG_ENGLISH         "??{{r??)"
+
+REFERENCE            icon_pest_control
+LANG_ENGLISH         "?~???9???c?"
+
+REFERENCE            icon_phone
+LANG_ENGLISH         "?kphone"
+
+REFERENCE            icon_pistol
+LANG_ENGLISH         "???????"
+
+REFERENCE            icon_pistol_star
+LANG_ENGLISH         "???c???h??+C"
+
+REFERENCE            icon_plus_sign
+LANG_ENGLISH         "??
+plus sign"
+
+REFERENCE            icon_pocket_watch
+LANG_ENGLISH         "??????Y??,??"
+
+REFERENCE            icon_prestige
+LANG_ENGLISH         "??	{]???I?"
+
+REFERENCE            icon_radar
+LANG_ENGLISH         "??"/?s"
+
+REFERENCE            icon_rc82
+LANG_ENGLISH         "?!??Z"
+
+REFERENCE            icon_rc_bomber
+LANG_ENGLISH         "??
+???1?????"
+
+REFERENCE            icon_rc_car
+LANG_ENGLISH         "???n?W?5"
+
+REFERENCE            icon_rentless
+LANG_ENGLISH         "???V????cVn?"
+
+REFERENCE            icon_rocket
+LANG_ENGLISH         "??'??mY?"
+
+REFERENCE            icon_ruthless
+LANG_ENGLISH         "?n	??}?,[?"
+
+REFERENCE            icon_savior
+LANG_ENGLISH         "????Q?"
+
+REFERENCE            icon_scarab
+LANG_ENGLISH         "??o????"
+
+REFERENCE            icon_scorcher
+LANG_ENGLISH         "??	n??N?Y'"
+
+REFERENCE            icon_scorcher_outline
+LANG_ENGLISH         "?????'???N{?:6?7Y"
+
+REFERENCE            icon_sentry
+LANG_ENGLISH         "?7x?????5+?"
+
+REFERENCE            icon_sentry_new
+LANG_ENGLISH         "?sentry"
+
+REFERENCE            icon_sheriff_star
+LANG_ENGLISH         "?sheriff star"
+
+REFERENCE            icon_shield
+LANG_ENGLISH         "?-shield"
+
+REFERENCE            icon_shock_charge
+LANG_ENGLISH         "?R??l[?C,???"
+
+REFERENCE            icon_shock_outline
+LANG_ENGLISH         "?&B?????o????"
+
+REFERENCE            icon_shock_sentry
+LANG_ENGLISH         "?7x?????5+?"
+
+REFERENCE            icon_shrunk_head
+LANG_ENGLISH         "?g7???????,#"
+
+REFERENCE            icon_skull
+LANG_ENGLISH         "?B?[?c?"
+
+REFERENCE            icon_skull_shield
+LANG_ENGLISH         "??M???1?	??"
+
+REFERENCE            icon_small_game
+LANG_ENGLISH         "????X<?W????"
+
+REFERENCE            icon_smg_soldier
+LANG_ENGLISH         "?&smg soldier"
+
+REFERENCE            icon_smg_star
+LANG_ENGLISH         "?Q	?k?n?,'"
+
+REFERENCE            icon_smoke
+LANG_ENGLISH         "?r?????"
+
+REFERENCE            icon_sniper_star
+LANG_ENGLISH         "?x??0"V)???~"
+
+REFERENCE            icon_soldier
+LANG_ENGLISH         "??soldier"
+
+REFERENCE            icon_special_delivery
+LANG_ENGLISH         "???G??\'-?p?/?X"
+
+REFERENCE            icon_suitcase
+LANG_ENGLISH         "??	n]????V"
+
+REFERENCE            icon_super_trophy
+LANG_ENGLISH         "??super trophy"
+
+REFERENCE            icon_supply_drop
+LANG_ENGLISH         "??supply drop"
+
+REFERENCE            icon_tar
+LANG_ENGLISH         "??X'"
+
+REFERENCE            icon_team_hug
+LANG_ENGLISH         "??	team hug"
+
+REFERENCE            icon_teamwork
+LANG_ENGLISH         "?'	g*??_?x"
+
+REFERENCE            icon_theif_mask
+LANG_ENGLISH         "?zkp?? Rh"
+
+REFERENCE            icon_thor
+LANG_ENGLISH         "?%	dmq?(?"
+
+REFERENCE            icon_thor_outline
+LANG_ENGLISH         "?m*?B\=??q{??cZs+"
+
+REFERENCE            icon_tracker
+LANG_ENGLISH         "?)#?^??b"
+
+REFERENCE            icon_trinity
+LANG_ENGLISH         "?"?=?EG????????"
+
+REFERENCE            icon_triple_bullets
+LANG_ENGLISH         "?	[J?X??j5????C"
+
+REFERENCE            icon_triple_kill
+LANG_ENGLISH         "?????6+??6?"
+
+REFERENCE            icon_two_dog_tags
+LANG_ENGLISH         "?#two dog tags"
+
+REFERENCE            icon_uav
+LANG_ENGLISH         "?uav"
+
+REFERENCE            icon_uav_outline
+LANG_ENGLISH         "???????c?"
+
+REFERENCE            icon_venom
+LANG_ENGLISH         "??Go????"
+
+REFERENCE            icon_venom_outline
+LANG_ENGLISH         "??Scarab Outline"
+
+REFERENCE            icon_victory
+LANG_ENGLISH         "????'?g?s"
+
+REFERENCE            icon_victory_box
+LANG_ENGLISH         "?&;K?????"
+
+REFERENCE            icon_vulture
+LANG_ENGLISH         "??c???W"
+
+REFERENCE            icon_vulture_ol
+LANG_ENGLISH         "??e????'???:????"
+
+REFERENCE            icon_warden
+LANG_ENGLISH         "?1warden"
+
+REFERENCE            icon_warden_outline
+LANG_ENGLISH         "??Y?:P!g??	?F0"
+
+REFERENCE            icon_wizard_hat
+LANG_ENGLISH         "?????,?#4X?"
+
+REFERENCE            icon_zig_zag
+LANG_ENGLISH         "?zig zag"
+
+REFERENCE            jewel
+LANG_ENGLISH         "??JEWEL"
+
+REFERENCE            kills
+LANG_ENGLISH         "??KILLS"
+
+REFERENCE            kings_crown
+LANG_ENGLISH         "???q??Nx?!?"
+
+REFERENCE            kink
+LANG_ENGLISH         "???Is"
+
+REFERENCE            kite
+LANG_ENGLISH         "???R?T"
+
+REFERENCE            knights_shield
+LANG_ENGLISH         "?z-9R?!E5????T&D"
+
+REFERENCE            knights_star
+LANG_ENGLISH         "???`????????"
+
+REFERENCE            landing_pad
+LANG_ENGLISH         "?.?	?a?@)/"
+
+REFERENCE            laurel_leafs
+LANG_ENGLISH         "??
+??????#5"
+
+REFERENCE            layer_details
+LANG_ENGLISH         "?'LAYER DETAILS"
+
+REFERENCE            layer_x_of_y
+LANG_ENGLISH         "?@Layer: &&1/&&2"
+
+REFERENCE            layers_empty_message
+LANG_ENGLISH         "?19?????^???,/???,?????:???C?s??n@??6??:??7???"
+
+REFERENCE            layers_used
+LANG_ENGLISH         "?^1
+e?%5@Uj?D??L?LLd"
+
+REFERENCE            leafs
+LANG_ENGLISH         "?
+LEAFS"
+
+REFERENCE            lightning_bolt
+LANG_ENGLISH         "???K??????.'5?"
+
+REFERENCE            lines
+LANG_ENGLISH         "??RrT5"
+
+REFERENCE            mask
+LANG_ENGLISH         "??S5-"
+
+REFERENCE            material_picker
+LANG_ENGLISH         "??MATERIAL PICKER"
+
+REFERENCE            medical
+LANG_ENGLISH         "????)"
+
+REFERENCE            move
+LANG_ENGLISH         "?w?l`YxwW"
+
+REFERENCE            nerve
+LANG_ENGLISH         "?u????"
+
+REFERENCE            no_emblems
+LANG_ENGLISH         "??NO EMBLEMS FOUND"
+
+REFERENCE            north_america
+LANG_ENGLISH         "???e?????????"
+
+REFERENCE            north_star
+LANG_ENGLISH         "???o????????"
+
+REFERENCE            octagon
+LANG_ENGLISH         "?=?
+?z'"
+
+REFERENCE            opacity
+LANG_ENGLISH         "?V?P?I?3?"
+
+REFERENCE            options
+LANG_ENGLISH         "?f=AR=?5"
+
+REFERENCE            options_menu_title
+LANG_ENGLISH         "?{z???.?5\Ag???A????"
+
+REFERENCE            other
+LANG_ENGLISH         "?aOTHER"
+
+REFERENCE            outline
+LANG_ENGLISH         "??1`G?????}?"
+
+REFERENCE            paint_job_equipped_message
+LANG_ENGLISH         "?.???????N?#?u ???h?"
+
+REFERENCE            parallelogram
+LANG_ENGLISH         "??9???????+?!"
+
+REFERENCE            paste_layer
+LANG_ENGLISH         "?Y
+P?E??1P???"
+
+REFERENCE            peacock
+LANG_ENGLISH         "?<????(??"
+
+REFERENCE            pencil
+LANG_ENGLISH         "?.b?3?A"
+
+REFERENCE            pentagon
+LANG_ENGLISH         "??	yQ?cw??."
+
+REFERENCE            pin
+LANG_ENGLISH         "?PIN"
+
+REFERENCE            pirate_sword
+LANG_ENGLISH         "?iA%?PQTM??)D"
+
+REFERENCE            pit
+LANG_ENGLISH         "????"
+
+REFERENCE            plant
+LANG_ENGLISH         "?N?????"
+
+REFERENCE            plaque
+LANG_ENGLISH         "??
+?P*??"
+
+REFERENCE            point
+LANG_ENGLISH         "?5POINT"
+
+REFERENCE            police_shield
+LANG_ENGLISH         "??POLICE SHIELD"
+
+REFERENCE            position
+LANG_ENGLISH         "?&	??????'x"
+
+REFERENCE            queens_crown
+LANG_ENGLISH         "?<[????????8??"
+
+REFERENCE            quill
+LANG_ENGLISH         "??/#??"
+
+REFERENCE            racing_line
+LANG_ENGLISH         "?}??????BQC??"
+
+REFERENCE            racing_stripes
+LANG_ENGLISH         "???????:@?Q)%*?"
+
+REFERENCE            radar
+LANG_ENGLISH         "?? '?w"
+
+REFERENCE            rainbow
+LANG_ENGLISH         "??y???9"
+
+REFERENCE            rank_brigadier_general
+LANG_ENGLISH         "?- l??!?n@??]????"
+
+REFERENCE            rank_captain
+LANG_ENGLISH         "??X8?X??"
+
+REFERENCE            rank_colonel
+LANG_ENGLISH         "???P?
+"
+
+REFERENCE            rank_command
+LANG_ENGLISH         "??6????F"
+
+REFERENCE            rank_command_sergeant
+LANG_ENGLISH         "?t??[[???@?+?v???"
+
+REFERENCE            rank_corporal
+LANG_ENGLISH         "?
+	????N?"
+
+REFERENCE            rank_eight
+LANG_ENGLISH         "?5?7[@w??:????{"
+
+REFERENCE            rank_eighteen
+LANG_ENGLISH         "?	N??[?3??G^?V??C"
+
+REFERENCE            rank_eleven
+LANG_ENGLISH         "??'???G?????"
+
+REFERENCE            rank_fifteen
+LANG_ENGLISH         "??Jgj?)?;+?"
+
+REFERENCE            rank_five
+LANG_ENGLISH         "?4???[????V?"
+
+REFERENCE            rank_four
+LANG_ENGLISH         "?	rank ten"
+
+REFERENCE            rank_fourteen
+LANG_ENGLISH         "?#????:-??^?Y??:"
+
+REFERENCE            rank_general
+LANG_ENGLISH         "???E???v?"
+
+REFERENCE            rank_general_army
+LANG_ENGLISH         "?9general of army"
+
+REFERENCE            rank_lieutenant_general
+LANG_ENGLISH         "?.?<Nx??bc	?"
+
+REFERENCE            rank_major
+LANG_ENGLISH         "????M?N"
+
+REFERENCE            rank_nine
+LANG_ENGLISH         "??s?@??Y???i??;Y"
+
+REFERENCE            rank_nineteen
+LANG_ENGLISH         "???7?fK??/"
+
+REFERENCE            rank_one
+LANG_ENGLISH         "?	rank one"
+
+REFERENCE            rank_private
+LANG_ENGLISH         "?-????:?"
+
+REFERENCE            rank_private_first
+LANG_ENGLISH         "??????X?+?K'??"
+
+REFERENCE            rank_private_rank
+LANG_ENGLISH         "???Z'n@6??7"
+
+REFERENCE            rank_second_lieutenant
+LANG_ENGLISH         "?l??o`?"??????"
+
+REFERENCE            rank_sergeant
+LANG_ENGLISH         "??	????V???"
+
+REFERENCE            rank_sergeant_first
+LANG_ENGLISH         "??sergeant first"
+
+REFERENCE            rank_sergeant_first_class
+LANG_ENGLISH         "??V?vYXs:??97:?c?n?"
+
+REFERENCE            rank_seven
+LANG_ENGLISH         "?	???'??K??Y??k"
+
+REFERENCE            rank_seventeen
+LANG_ENGLISH         "?rank forty-six"
+
+REFERENCE            rank_six
+LANG_ENGLISH         "?2rank sixteen"
+
+REFERENCE            rank_sixteen
+LANG_ENGLISH         "?3j??r???)???"
+
+REFERENCE            rank_specialist
+LANG_ENGLISH         "??#?V????k"
+
+REFERENCE            rank_staff_sergeant
+LANG_ENGLISH         "?Bn??3?????X??"
+
+REFERENCE            rank_ten
+LANG_ENGLISH         "?7rank twenty-eight"
+
+REFERENCE            rank_thirteen
+LANG_ENGLISH         "???X??????/????9"
+
+REFERENCE            rank_three
+LANG_ENGLISH         "?D?????g?s"
+
+REFERENCE            rank_twelve
+LANG_ENGLISH         "???S?L??:?3{f?P'"
+
+REFERENCE            rank_twenty
+LANG_ENGLISH         "?}?????f????G??"
+
+REFERENCE            rank_twenty_one
+LANG_ENGLISH         "??rank fifty-four"
+
+REFERENCE            rank_two
+LANG_ENGLISH         "?P
+'?m3???"
+
+REFERENCE            rebel
+LANG_ENGLISH         "??REBEL"
+
+REFERENCE            red
+LANG_ENGLISH         "?RED"
+
+REFERENCE            remove_from_favorites
+LANG_ENGLISH         "?h19??S????@tRW;h?1?"
+
+REFERENCE            rename_emblem
+LANG_ENGLISH         "?B?k??????????@"
+
+REFERENCE            rename_paint_job
+LANG_ENGLISH         "??qy??/hq??Cm??"
+
+REFERENCE            reset_material
+LANG_ENGLISH         "?jRESET MATERIAL"
+
+REFERENCE            reticle
+LANG_ENGLISH         "?PRETICLE"
+
+REFERENCE            right_angle_triangle
+LANG_ENGLISH         "?-?'G?Q&??|??I????qS??"
+
+REFERENCE            ring
+LANG_ENGLISH         "?RING"
+
+REFERENCE            rotate
+LANG_ENGLISH         "?3ROTATE LAYER"
+
+REFERENCE            rotate_gradient
+LANG_ENGLISH         "??ROTATE GRADIENT"
+
+REFERENCE            rotate_material
+LANG_ENGLISH         "??ROTATE MATERIAL"
+
+REFERENCE            rotation
+LANG_ENGLISH         "?	??q???p"
+
+REFERENCE            round_table
+LANG_ENGLISH         "???OW??Q1?g"
+
+REFERENCE            rounded_edge
+LANG_ENGLISH         "???u?=????k7?"
+
+REFERENCE            rounded_hexagon
+LANG_ENGLISH         "?I??KgQ	??a??`"
+
+REFERENCE            rounded_rectangle
+LANG_ENGLISH         "??Y???-(RU???U?h?"
+
+REFERENCE            sash
+LANG_ENGLISH         "?h7S"
+
+REFERENCE            sato
+LANG_ENGLISH         "?iuu_"
+
+REFERENCE            saucer
+LANG_ENGLISH         "???+~??"
+
+REFERENCE            save
+LANG_ENGLISH         "????Q"
+
+REFERENCE            save_and_apply
+LANG_ENGLISH         "?0?????E??[8?W?A?????G??"
+
+REFERENCE            save_emblem_popup_message
+LANG_ENGLISH         "??Save your custom Emblem."
+
+REFERENCE            save_emblem_popup_title
+LANG_ENGLISH         "?T?8??1/fiW"
+
+REFERENCE            save_paint_job_popup_message
+LANG_ENGLISH         "??5???@??W????:?[???????1q"
+
+REFERENCE            save_paint_job_popup_title
+LANG_ENGLISH         "?Q??Q?A?)r?R=H"
+
+REFERENCE            scale
+LANG_ENGLISH         "??Scale"
+
+REFERENCE            scale_layer
+LANG_ENGLISH         "??SCALE LAYER"
+
+REFERENCE            scale_layer_fixed
+LANG_ENGLISH         "??G??????5,]"
+
+REFERENCE            scale_layer_free
+LANG_ENGLISH         "?q)??!*?????"
+
+REFERENCE            scale_material
+LANG_ENGLISH         "?$SCALE MATERIAL"
+
+REFERENCE            shape_arm
+LANG_ENGLISH         "?'["
+
+REFERENCE            shape_armchair
+LANG_ENGLISH         "?+	9???ZN"
+
+REFERENCE            shape_axe
+LANG_ENGLISH         "?axe"
+
+REFERENCE            shape_bike_ramp
+LANG_ENGLISH         "?\
+bike ramp"
+
+REFERENCE            shape_bone
+LANG_ENGLISH         "??%_U"
+
+REFERENCE            shape_broken_column
+LANG_ENGLISH         "????OZ?}?????"
+
+REFERENCE            shape_circle_quarter
+LANG_ENGLISH         "?\r?????YU?C??"
+
+REFERENCE            shape_cone
+LANG_ENGLISH         "??cone"
+
+REFERENCE            shape_diamond
+LANG_ENGLISH         "??-I????r"
+
+REFERENCE            shape_egg
+LANG_ENGLISH         "???J"
+
+REFERENCE            shape_fedora
+LANG_ENGLISH         "??2x???i"
+
+REFERENCE            shape_flag_breeze
+LANG_ENGLISH         "?3;?N?+??"
+
+REFERENCE            shape_flag_no_wind
+LANG_ENGLISH         "???????@/???"
+
+REFERENCE            shape_flashlight
+LANG_ENGLISH         "???b?O????"
+
+REFERENCE            shape_golf_flag
+LANG_ENGLISH         "?
+?-?9?$??"
+
+REFERENCE            shape_half_circle
+LANG_ENGLISH         "???f???l?V"
+
+REFERENCE            shape_half_column
+LANG_ENGLISH         "??half column"
+
+REFERENCE            shape_half_diamond
+LANG_ENGLISH         "??c??I,?0X?N?"
+
+REFERENCE            shape_half_heart
+LANG_ENGLISH         "??{????	?
+"
+
+REFERENCE            shape_half_ninja_star
+LANG_ENGLISH         "?JP?|?I??????7K?c"
+
+REFERENCE            shape_half_shuriken
+LANG_ENGLISH         "??half shuriken"
+
+REFERENCE            shape_half_sun_star
+LANG_ENGLISH         "??half sun star"
+
+REFERENCE            shape_half_tube
+LANG_ENGLISH         "??
+?{?'B?c??"
+
+REFERENCE            shape_igloo
+LANG_ENGLISH         "?Sigloo"
+
+REFERENCE            shape_island
+LANG_ENGLISH         "?I?~HG%q"
+
+REFERENCE            shape_kiss
+LANG_ENGLISH         "?????"
+
+REFERENCE            shape_mane
+LANG_ENGLISH         "???g?"
+
+REFERENCE            shape_monolith
+LANG_ENGLISH         "??	?W???"
+
+REFERENCE            shape_ninja_star
+LANG_ENGLISH         "??????,???"
+
+REFERENCE            shape_nose
+LANG_ENGLISH         "??8?]"
+
+REFERENCE            shape_oven_mitt
+LANG_ENGLISH         "?
+?5?EbQ???"
+
+REFERENCE            shape_paint_splash
+LANG_ENGLISH         "????3E?v???"
+
+REFERENCE            shape_pie_slice
+LANG_ENGLISH         "?E
+??????O??"
+
+REFERENCE            shape_pillow
+LANG_ENGLISH         "??pillow"
+
+REFERENCE            shape_podium
+LANG_ENGLISH         "?Z'O??u"
+
+REFERENCE            shape_quarter_egg
+LANG_ENGLISH         "?FW?w??#
+8j?"
+
+REFERENCE            shape_rock
+LANG_ENGLISH         "?9{["
+
+REFERENCE            shape_rock_shadow
+LANG_ENGLISH         "?R??z?R+DI???"
+
+REFERENCE            shape_rounded_square
+LANG_ENGLISH         "??9????V?????9V"
+
+REFERENCE            shape_rounded_triangle
+LANG_ENGLISH         "?~rounded triangle"
+
+REFERENCE            shape_scoop
+LANG_ENGLISH         "?????"
+
+REFERENCE            shape_scribble
+LANG_ENGLISH         "?E	?j??c"q"
+
+REFERENCE            shape_shield_symbol
+LANG_ENGLISH         "????D?????%???"
+
+REFERENCE            shape_shuriken
+LANG_ENGLISH         "??	n??NZ[?7"
+
+REFERENCE            shape_sun_star
+LANG_ENGLISH         "?		??s???"
+
+REFERENCE            shape_swoop
+LANG_ENGLISH         "???G?us"
+
+REFERENCE            shape_thimble
+LANG_ENGLISH         "???????Y"
+
+REFERENCE            shape_tongue
+LANG_ENGLISH         "??tongue"
+
+REFERENCE            shape_top_hat
+LANG_ENGLISH         "??:????"
+
+REFERENCE            shape_trapezium
+LANG_ENGLISH         "?A
+3o??? ??"
+
+REFERENCE            shape_tube
+LANG_ENGLISH         "???u??"
+
+REFERENCE            shape_vase
+LANG_ENGLISH         "????+"
+
+REFERENCE            shape_visor
+LANG_ENGLISH         "?Q?-??'"
+
+REFERENCE            shape_wind_sock
+LANG_ENGLISH         "?P
+?m??'??"
+
+REFERENCE            shield_outline
+LANG_ENGLISH         "?TF??]a?q?Y5??_"
+
+REFERENCE            shock_outline
+LANG_ENGLISH         "?&B?????o????"
+
+REFERENCE            slot_limit_reached_message
+LANG_ENGLISH         "??PYou've used up all your free slots.
+
+You can delete an emblem to free up space."
+
+REFERENCE            slot_limit_reached_title
+LANG_ENGLISH         "????`Y}t?Z?Og??9"
+
+REFERENCE            slots_used
+LANG_ENGLISH         "??G]?f=???:<??1?"
+
+REFERENCE            smile
+LANG_ENGLISH         "?rSMILE"
+
+REFERENCE            space_lines
+LANG_ENGLISH         "??SPACE LINES"
+
+REFERENCE            spearhead
+LANG_ENGLISH         "?&
+?(?PJ$Q("
+
+REFERENCE            spoiler
+LANG_ENGLISH         "??_?[aM?"
+
+REFERENCE            square
+LANG_ENGLISH         "??7??7	?"
+
+REFERENCE            star
+LANG_ENGLISH         "??Pn"
+
+REFERENCE            star_burst
+LANG_ENGLISH         "?6?I???gRj?"
+
+REFERENCE            star_child
+LANG_ENGLISH         "?|!??????;??"
+
+REFERENCE            star_circle
+LANG_ENGLISH         "??STAR CIRCLE"
+
+REFERENCE            store
+LANG_ENGLISH         "??STORE"
+
+REFERENCE            straight_banner
+LANG_ENGLISH         "??B?$+????g"
+
+REFERENCE            sunrise
+LANG_ENGLISH         "?T?U'???T"
+
+REFERENCE            super_star
+LANG_ENGLISH         "?+SUPER STAR"
+
+REFERENCE            switch_to_colors
+LANG_ENGLISH         "?$i??3?)1,???M??????7?"
+
+REFERENCE            switch_to_favorites
+LANG_ENGLISH         "??9??????`???]-)Q?h?"
+
+REFERENCE            switch_to_fixed_scale
+LANG_ENGLISH         "?:M]R?????T"5??T"
+
+REFERENCE            switch_to_free_scale
+LANG_ENGLISH         "?RSWITCH TO FREE SCALE"
+
+REFERENCE            sword
+LANG_ENGLISH         "??SWORD"
+
+REFERENCE            table_banner
+LANG_ENGLISH         "??EH???????%"
+
+REFERENCE            tail
+LANG_ENGLISH         "?????4"
+
+REFERENCE            throwing_star
+LANG_ENGLISH         "?+?ca????a?,??"
+
+REFERENCE            toggle_color_mixer
+LANG_ENGLISH         "??C?i??7??1(?????"
+
+REFERENCE            toggle_color_picker
+LANG_ENGLISH         "??TOGGLE COLOR PICKER"
+
+REFERENCE            toggle_gradient
+LANG_ENGLISH         "?<Q?'????5?????"
+
+REFERENCE            toggle_grid_alt_color_off
+LANG_ENGLISH         "?y USE ALTERNATIVE GRID COLOR: OFF"
+
+REFERENCE            toggle_grid_alt_color_on
+LANG_ENGLISH         "??!?????????GKs?)d?Y?????"
+
+REFERENCE            toggle_grid_off
+LANG_ENGLISH         "?FTOGGLE GRID: OFF"
+
+REFERENCE            toggle_grid_on
+LANG_ENGLISH         "??Q=??1T??"???"
+
+REFERENCE            trapezium
+LANG_ENGLISH         "?A
+TRAPEZIUM"
+
+REFERENCE            treble
+LANG_ENGLISH         "??9O???"
+
+REFERENCE            treble_outline
+LANG_ENGLISH         "????=4??h}????_"
+
+REFERENCE            triangle
+LANG_ENGLISH         "?e	TRIANGLE"
+
+REFERENCE            tripple_banner
+LANG_ENGLISH         "??TRIPPLE BANNER"
+
+REFERENCE            twinkle
+LANG_ENGLISH         "?,?	_P)}-"
+
+REFERENCE            two_hexagons
+LANG_ENGLISH         "?H?=@?z??"
+
+REFERENCE            type_eight
+LANG_ENGLISH         "??eight"
+
+REFERENCE            type_five
+LANG_ENGLISH         "?x?Zg?"
+
+REFERENCE            type_four
+LANG_ENGLISH         "?y?m?U"
+
+REFERENCE            type_letter_a
+LANG_ENGLISH         "?	Qb+???h?"
+
+REFERENCE            type_letter_b
+LANG_ENGLISH         "?	??;??%?^"
+
+REFERENCE            type_letter_c
+LANG_ENGLISH         "?	Letter C"
+
+REFERENCE            type_letter_d
+LANG_ENGLISH         "?	bYG?V?""
+
+REFERENCE            type_letter_e
+LANG_ENGLISH         "?	V?:Y??"
+
+REFERENCE            type_letter_f
+LANG_ENGLISH         "?	q??????"
+
+REFERENCE            type_letter_g
+LANG_ENGLISH         "?	Letter G"
+
+REFERENCE            type_letter_h
+LANG_ENGLISH         "?	Letter H"
+
+REFERENCE            type_letter_i
+LANG_ENGLISH         "?	?*?MX?H?"
+
+REFERENCE            type_letter_j
+LANG_ENGLISH         "?	1???Y?I"
+
+REFERENCE            type_letter_k
+LANG_ENGLISH         "?	?????9?"
+
+REFERENCE            type_letter_l
+LANG_ENGLISH         "?	bV??@?"
+
+REFERENCE            type_letter_m
+LANG_ENGLISH         "?	?x?w?? "
+
+REFERENCE            type_letter_n
+LANG_ENGLISH         "?	a?ts3???"
+
+REFERENCE            type_letter_o
+LANG_ENGLISH         "?	e??:^!g"
+
+REFERENCE            type_letter_p
+LANG_ENGLISH         "?	Letter P"
+
+REFERENCE            type_letter_q
+LANG_ENGLISH         "?	1?????@"
+
+REFERENCE            type_letter_r
+LANG_ENGLISH         "?	Letter R"
+
+REFERENCE            type_letter_s
+LANG_ENGLISH         "?	@)?[????"
+
+REFERENCE            type_letter_t
+LANG_ENGLISH         "?	?-[???6?"
+
+REFERENCE            type_letter_u
+LANG_ENGLISH         "?	V?G??U"
+
+REFERENCE            type_letter_v
+LANG_ENGLISH         "?	??e???1."
+
+REFERENCE            type_letter_w
+LANG_ENGLISH         "?	@)?[????"
+
+REFERENCE            type_letter_x
+LANG_ENGLISH         "?	\??xm?jA"
+
+REFERENCE            type_letter_y
+LANG_ENGLISH         "?	??}`"^v"
+
+REFERENCE            type_letter_z
+LANG_ENGLISH         "?	Letter Z"
+
+REFERENCE            type_nine
+LANG_ENGLISH         "???k??"
+
+REFERENCE            type_one
+LANG_ENGLISH         "????"
+
+REFERENCE            type_seven
+LANG_ENGLISH         "?0seven"
+
+REFERENCE            type_six
+LANG_ENGLISH         "?C??"
+
+REFERENCE            type_three
+LANG_ENGLISH         "?r?{"
+
+REFERENCE            type_two
+LANG_ENGLISH         "???"
+
+REFERENCE            type_zero
+LANG_ENGLISH         "?a??V?"
+
+REFERENCE            ungroup_layer
+LANG_ENGLISH         "??UNGROUP LAYER"
+
+REFERENCE            usna
+LANG_ENGLISH         "?????"
+
+REFERENCE            visit_store
+LANG_ENGLISH         "?A6?R??*?Q?@?*z????U???P??j???Q?????@M??*??*??&???"
+
+REFERENCE            weapon_banshee
+LANG_ENGLISH         "???,???+"
+
+REFERENCE            weapon_black_hole
+LANG_ENGLISH         "??black hole"
+
+REFERENCE            weapon_cluster
+LANG_ENGLISH         "??X????*"
+
+REFERENCE            weapon_combat_knife
+LANG_ENGLISH         "??combat knife"
+
+REFERENCE            weapon_dcm8
+LANG_ENGLISH         "?Fl?Z?"
+
+REFERENCE            weapon_dmr1
+LANG_ENGLISH         "???c(?"
+
+REFERENCE            weapon_ebr800
+LANG_ENGLISH         "?f?&?K?"
+
+REFERENCE            weapon_emc
+LANG_ENGLISH         "???"
+
+REFERENCE            weapon_emp
+LANG_ENGLISH         "?	????{@?"
+
+REFERENCE            weapon_erad
+LANG_ENGLISH         "?`erad"
+
+REFERENCE            weapon_exploding_drone
+LANG_ENGLISH         "?n?H??j|(?B??G"
+
+REFERENCE            weapon_fhr40
+LANG_ENGLISH         "???X?B=?"
+
+REFERENCE            weapon_flechette
+LANG_ENGLISH         "?
++??:???"
+
+REFERENCE            weapon_grenade
+LANG_ENGLISH         "????+??FY"
+
+REFERENCE            weapon_hailstorm
+LANG_ENGLISH         "?2
+X???????"
+
+REFERENCE            weapon_hornet
+LANG_ENGLISH         "?h?'?0??"
+
+REFERENCE            weapon_howitzer
+LANG_ENGLISH         "??	`??T?*?"
+
+REFERENCE            weapon_hvr
+LANG_ENGLISH         "???E"
+
+REFERENCE            weapon_infected
+LANG_ENGLISH         "??	[u?#??O?"
+
+REFERENCE            weapon_karma45
+LANG_ENGLISH         "?	8????C?"
+
+REFERENCE            weapon_kbar
+LANG_ENGLISH         "???i??e?]"
+
+REFERENCE            weapon_kbs_longbow
+LANG_ENGLISH         "??kbs longbow"
+
+REFERENCE            weapon_kendall_44
+LANG_ENGLISH         "?,?VsF?c??h"
+
+REFERENCE            weapon_m1
+LANG_ENGLISH         "?-S"
+
+REFERENCE            weapon_mactav45
+LANG_ENGLISH         "??
+j??7c1??"
+
+REFERENCE            weapon_mauler
+LANG_ENGLISH         "?T?????"
+
+REFERENCE            weapon_mors
+LANG_ENGLISH         "???g(b"
+
+REFERENCE            weapon_nv4
+LANG_ENGLISH         "??3"
+
+REFERENCE            weapon_oni
+LANG_ENGLISH         "????"
+
+REFERENCE            weapon_osa
+LANG_ENGLISH         "????"
+
+REFERENCE            weapon_pdw
+LANG_ENGLISH         "?Z?+Yz"
+
+REFERENCE            weapon_plasma_grenade
+LANG_ENGLISH         "??????????u?)"
+
+REFERENCE            weapon_r3k
+LANG_ENGLISH         "?Nf?"
+
+REFERENCE            weapon_rack9
+LANG_ENGLISH         "??3???""
+
+REFERENCE            weapon_raw
+LANG_ENGLISH         "?R?q??w?"
+
+REFERENCE            weapon_reaver
+LANG_ENGLISH         "??N/b??"
+
+REFERENCE            weapon_rpr_evo
+LANG_ENGLISH         "?4+???` "
+
+REFERENCE            weapon_saiga
+LANG_ENGLISH         "???i;"
+
+REFERENCE            weapon_seeker
+LANG_ENGLISH         "????W
+?*"
+
+REFERENCE            weapon_spartan_sa3
+LANG_ENGLISH         "??spartan sa3"
+
+REFERENCE            weapon_sravage
+LANG_ENGLISH         "?9	??????'?"
+
+REFERENCE            weapon_tf141
+LANG_ENGLISH         "???f?#aB"
+
+REFERENCE            weapon_titan
+LANG_ENGLISH         "?l??:?"
+
+REFERENCE            weapon_type_2
+LANG_ENGLISH         "?????y""
+
+REFERENCE            weapon_volk
+LANG_ENGLISH         "?volk"
+
+REFERENCE            weapon_widowmaker
+LANG_ENGLISH         "??widowmaker"
+
+REFERENCE            weed
+LANG_ENGLISH         "?????"
+
+REFERENCE            widow
+LANG_ENGLISH         "???RD??"
+
+REFERENCE            wing
+LANG_ENGLISH         "???R?t"
+
+REFERENCE            wolfhead
+LANG_ENGLISH         "?d	wh?????	"
+
+REFERENCE            world_wide
+LANG_ENGLISH         "?@WORLD WIDE"
+
+REFERENCE            x
+LANG_ENGLISH         "?	X: &&1"
+
+REFERENCE            xy
+LANG_ENGLISH         "??A'??IV???:?R"
+
+REFERENCE            y
+LANG_ENGLISH         "?0V?bL?"
+
+
+ENDMARKER

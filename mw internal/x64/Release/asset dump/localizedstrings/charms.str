@@ -1,0 +1,1568 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            cos_001
+LANG_ENGLISH         "????"
+
+REFERENCE            cos_002
+LANG_ENGLISH         "??
+?H????M`"
+
+REFERENCE            cos_003
+LANG_ENGLISH         "?9Stone Cross"
+
+REFERENCE            cos_004
+LANG_ENGLISH         "??B?????,Zc"
+
+REFERENCE            cos_005
+LANG_ENGLISH         "??Cherry on Top"
+
+REFERENCE            cos_006
+LANG_ENGLISH         "???_?+7/??ARK?"
+
+REFERENCE            cos_007
+LANG_ENGLISH         "??	qx?U???\"
+
+REFERENCE            cos_008
+LANG_ENGLISH         "?b?A???wr"
+
+REFERENCE            cos_009
+LANG_ENGLISH         "??	Bone Dry"
+
+REFERENCE            cos_010
+LANG_ENGLISH         "??	?W??I+F"
+
+REFERENCE            cos_011
+LANG_ENGLISH         "?X	'j???2x?????"
+
+REFERENCE            cos_012
+LANG_ENGLISH         "?}
+Good Luck"
+
+REFERENCE            cos_013
+LANG_ENGLISH         "?
+???
+??w??"
+
+REFERENCE            cos_014
+LANG_ENGLISH         "?r	??	Y?#"
+
+REFERENCE            cos_015
+LANG_ENGLISH         "?m9?F???T'!?"
+
+REFERENCE            cos_016
+LANG_ENGLISH         "?
+n?9=u?"
+
+REFERENCE            cos_017
+LANG_ENGLISH         "?G
+?K
+.??g"
+
+REFERENCE            cos_018
+LANG_ENGLISH         "???K6?4K??@???["
+
+REFERENCE            cos_019
+LANG_ENGLISH         "?@Flashed"
+
+REFERENCE            cos_020
+LANG_ENGLISH         "??????VZ?j?*?Y?"
+
+REFERENCE            cos_021
+LANG_ENGLISH         "????c??9W??"
+
+REFERENCE            cos_022
+LANG_ENGLISH         "?1
+@V??pi??"
+
+REFERENCE            cos_023
+LANG_ENGLISH         "?j??Y????S?:YN"
+
+REFERENCE            cos_024
+LANG_ENGLISH         "?o0h???_??["
+
+REFERENCE            cos_025
+LANG_ENGLISH         "??!X?U?L?[[?"
+
+REFERENCE            cos_026
+LANG_ENGLISH         "?ZtC?n??"
+
+REFERENCE            cos_027
+LANG_ENGLISH         "??Mister Ginger"
+
+REFERENCE            cos_028
+LANG_ENGLISH         "?9????@Y?TiHSr"
+
+REFERENCE            cos_029
+LANG_ENGLISH         "????"
+
+REFERENCE            cos_030
+LANG_ENGLISH         "??H????????2?"
+
+REFERENCE            cos_031
+LANG_ENGLISH         "???I?r?0???Kg????"
+
+REFERENCE            cos_032
+LANG_ENGLISH         "???????B??/?"
+
+REFERENCE            cos_033
+LANG_ENGLISH         "???b SX?*"
+
+REFERENCE            cos_034
+LANG_ENGLISH         "?@Dream Catchin"
+
+REFERENCE            cos_035
+LANG_ENGLISH         "??????Pq"
+
+REFERENCE            cos_036
+LANG_ENGLISH         "??	Valhalla"
+
+REFERENCE            cos_037
+LANG_ENGLISH         "?9Jurassic Claw"
+
+REFERENCE            cos_038
+LANG_ENGLISH         "??	??c?(]8"
+
+REFERENCE            cos_039
+LANG_ENGLISH         "??
+?,?KnB"
+
+REFERENCE            cos_040
+LANG_ENGLISH         "?d
+Cowboy Up"
+
+REFERENCE            cos_041
+LANG_ENGLISH         "???Z??7v???9?"
+
+REFERENCE            cos_042
+LANG_ENGLISH         "?Bizv?1?&Wu0?i?????"
+
+REFERENCE            cos_043
+LANG_ENGLISH         "?????w?"
+
+REFERENCE            cos_044
+LANG_ENGLISH         "??M?7??-?8??????7"
+
+REFERENCE            cos_045
+LANG_ENGLISH         "?Set to Blow"
+
+REFERENCE            cos_046
+LANG_ENGLISH         "??q????1?GL%"
+
+REFERENCE            cos_047
+LANG_ENGLISH         "???YhC?c???"
+
+REFERENCE            cos_048
+LANG_ENGLISH         "??
+Ill-Fated"
+
+REFERENCE            cos_049
+LANG_ENGLISH         "?$P?l?Y?:)?/?c"
+
+REFERENCE            cos_050
+LANG_ENGLISH         "??
+Saddle Up"
+
+REFERENCE            cos_051
+LANG_ENGLISH         "??Boots on the Ground"
+
+REFERENCE            cos_052
+LANG_ENGLISH         "?7??:!???xs??!R
+??"
+
+REFERENCE            cos_053
+LANG_ENGLISH         "?)K;C:K????-K?nY?"
+
+REFERENCE            cos_054
+LANG_ENGLISH         "?iRoadtripper"
+
+REFERENCE            cos_055
+LANG_ENGLISH         "??Bloodiest Diamond"
+
+REFERENCE            cos_056
+LANG_ENGLISH         "?
+??9??Y}"
+
+REFERENCE            cos_057
+LANG_ENGLISH         "??Re-up"
+
+REFERENCE            cos_058
+LANG_ENGLISH         "?{
+?XF!'?X?"
+
+REFERENCE            cos_059
+LANG_ENGLISH         "??:?S??"
+
+REFERENCE            cos_060
+LANG_ENGLISH         "?c
+???;("
+
+REFERENCE            cos_061
+LANG_ENGLISH         "??????N?C+?,??"
+
+REFERENCE            cos_062
+LANG_ENGLISH         "?????U?"
+
+REFERENCE            cos_063
+LANG_ENGLISH         "?&Blade of Valor"
+
+REFERENCE            cos_064
+LANG_ENGLISH         "?3?+???Y"
+
+REFERENCE            cos_065
+LANG_ENGLISH         "?Y????K??5??/??"
+
+REFERENCE            cos_066
+LANG_ENGLISH         "?PTalent Show"
+
+REFERENCE            cos_067
+LANG_ENGLISH         "???B?q{??e?#x???"
+
+REFERENCE            cos_068
+LANG_ENGLISH         "??}K?NX(9Q\"
+
+REFERENCE            cos_069
+LANG_ENGLISH         "?|P?7G?-?"
+
+REFERENCE            cos_070
+LANG_ENGLISH         "?-v?H??iN??]???S??"
+
+REFERENCE            cos_071
+LANG_ENGLISH         "?&?s2?7???/?c%X????"
+
+REFERENCE            cos_072
+LANG_ENGLISH         "??Los Angeles Guerrillas"
+
+REFERENCE            cos_073
+LANG_ENGLISH         "???,?????X?M???"
+
+REFERENCE            cos_074
+LANG_ENGLISH         "?C??i?2?????b????"
+
+REFERENCE            cos_075
+LANG_ENGLISH         "??????X???;?1???(??????"
+
+REFERENCE            cos_076
+LANG_ENGLISH         "???a?(??0???"
+
+REFERENCE            cos_077
+LANG_ENGLISH         "?#?H[?????5?~"
+
+REFERENCE            cos_078
+LANG_ENGLISH         "?CDL"
+
+REFERENCE            cos_079
+LANG_ENGLISH         "??9???/??q?"
+
+REFERENCE            cos_080
+LANG_ENGLISH         "?8Death Wheel"
+
+REFERENCE            cos_081
+LANG_ENGLISH         "??u??5??S?????a"
+
+REFERENCE            cos_082
+LANG_ENGLISH         "??|?2a?B?c?xm"
+
+REFERENCE            cos_083
+LANG_ENGLISH         "??;??g?S??}??????"
+
+REFERENCE            cos_084
+LANG_ENGLISH         "??o_L[92B"
+
+REFERENCE            cos_085
+LANG_ENGLISH         "??5 by 5"
+
+REFERENCE            cos_086
+LANG_ENGLISH         "?Ballistic Bubbly"
+
+REFERENCE            cos_087
+LANG_ENGLISH         "??T??-????,????"
+
+REFERENCE            cos_088
+LANG_ENGLISH         "??1?O?o?G"
+
+REFERENCE            cos_089
+LANG_ENGLISH         "??5?Bb????O??? ?'"
+
+REFERENCE            cos_090
+LANG_ENGLISH         "??Tags Denied"
+
+REFERENCE            cos_091
+LANG_ENGLISH         "??	Charming"
+
+REFERENCE            cos_092
+LANG_ENGLISH         "?!???2????/"
+
+REFERENCE            cos_093
+LANG_ENGLISH         "??
+?2C] ??9"
+
+REFERENCE            cos_094
+LANG_ENGLISH         "?"
+???b@ ??"
+
+REFERENCE            cos_095
+LANG_ENGLISH         "??
+	?,F@:YX?"
+
+REFERENCE            cos_096
+LANG_ENGLISH         "??
+j?????++"
+
+REFERENCE            cos_097
+LANG_ENGLISH         "?Z
+Reap This"
+
+REFERENCE            cos_098
+LANG_ENGLISH         "???j%???)?z"
+
+REFERENCE            cos_099
+LANG_ENGLISH         "?`?H?k?&p?h{??#"
+
+REFERENCE            cos_100
+LANG_ENGLISH         "??i7][?+U"
+
+REFERENCE            cos_101
+LANG_ENGLISH         "???w	W?K??2w?"
+
+REFERENCE            cos_102
+LANG_ENGLISH         "??True North"
+
+REFERENCE            cos_103
+LANG_ENGLISH         "??	p???+??"
+
+REFERENCE            cos_104
+LANG_ENGLISH         "??[?.??=??"
+
+REFERENCE            cos_105
+LANG_ENGLISH         "??	Armor On"
+
+REFERENCE            cos_106
+LANG_ENGLISH         "?A7;
+&????7???P????c??"
+
+REFERENCE            cos_107
+LANG_ENGLISH         "?J?Zs;???"
+
+REFERENCE            cos_108
+LANG_ENGLISH         "?zToy Soldier"
+
+REFERENCE            cos_109
+LANG_ENGLISH         "??Juggernaut"
+
+REFERENCE            cos_110
+LANG_ENGLISH         "??	????V???"
+
+REFERENCE            cos_111
+LANG_ENGLISH         "??
+?=?sWa?k"
+
+REFERENCE            cos_112
+LANG_ENGLISH         "?m??M???c"
+
+REFERENCE            cos_113
+LANG_ENGLISH         "??H???d?????"
+
+REFERENCE            cos_114
+LANG_ENGLISH         "?Fb?_?"
+
+REFERENCE            cos_115
+LANG_ENGLISH         "?X?bx???U??"
+
+REFERENCE            cos_116
+LANG_ENGLISH         "??	V???6???"
+
+REFERENCE            cos_117
+LANG_ENGLISH         "?W?????????K?"
+
+REFERENCE            cos_118
+LANG_ENGLISH         "?nSharky"
+
+REFERENCE            cos_119
+LANG_ENGLISH         "??????83??q)?`@"
+
+REFERENCE            cos_120
+LANG_ENGLISH         "??Taco Tuesdays"
+
+REFERENCE            cos_121
+LANG_ENGLISH         "??????`-"
+
+REFERENCE            cos_122
+LANG_ENGLISH         "????nV???_?????P???"
+
+REFERENCE            cos_123
+LANG_ENGLISH         "??{?yZj?W?????i"
+
+REFERENCE            cos_124
+LANG_ENGLISH         "?y??9?????9???Y7?"
+
+REFERENCE            cos_125
+LANG_ENGLISH         "?	*4+?4?"
+
+REFERENCE            cos_126
+LANG_ENGLISH         "??S??f???????4{??ZV"
+
+REFERENCE            cos_127
+LANG_ENGLISH         "??
+5R#????;"
+
+REFERENCE            cos_128
+LANG_ENGLISH         "??-?G?V?#"
+
+REFERENCE            cos_129
+LANG_ENGLISH         "?AEye in the Sky"
+
+REFERENCE            cos_130
+LANG_ENGLISH         "?D?s?W?/???"
+
+REFERENCE            cos_131
+LANG_ENGLISH         "????'??O?"
+
+REFERENCE            cos_132
+LANG_ENGLISH         "?Q???/??'?,?"
+
+REFERENCE            cos_133
+LANG_ENGLISH         "?j??Z??HXs?"
+
+REFERENCE            cos_134
+LANG_ENGLISH         "???H?;?????H"
+
+REFERENCE            cos_135
+LANG_ENGLISH         "?
+
+)?k????Z?"
+
+REFERENCE            cos_136
+LANG_ENGLISH         "?????9G?,?[cV?"
+
+REFERENCE            cos_137
+LANG_ENGLISH         "?dk???`??7|?x"
+
+REFERENCE            cos_138
+LANG_ENGLISH         "?e
+??X%{?c"
+
+REFERENCE            cos_139
+LANG_ENGLISH         "?b??,6?Ys??"
+
+REFERENCE            cos_140
+LANG_ENGLISH         "???GA	&??"
+
+REFERENCE            cos_141
+LANG_ENGLISH         "?????G?s??XK"
+
+REFERENCE            cos_142
+LANG_ENGLISH         "??Buzz Killer"
+
+REFERENCE            cos_143
+LANG_ENGLISH         "??+0????"
+
+REFERENCE            cos_144
+LANG_ENGLISH         "??	Carotene"
+
+REFERENCE            cos_145
+LANG_ENGLISH         "?Denture Warfare"
+
+REFERENCE            cos_146
+LANG_ENGLISH         "?:9K?G?Z??G"
+
+REFERENCE            cos_147
+LANG_ENGLISH         "?e:4W?C?N?)?v??+7:"
+
+REFERENCE            cos_148
+LANG_ENGLISH         "?Death Comes"
+
+REFERENCE            cos_149
+LANG_ENGLISH         "??	Heritage"
+
+REFERENCE            cos_150
+LANG_ENGLISH         "??Lil' Flame"
+
+REFERENCE            cos_151
+LANG_ENGLISH         "??
+Fishbones"
+
+REFERENCE            cos_152
+LANG_ENGLISH         "?d~M"???(??xm"
+
+REFERENCE            cos_153
+LANG_ENGLISH         "??@X??"
+
+REFERENCE            cos_154
+LANG_ENGLISH         "??Q????VU?"
+
+REFERENCE            cos_155
+LANG_ENGLISH         "??M???????;"
+
+REFERENCE            cos_156
+LANG_ENGLISH         "???X??"
+
+REFERENCE            cos_157
+LANG_ENGLISH         "?-
+??r??p?q?"
+
+REFERENCE            cos_158
+LANG_ENGLISH         "????IR????"
+
+REFERENCE            cos_159
+LANG_ENGLISH         "?IXbj[??"
+
+REFERENCE            cos_160
+LANG_ENGLISH         "?H?W7?Z"
+
+REFERENCE            cos_161
+LANG_ENGLISH         "?!	??K????FV?"
+
+REFERENCE            cos_162
+LANG_ENGLISH         "???h??"
+
+REFERENCE            cos_163
+LANG_ENGLISH         "??Winged Pork"
+
+REFERENCE            cos_164
+LANG_ENGLISH         "??
+Z???s"
+
+REFERENCE            cos_165
+LANG_ENGLISH         "?y??Z"
+
+REFERENCE            cos_166
+LANG_ENGLISH         "??Go????"
+
+REFERENCE            cos_167
+LANG_ENGLISH         "??"?????z?G"
+
+REFERENCE            cos_168
+LANG_ENGLISH         "???m=????w38?|"
+
+REFERENCE            cos_169
+LANG_ENGLISH         "?d
+?????J5"
+
+REFERENCE            cos_170
+LANG_ENGLISH         "?MCode Monkey"
+
+REFERENCE            cos_171
+LANG_ENGLISH         "?kTribal Guardian"
+
+REFERENCE            cos_172
+LANG_ENGLISH         "???y?r?2?yf"
+
+REFERENCE            cos_173
+LANG_ENGLISH         "??1??
+?s?	'?p??"
+
+REFERENCE            cos_174
+LANG_ENGLISH         "??9??K"
+
+REFERENCE            cos_175
+LANG_ENGLISH         "??Z???????{?"
+
+REFERENCE            cos_176
+LANG_ENGLISH         "?????}&??"
+
+REFERENCE            cos_177
+LANG_ENGLISH         "???
+??"
+
+REFERENCE            cos_178
+LANG_ENGLISH         "??h?j?b?"
+
+REFERENCE            cos_179
+LANG_ENGLISH         "??	0??F?9?|"
+
+REFERENCE            cos_180
+LANG_ENGLISH         "??r?S9??h???"
+
+REFERENCE            cos_181
+LANG_ENGLISH         "???5}b?"
+
+REFERENCE            cos_182
+LANG_ENGLISH         "??H???j~"
+
+REFERENCE            cos_183
+LANG_ENGLISH         "?g????T"
+
+REFERENCE            cos_184
+LANG_ENGLISH         "????V???"
+
+REFERENCE            cos_185
+LANG_ENGLISH         "???x????b"
+
+REFERENCE            cos_186
+LANG_ENGLISH         "????P?0?"
+
+REFERENCE            cos_187
+LANG_ENGLISH         "????j}??"
+
+REFERENCE            cos_188
+LANG_ENGLISH         "??COS_188"
+
+REFERENCE            cos_189
+LANG_ENGLISH         "?rGenius"
+
+REFERENCE            cos_190
+LANG_ENGLISH         "??COS_190"
+
+REFERENCE            cos_191
+LANG_ENGLISH         "??COS_191"
+
+REFERENCE            cos_192
+LANG_ENGLISH         "??COS_192"
+
+REFERENCE            cos_193
+LANG_ENGLISH         "???M???"
+
+REFERENCE            cos_194
+LANG_ENGLISH         "??Tempus"
+
+REFERENCE            cos_195
+LANG_ENGLISH         "??COS_195"
+
+REFERENCE            cos_196
+LANG_ENGLISH         "?!?"
+
+REFERENCE            cos_197
+LANG_ENGLISH         "?W????I?s"
+
+REFERENCE            cos_198
+LANG_ENGLISH         "??COS_198"
+
+REFERENCE            cos_199
+LANG_ENGLISH         "?;Backup Plan"
+
+REFERENCE            cos_200
+LANG_ENGLISH         "??`)???C'"
+
+REFERENCE            cos_201
+LANG_ENGLISH         "??^OO?m"
+
+REFERENCE            cos_202
+LANG_ENGLISH         "??	Haymaker"
+
+REFERENCE            cos_203
+LANG_ENGLISH         "??COS_203"
+
+REFERENCE            cos_204
+LANG_ENGLISH         "?I
+????????"
+
+REFERENCE            cos_205
+LANG_ENGLISH         "??Gold AX-50"
+
+REFERENCE            cos_206
+LANG_ENGLISH         "??4???d`?"
+
+REFERENCE            cos_207
+LANG_ENGLISH         "??h?M???"
+
+REFERENCE            cos_208
+LANG_ENGLISH         "??	???s??"
+
+REFERENCE            cos_209
+LANG_ENGLISH         "?????F"
+
+REFERENCE            cos_210
+LANG_ENGLISH         "??Space Race"
+
+REFERENCE            cos_211
+LANG_ENGLISH         "?&	Shredded"
+
+REFERENCE            cos_212
+LANG_ENGLISH         "?{?X:??{????"
+
+REFERENCE            cos_213
+LANG_ENGLISH         "?w?m?m?????????"
+
+REFERENCE            cos_214
+LANG_ENGLISH         "?L'??7?8?1Z,"
+
+REFERENCE            cos_215
+LANG_ENGLISH         "??
+Cymbalism"
+
+REFERENCE            cos_216
+LANG_ENGLISH         "???:??Y??]?"
+
+REFERENCE            cos_217
+LANG_ENGLISH         "??!??u???s?"
+
+REFERENCE            cos_218
+LANG_ENGLISH         "???2wVH??	?d"
+
+REFERENCE            cos_219
+LANG_ENGLISH         "?v??2`?{"
+
+REFERENCE            cos_220
+LANG_ENGLISH         "??????-V@?????"
+
+REFERENCE            cos_221
+LANG_ENGLISH         "?u
+D??Z?Y?+?"
+
+REFERENCE            cos_222
+LANG_ENGLISH         "?Y?c??U?"
+
+REFERENCE            cos_223
+LANG_ENGLISH         "?
+Acid Bath"
+
+REFERENCE            cos_224
+LANG_ENGLISH         "?}Sgt. Smuggypuss"
+
+REFERENCE            cos_225
+LANG_ENGLISH         "??
+Fowl Play"
+
+REFERENCE            cos_226
+LANG_ENGLISH         "?????g??????"
+
+REFERENCE            cos_227
+LANG_ENGLISH         "??	?W?2?p?7"
+
+REFERENCE            cos_228
+LANG_ENGLISH         "?:?T????N)h"
+
+REFERENCE            cos_229
+LANG_ENGLISH         "???Y???+?9?Y"
+
+REFERENCE            cos_230
+LANG_ENGLISH         "?V?,F?{k??7?"
+
+REFERENCE            cos_231
+LANG_ENGLISH         "??OG?V????UyP"
+
+REFERENCE            cos_232
+LANG_ENGLISH         "???]?g???KI"
+
+REFERENCE            cos_233
+LANG_ENGLISH         "?g	???]??"
+
+REFERENCE            cos_234
+LANG_ENGLISH         "???K???????0"
+
+REFERENCE            cos_235
+LANG_ENGLISH         "?
+?]????r??"
+
+REFERENCE            cos_236
+LANG_ENGLISH         "??$???{X??"
+
+REFERENCE            cos_237
+LANG_ENGLISH         "?Yx?3??O5????"
+
+REFERENCE            cos_238
+LANG_ENGLISH         "?YM?X???@?Z???"
+
+REFERENCE            cos_239
+LANG_ENGLISH         "?y'?????gO"
+
+REFERENCE            cos_240
+LANG_ENGLISH         "??
+??-#??"
+
+REFERENCE            cos_241
+LANG_ENGLISH         "?w??Y?,??;V"
+
+REFERENCE            cos_242
+LANG_ENGLISH         "??Nice Supplies"
+
+REFERENCE            cos_243
+LANG_ENGLISH         "??Red Envelope"
+
+REFERENCE            cos_244
+LANG_ENGLISH         "?i?7F/?7?"
+
+REFERENCE            cos_245
+LANG_ENGLISH         "????A?+\?"
+
+REFERENCE            cos_246
+LANG_ENGLISH         "?h?????@?]7G??+?"
+
+REFERENCE            cos_247
+LANG_ENGLISH         "??+??R??p<??"
+
+REFERENCE            cos_248
+LANG_ENGLISH         "??Seattle Surge"
+
+REFERENCE            cos_249
+LANG_ENGLISH         "?n????"
+
+REFERENCE            cos_250
+LANG_ENGLISH         "?	Jack-San"
+
+REFERENCE            cos_251
+LANG_ENGLISH         "??
+d???????"
+
+REFERENCE            cos_252
+LANG_ENGLISH         "?6
+	?X???"
+
+REFERENCE            cos_253
+LANG_ENGLISH         "??y??]???????V["
+
+REFERENCE            cos_254
+LANG_ENGLISH         "?0w?x???"
+
+REFERENCE            cos_255
+LANG_ENGLISH         "??	7?#????"
+
+REFERENCE            cos_256
+LANG_ENGLISH         "?	?d???T?)(?m?)rOu"
+
+REFERENCE            cos_257
+LANG_ENGLISH         "??COS_257"
+
+REFERENCE            cos_258
+LANG_ENGLISH         "?9
+	{??V'???"
+
+REFERENCE            cos_259
+LANG_ENGLISH         "???m???Y??q?"
+
+REFERENCE            cos_260
+LANG_ENGLISH         "?XD?;{)?CH8???0]`"
+
+REFERENCE            cos_261
+LANG_ENGLISH         "?Uu??e?]N@j:Y?"
+
+REFERENCE            cos_262
+LANG_ENGLISH         "??COS_262"
+
+REFERENCE            cos_263
+LANG_ENGLISH         "?F	??_I*??"
+
+REFERENCE            cos_264
+LANG_ENGLISH         "????]??Y???"
+
+REFERENCE            cos_265
+LANG_ENGLISH         "?q??0??/"
+
+REFERENCE            cos_266
+LANG_ENGLISH         "??Spider Buddy"
+
+REFERENCE            cos_267
+LANG_ENGLISH         "????GXZs???:"
+
+REFERENCE            cos_268
+LANG_ENGLISH         "???x??"
+
+REFERENCE            cos_269
+LANG_ENGLISH         "?GRenewal"
+
+REFERENCE            cos_270
+LANG_ENGLISH         "?n!?X?5V??V9"
+
+REFERENCE            cos_271
+LANG_ENGLISH         "??Soup Spoon"
+
+REFERENCE            cos_272
+LANG_ENGLISH         "??J??+'"
+
+REFERENCE            cos_273
+LANG_ENGLISH         "?x)?a0B?xa?'"
+
+REFERENCE            cos_274
+LANG_ENGLISH         "?0??t`??m"
+
+REFERENCE            cos_275
+LANG_ENGLISH         "?~	
+C%(??K"
+
+REFERENCE            cos_276
+LANG_ENGLISH         "???V????????Zz?V"
+
+REFERENCE            cos_277
+LANG_ENGLISH         "?;6O?H?w6Q8+"
+
+REFERENCE            cos_278
+LANG_ENGLISH         "??
+Blackshot"
+
+REFERENCE            cos_279
+LANG_ENGLISH         "????j}??'"
+
+REFERENCE            cos_280
+LANG_ENGLISH         "?kLoyal Specter"
+
+REFERENCE            cos_281
+LANG_ENGLISH         "?????$????(Bz"
+
+REFERENCE            cos_282
+LANG_ENGLISH         "??M??j??-'??"
+
+REFERENCE            cos_283
+LANG_ENGLISH         "?e^5u????'?H"
+
+REFERENCE            cos_284
+LANG_ENGLISH         "?G=;(0?>8???"
+
+REFERENCE            cos_285
+LANG_ENGLISH         "?/
+?????Xl4+"
+
+REFERENCE            cos_286
+LANG_ENGLISH         "?r[??k??3"
+
+REFERENCE            cos_287
+LANG_ENGLISH         "??COS_287"
+
+REFERENCE            cos_288
+LANG_ENGLISH         "?i	56??Z?s"
+
+REFERENCE            cos_289
+LANG_ENGLISH         "??Warrior King"
+
+REFERENCE            cos_290
+LANG_ENGLISH         "??	Z????c??"
+
+REFERENCE            cos_291
+LANG_ENGLISH         "??ao??(k9??"
+
+REFERENCE            cos_292
+LANG_ENGLISH         "??????3??c#"
+
+REFERENCE            cos_293
+LANG_ENGLISH         "??7Cb-8"
+
+REFERENCE            cos_294
+LANG_ENGLISH         "??	h??,?V?"
+
+REFERENCE            cos_295
+LANG_ENGLISH         "?_ZV/6C?????"
+
+REFERENCE            cos_296
+LANG_ENGLISH         "??Let's Play a Game"
+
+REFERENCE            cos_297
+LANG_ENGLISH         "?IA??s??Y??,w7"
+
+REFERENCE            cos_298
+LANG_ENGLISH         "??Spooky Goodies"
+
+REFERENCE            cos_299
+LANG_ENGLISH         "??
+??gV!??L"
+
+REFERENCE            cos_300
+LANG_ENGLISH         "??Wirecutter"
+
+REFERENCE            cos_301
+LANG_ENGLISH         "????/???WC?? e?["
+
+REFERENCE            cos_302
+LANG_ENGLISH         "?xh???'??YN"
+
+REFERENCE            cos_303
+LANG_ENGLISH         "????M??/???Px?w?"
+
+REFERENCE            cos_304
+LANG_ENGLISH         "?:?N?I?5b:Qk?m"
+
+REFERENCE            cos_305
+LANG_ENGLISH         "??Slippery When Wet"
+
+REFERENCE            cos_306
+LANG_ENGLISH         "??
+sb?U???p?"
+
+REFERENCE            cos_307
+LANG_ENGLISH         "??Lil' Ghillie"
+
+REFERENCE            cos_308
+LANG_ENGLISH         "?
+Loyal Boy"
+
+REFERENCE            cos_309
+LANG_ENGLISH         "??	1?6r??]?"
+
+REFERENCE            cos_310
+LANG_ENGLISH         "????/???WC?? e?["
+
+REFERENCE            cos_311
+LANG_ENGLISH         "??H??,?$p?5?7X2B"
+
+REFERENCE            cos_312
+LANG_ENGLISH         "?
+H?????,??"
+
+REFERENCE            cos_313
+LANG_ENGLISH         "?k???u?>??????"
+
+REFERENCE            cos_314
+LANG_ENGLISH         "??\r???!hX[m???"
+
+REFERENCE            cos_315
+LANG_ENGLISH         "??Babe"
+
+REFERENCE            cos_316
+LANG_ENGLISH         "?e,?;[,s"
+
+REFERENCE            cos_317
+LANG_ENGLISH         "??
+	??aL?D?"
+
+REFERENCE            cos_318
+LANG_ENGLISH         "?DStabby Crabby"
+
+REFERENCE            cos_319
+LANG_ENGLISH         "??	?V????0"
+
+REFERENCE            cos_320
+LANG_ENGLISH         "?Sz',?;??{{??+"
+
+REFERENCE            cos_321
+LANG_ENGLISH         "??j?^??A?????"
+
+REFERENCE            cos_322
+LANG_ENGLISH         "?)I?e?_?rUo?"
+
+REFERENCE            cos_323
+LANG_ENGLISH         "?*?Y?#???Y"
+
+REFERENCE            cos_324
+LANG_ENGLISH         "?nI?[??V??%?v???"
+
+REFERENCE            cos_325
+LANG_ENGLISH         "?	???Q?"
+
+REFERENCE            cos_326
+LANG_ENGLISH         "??
+Nyan Nyan"
+
+REFERENCE            cos_327
+LANG_ENGLISH         "??
+{8?[????"
+
+REFERENCE            cos_328
+LANG_ENGLISH         "?FI{?-?"
+
+REFERENCE            cos_329
+LANG_ENGLISH         "?W
+???K???"
+
+REFERENCE            cos_330
+LANG_ENGLISH         "?f??GaM?Q	-????"
+
+REFERENCE            cos_331
+LANG_ENGLISH         "??????+?$???+?"
+
+REFERENCE            cos_332
+LANG_ENGLISH         "?.??0???"
+
+REFERENCE            cos_333
+LANG_ENGLISH         "?`"14??[??F`????"
+
+REFERENCE            cos_334
+LANG_ENGLISH         "????1pxs????78j??Z???"
+
+REFERENCE            cos_335
+LANG_ENGLISH         "??Q?YXN???X?"
+
+REFERENCE            cos_336
+LANG_ENGLISH         "??9"?s?'???Z?b?@+"
+
+REFERENCE            cos_337
+LANG_ENGLISH         "???],?#+????-66"
+
+REFERENCE            cos_338
+LANG_ENGLISH         "?eCuff Links"
+
+REFERENCE            cos_339
+LANG_ENGLISH         "??$(??98l V?g?"
+
+REFERENCE            cos_340
+LANG_ENGLISH         "?	?<0??"
+
+REFERENCE            cos_341
+LANG_ENGLISH         "???2??p??I?"
+
+REFERENCE            cos_342
+LANG_ENGLISH         "??Mighty Mantis"
+
+REFERENCE            cos_343
+LANG_ENGLISH         "?g?"
+
+REFERENCE            cos_344
+LANG_ENGLISH         "?5???_?5??(? .?"
+
+REFERENCE            cos_345
+LANG_ENGLISH         "??E???"
+
+REFERENCE            cos_346
+LANG_ENGLISH         "????{*W?????"
+
+REFERENCE            cos_347
+LANG_ENGLISH         "????????K?"
+
+REFERENCE            cos_348
+LANG_ENGLISH         "??	h?0@?&?"
+
+REFERENCE            cos_349
+LANG_ENGLISH         "?H	\%
+1??w?"
+
+REFERENCE            cos_350
+LANG_ENGLISH         "??	???????#"
+
+REFERENCE            cos_351
+LANG_ENGLISH         "??	???"
+
+REFERENCE            cos_352
+LANG_ENGLISH         "??+?@4????????y??mH?"
+
+REFERENCE            cos_353
+LANG_ENGLISH         "??Sweet Tunes"
+
+REFERENCE            cos_354
+LANG_ENGLISH         "?#?n?2??+?F"
+
+REFERENCE            cos_355
+LANG_ENGLISH         "??]-P?????S??B?"
+
+REFERENCE            cos_356
+LANG_ENGLISH         "?-Y?f?;k?X?K????"
+
+REFERENCE            cos_357
+LANG_ENGLISH         "?a{???_["0;?g??"
+
+REFERENCE            cos_358
+LANG_ENGLISH         "????UW?????"
+
+REFERENCE            cos_359
+LANG_ENGLISH         "?It?Y???j???Y??4]8"
+
+REFERENCE            cos_360
+LANG_ENGLISH         "??	?(gk2???"
+
+REFERENCE            cos_361
+LANG_ENGLISH         "?9	?%????W@"
+
+REFERENCE            cos_362
+LANG_ENGLISH         "??Y?P????????q"
+
+REFERENCE            cos_363
+LANG_ENGLISH         "??qs?@h[@??A[?"
+
+REFERENCE            cos_364
+LANG_ENGLISH         "??Roze Thorn"
+
+REFERENCE            cos_365
+LANG_ENGLISH         "????V[?'???g@"
+
+REFERENCE            cos_366
+LANG_ENGLISH         "???XtH?J??GV@"
+
+REFERENCE            cos_367
+LANG_ENGLISH         "??Price Check"
+
+REFERENCE            cos_368
+LANG_ENGLISH         "???@w?????"
+
+REFERENCE            cos_369
+LANG_ENGLISH         "?vQ????V9?"
+
+REFERENCE            cos_370
+LANG_ENGLISH         "??
+?W?????"
+
+REFERENCE            cos_371
+LANG_ENGLISH         "??S???gV"
+
+REFERENCE            cos_372
+LANG_ENGLISH         "??E??@??????7"
+
+REFERENCE            cos_373
+LANG_ENGLISH         "?c	?pKB?s??"
+
+REFERENCE            cos_374
+LANG_ENGLISH         "?h???(?V?:7"
+
+REFERENCE            cos_375
+LANG_ENGLISH         "????6FN?{3"
+
+REFERENCE            cos_376
+LANG_ENGLISH         "???2s?9??a?????"
+
+REFERENCE            cos_377
+LANG_ENGLISH         "???????"
+
+REFERENCE            cos_378
+LANG_ENGLISH         "??k???2?&h?p????"
+
+REFERENCE            cos_379
+LANG_ENGLISH         "?@	)?
+Ss??"
+
+REFERENCE            cos_380
+LANG_ENGLISH         "?#b??@"????"
+
+REFERENCE            cos_381
+LANG_ENGLISH         "??;x?]?"
+
+REFERENCE            cos_382
+LANG_ENGLISH         "??`???K]B?"
+
+REFERENCE            cos_383
+LANG_ENGLISH         "?'Scorpion King"
+
+REFERENCE            cos_384
+LANG_ENGLISH         "???s ?G??"Jh"
+
+REFERENCE            cos_385
+LANG_ENGLISH         "??)[?????"
+
+REFERENCE            cos_386
+LANG_ENGLISH         "??'{w@2?X????"
+
+REFERENCE            cos_387
+LANG_ENGLISH         "??????????}"
+
+REFERENCE            cos_388
+LANG_ENGLISH         "??
+Rice Cake"
+
+REFERENCE            cos_389
+LANG_ENGLISH         "??Lantern"
+
+REFERENCE            cos_390
+LANG_ENGLISH         "??
+Boom Bits"
+
+REFERENCE            cos_391
+LANG_ENGLISH         "??Sneaks"
+
+REFERENCE            cos_392
+LANG_ENGLISH         "?(??????????"
+
+REFERENCE            cos_393
+LANG_ENGLISH         "???(?????%LG 3?-?"
+
+REFERENCE            cos_394
+LANG_ENGLISH         "??7R???&qp("
+
+REFERENCE            cos_395
+LANG_ENGLISH         "?????)?"
+
+REFERENCE            cos_396
+LANG_ENGLISH         "?nSlice of Life"
+
+REFERENCE            cos_397
+LANG_ENGLISH         "??Deliver the Goods"
+
+REFERENCE            cos_398
+LANG_ENGLISH         "???1oj??)?.???r"
+
+REFERENCE            cos_399
+LANG_ENGLISH         "???{?%'w"
+
+REFERENCE            cos_400
+LANG_ENGLISH         "?Z?}Kee?x??A??"
+
+REFERENCE            cos_401
+LANG_ENGLISH         "??Nutcracker"
+
+REFERENCE            cos_402
+LANG_ENGLISH         "??	7X?L???S"
+
+REFERENCE            cos_403
+LANG_ENGLISH         "??To The Top"
+
+REFERENCE            cos_404
+LANG_ENGLISH         "??mP??])o??~*W"
+
+REFERENCE            cos_405
+LANG_ENGLISH         "??The Alicorn"
+
+REFERENCE            cos_406
+LANG_ENGLISH         "?f'?3???8"
+
+REFERENCE            cos_407
+LANG_ENGLISH         "?E?]??:+?"
+
+REFERENCE            cos_408
+LANG_ENGLISH         "?
+???n??"
+
+REFERENCE            cos_409
+LANG_ENGLISH         "??Warrior King"
+
+REFERENCE            cos_410
+LANG_ENGLISH         "??COS_410"
+
+REFERENCE            cos_411
+LANG_ENGLISH         "????????"
+
+REFERENCE            cos_412
+LANG_ENGLISH         "??Q4??m@???"
+
+REFERENCE            cos_413
+LANG_ENGLISH         "?????}???"
+
+REFERENCE            cos_414
+LANG_ENGLISH         "??COS_414"
+
+REFERENCE            cos_415
+LANG_ENGLISH         "????????j"
+
+REFERENCE            cos_416
+LANG_ENGLISH         "??h?M??b?"
+
+REFERENCE            cos_417
+LANG_ENGLISH         "???pR7V?"
+
+REFERENCE            cos_418
+LANG_ENGLISH         "??@??s
+?"
+
+REFERENCE            cos_419
+LANG_ENGLISH         "??COS_419"
+
+REFERENCE            cos_420
+LANG_ENGLISH         "??`)???'"
+
+REFERENCE            cos_421
+LANG_ENGLISH         "??^OO?a?"
+
+REFERENCE            cos_422
+LANG_ENGLISH         "??h?j?h??"
+
+REFERENCE            cos_423
+LANG_ENGLISH         "??COS_423"
+
+REFERENCE            cos_424
+LANG_ENGLISH         "??4=M??FC"
+
+REFERENCE            cos_425
+LANG_ENGLISH         "???z??h??"
+
+REFERENCE            cos_426
+LANG_ENGLISH         "???Bi?B?"
+
+REFERENCE            cos_427
+LANG_ENGLISH         "????}??"
+
+REFERENCE            cos_428
+LANG_ENGLISH         "??COS_428"
+
+REFERENCE            cos_429
+LANG_ENGLISH         "????j}?F'"
+
+REFERENCE            cos_430
+LANG_ENGLISH         "??COS_430"
+
+REFERENCE            cos_431
+LANG_ENGLISH         "???????3?"
+
+REFERENCE            cos_432
+LANG_ENGLISH         "??h?M??f?"
+
+REFERENCE            cos_433
+LANG_ENGLISH         "???pR7^?"
+
+REFERENCE            cos_434
+LANG_ENGLISH         "??h?M??3"
+
+REFERENCE            cos_435
+LANG_ENGLISH         "??4???hfM"
+
+REFERENCE            cos_436
+LANG_ENGLISH         "????a??{?"
+
+REFERENCE            cos_437
+LANG_ENGLISH         "?????}???"
+
+REFERENCE            cos_438
+LANG_ENGLISH         "??COS_438"
+
+REFERENCE            cos_439
+LANG_ENGLISH         "??h?j?h?N"
+
+REFERENCE            cos_440
+LANG_ENGLISH         "???j}??"
+
+REFERENCE            cos_441
+LANG_ENGLISH         "????????b"
+
+REFERENCE            cos_442
+LANG_ENGLISH         "??@??s"?"
+
+REFERENCE            cos_443
+LANG_ENGLISH         "??COS_443"
+
+REFERENCE            cos_444
+LANG_ENGLISH         "????A??\?"
+
+REFERENCE            cos_445
+LANG_ENGLISH         "??COS_445"
+
+REFERENCE            cos_446
+LANG_ENGLISH         "??????C?"
+
+REFERENCE            cos_447
+LANG_ENGLISH         "???'A?
+C"
+
+REFERENCE            cos_448
+LANG_ENGLISH         "????a??|?"
+
+REFERENCE            cos_449
+LANG_ENGLISH         "??4???hhN"
+
+REFERENCE            cos_450
+LANG_ENGLISH         "??????S"
+
+REFERENCE            cos_451
+LANG_ENGLISH         "???X???"
+
+REFERENCE            cos_452
+LANG_ENGLISH         "????A??]?"
+
+REFERENCE            cos_453
+LANG_ENGLISH         "???'A??"
+
+REFERENCE            cos_454
+LANG_ENGLISH         "??@??s*?"
+
+REFERENCE            cos_455
+LANG_ENGLISH         "??COS_455"
+
+REFERENCE            cos_456
+LANG_ENGLISH         "???j}??c"
+
+REFERENCE            cos_457
+LANG_ENGLISH         "??COS_457"
+
+REFERENCE            cos_458
+LANG_ENGLISH         "??COS_458"
+
+REFERENCE            cos_459
+LANG_ENGLISH         "??Y?????a"
+
+REFERENCE            cos_460
+LANG_ENGLISH         "???GA	2??"
+
+REFERENCE            cos_461
+LANG_ENGLISH         "??COS_461"
+
+REFERENCE            cos_462
+LANG_ENGLISH         "??COS_462"
+
+REFERENCE            cos_463
+LANG_ENGLISH         "??COS_463"
+
+REFERENCE            cos_464
+LANG_ENGLISH         "?????gw4A"
+
+REFERENCE            cos_465
+LANG_ENGLISH         "??Y?????m"
+
+REFERENCE            cos_466
+LANG_ENGLISH         "??COS_466"
+
+REFERENCE            cos_467
+LANG_ENGLISH         "????W#?W"
+
+REFERENCE            cos_468
+LANG_ENGLISH         "????V?KO"
+
+REFERENCE            cos_469
+LANG_ENGLISH         "??COS_469"
+
+REFERENCE            cos_470
+LANG_ENGLISH         "???5}h?"
+
+REFERENCE            cos_471
+LANG_ENGLISH         "??H?????"
+
+REFERENCE            cos_472
+LANG_ENGLISH         "??COS_472"
+
+REFERENCE            cos_473
+LANG_ENGLISH         "????V??"
+
+REFERENCE            cos_474
+LANG_ENGLISH         "???x????j"
+
+REFERENCE            cos_475
+LANG_ENGLISH         "????P??C"
+
+REFERENCE            cos_476
+LANG_ENGLISH         "????j}???"
+
+REFERENCE            cos_477
+LANG_ENGLISH         "??COS_477"
+
+REFERENCE            cos_478
+LANG_ENGLISH         "????}?"
+
+REFERENCE            cos_479
+LANG_ENGLISH         "???Bi?V"
+
+REFERENCE            cos_480
+LANG_ENGLISH         "??h?M??p?"
+
+REFERENCE            cos_481
+LANG_ENGLISH         "?????????"
+
+REFERENCE            cos_482
+LANG_ENGLISH         "??COS_482"
+
+REFERENCE            cos_483
+LANG_ENGLISH         "???pR7r?"
+
+REFERENCE            cos_484
+LANG_ENGLISH         "????a??p?"
+
+REFERENCE            cos_485
+LANG_ENGLISH         "??4???hpM"
+
+REFERENCE            cos_486
+LANG_ENGLISH         "??COS_486"
+
+REFERENCE            cos_487
+LANG_ENGLISH         "?????}???"
+
+REFERENCE            cos_488
+LANG_ENGLISH         "??^OO?a?"
+
+REFERENCE            cos_489
+LANG_ENGLISH         "??h?j?h?N"
+
+REFERENCE            cos_490
+LANG_ENGLISH         "??COS_490"
+
+REFERENCE            cos_491
+LANG_ENGLISH         "??@??sJ?"
+
+REFERENCE            cos_492
+LANG_ENGLISH         "????????d"
+
+REFERENCE            cos_493
+LANG_ENGLISH         "???j}??3"
+
+REFERENCE            cos_494
+LANG_ENGLISH         "???'A?b#"
+
+REFERENCE            cos_495
+LANG_ENGLISH         "???????M"
+
+REFERENCE            cos_496
+LANG_ENGLISH         "??COS_496"
+
+REFERENCE            cos_497
+LANG_ENGLISH         "????A??Q?"
+
+REFERENCE            cos_498
+LANG_ENGLISH         "?????}???"
+
+REFERENCE            cos_499
+LANG_ENGLISH         "??COS_499"
+
+REFERENCE            cos_500
+LANG_ENGLISH         "??@??3?"
+
+
+ENDMARKER

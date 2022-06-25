@@ -1,0 +1,25 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ar_t9mobility_v14
+LANG_ENGLISH         "??
+Golden Ox"
+
+REFERENCE            ar_t9standard_v14
+LANG_ENGLISH         "??Crimson Dozer"
+
+REFERENCE            sm_t9fastfire_v3
+LANG_ENGLISH         "??Blood Dozer"
+
+REFERENCE            sm_t9powerburst_v5
+LANG_ENGLISH         "??Combat Cupid"
+
+REFERENCE            sm_t9powerburst_v6
+LANG_ENGLISH         "??Golden Augx"
+
+REFERENCE            sn_t9quickscope_v6
+LANG_ENGLISH         "?<Hidden Admiration"
+
+
+ENDMARKER

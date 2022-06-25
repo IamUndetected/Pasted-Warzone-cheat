@@ -1,0 +1,6 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,,,# 1 weapon of type epic,
+req,,ammo,1,,,,,# 1 ammo,
+req,,,1,,,4,,# 1 item of any type legendary,
+req,brloot_killstreak_auav,killstreak,1,,,,,# 1 killstreak,
+req,brloot_equip_gasmask_durable,,1,,,4,,# 1 durable gas mask,

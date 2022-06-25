@@ -1,0 +1,973 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adskills
+LANG_ENGLISH         "??Hairtrigger"
+
+REFERENCE            adskills_desc
+LANG_ENGLISH         "?:Most ADS Kills"
+
+REFERENCE            ammoboxused
+LANG_ENGLISH         "?Death Dealer"
+
+REFERENCE            ammoboxused_desc
+LANG_ENGLISH         "???_??7?J9?C??J?YO?????"
+
+REFERENCE            ardeaths
+LANG_ENGLISH         "??
+????ci"
+
+REFERENCE            ardeaths_desc
+LANG_ENGLISH         "?+????n`??c??*???"Y?wH??"
+
+REFERENCE            arheadshots
+LANG_ENGLISH         "?M
+%Q??"
+
+REFERENCE            arheadshots_desc
+LANG_ENGLISH         "?XMost assault rifle headshots"
+
+REFERENCE            arkills
+LANG_ENGLISH         "???b&??*8!?_V@"
+
+REFERENCE            arkills_desc
+LANG_ENGLISH         "??pH{??_??;??r? z??_?,?y?"
+
+REFERENCE            assaults
+LANG_ENGLISH         "?3Offense"
+
+REFERENCE            assaults_desc
+LANG_ENGLISH         "??j??:??nX?cG[Zcc?"
+
+REFERENCE            avengerkills
+LANG_ENGLISH         "?|??????"
+
+REFERENCE            avengerkills_desc
+LANG_ENGLISH         "?g?bJq?'???_??4jhx"
+
+REFERENCE            bombdefused
+LANG_ENGLISH         "?{??/S?W?"
+
+REFERENCE            bombdefused_desc
+LANG_ENGLISH         "?@?p??q????[Z"
+
+REFERENCE            bombdetonated
+LANG_ENGLISH         "?2
+q?*P?Wsq?"
+
+REFERENCE            bombdetonated_desc
+LANG_ENGLISH         "?
+j?7?,9;?:??2+????^+?"
+
+REFERENCE            bombplanted
+LANG_ENGLISH         "?>??i???????"
+
+REFERENCE            bombplanted_desc
+LANG_ENGLISH         "???zRy?[???"
+
+REFERENCE            c4lethalkills
+LANG_ENGLISH         "??@?x??Q????h??"
+
+REFERENCE            c4lethalkills_desc
+LANG_ENGLISH         "????c?I?:h?L??"
+
+REFERENCE            captures
+LANG_ENGLISH         "??	?{3+Z??"
+
+REFERENCE            captures_desc
+LANG_ENGLISH         "????7??8??'??"
+
+REFERENCE            carepackagescaptured
+LANG_ENGLISH         "???{X92??"
+
+REFERENCE            carepackagescaptured_desc
+LANG_ENGLISH         "?,?(G????sW????/???	j?8g?q"
+
+REFERENCE            carrierkills
+LANG_ENGLISH         "?;?9??Y'"
+
+REFERENCE            carrierkills_desc
+LANG_ENGLISH         "??Most kills as carrier"
+
+REFERENCE            classchanges
+LANG_ENGLISH         "?1???q?5?"
+
+REFERENCE            classchanges_desc
+LANG_ENGLISH         "?XG??+Hx??+C&??Su?"
+
+REFERENCE            claymorekills
+LANG_ENGLISH         "??	0???p?2"
+
+REFERENCE            claymorekills_desc
+LANG_ENGLISH         "????7??????NV??c??"
+
+REFERENCE            clutch
+LANG_ENGLISH         "?I	4c??C??"
+
+REFERENCE            clutch_desc
+LANG_ENGLISH         "?????G???cc7?????c,nG@?-??"
+
+REFERENCE            clutchrevives
+LANG_ENGLISH         "?+%X?ZQ?"
+
+REFERENCE            clutchrevives_desc
+LANG_ENGLISH         "?h-?3?^?`#?????)N???"???6??"
+
+REFERENCE            comebackkills
+LANG_ENGLISH         "????"
+
+REFERENCE            comebackkills_desc
+LANG_ENGLISH         "?JMost comebacks"
+
+REFERENCE            damagedealt
+LANG_ENGLISH         "?E?K?/??u80??"
+
+REFERENCE            damagedealt_desc
+LANG_ENGLISH         "??5??,??V+??"
+
+REFERENCE            damagetaken
+LANG_ENGLISH         "?A??b??C??U?
+#"
+
+REFERENCE            damagetaken_desc
+LANG_ENGLISH         "???_??7?
+?!ro?@??su"
+
+REFERENCE            deadsilencekills
+LANG_ENGLISH         "??j??V???????/"
+
+REFERENCE            deadsilencekills_desc
+LANG_ENGLISH         "??$j?n??[??????C???@nK??s6???????"
+
+REFERENCE            deathsfrombehind
+LANG_ENGLISH         "?R	?Zs#???Y"
+
+REFERENCE            deathsfrombehind_desc
+LANG_ENGLISH         "??Most deaths from behind"
+
+REFERENCE            decoyhits
+LANG_ENGLISH         "???,2V?????{??"
+
+REFERENCE            decoyhits_desc
+LANG_ENGLISH         "?9Most decoy grenade hits"
+
+REFERENCE            defenderkills
+LANG_ENGLISH         "????Q?"
+
+REFERENCE            defenderkills_desc
+LANG_ENGLISH         "?bA???1?%??5???Z?8???!"
+
+REFERENCE            defends
+LANG_ENGLISH         "??Defense"
+
+REFERENCE            defends_desc
+LANG_ENGLISH         "????nG@#Y?+?#???n"
+
+REFERENCE            deployablecoverused
+LANG_ENGLISH         "?Cp8?????mN? ??#H"
+
+REFERENCE            deployablecoverused_desc
+LANG_ENGLISH         "???x???K????B*X??X???W??"
+
+REFERENCE            destroyedkillstreaks
+LANG_ENGLISH         "?j?98jVG??"
+
+REFERENCE            destroyedkillstreaks_desc
+LANG_ENGLISH         "????c?I#?XP?T[??4f?????+?"
+
+REFERENCE            distancetraveledinvehicle
+LANG_ENGLISH         "????h/:?w?u????"
+
+REFERENCE            distancetraveledinvehicle_desc
+LANG_ENGLISH         "?	(????X?!?9????"???????\H?J????????"
+
+REFERENCE            distancetravelled
+LANG_ENGLISH         "?qNomad"
+
+REFERENCE            distancetravelled_desc
+LANG_ENGLISH         "?5???;V???,?l?:?Xg??+?"
+
+REFERENCE            empdronehits
+LANG_ENGLISH         "??[?p??u?Y??K"
+
+REFERENCE            empdronehits_desc
+LANG_ENGLISH         "?NL/????!'?s??+~??I??%?"
+
+REFERENCE            executionkills
+LANG_ENGLISH         "?:Executioner"
+
+REFERENCE            executionkills_desc
+LANG_ENGLISH         "?????????nC????{????6?"
+
+REFERENCE            explosionssurvived
+LANG_ENGLISH         "?yShell Shocked"
+
+REFERENCE            explosionssurvived_desc
+LANG_ENGLISH         "?j?7?Y8c????7???N?K??F"
+
+REFERENCE            firstinfected
+LANG_ENGLISH         "?[Patient Zero"
+
+REFERENCE            firstinfected_desc
+LANG_ENGLISH         "?Q?3?Vpo??l"
+
+REFERENCE            flashbanghits
+LANG_ENGLISH         "????W81?#"
+
+REFERENCE            flashbanghits_desc
+LANG_ENGLISH         "?8?{n?36?????????-??"
+
+REFERENCE            fragkills
+LANG_ENGLISH         "?1?a7?r"
+
+REFERENCE            fragkills_desc
+LANG_ENGLISH         "??;????*?)??p]???????B"
+
+REFERENCE            gashits
+LANG_ENGLISH         "??O??W??s"
+
+REFERENCE            gashits_desc
+LANG_ENGLISH         "?L??s???+p?s???(????o"
+
+REFERENCE            headshots
+LANG_ENGLISH         "???N?4??G?'"
+
+REFERENCE            headshots_desc
+LANG_ENGLISH         "?"???1X?(8?`?"
+
+REFERENCE            higherrankedkills
+LANG_ENGLISH         "?HU??Kn?N"
+
+REFERENCE            higherrankedkills_desc
+LANG_ENGLISH         "??/Most kills on higher ranked scoreboard players"
+
+REFERENCE            highestavgaltitude
+LANG_ENGLISH         "???Z??h??k??"
+
+REFERENCE            highestavgaltitude_desc
+LANG_ENGLISH         "?fHighest average altitude"
+
+REFERENCE            highestmultikill
+LANG_ENGLISH         "??"?g????Z?7"
+
+REFERENCE            highestmultikill_desc
+LANG_ENGLISH         "????+7??k?6:?????"
+
+REFERENCE            highestrankedkills
+LANG_ENGLISH         "??	????HH?"
+
+REFERENCE            highestrankedkills_desc
+LANG_ENGLISH         "?p4j??G[??6n?{???+4Z?????,7?Y????N??????,?+??"
+
+REFERENCE            hipfirekills
+LANG_ENGLISH         "??Sprayer"
+
+REFERENCE            hipfirekills_desc
+LANG_ENGLISH         "????nG@CZ3Z?Y?Z???"
+
+REFERENCE            infectedkills
+LANG_ENGLISH         "?+
+Contagion"
+
+REFERENCE            infectedkills_desc
+LANG_ENGLISH         "?H5????????n??fY?V#"
+
+REFERENCE            killenemyteam
+LANG_ENGLISH         "?i????????+F"
+
+REFERENCE            killenemyteam_desc
+LANG_ENGLISH         "??Killed entire enemy team"
+
+REFERENCE            kills10nodeaths
+LANG_ENGLISH         "?	? B????"
+
+REFERENCE            kills10nodeaths_desc
+LANG_ENGLISH         "?t2z?XU??(????@??2?~q?2e??/J?({"
+
+REFERENCE            killsfrombehind
+LANG_ENGLISH         "??????N"
+
+REFERENCE            killsfrombehind_desc
+LANG_ENGLISH         "??Most kills from behind"
+
+REFERENCE            killstreakairkills
+LANG_ENGLISH         "?Y?I?!?s3????@??"
+
+REFERENCE            killstreakairkills_desc
+LANG_ENGLISH         "?0Most aerial killstreak kills"
+
+REFERENCE            killstreakairstrikekills
+LANG_ENGLISH         "????e[???t????"
+
+REFERENCE            killstreakairstrikekills_desc
+LANG_ENGLISH         "?5????9??7??7X-????K?+?K?6?"
+
+REFERENCE            killstreakassaultdronekills
+LANG_ENGLISH         "?Remote Warfare"
+
+REFERENCE            killstreakassaultdronekills_desc
+LANG_ENGLISH         "??S???1???9{??m?c??"
+
+REFERENCE            killstreakauavassists
+LANG_ENGLISH         "??????:JZ?Q7?-9????7?"
+
+REFERENCE            killstreakauavassists_desc
+LANG_ENGLISH         "??{??#??l????
+?X???n??"
+
+REFERENCE            killstreakcarepackageused
+LANG_ENGLISH         "?2Helping Hand"
+
+REFERENCE            killstreakcarepackageused_desc
+LANG_ENGLISH         "??j??:?XNY?[X;+???6?V#?K?"
+
+REFERENCE            killstreakchoppergunnerkills
+LANG_ENGLISH         "?'??h???"
+
+REFERENCE            killstreakchoppergunnerkills_desc
+LANG_ENGLISH         "?xMost chopper gunner kills"
+
+REFERENCE            killstreakchoppersupportkills
+LANG_ENGLISH         "?=O???Z (???"
+
+REFERENCE            killstreakchoppersupportkills_desc
+LANG_ENGLISH         "?4?????]8?9???[Z??n"
+
+REFERENCE            killstreakcluserstrikekills
+LANG_ENGLISH         "??73?????"
+
+REFERENCE            killstreakcluserstrikekills_desc
+LANG_ENGLISH         "??5???????V????????????"
+
+REFERENCE            killstreakcruisemissilekills
+LANG_ENGLISH         "?Z1s?[?`??6?#??"
+
+REFERENCE            killstreakcruisemissilekills_desc
+LANG_ENGLISH         "????7G???-nV???7?KcY?Kcc?"
+
+REFERENCE            killstreakcuavassists
+LANG_ENGLISH         "??I??V2"
+
+REFERENCE            killstreakcuavassists_desc
+LANG_ENGLISH         "?=#j{????7???7??:4?6N???????{???"
+
+REFERENCE            killstreakemergencyairdropused
+LANG_ENGLISH         "???Y??????K7?{s??"
+
+REFERENCE            killstreakemergencyairdropused_desc
+LANG_ENGLISH         "??"?RzA?'???O(7?`W??K??~????Ov??"
+
+REFERENCE            killstreakgroundkills
+LANG_ENGLISH         "??Ground Control"
+
+REFERENCE            killstreakgroundkills_desc
+LANG_ENGLISH         "??#???????W???&,n??@????????[?Z??"
+
+REFERENCE            killstreakgunshipkills
+LANG_ENGLISH         "?sDeath From Above"
+
+REFERENCE            killstreakgunshipkills_desc
+LANG_ENGLISH         "???(?S???VC0?/?
+ "
+
+REFERENCE            killstreakjuggernautkills
+LANG_ENGLISH         "???-??????
+?"
+
+REFERENCE            killstreakjuggernautkills_desc
+LANG_ENGLISH         "?JMost juggernaut kills"
+
+REFERENCE            killstreakkills
+LANG_ENGLISH         "?	????uR"
+
+REFERENCE            killstreakkills_desc
+LANG_ENGLISH         "??Most killstreak kills"
+
+REFERENCE            killstreakpersonaluavkills
+LANG_ENGLISH         "??F??? ?&)?????"
+
+REFERENCE            killstreakpersonaluavkills_desc
+LANG_ENGLISH         "??(Most kills with a personal radar active"
+
+REFERENCE            killstreaksentrygunkills
+LANG_ENGLISH         "?.
+????i??"
+
+REFERENCE            killstreaksentrygunkills_desc
+LANG_ENGLISH         "??Most sentry gun kills"
+
+REFERENCE            killstreakshieldturretkills
+LANG_ENGLISH         "??	Shielded"
+
+REFERENCE            killstreakshieldturretkills_desc
+LANG_ENGLISH         "???s}J#Lp?u???c]?JXD%;"
+
+REFERENCE            killstreaktankkills
+LANG_ENGLISH         "??
+Bulldozer"
+
+REFERENCE            killstreaktankkills_desc
+LANG_ENGLISH         "?3$?W???`P?s????7x?S` ?Niajc?qG"
+
+REFERENCE            killstreakuavassists
+LANG_ENGLISH         "???????'?3??"
+
+REFERENCE            killstreakuavassists_desc
+LANG_ENGLISH         "?+?@?bW??jk5?.??$1)??"
+
+REFERENCE            killstreakvtoljetkills
+LANG_ENGLISH         "??
+?B??hS@"
+
+REFERENCE            killstreakvtoljetkills_desc
+LANG_ENGLISH         "??{?????b@I???[K??"
+
+REFERENCE            killstreakwheelsonkills
+LANG_ENGLISH         "??	??&I?4"
+
+REFERENCE            killstreakwheelsonkills_desc
+LANG_ENGLISH         "?:'??????????????s"
+
+REFERENCE            killstreakwhitephosphorouskillsassists
+LANG_ENGLISH         "????:u@g?"
+
+REFERENCE            killstreakwhitephosphorouskillsassists_desc
+LANG_ENGLISH         "?4.??s??4<?9???
+??@js?g!z??2B??g??h/.?J"
+
+REFERENCE            lastsurvivor
+LANG_ENGLISH         "?}Last Man Standing"
+
+REFERENCE            lastsurvivor_desc
+LANG_ENGLISH         "??7?7?N?????"
+
+REFERENCE            launcherdeaths
+LANG_ENGLISH         "?\??&??"
+
+REFERENCE            launcherdeaths_desc
+LANG_ENGLISH         "?Z?O??i5"?0zL?#??%?k?"
+
+REFERENCE            launcherheadshots
+LANG_ENGLISH         "??	Heads Up"
+
+REFERENCE            launcherheadshots_desc
+LANG_ENGLISH         "???s}J<??????sK??h\?"
+
+REFERENCE            launcherkills
+LANG_ENGLISH         "?D
+????K??"
+
+REFERENCE            launcherkills_desc
+LANG_ENGLISH         "??(G?? ?o{??????L=?"
+
+REFERENCE            leastassists
+LANG_ENGLISH         "???c3Z??"
+
+REFERENCE            leastassists_desc
+LANG_ENGLISH         "?
+?*???sH??#??"
+
+REFERENCE            leastdeaths
+LANG_ENGLISH         "??Juggernaut"
+
+REFERENCE            leastdeaths_desc
+LANG_ENGLISH         "??0x???/\U????"
+
+REFERENCE            leastkills
+LANG_ENGLISH         "??The Fearful"
+
+REFERENCE            leastkills_desc
+LANG_ENGLISH         "?Y??;??,V@m?"
+
+REFERENCE            lmgdeaths
+LANG_ENGLISH         "?)Target Practice"
+
+REFERENCE            lmgdeaths_desc
+LANG_ENGLISH         "???{?k???'x}??3??"
+
+REFERENCE            lmgheadshots
+LANG_ENGLISH         "?uLMG Expert"
+
+REFERENCE            lmgheadshots_desc
+LANG_ENGLISH         "????c?Iw2?E9???h?b"
+
+REFERENCE            lmgkills
+LANG_ENGLISH         "?????E??"
+
+REFERENCE            lmgkills_desc
+LANG_ENGLISH         "???g???O?????"
+
+REFERENCE            longestlife
+LANG_ENGLISH         "??LR[("
+
+REFERENCE            longestlife_desc
+LANG_ENGLISH         "?#Longest life"
+
+REFERENCE            longeststreak
+LANG_ENGLISH         "??RjQP???"
+
+REFERENCE            longeststreak_desc
+LANG_ENGLISH         "?0Longest killstreak"
+
+REFERENCE            longesttimespentonweapon
+LANG_ENGLISH         "?@	??V??K??"
+
+REFERENCE            longesttimespentonweapon_desc
+LANG_ENGLISH         "??&1???+??????Y????:@??????Ksv?+?????s"
+
+REFERENCE            longshotkills
+LANG_ENGLISH         "??	Marksman"
+
+REFERENCE            longshotkills_desc
+LANG_ENGLISH         "?M?v???P-w?????"
+
+REFERENCE            lowerrankedkills
+LANG_ENGLISH         "??Alpha"
+
+REFERENCE            lowerrankedkills_desc
+LANG_ENGLISH         "??.S??Gm?c???????N???V?7???+&?X'???,?Y'n"
+
+REFERENCE            lowestavgaltitude
+LANG_ENGLISH         "??b???A????6Y"
+
+REFERENCE            lowestavgaltitude_desc
+LANG_ENGLISH         "?2C??:?Y???QR?I[1s????"
+
+REFERENCE            meleedeaths
+LANG_ENGLISH         "??????mV???:"
+
+REFERENCE            meleedeaths_desc
+LANG_ENGLISH         "???g???	??!?:????"
+
+REFERENCE            meleekills
+LANG_ENGLISH         "?UBrawler"
+
+REFERENCE            meleekills_desc
+LANG_ENGLISH         "??????>P?$5?b????"
+
+REFERENCE            molotovkills
+LANG_ENGLISH         "?#	???{7K?"
+
+REFERENCE            molotovkills_desc
+LANG_ENGLISH         "?d??7????????m?6c7"
+
+REFERENCE            mostassists
+LANG_ENGLISH         "?LWingman"
+
+REFERENCE            mostassists_desc
+LANG_ENGLISH         "?5?v????j??8?"
+
+REFERENCE            mostdeaths
+LANG_ENGLISH         "?#Ragdoll"
+
+REFERENCE            mostdeaths_desc
+LANG_ENGLISH         "?~m?Y??7?0+?"
+
+REFERENCE            mostkills
+LANG_ENGLISH         "?+The Feared"
+
+REFERENCE            mostkills_desc
+LANG_ENGLISH         "???g???????"
+
+REFERENCE            mostkillsleastdeaths
+LANG_ENGLISH         "???w"
+
+REFERENCE            mostkillsleastdeaths_desc
+LANG_ENGLISH         "??Most kills and fewest deaths"
+
+REFERENCE            mostkillslongeststreak
+LANG_ENGLISH         "??:9??@????9"
+
+REFERENCE            mostkillslongeststreak_desc
+LANG_ENGLISH         "??"Most kills and longest killstreak"
+
+REFERENCE            mostkillsmostheadshots
+LANG_ENGLISH         "??	Overkill"
+
+REFERENCE            mostkillsmostheadshots_desc
+LANG_ENGLISH         "?5???[??c7?2[???C+#??{??"
+
+REFERENCE            mostmultikills
+LANG_ENGLISH         "??
+??=W????"
+
+REFERENCE            mostmultikills_desc
+LANG_ENGLISH         "??S???????Z????"
+
+REFERENCE            munitionsboxused
+LANG_ENGLISH         "??	A????FV?"
+
+REFERENCE            munitionsboxused_desc
+LANG_ENGLISH         "??/?????`??????z???j?bR	1"
+
+REFERENCE            nodeathsfrombehind
+LANG_ENGLISH         "?m3?R?L????"
+
+REFERENCE            nodeathsfrombehind_desc
+LANG_ENGLISH         "??????o0? #P??1????cS?"
+
+REFERENCE            nokill10deaths
+LANG_ENGLISH         "????n?-????????"
+
+REFERENCE            nokill10deaths_desc
+LANG_ENGLISH         "?? No kills and at least 10 deaths"
+
+REFERENCE            nokillnodeath
+LANG_ENGLISH         "?AFK"
+
+REFERENCE            nokillnodeath_desc
+LANG_ENGLISH         "??No kills and no deaths"
+
+REFERENCE            nokillswithdeath
+LANG_ENGLISH         "?	???xk?O;?K"
+
+REFERENCE            nokillswithdeath_desc
+LANG_ENGLISH         "?7,bj???/?????
+j?Y??????????`u?"
+
+REFERENCE            oneshotonekills
+LANG_ENGLISH         "?l??YM??@ZK??"
+
+REFERENCE            oneshotonekills_desc
+LANG_ENGLISH         "?5??{uR7??i?????	S?"
+
+REFERENCE            penetrationkills
+LANG_ENGLISH         "?J
+???xp>+?"
+
+REFERENCE            penetrationkills_desc
+LANG_ENGLISH         "??Zg???IQ?kjg????3?????WUP?"
+
+REFERENCE            pickups
+LANG_ENGLISH         "??H???>??&>??"
+
+REFERENCE            pickups_desc
+LANG_ENGLISH         "????????X??@????+?"
+
+REFERENCE            pistolheadshots
+LANG_ENGLISH         "??j????7?????"
+
+REFERENCE            pistolheadshots_desc
+LANG_ENGLISH         "??{???K????@??#n???"
+
+REFERENCE            pistolkills
+LANG_ENGLISH         "??Hard Boiled"
+
+REFERENCE            pistolkills_desc
+LANG_ENGLISH         "??'??/??C??????	'"
+
+REFERENCE            pistolpeaths
+LANG_ENGLISH         "??	?p?o?i?"
+
+REFERENCE            pistolpeaths_desc
+LANG_ENGLISH         "?????????????+,?4?"
+
+REFERENCE            pointblankkills
+LANG_ENGLISH         "?;Y?jhXS?P????"
+
+REFERENCE            pointblankkills_desc
+LANG_ENGLISH         "??H[L>???e)R???:?????"
+
+REFERENCE            proximityminekills
+LANG_ENGLISH         "??E?,?V?"
+
+REFERENCE            proximityminekills_desc
+LANG_ENGLISH         "?t5???'????:?@?-????cc?"
+
+REFERENCE            recondronemarks
+LANG_ENGLISH         "??d??z?4?@??cc"
+
+REFERENCE            recondronemarks_desc
+LANG_ENGLISH         "??%??C?i??h?4[i?V?Z???K?? J?}??"??^???"
+
+REFERENCE            reloads
+LANG_ENGLISH         "??(g?i???Y"
+
+REFERENCE            reloads_desc
+LANG_ENGLISH         "??????&??,'?x?"
+
+REFERENCE            returns
+LANG_ENGLISH         "???6X;%+GW??V?"
+
+REFERENCE            returns_desc
+LANG_ENGLISH         "??????36?????W9?V2"
+
+REFERENCE            revengekills
+LANG_ENGLISH         "?A???,??"
+
+REFERENCE            revengekills_desc
+LANG_ENGLISH         "? ?????9??V??V@?K??"
+
+REFERENCE            revives
+LANG_ENGLISH         "?B?z????,"
+
+REFERENCE            revives_desc
+LANG_ENGLISH         "?95{??'??-?V?"
+
+REFERENCE            riotshielddamageabsorbed
+LANG_ENGLISH         "?S	Guardian"
+
+REFERENCE            riotshielddamageabsorbed_desc
+LANG_ENGLISH         "?`&j?nG2[;?@1??N??w?:????@7C?+?F"
+
+REFERENCE            semtexkills
+LANG_ENGLISH         "??j:Z[?"
+
+REFERENCE            semtexkills_desc
+LANG_ENGLISH         "?nMost semtex kills"
+
+REFERENCE            setbacks
+LANG_ENGLISH         "?t?Y?{:+#"
+
+REFERENCE            setbacks_desc
+LANG_ENGLISH         "???O??i?b?PZ??"
+
+REFERENCE            shortestlife
+LANG_ENGLISH         "?X	?Y???s??"
+
+REFERENCE            shortestlife_desc
+LANG_ENGLISH         "?%???'Y?:?3V"
+
+REFERENCE            shotgundeaths
+LANG_ENGLISH         "?a??^?A??+?s"
+
+REFERENCE            shotgundeaths_desc
+LANG_ENGLISH         "??????&??/<????M!???v"
+
+REFERENCE            shotgunheadshots
+LANG_ENGLISH         "??
+V????@"
+
+REFERENCE            shotgunheadshots_desc
+LANG_ENGLISH         "??Most shotgun headshots"
+
+REFERENCE            shotgunkills
+LANG_ENGLISH         "?		??[?C??"
+
+REFERENCE            shotgunkills_desc
+LANG_ENGLISH         "?5?????????s??c?"
+
+REFERENCE            shotsfired
+LANG_ENGLISH         "?Trigger Happy"
+
+REFERENCE            shotsfired_desc
+LANG_ENGLISH         "??)???I?0?]?IC??"
+
+REFERENCE            skippedkillcams
+LANG_ENGLISH         "??j?N???"
+
+REFERENCE            skippedkillcams_desc
+LANG_ENGLISH         "?XMost killcams skipped"
+
+REFERENCE            smgdeaths
+LANG_ENGLISH         "?,Run and Gunned"
+
+REFERENCE            smgdeaths_desc
+LANG_ENGLISH         "??Most SMG deaths"
+
+REFERENCE            smgheadshots
+LANG_ENGLISH         "?OSMG Expert"
+
+REFERENCE            smgheadshots_desc
+LANG_ENGLISH         "???(?S?/????*? "
+
+REFERENCE            smgkills
+LANG_ENGLISH         "????"
+
+REFERENCE            smgkills_desc
+LANG_ENGLISH         "?(????n????_??"
+
+REFERENCE            smokesused
+LANG_ENGLISH         "??(????"
+
+REFERENCE            smokesused_desc
+LANG_ENGLISH         "?C?????[????N???F??W??#"
+
+REFERENCE            snapshothits
+LANG_ENGLISH         "???4???;'??4Y?"
+
+REFERENCE            snapshothits_desc
+LANG_ENGLISH         "??}?I??+?????N????!y????"
+
+REFERENCE            sniperdeaths
+LANG_ENGLISH         "?3
+?h?????aN"
+
+REFERENCE            sniperdeaths_desc
+LANG_ENGLISH         "?Jc?*P?'???????i?"
+
+REFERENCE            sniperheadshots
+LANG_ENGLISH         "??	??#?Z?{?"
+
+REFERENCE            sniperheadshots_desc
+LANG_ENGLISH         "????Mr???5?:???bo?0"
+
+REFERENCE            sniperkills
+LANG_ENGLISH         "?Sniper"
+
+REFERENCE            sniperkills_desc
+LANG_ENGLISH         "??Most sniper kills"
+
+REFERENCE            spawnselectbase
+LANG_ENGLISH         "??
+l?vN???"
+
+REFERENCE            spawnselectbase_desc
+LANG_ENGLISH         "?Most base spawns"
+
+REFERENCE            spawnselectflag
+LANG_ENGLISH         "??Objective Focused"
+
+REFERENCE            spawnselectflag_desc
+LANG_ENGLISH         "??j?7?@????8????"
+
+REFERENCE            spawnselectsquad
+LANG_ENGLISH         "????/:?'1??"
+
+REFERENCE            spawnselectsquad_desc
+LANG_ENGLISH         "???(?S?+?MQ??3????GO"
+
+REFERENCE            spawnselectvehicle
+LANG_ENGLISH         "?AOscar Mike"
+
+REFERENCE            spawnselectvehicle_desc
+LANG_ENGLISH         "?*Most vehicle spawns"
+
+REFERENCE            stimdamagehealed
+LANG_ENGLISH         "??
+k?uN8?np"
+
+REFERENCE            stimdamagehealed_desc
+LANG_ENGLISH         "??Most healing from stim"
+
+REFERENCE            stoppingpowerkills
+LANG_ENGLISH         "??=;?'??????"
+
+REFERENCE            stoppingpowerkills_desc
+LANG_ENGLISH         "??Most stopping power kills"
+
+REFERENCE            stunhits
+LANG_ENGLISH         "???1pE[U?"
+
+REFERENCE            stunhits_desc
+LANG_ENGLISH         "???_??7?[??g??M?qc??8e?"
+
+REFERENCE            suicides
+LANG_ENGLISH         "???[????Za??H"
+
+REFERENCE            suicides_desc
+LANG_ENGLISH         "??Most suicides"
+
+REFERENCE            survivorkills
+LANG_ENGLISH         "???c????Yu<3?"
+
+REFERENCE            survivorkills_desc
+LANG_ENGLISH         "?<?p??o?jb????i?%20?-"
+
+REFERENCE            tacticalinsertionspawns
+LANG_ENGLISH         "??	?????A"
+
+REFERENCE            tacticalinsertionspawns_desc
+LANG_ENGLISH         "?.Most tactical insertions used"
+
+REFERENCE            tagscaptured
+LANG_ENGLISH         "??Confirmed Kills"
+
+REFERENCE            tagscaptured_desc
+LANG_ENGLISH         "?Collected the most tags"
+
+REFERENCE            tagsdenied
+LANG_ENGLISH         "?Nq?m?]{"
+
+REFERENCE            tagsdenied_desc
+LANG_ENGLISH         "??????@G?k???????"
+
+REFERENCE            tagslargestbank
+LANG_ENGLISH         "???K?2?q??? <"
+
+REFERENCE            tagslargestbank_desc
+LANG_ENGLISH         "?????o1?C???"
+
+REFERENCE            tagsmegabanked
+LANG_ENGLISH         "??	?C4??p??"
+
+REFERENCE            tagsmegabanked_desc
+LANG_ENGLISH         "?"Megabanked Tags"
+
+REFERENCE            thermitekills
+LANG_ENGLISH         "?W	???@????"
+
+REFERENCE            thermitekills_desc
+LANG_ENGLISH         "?xS??GC????:?????"
+
+REFERENCE            throwingknifekills
+LANG_ENGLISH         "?"	??+9"
+
+REFERENCE            throwingknifekills_desc
+LANG_ENGLISH         "?(Most throwing knife kills"
+
+REFERENCE            timecrouched
+LANG_ENGLISH         "????????"
+
+REFERENCE            timecrouched_desc
+LANG_ENGLISH         "?hMost time spent crouched"
+
+REFERENCE            timeonpoint
+LANG_ENGLISH         "?%i???9?._m?q?Z?"
+
+REFERENCE            timeonpoint_desc
+LANG_ENGLISH         "?!j??:Z?Y??Y7??@???@????l:-gV"
+
+REFERENCE            timeprone
+LANG_ENGLISH         "??Grassy Knoll"
+
+REFERENCE            timeprone_desc
+LANG_ENGLISH         "?wMost time spent prone"
+
+REFERENCE            timespentasdriver
+LANG_ENGLISH         "??/spNb"
+
+REFERENCE            timespentasdriver_desc
+LANG_ENGLISH         "???{?:?Z?+??Y??'?????"
+
+REFERENCE            timespentaspassenger
+LANG_ENGLISH         "?@
+??Kq'??"
+
+REFERENCE            timespentaspassenger_desc
+LANG_ENGLISH         "????C?i?0x?3;???_?{??????v+?"
+
+REFERENCE            timesselectedassquadleader
+LANG_ENGLISH         "?????'"
+
+REFERENCE            timesselectedassquadleader_desc
+LANG_ENGLISH         "??S???n?,????{?"
+
+REFERENCE            timewatchingkillcams
+LANG_ENGLISH         "?	Spy Game"
+
+REFERENCE            timewatchingkillcams_desc
+LANG_ENGLISH         "?&Most time watching killcams"
+
+REFERENCE            todo
+LANG_ENGLISH         "?}*?D?$"
+
+REFERENCE            todo_desc
+LANG_ENGLISH         "?/TODO DESC!"
+
+REFERENCE            trophysystemhits
+LANG_ENGLISH         "?
+LrU8.??"
+
+REFERENCE            trophysystemhits_desc
+LANG_ENGLISH         "?B??{uR,??cl??.3)W??hD??`f"
+
+REFERENCE            weaponpickups
+LANG_ENGLISH         "??Loaner"
+
+REFERENCE            weaponpickups_desc
+LANG_ENGLISH         "??????&??##?xn?G?????_m?"
+
+
+ENDMARKER

@@ -1,0 +1,80 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            kb_alt1_button
+LANG_ENGLISH         "??[{menu_action1}]"
+
+REFERENCE            kb_alt2_button
+LANG_ENGLISH         "??[{menu_action2}]"
+
+REFERENCE            kb_back_button
+LANG_ENGLISH         "???CG]???????B[?"
+
+REFERENCE            kb_del_button
+LANG_ENGLISH         "??
+/@D????"
+
+REFERENCE            kb_dpad_down_button
+LANG_ENGLISH         "?/k?Xo????B????0E??"
+
+REFERENCE            kb_dpad_left_button
+LANG_ENGLISH         "???????=?H8?????aa"
+
+REFERENCE            kb_dpad_right_button
+LANG_ENGLISH         "?	[{menu_nav_right}]"
+
+REFERENCE            kb_dpad_up_button
+LANG_ENGLISH         "?2[{menu_nav_up}]"
+
+REFERENCE            kb_home_button
+LANG_ENGLISH         "??^< HOME ^>"
+
+REFERENCE            kb_ins_button
+LANG_ENGLISH         "?,
+y?@J????"
+
+REFERENCE            kb_l3_button
+LANG_ENGLISH         "??[{menu_action5}]"
+
+REFERENCE            kb_left_shoulder_button
+LANG_ENGLISH         "???O??{}&??I?_???o4?p)?"
+
+REFERENCE            kb_left_stick
+LANG_ENGLISH         "?KDk???7??????]????[???}?????????????Y???7X?????????o???W?????N??:??"
+
+REFERENCE            kb_left_trigger_button
+LANG_ENGLISH         "??[{menu_action3}]"
+
+REFERENCE            kb_page_down_button
+LANG_ENGLISH         "??Xyv??,[Z??"
+
+REFERENCE            kb_page_up_button
+LANG_ENGLISH         "????t?????"
+
+REFERENCE            kb_primary_button
+LANG_ENGLISH         "??????H5?!??8FZo"
+
+REFERENCE            kb_r3_button
+LANG_ENGLISH         "??[{menu_action8}]"
+
+REFERENCE            kb_right_shoulder_button
+LANG_ENGLISH         "?;I#?SPw???>	????"
+
+REFERENCE            kb_right_stick
+LANG_ENGLISH         "???"
+
+REFERENCE            kb_right_trigger_button
+LANG_ENGLISH         "??[{menu_action4}]"
+
+REFERENCE            kb_secondary_button
+LANG_ENGLISH         "??[{menu_back}]"
+
+REFERENCE            kb_start_button
+LANG_ENGLISH         "??[{menu_action7}]"
+
+REFERENCE            mwheel_up_down
+LANG_ENGLISH         "???"
+
+
+ENDMARKER

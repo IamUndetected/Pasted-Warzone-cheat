@@ -1,0 +1,425 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            alt
+LANG_ENGLISH         "?iS4"
+
+REFERENCE            aux1
+LANG_ENGLISH         "?d????9????"
+
+REFERENCE            aux10
+LANG_ENGLISH         "??Auxiliary 10"
+
+REFERENCE            aux11
+LANG_ENGLISH         "??IX???9f?P??"
+
+REFERENCE            aux12
+LANG_ENGLISH         "??n??Q?????Q??"
+
+REFERENCE            aux13
+LANG_ENGLISH         "??
+????Z??^??"
+
+REFERENCE            aux14
+LANG_ENGLISH         "??h??,?@?!_c?"
+
+REFERENCE            aux15
+LANG_ENGLISH         "??Auxiliary 15"
+
+REFERENCE            aux16
+LANG_ENGLISH         "???[???@???"
+
+REFERENCE            aux2
+LANG_ENGLISH         "?dAuxiliary 2"
+
+REFERENCE            aux3
+LANG_ENGLISH         "?dP??K-N??"
+
+REFERENCE            aux4
+LANG_ENGLISH         "?dAuxiliary 4"
+
+REFERENCE            aux5
+LANG_ENGLISH         "?d??T?(O???{"
+
+REFERENCE            aux6
+LANG_ENGLISH         "?d???k0g??k?2"
+
+REFERENCE            aux7
+LANG_ENGLISH         "?dAuxiliary 7"
+
+REFERENCE            aux8
+LANG_ENGLISH         "?d?=X	?"c
+?"
+
+REFERENCE            aux9
+LANG_ENGLISH         "?dPW<Zc????"
+
+REFERENCE            backspace
+LANG_ENGLISH         "?
+BACKSPACE"
+
+REFERENCE            button_mousewheelupdown
+LANG_ENGLISH         "??M?1b???Fh)?d0{"
+
+REFERENCE            button_vita_l1
+LANG_ENGLISH         "?L"
+
+REFERENCE            button_vita_l2
+LANG_ENGLISH         "?L"
+
+REFERENCE            button_vita_l3
+LANG_ENGLISH         "?L@"
+
+REFERENCE            button_vita_r1
+LANG_ENGLISH         "?L?"
+
+REFERENCE            button_vita_r2
+LANG_ENGLISH         "?L?"
+
+REFERENCE            button_vita_r3
+LANG_ENGLISH         "?L"
+
+REFERENCE            button_vita_touchpad
+LANG_ENGLISH         "?L?"
+
+REFERENCE            capslock
+LANG_ENGLISH         "??
+h?Aj??4i"
+
+REFERENCE            command
+LANG_ENGLISH         "??4=5?
+?D"
+
+REFERENCE            ctrl
+LANG_ENGLISH         "????!"
+
+REFERENCE            del
+LANG_ENGLISH         "?(?I"
+
+REFERENCE            downarrow
+LANG_ENGLISH         "???"
+
+REFERENCE            end
+LANG_ENGLISH         "?END"
+
+REFERENCE            enter
+LANG_ENGLISH         "??5?+?"
+
+REFERENCE            esc
+LANG_ENGLISH         "?ESC"
+
+REFERENCE            escape
+LANG_ENGLISH         "?ESC"
+
+REFERENCE            f1
+LANG_ENGLISH         "??&"
+
+REFERENCE            f10
+LANG_ENGLISH         "???"
+
+REFERENCE            f11
+LANG_ENGLISH         "??	z"
+
+REFERENCE            f12
+LANG_ENGLISH         "?#?F"
+
+REFERENCE            f2
+LANG_ENGLISH         "??"
+
+REFERENCE            f3
+LANG_ENGLISH         "?"
+
+REFERENCE            f4
+LANG_ENGLISH         "?F4"
+
+REFERENCE            f5
+LANG_ENGLISH         "?v["
+
+REFERENCE            f6
+LANG_ENGLISH         "?["
+
+REFERENCE            f7
+LANG_ENGLISH         "???"
+
+REFERENCE            f8
+LANG_ENGLISH         "?8Z"
+
+REFERENCE            f9
+LANG_ENGLISH         "???"
+
+REFERENCE            henkan
+LANG_ENGLISH         "????@7??"
+
+REFERENCE            hiragana
+LANG_ENGLISH         "?L		?????=?"
+
+REFERENCE            home
+LANG_ENGLISH         "???X?"
+
+REFERENCE            ins
+LANG_ENGLISH         "?J??"
+
+REFERENCE            joy1
+LANG_ENGLISH         "??Joystick 1"
+
+REFERENCE            joy10
+LANG_ENGLISH         "?????n?-6?b`"
+
+REFERENCE            joy11
+LANG_ENGLISH         "??Joystick 11"
+
+REFERENCE            joy12
+LANG_ENGLISH         "??I?/7?K??L?"
+
+REFERENCE            joy13
+LANG_ENGLISH         "???o?k?T"@"??"
+
+REFERENCE            joy14
+LANG_ENGLISH         "??Joystick 14"
+
+REFERENCE            joy15
+LANG_ENGLISH         "??R?????m?j"
+
+REFERENCE            joy16
+LANG_ENGLISH         "?????/?q?"
+
+REFERENCE            joy17
+LANG_ENGLISH         "???{???K??@L?"
+
+REFERENCE            joy18
+LANG_ENGLISH         "?????????L?"
+
+REFERENCE            joy19
+LANG_ENGLISH         "??Joystick 19"
+
+REFERENCE            joy2
+LANG_ENGLISH         "??Joystick 2"
+
+REFERENCE            joy20
+LANG_ENGLISH         "??Joystick 20"
+
+REFERENCE            joy21
+LANG_ENGLISH         "??Joystick 21"
+
+REFERENCE            joy22
+LANG_ENGLISH         "??????3x?+h5?"
+
+REFERENCE            joy23
+LANG_ENGLISH         "???3S?B?C?"
+
+REFERENCE            joy24
+LANG_ENGLISH         "???ZO???G??{"
+
+REFERENCE            joy25
+LANG_ENGLISH         "??)??7???m@M"
+
+REFERENCE            joy26
+LANG_ENGLISH         "??Joystick 26"
+
+REFERENCE            joy27
+LANG_ENGLISH         "??R???G??m??"
+
+REFERENCE            joy28
+LANG_ENGLISH         "??Joystick 28"
+
+REFERENCE            joy29
+LANG_ENGLISH         "??????c?O???b"
+
+REFERENCE            joy3
+LANG_ENGLISH         "??R?/??K6?@?"
+
+REFERENCE            joy30
+LANG_ENGLISH         "??R????Z???"
+
+REFERENCE            joy31
+LANG_ENGLISH         "???{???@?x?c"
+
+REFERENCE            joy32
+LANG_ENGLISH         "??????;?wC?"
+
+REFERENCE            joy4
+LANG_ENGLISH         "??%??7???m?"
+
+REFERENCE            joy5
+LANG_ENGLISH         "??Joystick 5"
+
+REFERENCE            joy6
+LANG_ENGLISH         "???r?o7?*??"
+
+REFERENCE            joy7
+LANG_ENGLISH         "??I??n???[?"
+
+REFERENCE            joy8
+LANG_ENGLISH         "?????n????@"
+
+REFERENCE            joy9
+LANG_ENGLISH         "??I??n?????"
+
+REFERENCE            kp_del
+LANG_ENGLISH         "?WNUM DECIMAL"
+
+REFERENCE            kp_downarrow
+LANG_ENGLISH         "???#!??"
+
+REFERENCE            kp_end
+LANG_ENGLISH         "??NUM 1"
+
+REFERENCE            kp_enter
+LANG_ENGLISH         "?r
+????;H?=?"
+
+REFERENCE            kp_equals
+LANG_ENGLISH         "??x??IY"
+
+REFERENCE            kp_home
+LANG_ENGLISH         "??<???R"
+
+REFERENCE            kp_ins
+LANG_ENGLISH         "???U?@"
+
+REFERENCE            kp_leftarrow
+LANG_ENGLISH         "??NUM 4"
+
+REFERENCE            kp_minus
+LANG_ENGLISH         "??
+?s???C$??"
+
+REFERENCE            kp_numlock
+LANG_ENGLISH         "?P	?U???"
+
+REFERENCE            kp_numpad_5
+LANG_ENGLISH         "??NUM 5"
+
+REFERENCE            kp_pgdn
+LANG_ENGLISH         "????"
+
+REFERENCE            kp_pgup
+LANG_ENGLISH         "??NUM 9"
+
+REFERENCE            kp_plus
+LANG_ENGLISH         "??	????a??I"
+
+REFERENCE            kp_rightarrow
+LANG_ENGLISH         "???I{?"
+
+REFERENCE            kp_slash
+LANG_ENGLISH         "?
+9???j1?5	"
+
+REFERENCE            kp_star
+LANG_ENGLISH         "??	NUM STAR"
+
+REFERENCE            kp_uparrow
+LANG_ENGLISH         "??????"
+
+REFERENCE            lalt
+LANG_ENGLISH         "?F	???Q???A"
+
+REFERENCE            lctrl
+LANG_ENGLISH         "?8
+bT?E?E?b"
+
+REFERENCE            leftarrow
+LANG_ENGLISH         "?~M"
+
+REFERENCE            lshift
+LANG_ENGLISH         "?ALEFT SHIFT"
+
+REFERENCE            lwin
+LANG_ENGLISH         "?Ml?????oi??"
+
+REFERENCE            menu
+LANG_ENGLISH         "??E?y["
+
+REFERENCE            mouse
+LANG_ENGLISH         "???"
+
+REFERENCE            mouse1
+LANG_ENGLISH         "???"
+
+REFERENCE            mouse2
+LANG_ENGLISH         "???"
+
+REFERENCE            mouse3
+LANG_ENGLISH         "???"
+
+REFERENCE            mouse4
+LANG_ENGLISH         "???"
+
+REFERENCE            mouse5
+LANG_ENGLISH         "???"
+
+REFERENCE            muhenkan
+LANG_ENGLISH         "?	?k???{/Q"
+
+REFERENCE            mwheeldown
+LANG_ENGLISH         "???"
+
+REFERENCE            mwheelleft
+LANG_ENGLISH         "?]1?o1	mf="
+
+REFERENCE            mwheelright
+LANG_ENGLISH         "???o?f:??S"
+
+REFERENCE            mwheelup
+LANG_ENGLISH         "??J"
+
+REFERENCE            or
+LANG_ENGLISH         "?or"
+
+REFERENCE            pause
+LANG_ENGLISH         "????b?"
+
+REFERENCE            pgdn
+LANG_ENGLISH         "??
+PAGE DOWN"
+
+REFERENCE            pgup
+LANG_ENGLISH         "?????M???"
+
+REFERENCE            printscreen
+LANG_ENGLISH         "??X?A?Cw	??s"
+
+REFERENCE            ralt
+LANG_ENGLISH         "?<
+IJ?B?@(?"
+
+REFERENCE            rctrl
+LANG_ENGLISH         "?.??$?????)"
+
+REFERENCE            rightarrow
+LANG_ENGLISH         "???"
+
+REFERENCE            rshift
+LANG_ENGLISH         "???J?$*??J2?"
+
+REFERENCE            rwin
+LANG_ENGLISH         "?g???Qj???*?"
+
+REFERENCE            scrolllock
+LANG_ENGLISH         "?c????`a?O"
+
+REFERENCE            shift
+LANG_ENGLISH         "?I?	%?E"
+
+REFERENCE            space
+LANG_ENGLISH         "??SPACE"
+
+REFERENCE            tab
+LANG_ENGLISH         "??G`"
+
+REFERENCE            unbound
+LANG_ENGLISH         "??UNBOUND"
+
+REFERENCE            uparrow
+LANG_ENGLISH         "???"
+
+REFERENCE            use
+LANG_ENGLISH         "??;"
+
+REFERENCE            zen_han
+LANG_ENGLISH         "?RA?????"
+
+
+ENDMARKER

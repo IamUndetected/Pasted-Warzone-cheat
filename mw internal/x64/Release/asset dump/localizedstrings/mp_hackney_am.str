@@ -1,0 +1,69 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            callout_caravan
+LANG_ENGLISH         "??Caravan"
+
+REFERENCE            callout_tire_shop
+LANG_ENGLISH         "?c
+5I??i??@?"
+
+REFERENCE            callout_parking
+LANG_ENGLISH         "??By?;?p?"
+
+REFERENCE            callout_phonebooth
+LANG_ENGLISH         "?	Phonebooth"
+
+REFERENCE            callout_abandoned_building
+LANG_ENGLISH         "???73??E?????w?aj??"
+
+REFERENCE            callout_dock_building
+LANG_ENGLISH         "??Dock building"
+
+REFERENCE            callout_rooftop
+LANG_ENGLISH         "??	Roof top"
+
+REFERENCE            callout_office
+LANG_ENGLISH         "??Office"
+
+REFERENCE            callout_fork_lift
+LANG_ENGLISH         "?X
+Fork lift"
+
+REFERENCE            callout_dock_yard
+LANG_ENGLISH         "?
+Dock yard"
+
+REFERENCE            callout_road
+LANG_ENGLISH         "??'`"
+
+REFERENCE            callout_red_truck
+LANG_ENGLISH         "?
+Red truck"
+
+REFERENCE            callout_cargo_land
+LANG_ENGLISH         "??Cargo land"
+
+REFERENCE            callout_smokestack
+LANG_ENGLISH         "?????%??v?p"
+
+REFERENCE            operate_door
+LANG_ENGLISH         "??'l?v@??
+Dh?^?I8?I???y??X??7I	g?"
+
+REFERENCE            move_hopper
+LANG_ENGLISH         "?~&????????Y??K;??Y???s?S{??!???N"
+
+REFERENCE            callout_yellow_truck
+LANG_ENGLISH         "?`e+?c??G???"
+
+REFERENCE            callout_yellow_building
+LANG_ENGLISH         "?rYellow building"
+
+REFERENCE            callout_warehouse
+LANG_ENGLISH         "?R
+Warehouse"
+
+
+ENDMARKER

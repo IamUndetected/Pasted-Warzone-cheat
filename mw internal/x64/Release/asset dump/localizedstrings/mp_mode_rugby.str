@@ -1,0 +1,52 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            crate_capture
+LANG_ENGLISH         "??????Z_"
+
+REFERENCE            crate_capturing
+LANG_ENGLISH         "?&
+??
+???%':"
+
+REFERENCE            crate_losing
+LANG_ENGLISH         "?g&???9?"
+
+REFERENCE            crate_use
+LANG_ENGLISH         "?????T????r%)?T"
+
+REFERENCE            desc
+LANG_ENGLISH         "??JTake control of a powerful Juggernaut and push to the enemy's base to win"
+
+REFERENCE            endzone_assault
+LANG_ENGLISH         "?5
+?j(?1?"
+
+REFERENCE            endzone_defend
+LANG_ENGLISH         "?"????""
+
+REFERENCE            ingame_objective
+LANG_ENGLISH         "??)$?K??@??????????:???@G4+?sY?^??&X7V"
+
+REFERENCE            jugg_escort
+LANG_ENGLISH         "?D9_S??A"
+
+REFERENCE            jugg_kill
+LANG_ENGLISH         "???8??"
+
+REFERENCE            name
+LANG_ENGLISH         "?	
+Onslaught"
+
+REFERENCE            objective_hint
+LANG_ENGLISH         "??)$?K??@??????????:???@G4+?sY?^??&X7V"
+
+REFERENCE            recipe_desc
+LANG_ENGLISH         "??&%?l?V@1???F@???C??W?????????2?"
+
+REFERENCE            recipe_name
+LANG_ENGLISH         "?7Rupture Recipe"
+
+
+ENDMARKER

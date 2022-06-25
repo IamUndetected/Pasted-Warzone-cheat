@@ -1,0 +1,27 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            t9_charm_420_rim
+LANG_ENGLISH         "??Rolling Leaf"
+
+REFERENCE            t9_charm_bomb_eggs
+LANG_ENGLISH         "??????+'t-f??"
+
+REFERENCE            t9_charm_bug_zapper
+LANG_ENGLISH         "?????A??a?"
+
+REFERENCE            t9_charm_hockeymask
+LANG_ENGLISH         "?u/???????"
+
+REFERENCE            t9_charm_oni_mask
+LANG_ENGLISH         "??^a?I??aP?"
+
+REFERENCE            t9_charm_skull_spine
+LANG_ENGLISH         "?rSkull Vertebrae"
+
+REFERENCE            t9_charm_spikey_heart
+LANG_ENGLISH         "??Pin Cushion"
+
+
+ENDMARKER

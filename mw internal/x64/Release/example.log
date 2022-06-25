@@ -1,0 +1,15 @@
+﻿  Menu.cpp
+D:\mw internal\mw internal\xor.hpp(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\mw internal\mw internal\Menu.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\mw internal\mw internal\Menu.cpp(427,7): warning C4101: 'dest': unreferenced local variable
+D:\mw internal\mw internal\Menu.cpp(502,24): warning C4552: '+': result of expression not used
+D:\mw internal\mw internal\Menu.cpp(503,24): warning C4552: '+': result of expression not used
+D:\mw internal\mw internal\Menu.cpp(504,24): warning C4552: '+': result of expression not used
+     Creating library D:\mw internal\mw internal\x64\Release\extasy.lib and object D:\mw internal\mw internal\x64\Release\extasy.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  7 of 1355 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> D:\mw internal\mw internal\x64\Release\extasy.dll

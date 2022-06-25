@@ -1,0 +1,1014 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            espost9084_flavor
+LANG_ENGLISH         "?7??????+????"Tga?f???GA??u(???In@YR/=I;{=(??A??@ n"
+
+REFERENCE            espost9084_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            espost9084_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            espost9084_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            espost9085_flavor
+LANG_ENGLISH         "??39A???&?@?N?????J3#?2??'????p?????h*???,6??"
+
+REFERENCE            espost9088_flavor
+LANG_ENGLISH         "??@???&(?.&?@{?M??Z??C?
+?V9??wgxb??Sg(IG1i?????????Z?3Q@7????"
+
+REFERENCE            espost9089_flavor
+LANG_ENGLISH         "???M???N*(?f7?[???Y??`?~No?{a?3???+?`??P.xu?S??Hr???Y????????x?B??g`&?__????0???????S??D/K????D["g??sAk????L??C?????Y?????????M?[S"
+
+REFERENCE            espost9090_flavor
+LANG_ENGLISH         "?xGM??X???7F&??m??^???@??,?L?c??????:+Q????F?N??:??+???'^q"
+
+REFERENCE            espost9091_flavor
+LANG_ENGLISH         "??7O?O
+???Aq???@??`?z?3????U??????;?uh_?;wg`?/?Y??& ?"
+
+REFERENCE            espost9092_flavor
+LANG_ENGLISH         "??9?SBF?	??|3??g?H]~8???9a?[?R?qc????m?x?0?[???????29?hW?!???y???-?j???????6?????
+?#??#r(8??g??????3???#??[??3q???"t????5???="
+
+REFERENCE            espost9093_flavor
+LANG_ENGLISH         "??jPlant some bodies with the Fertilizer Wrist Accessory. Note: this watch is a ^+Functional Kill Tracker^7."
+
+REFERENCE            espost9094_flavor
+LANG_ENGLISH         "?e?Channel that positive energy and keep track of your emissions with the Radiation Detector Watch. Note: this watch is a ^+Functional Scorestreak Tracker^7."
+
+REFERENCE            espost9095_flavor
+LANG_ENGLISH         "??e??a?????=??f???"??;?????Y~?H????]?Qf??f1W?Y????]U?????s ????Y?_I??&?-O??????J??7?^o?????"
+
+REFERENCE            espost9096_flavor
+LANG_ENGLISH         "?Ge???????#@;??La?7@??{????@?C+	?l?]???,G????G?G??????6???X?ed?s???s,?Z7??5yn?"
+
+REFERENCE            espost9097_flavor
+LANG_ENGLISH         "?KP?????o??/?i2?{?v?????Mr???:??w?0H?k`W??Y???c?I??x?S0>h???S??;??"
+
+REFERENCE            espost9098_flavor
+LANG_ENGLISH         "??q?c?c???8eS??QOV?>??I?Ba??` ???7?@????Z???G5????;?b?n???UJo-???Ko?ba$g?N?VA???2????????Eb*k?zb=?"
+
+REFERENCE            espost9099_flavor
+LANG_ENGLISH         "?hP?s?z?,?B?i???b?%?e?.??!iS???a????V??S??)1??c?c??E\Z??=?H???Z]g??q!h
+"
+
+REFERENCE            espost9100_flavor
+LANG_ENGLISH         "???]n@??2qx?????i??X????	"_???H??g????)??>?&dO6?cs?1sB_????Y????k???:?-?.S'[32?~~A$b?mR.????NY???@????0?>?e0??:???j?P/?9Q
+?hZ???3?"
+
+REFERENCE            parts_wristwear_mp_watch_t9_lure_flavor
+LANG_ENGLISH         "??8j7X;6?]?Y???n?????CV??????'+?'?n?(?lVn7??^\"
+
+REFERENCE            parts_wristwear_mp_watch_t9analog_naval_warefare_flavor
+LANG_ENGLISH         "?-??2??E??a??nAZS??? i??!??????\?o?B???'H?"
+
+REFERENCE            sticker_t9180_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9181_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9185_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9193_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9199_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9269_ms_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9269_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9269_sy_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9270_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9270_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9270_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9271_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9271_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9271_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9272_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9272_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9272_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9273_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9274_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9275_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9276_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9276_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9276_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9277_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9277_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9277_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9278_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9278_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9278_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9279_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9279_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9279_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9280_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9280_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9280_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9281_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9281_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9281_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9282_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9282_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9282_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9283_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9283_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9283_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9284_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9284_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9284_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9285_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9285_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9285_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9286_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9286_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9286_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9287_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9287_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9287_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9288_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9288_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9288_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9289_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9289_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9289_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9290_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9290_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9290_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9291_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9291_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9291_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9292_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9292_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9292_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9293_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9293_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9293_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9294_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9294_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9294_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9295_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9295_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9295_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9296_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9296_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9296_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9297_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9297_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9297_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9298_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9298_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9298_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9299_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9299_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9299_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9300_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9300_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9300_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9301_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9301_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9301_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9302_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9302_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9302_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9303_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9303_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9303_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9304_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9304_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9304_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9305_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9305_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9305_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9306_ms_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9306_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9306_sy_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9307_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9307_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9307_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9308_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9308_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9308_sy_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9309_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9309_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9309_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9310_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9310_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9310_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9311_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9311_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9311_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9312_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9312_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9312_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9313_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9313_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9313_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9314_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9314_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9314_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9315_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9315_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9315_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9316_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9316_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9316_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9317_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9317_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9317_sy_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9318_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9318_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9318_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9319_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9319_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9319_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9320_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9320_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9320_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9321_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9321_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9321_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9322_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9322_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9322_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9323_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9323_pc_flavor
+LANG_ENGLISH         "?"
+
+REFERENCE            sticker_t9323_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9324_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9324_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9324_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9325_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9325_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9325_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9326_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9326_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9326_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9327_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9327_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9327_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9328_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9328_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9328_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9329_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9329_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9329_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9330_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9330_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9330_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9331_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9331_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9331_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9332_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9332_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9332_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9333_ms_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9333_pc_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9333_sy_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9334_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9337_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9338_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9339_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9340_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9341_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9342_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9343_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9344_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9345_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9346_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9349_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9351_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9352_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9353_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9354_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9355_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9356_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9357_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9359_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9360_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9361_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9362_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9363_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9364_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9365_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9366_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9367_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9379_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9380_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9381_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9382_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9383_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9384_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9385_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9386_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9387_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9388_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9389_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            sticker_t9390_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            t9_charm_3dglass_flavor
+LANG_ENGLISH         "??CExperience views from another dimension with the 3D Glasses Charm."
+
+REFERENCE            t9_charm_80cell_flavor
+LANG_ENGLISH         "?$Be sure to charge the Brick Charm. "
+
+REFERENCE            t9_charm_ambassador_01_flavor
+LANG_ENGLISH         "?^QC?????K??Pl?"
+
+REFERENCE            t9_charm_ambassador_02_flavor
+LANG_ENGLISH         "?Q?????????C?i?="?s??)??"
+
+REFERENCE            t9_charm_angel_devil_flavor
+LANG_ENGLISH         "?T5?w?????????~?Z?7b?????{?S?y???0? ????x1Z?pa;_?"
+
+REFERENCE            t9_charm_ankh_flavor
+LANG_ENGLISH         "?L&Honor past lives with the Ankh Charm."
+
+REFERENCE            t9_charm_ball_cap_flavor
+LANG_ENGLISH         "?L?"
+
+REFERENCE            t9_charm_bowling_flavor
+LANG_ENGLISH         "??-$???7???@?G?-m?n?-??@4+???sLH?6??XN?"
+
+REFERENCE            t9_charm_bullet_med_flavor
+LANG_ENGLISH         "?(O??cW`=?7?3?_Z?pQ5QA????b?????? ;@???0%k?s???8??h????S?b??sr??9??y?"
+
+REFERENCE            t9_charm_cactus_hat_flavor
+LANG_ENGLISH         "?v^?V????@?++F??6??:???:Y9??2@c???f?{??X{????[??????-????5???9?,?G???h???k??"
+
+REFERENCE            t9_charm_caesar_ring
+LANG_ENGLISH         "??h??#?8pK?as?6?*Wg???G??i???c????????i?I?????k?u?>????ARm??w?_???p?????pb?z??g???x????/3?T?+?1??'hM"
+
+REFERENCE            t9_charm_caesar_ring_flavor
+LANG_ENGLISH         "??h??#?8pK?as?6?*Wg???G??i???c????????i?I?????k?u?>????ARm??w?_???p?????pb?z??g???x????/3?T?+?1??'hM"
+
+REFERENCE            t9_charm_cement_mixer_flavor
+LANG_ENGLISH         "??n?^?C?????#?:Z??7f?9?,??G??7?,????@???7?/??7v??v?X?:Z?{?G?s????N????:?G+?-??U??'?6m?4???q"
+
+REFERENCE            t9_charm_champagne_bottle_flavor
+LANG_ENGLISH         "??3?G?G?????+L'X:????X????????V!S??,?[\"
+
+REFERENCE            t9_charm_cigar_box_flavor
+LANG_ENGLISH         "??IThere's no embargo large enough to keep your hands off the Cigars Charm."
+
+REFERENCE            t9_charm_cigar_box_ms_flavor
+LANG_ENGLISH         "??IThere's no embargo large enough to keep your hands off the Cigars Charm."
+
+REFERENCE            t9_charm_cigar_box_pc_flavor
+LANG_ENGLISH         "??IThere's no embargo large enough to keep your hands off the Cigars Charm."
+
+REFERENCE            t9_charm_cigar_box_sy_flavor
+LANG_ENGLISH         "??IThere's no embargo large enough to keep your hands off the Cigars Charm."
+
+REFERENCE            t9_charm_crystal_skull_flavor
+LANG_ENGLISH         "??7Q???????P?[???z?p?????d?t?Kd!??R?G?;i????k???H?z?"
+
+REFERENCE            t9_charm_diamond_flavor
+LANG_ENGLISH         "?H>???;??gc??????AGU0G?Q{J?HY?[;????[??????e0???Z???"
+
+REFERENCE            t9_charm_diving_helmet_flavor
+LANG_ENGLISH         "??I??[-s@?6?K?X??;??8????W???7????s[?sG@?-??D?g??;!?k?G??????"
+
+REFERENCE            t9_charm_elk_head_flavor
+LANG_ENGLISH         "???b???B=??Q)"
+
+REFERENCE            t9_charm_f_bomb_flavor
+LANG_ENGLISH         "??T9_CHARM_F_BOMB_FLAVOR"
+
+REFERENCE            t9_charm_fat_bomb_flavor
+LANG_ENGLISH         "??3$?s???AC??`e??????????KihF?#o?1
+?hu?%?=??nb?"
+
+REFERENCE            t9_charm_geiger_counter_flavor
+LANG_ENGLISH         "??m????oX?!>?b4??""??;?X?'x?(?s??k??o???]????????7????Rc@?? ???O?'@XF']???(?J?xI9`][/?
+p%zJ7p?85"
+
+REFERENCE            t9_charm_glowsticks
+LANG_ENGLISH         "?2J?V???Y???4?????7??4???N?YnG@????6????????:?G???????&???:????q"
+
+REFERENCE            t9_charm_glowsticks_flavor
+LANG_ENGLISH         "?2J?V???Y???4?????7??4???N?YnG@????6????????:?G???????&???:????q"
+
+REFERENCE            t9_charm_glowworm
+LANG_ENGLISH         "??NMake your way around the battlefield inch by inch with the Lepidoptera Charm."
+
+REFERENCE            t9_charm_glowworm_flavor
+LANG_ENGLISH         "??NMake your way around the battlefield inch by inch with the Lepidoptera Charm."
+
+REFERENCE            t9_charm_icbm_flavor
+LANG_ENGLISH         "??D]?X????@Wk???????????s?+???????K??K?????V%h	?Z??Z6??C??[?"
+
+REFERENCE            t9_charm_longship_flavor
+LANG_ENGLISH         "??*??;??=??????h2?ys9???=~???o'??KH-??J?"
+
+REFERENCE            t9_charm_lucky_horseshoe_flavor
+LANG_ENGLISH         "?DQ2?N?+??-?@:?Yc??????+'?ZG-?????:??m??,??,Z7??:4??+@!??n???????[q"
+
+REFERENCE            t9_charm_luckycat_flavor
+LANG_ENGLISH         "??/?W0??H??{? ->???????? ~CH+0 ge??'???Hv? ?zh"
+
+REFERENCE            t9_charm_martini_bomb
+LANG_ENGLISH         "?Z*?Or0??p_?????"o?????\XU_??B??>?????O*???s?r??0z???|??m????
+c$x??k??v ?o3	?B?~?n?Sm"
+
+REFERENCE            t9_charm_martini_bomb_flavor
+LANG_ENGLISH         "?Z*?Or0??p_?????"o?????\XU_??B??>?????O*???s?r??0z???|??m????
+c$x??k??v ?o3	?B?~?n?Sm"
+
+REFERENCE            t9_charm_medical_injection_flavor
+LANG_ENGLISH         "?E8
+F??s?7+?h???{?@W?:w?????+@J????:???4X?k?????	"
+
+REFERENCE            t9_charm_medical_injection_ms_flavor
+LANG_ENGLISH         "?E8
+F??s?7+?h???{?@W?:w?????+@J????:???4X?k?????	"
+
+REFERENCE            t9_charm_medical_injection_pc_flavor
+LANG_ENGLISH         "?E8
+F??s?7+?h???{?@W?:w?????+@J????:???4X?k?????	"
+
+REFERENCE            t9_charm_medical_injection_sy_flavor
+LANG_ENGLISH         "?E8
+F??s?7+?h???{?@W?:w?????+@J????:???4X?k?????	"
+
+REFERENCE            t9_charm_metaltalon_flavor
+LANG_ENGLISH         "??V?,???+??7?n?9V?????G?Xcc???X:]N?N7m?Z??????X??L?{F@???C??V?7;???G{?Gh??[?"
+
+REFERENCE            t9_charm_midfinger
+LANG_ENGLISH         "??5_[
+D/W??X@?c??Q????*	?d,0??k#I3????O(???8?0??uw7"
+
+REFERENCE            t9_charm_midfinger_flavor
+LANG_ENGLISH         "??5_[
+D/W??X@?c??Q????*	?d,0??k#I3????O(???8?0??uw7"
+
+REFERENCE            t9_charm_moodring_flavor
+LANG_ENGLISH         "??'Catch a vibe with the Mood Ring Charm."
+
+REFERENCE            t9_charm_mullet_flavor
+LANG_ENGLISH         "?!1Get the summer vibes going with the Steve Charm."
+
+REFERENCE            t9_charm_pager_flavor
+LANG_ENGLISH         "?0???P???	??\"%?????9???q?j????|?"P?[??????k?"
+
+REFERENCE            t9_charm_payphone_flavor
+LANG_ENGLISH         "??9Call in some favors or friends with the Pay Phone Charm."
+
+REFERENCE            t9_charm_popcorn_flavor
+LANG_ENGLISH         "?)Enjoy the action with the Popcorn Charm."
+
+REFERENCE            t9_charm_punch_bot_flavor
+LANG_ENGLISH         "?)?Ol@??B0[;??P?????Pw??aBg??*??(6?/???"
+
+REFERENCE            t9_charm_radial_machete_flavor
+LANG_ENGLISH         "??1????`p??f?>?*Wj??@gQ??????????R??t|??????k??"
+
+REFERENCE            t9_charm_ribbons_ms_flavor
+LANG_ENGLISH         "?*??)/??)'???g?Z?Dc(???"
+
+REFERENCE            t9_charm_ribbons_pc_flavor
+LANG_ENGLISH         "?????4G??2O=]x1A?O?+ql?*"
+
+REFERENCE            t9_charm_ribbons_sy_flavor
+LANG_ENGLISH         "??Qr??BPJ5?????zr?}???1Y??"
+
+REFERENCE            t9_charm_roller_skate_flavor
+LANG_ENGLISH         "??5?????wK??????s.W??????>????yyb??*X?S?g???S#?["
+
+REFERENCE            t9_charm_round_bomb_flavor
+LANG_ENGLISH         "?d/???{ ?s??
+?????j+I?+?0?,0aC?u???Q?R???B???"
+
+REFERENCE            t9_charm_rubber_ch_flavor
+LANG_ENGLISH         "?&$???B='Z"
+
+REFERENCE            t9_charm_sblade
+LANG_ENGLISH         "?x0??????_?Xha?1?=`Gb??#??B3??3h0qzs????m"
+
+REFERENCE            t9_charm_sblade_flavor
+LANG_ENGLISH         "?x0??????_?Xha?1?=`Gb??#??B3??3h0qzs????m"
+
+REFERENCE            t9_charm_sblade_spider_flavor
+LANG_ENGLISH         "???b???B=??Q)"
+
+REFERENCE            t9_charm_scorpion_gold_flavor
+LANG_ENGLISH         "??VDistract your enemies before you strike from surprise with the Golden Scorpion Charm."
+
+REFERENCE            t9_charm_shark_pick_flavor
+LANG_ENGLISH         "??=?G?]?,@??sV@???N??????1c??2w?????Vt?Z?????6???X?k?"
+
+REFERENCE            t9_charm_space_blob_flavor
+LANG_ENGLISH         "??2Q??????6??C????4??@??:C??+M???????hX???"
+
+REFERENCE            t9_charm_space_scanner
+LANG_ENGLISH         "?Rfm?/k?M???u0?[?cY{??????S??j???{?C?? o?Gx=Z?#?j?Ut?{>?KFI???E8~G;I0`C????q??<;???Gv}?B;9Z"
+
+REFERENCE            t9_charm_space_scanner_flavor
+LANG_ENGLISH         "?Rfm?/k?M???u0?[?cY{??????S??j???{?C?? o?Gx=Z?#?j?Ut?{>?KFI???E8~G;I0`C????q??<;???Gv}?B;9Z"
+
+REFERENCE            t9_charm_spyplane_infected_flavor
+LANG_ENGLISH         "??a?4?????+???Y???Y?@?6???:4?Wcan???-;V@????7????]??????CG?V???f???+????@??9?\"
+
+REFERENCE            t9_charm_stick_shift
+LANG_ENGLISH         "??3?????*?c?X?`L?8N?@??*/#?7?'???i8?n?i3?sO???[??"
+
+REFERENCE            t9_charm_stick_shift_flavor
+LANG_ENGLISH         "??3?????*?c?X?`L?8N?@??*/#?7?'???i8?n?i3?sO???[??"
+
+REFERENCE            t9_charm_surgical_mask_02_flavor
+LANG_ENGLISH         "?AA??????/???n????????V?;-9{?k?7??Z?4@?V??F??j?????,N??"
+
+REFERENCE            t9_charm_target_arrow_flavor
+LANG_ENGLISH         "?(@?4?n8Y?????l???@????lm??????K???4??????V^??4'??"
+
+REFERENCE            t9_charm_thermo_tac_flavor
+LANG_ENGLISH         "?V4  ????]R???o?????}???u\a?o?Ar?8????~]qVP+n?H??"
+
+REFERENCE            t9_charm_tombstone_perk_flavor
+LANG_ENGLISH         "???Rest in pieces, down for the count.
+No revival, you're bleedin' out.
+Your epitaph says you died a wealthy man,
+but you can have it all 
+come back and seal the master plan with Tombstone!"
+
+REFERENCE            t9_charm_ufo_flying_saucer_flavor
+LANG_ENGLISH         "?Q7Take them to your leader with the Flying Saucer Charm."
+
+REFERENCE            t9_charm_viking_helmet_flavor
+LANG_ENGLISH         "?JK???)?,????
+?q?u?????6??[?????xZ??_?p??A???P??K?J???`	??b>N?S"
+
+REFERENCE            t9_charm_vtg_robot_flavor
+LANG_ENGLISH         "??-G90??0o??)k&;c@??B?q#???e?K:]?QO??7+???"
+
+REFERENCE            t9_charm_waste_barrel_flavor
+LANG_ENGLISH         "?;5Contaminate your loadout with the Toxic Spill Charm."
+
+REFERENCE            t9_charm_wpn_chalkoutline_flavor
+LANG_ENGLISH         "??Q)?l?n??f???N?????Vnc{?[???6???7Kc4??+G?Y??KGG?Vu????s?????7?????"
+
+
+ENDMARKER

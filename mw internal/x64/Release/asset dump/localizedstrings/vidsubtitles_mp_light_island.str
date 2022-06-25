@@ -1,0 +1,18 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            dx_mpb_adl_status_player_captured_01
+LANG_ENGLISH         "???B?H?sbY~??_#?aq>??G?[x?"
+
+REFERENCE            dx_mpb_gfx_1984
+LANG_ENGLISH         "??g9??"
+
+REFERENCE            dx_mpb_gfx_2021
+LANG_ENGLISH         "?2021"
+
+REFERENCE            vox_stch_menu_select_01
+LANG_ENGLISH         "?0,r	?D?`?k??C?????Ki6?*Xk????t???????xx?"
+
+
+ENDMARKER

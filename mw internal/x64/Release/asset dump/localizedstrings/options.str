@@ -1,0 +1,117 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            all
+LANG_ENGLISH         "?All"
+
+REFERENCE            both
+LANG_ENGLISH         "??Both"
+
+REFERENCE            color_represent
+LANG_ENGLISH         "??`?p???i?<?)?3??3?????H"???/?j+J?K?0?	d?{??BQ??[E??4??C???y0??w???W???I??
+???Q???z"
+
+REFERENCE            colorblind_swatches
+LANG_ENGLISH         "?(H??[???!W??zZs"
+
+REFERENCE            compass_cardinal_direction_style
+LANG_ENGLISH         "? Compass Cardinal Direction Text"
+
+REFERENCE            compass_cardinal_direction_style_desc
+LANG_ENGLISH         "?TChoose between ^5letters^7 or ^5numbers^7 for the compass cardinal direction text.
+"
+
+REFERENCE            deuteranope
+LANG_ENGLISH         "?fDeuteranomaly / Deuteranopia"
+
+REFERENCE            deuteranope_desc
+LANG_ENGLISH         "?GQImprove the experience for players having weakness/blindness to ^5green^7 color."
+
+REFERENCE            interface
+LANG_ENGLISH         "??
+Interface"
+
+REFERENCE            letters
+LANG_ENGLISH         "?Letters"
+
+REFERENCE            match_indicators
+LANG_ENGLISH         "??5?G?C???-????"
+
+REFERENCE            minimap_circle
+LANG_ENGLISH         "?FRound"
+
+REFERENCE            minimap_rotation
+LANG_ENGLISH         "??Mini Map Rotation"
+
+REFERENCE            minimap_rotation_desc
+LANG_ENGLISH         "???^5Disabled:^7 The mini map's rotation will be static. Only the player icon will be rotated in the direction the player is facing.
+
+^5Enabled:^7 The mini map will always be oriented in the direction the player is facing."
+
+REFERENCE            minimap_square
+LANG_ENGLISH         "??Square"
+
+REFERENCE            minimap_style
+LANG_ENGLISH         "??Mini Map Shape"
+
+REFERENCE            minimap_style_desc
+LANG_ENGLISH         "?)5Choose between ^5a round^7 or ^5a square^7 mini map."
+
+REFERENCE            none
+LANG_ENGLISH         "??None"
+
+REFERENCE            none_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            numbers
+LANG_ENGLISH         "??Numbers"
+
+REFERENCE            planeonly
+LANG_ENGLISH         "?]Airplanes Only"
+
+REFERENCE            protanope
+LANG_ENGLISH         "?(Protanomaly / Protanopia"
+
+REFERENCE            protanope_desc
+LANG_ENGLISH         "?YPImprove the experience for players having weakness/blindness to ^5red^7 color.
+"
+
+REFERENCE            tritanope
+LANG_ENGLISH         "?/Tritanomaly / Tritanopia"
+
+REFERENCE            tritanope_desc
+LANG_ENGLISH         "?PImprove the experience for players having weakness/blindness to ^5blue^7 color."
+
+REFERENCE            ui
+LANG_ENGLISH         "??g"
+
+REFERENCE            warzone_squad
+LANG_ENGLISH         "?\?#?{??a?j????"
+
+REFERENCE            world
+LANG_ENGLISH         "?^World"
+
+REFERENCE            xbox_one_uninstall_dlc_1
+LANG_ENGLISH         "?f'Yn?@?????,?????1?G???"
+
+REFERENCE            xbox_one_uninstall_dlc_2
+LANG_ENGLISH         "?`2Select ^5My Games & Apps^7 within the ^5Home Menu"
+
+REFERENCE            xbox_one_uninstall_dlc_3
+LANG_ENGLISH         "?lM?Y?GyM5?V??"
+
+REFERENCE            xbox_one_uninstall_dlc_4
+LANG_ENGLISH         "??F???!<???'A???5????q?J?)P????S?~???(C???kGV??Y???qw??q{F?????"
+
+REFERENCE            xbox_one_uninstall_dlc_5
+LANG_ENGLISH         "?A]f?8??H?>???????I??R?v?I??|a??)?? j`V?w??%r???sv???_\??i?hh^r'K????`?nX?"?u"
+
+REFERENCE            xbox_one_uninstall_dlc_6
+LANG_ENGLISH         "??B??<??q+?G?$Ua?5??f2ycB?????y??"?Ob`?j?? ?????j??????O??+?a?"
+
+REFERENCE            xbox_one_uninstall_header
+LANG_ENGLISH         "? ?Ky?_??h?f????"
+
+
+ENDMARKER

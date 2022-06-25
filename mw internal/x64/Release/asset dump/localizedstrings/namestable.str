@@ -1,0 +1,964 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            abdo
+LANG_ENGLISH         "???*_8"
+
+REFERENCE            adamson
+LANG_ENGLISH         "?~W???;8?"
+
+REFERENCE            adelmeyer
+LANG_ENGLISH         "??
+Adelmeyer"
+
+REFERENCE            afsar
+LANG_ENGLISH         "?Pfn??"
+
+REFERENCE            ahn
+LANG_ENGLISH         "???}"
+
+REFERENCE            alexandre
+LANG_ENGLISH         "?
+P?+??s???"
+
+REFERENCE            allaire
+LANG_ENGLISH         "??(?,K??"
+
+REFERENCE            allaway
+LANG_ENGLISH         "?????4"
+
+REFERENCE            alvarez
+LANG_ENGLISH         "???ZC'???"
+
+REFERENCE            alvidrez
+LANG_ENGLISH         "?;	Alvidrez"
+
+REFERENCE            amaral
+LANG_ENGLISH         "?+9?n??"
+
+REFERENCE            anderson
+LANG_ENGLISH         "?	???N???"
+
+REFERENCE            andonaegui
+LANG_ENGLISH         "???????v?-"
+
+REFERENCE            antoniazzi
+LANG_ENGLISH         "?6?N???t"???"
+
+REFERENCE            arenas
+LANG_ENGLISH         "?Y??s,?"
+
+REFERENCE            arrizon
+LANG_ENGLISH         "?F(???={?"
+
+REFERENCE            audick
+LANG_ENGLISH         "?}??#?T"
+
+REFERENCE            avola
+LANG_ENGLISH         "??Avola"
+
+REFERENCE            bailey
+LANG_ENGLISH         "???{r?`"
+
+REFERENCE            baker
+LANG_ENGLISH         "??Baker"
+
+REFERENCE            ball
+LANG_ENGLISH         "??R?"
+
+REFERENCE            barajas
+LANG_ENGLISH         "??Barajas"
+
+REFERENCE            barnes
+LANG_ENGLISH         "??H??Y?"
+
+REFERENCE            bartlett
+LANG_ENGLISH         "??	Bartlett"
+
+REFERENCE            batchkoff
+LANG_ENGLISH         "??
+H??lC??f?"
+
+REFERENCE            bauer
+LANG_ENGLISH         "??0?W?"
+
+REFERENCE            beck
+LANG_ENGLISH         "???+??"
+
+REFERENCE            bem
+LANG_ENGLISH         "?H??"
+
+REFERENCE            binder
+LANG_ENGLISH         "?t?
+#??"
+
+REFERENCE            blizard
+LANG_ENGLISH         "??P???&A"
+
+REFERENCE            bocanegra
+LANG_ENGLISH         "??
+	??XsY??"
+
+REFERENCE            boon
+LANG_ENGLISH         "??x??"
+
+REFERENCE            bracamontes
+LANG_ENGLISH         "?^?o??? ]?0"
+
+REFERENCE            bright
+LANG_ENGLISH         "?7`?????"
+
+REFERENCE            brooks
+LANG_ENGLISH         "?*9??m?"
+
+REFERENCE            burgos
+LANG_ENGLISH         "?IBurgos"
+
+REFERENCE            burrichter
+LANG_ENGLISH         "?k????ZlC???"
+
+REFERENCE            buyer
+LANG_ENGLISH         "????^VN"
+
+REFERENCE            camilli
+LANG_ENGLISH         "????????"
+
+REFERENCE            campbell
+LANG_ENGLISH         "??	h??+66"
+
+REFERENCE            campos
+LANG_ENGLISH         "??v?1 ?"
+
+REFERENCE            canale
+LANG_ENGLISH         "??ggW??"
+
+REFERENCE            capparelli
+LANG_ENGLISH         "?#Capparelli"
+
+REFERENCE            carotenuto
+LANG_ENGLISH         "???N??+????"
+
+REFERENCE            carpenter
+LANG_ENGLISH         "??
+??c???[m"
+
+REFERENCE            cecot
+LANG_ENGLISH         "?^Cecot"
+
+REFERENCE            cervantes
+LANG_ENGLISH         "?<
+N?;;;eC ?"
+
+REFERENCE            chabert
+LANG_ENGLISH         "??Chabert"
+
+REFERENCE            chang
+LANG_ENGLISH         "?v???"
+
+REFERENCE            chapman
+LANG_ENGLISH         "?fChapman"
+
+REFERENCE            chen
+LANG_ENGLISH         "???G?"
+
+REFERENCE            chew
+LANG_ENGLISH         "??4?w"
+
+REFERENCE            collier
+LANG_ENGLISH         "???6?Z??"
+
+REFERENCE            cournoyer
+LANG_ENGLISH         "?Y
+?O?k????"
+
+REFERENCE            cromwell
+LANG_ENGLISH         "?I	Sj)??8"
+
+REFERENCE            curatalo
+LANG_ENGLISH         "?F	1{????,?"
+
+REFERENCE            davies
+LANG_ENGLISH         "??Davies"
+
+REFERENCE            day
+LANG_ENGLISH         "?]??"
+
+REFERENCE            de_la_garza
+LANG_ENGLISH         "?t}^?ypWH??I"
+
+REFERENCE            de_lalla
+LANG_ENGLISH         "??	}?r????"
+
+REFERENCE            de_torres
+LANG_ENGLISH         "?3
+?u??e] ??"
+
+REFERENCE            dekel
+LANG_ENGLISH         "?uDekel"
+
+REFERENCE            del
+LANG_ENGLISH         "?(?Y"
+
+REFERENCE            delgado
+LANG_ENGLISH         "??Delgado"
+
+REFERENCE            denny
+LANG_ENGLISH         "?uDenny"
+
+REFERENCE            derhachov
+LANG_ENGLISH         "??
+D?N?,6???"
+
+REFERENCE            diaz
+LANG_ENGLISH         "?gDiaz"
+
+REFERENCE            dickerson
+LANG_ENGLISH         "??
+Dickerson"
+
+REFERENCE            dimond
+LANG_ENGLISH         "?u$?????"
+
+REFERENCE            drobot
+LANG_ENGLISH         "??Drobot"
+
+REFERENCE            dunford
+LANG_ENGLISH         "?a0????+m"
+
+REFERENCE            dunn
+LANG_ENGLISH         "?f?W??"
+
+REFERENCE            dunnam
+LANG_ENGLISH         "???u???U"
+
+REFERENCE            edwards
+LANG_ENGLISH         "??Edwards"
+
+REFERENCE            egan
+LANG_ENGLISH         "?`?_??"
+
+REFERENCE            egert
+LANG_ENGLISH         "??Egert"
+
+REFERENCE            elenes
+LANG_ENGLISH         "??o?Vb?"
+
+REFERENCE            emslie
+LANG_ENGLISH         "?rEmslie"
+
+REFERENCE            englerth
+LANG_ENGLISH         "??	*??6V9"
+
+REFERENCE            esposito
+LANG_ENGLISH         "?q	???n?:?"
+
+REFERENCE            eurek
+LANG_ENGLISH         "??*?N??"
+
+REFERENCE            evans
+LANG_ENGLISH         "???*?["
+
+REFERENCE            farber
+LANG_ENGLISH         "?2X'V?"
+
+REFERENCE            farrelly
+LANG_ENGLISH         "??	??N'?c^"
+
+REFERENCE            faulk
+LANG_ENGLISH         "???W??"
+
+REFERENCE            ferguson
+LANG_ENGLISH         "??	H??k??&"
+
+REFERENCE            fisher
+LANG_ENGLISH         "??Fisher"
+
+REFERENCE            fletcher
+LANG_ENGLISH         "??	Fletcher"
+
+REFERENCE            flores
+LANG_ENGLISH         "??Flores"
+
+REFERENCE            fox
+LANG_ENGLISH         "?#??"
+
+REFERENCE            fraki
+LANG_ENGLISH         "?V ????"
+
+REFERENCE            friedrich
+LANG_ENGLISH         "??
+Friedrich"
+
+REFERENCE            frittelli
+LANG_ENGLISH         "??
+?9-G?+K"
+
+REFERENCE            galvez
+LANG_ENGLISH         "?g:?6g??"
+
+REFERENCE            garcia
+LANG_ENGLISH         "??Garcia"
+
+REFERENCE            garnell
+LANG_ENGLISH         "???{(%W?@"
+
+REFERENCE            garrido
+LANG_ENGLISH         "?w?????"
+
+REFERENCE            gatica
+LANG_ENGLISH         "??og?S??"
+
+REFERENCE            george
+LANG_ENGLISH         "?kGeorge"
+
+REFERENCE            gil
+LANG_ENGLISH         "??Q-"
+
+REFERENCE            godoy
+LANG_ENGLISH         "???????"
+
+REFERENCE            goldin
+LANG_ENGLISH         "?????X"
+
+REFERENCE            goldsworthy
+LANG_ENGLISH         "?kGoldsworthy"
+
+REFERENCE            gomez
+LANG_ENGLISH         "??wG*M?"
+
+REFERENCE            greenberg
+LANG_ENGLISH         "??
+??V????'?"
+
+REFERENCE            grigsby
+LANG_ENGLISH         "?????? "
+
+REFERENCE            groman
+LANG_ENGLISH         "?#Groman"
+
+REFERENCE            gropper
+LANG_ENGLISH         "?_???w?=?"
+
+REFERENCE            guerrero
+LANG_ENGLISH         "??	?Ew??;?"
+
+REFERENCE            guillermo
+LANG_ENGLISH         "?G
+Guillermo"
+
+REFERENCE            gunasingam
+LANG_ENGLISH         "???M???hP?"
+
+REFERENCE            hagar
+LANG_ENGLISH         "?i??O[?"
+
+REFERENCE            hagmaier
+LANG_ENGLISH         "?t	y?_???&"
+
+REFERENCE            haile
+LANG_ENGLISH         "?i?) ?"
+
+REFERENCE            hambarsumian
+LANG_ENGLISH         "?_!?[???[Z??"
+
+REFERENCE            hancock
+LANG_ENGLISH         "????l??["
+
+REFERENCE            harris
+LANG_ENGLISH         "??Harris"
+
+REFERENCE            haun
+LANG_ENGLISH         "?????"
+
+REFERENCE            head
+LANG_ENGLISH         "??	???"
+
+REFERENCE            heder
+LANG_ENGLISH         "?F!+?+N"
+
+REFERENCE            hernandez
+LANG_ENGLISH         "??
+qw?????QJ"
+
+REFERENCE            herrera
+LANG_ENGLISH         "?????N??X"
+
+REFERENCE            hill
+LANG_ENGLISH         "???:?"
+
+REFERENCE            hines
+LANG_ENGLISH         "??Q???"
+
+REFERENCE            holmes
+LANG_ENGLISH         "???W?R??"
+
+REFERENCE            hong
+LANG_ENGLISH         "???hG"
+
+REFERENCE            horrocks
+LANG_ENGLISH         "??	?9?{6[?"
+
+REFERENCE            house
+LANG_ENGLISH         "?{??]nY"
+
+REFERENCE            hul
+LANG_ENGLISH         "?BW"
+
+REFERENCE            indrikson
+LANG_ENGLISH         "?
+Indrikson"
+
+REFERENCE            interrante
+LANG_ENGLISH         "?HInterrante"
+
+REFERENCE            isaac
+LANG_ENGLISH         "??Isaac"
+
+REFERENCE            isaacson
+LANG_ENGLISH         "?_	J?,,?{s"
+
+REFERENCE            isibor
+LANG_ENGLISH         "?a?7??9"
+
+REFERENCE            jeffries
+LANG_ENGLISH         "?i	Jeffries"
+
+REFERENCE            jones
+LANG_ENGLISH         "?????+?"
+
+REFERENCE            kagan
+LANG_ENGLISH         "??R???"
+
+REFERENCE            kal
+LANG_ENGLISH         "?0??"
+
+REFERENCE            kamara
+LANG_ENGLISH         "??Kamara"
+
+REFERENCE            kang
+LANG_ENGLISH         "??-?7v"
+
+REFERENCE            keele
+LANG_ENGLISH         "??ZY??Y"
+
+REFERENCE            kelly
+LANG_ENGLISH         "?????h"
+
+REFERENCE            kerby
+LANG_ENGLISH         "???
+?3"
+
+REFERENCE            khalsa
+LANG_ENGLISH         "???00T?"
+
+REFERENCE            kimball
+LANG_ENGLISH         "?????sj?"
+
+REFERENCE            kimmich
+LANG_ENGLISH         "?0?1???I"
+
+REFERENCE            krstikj
+LANG_ENGLISH         "??Z9n??[?"
+
+REFERENCE            kurosaki
+LANG_ENGLISH         "??	?????A?	"
+
+REFERENCE            kutcher
+LANG_ENGLISH         "????5?"
+
+REFERENCE            lagle
+LANG_ENGLISH         "??a??("
+
+REFERENCE            lance
+LANG_ENGLISH         "??Lance"
+
+REFERENCE            le
+LANG_ENGLISH         "?a?"
+
+REFERENCE            lebessis
+LANG_ENGLISH         "??	c?~;??"
+
+REFERENCE            lee
+LANG_ENGLISH         "?Qbo"
+
+REFERENCE            lepine
+LANG_ENGLISH         "??&Y???V"
+
+REFERENCE            leviste
+LANG_ENGLISH         "??yw?Sp??"
+
+REFERENCE            limaye
+LANG_ENGLISH         "??$:h?"
+
+REFERENCE            lin
+LANG_ENGLISH         "?Q??"
+
+REFERENCE            lincoln
+LANG_ENGLISH         "??1K?l???"
+
+REFERENCE            linde
+LANG_ENGLISH         "??Q???"
+
+REFERENCE            liu
+LANG_ENGLISH         "??p?"
+
+REFERENCE            lockwood
+LANG_ENGLISH         "?s	?6????"
+
+REFERENCE            loisel
+LANG_ENGLISH         "??Loisel"
+
+REFERENCE            lopez
+LANG_ENGLISH         "??Lopez"
+
+REFERENCE            ludwig
+LANG_ENGLISH         "?}???_??"
+
+REFERENCE            luo
+LANG_ENGLISH         "??3?"
+
+REFERENCE            mackenzie
+LANG_ENGLISH         "??
+?nO???e"
+
+REFERENCE            mackey
+LANG_ENGLISH         "???Q?p??"
+
+REFERENCE            madden
+LANG_ENGLISH         "?????A!+"
+
+REFERENCE            malach
+LANG_ENGLISH         "??{g"W??"
+
+REFERENCE            mardirossian
+LANG_ENGLISH         "?_c?j?[#??ZG?"
+
+REFERENCE            marin
+LANG_ENGLISH         "???k8?"
+
+REFERENCE            mason
+LANG_ENGLISH         "????P"
+
+REFERENCE            maynard
+LANG_ENGLISH         "?ajX/??#"
+
+REFERENCE            mcadams
+LANG_ENGLISH         "???lP????"
+
+REFERENCE            mccabe
+LANG_ENGLISH         "?McCabe"
+
+REFERENCE            mccarthy
+LANG_ENGLISH         "??		???]?B?"
+
+REFERENCE            mcclellan
+LANG_ENGLISH         "?5
+?h?+c6?s"
+
+REFERENCE            mckisic
+LANG_ENGLISH         "? McKisic"
+
+REFERENCE            meserve
+LANG_ENGLISH         "??????;?"
+
+REFERENCE            mickner
+LANG_ENGLISH         "???{?t?"
+
+REFERENCE            miller
+LANG_ENGLISH         "??Miller"
+
+REFERENCE            minkoff
+LANG_ENGLISH         "???-?m???"
+
+REFERENCE            molchanov
+LANG_ENGLISH         "??
+?X???98gv"
+
+REFERENCE            montoya
+LANG_ENGLISH         "?S??:?^?"
+
+REFERENCE            moody
+LANG_ENGLISH         "???Bmq?"
+
+REFERENCE            morales
+LANG_ENGLISH         "??'?H	?"
+
+REFERENCE            moroyoqui
+LANG_ENGLISH         "??
+?zO?'?"
+
+REFERENCE            mullen
+LANG_ENGLISH         "???]????"
+
+REFERENCE            mundy
+LANG_ENGLISH         "??Mundy"
+
+REFERENCE            myers
+LANG_ENGLISH         "??5??'?"
+
+REFERENCE            najera
+LANG_ENGLISH         "??Najera"
+
+REFERENCE            natale
+LANG_ENGLISH         "?`????"
+
+REFERENCE            negus
+LANG_ENGLISH         "???H["
+
+REFERENCE            nelson
+LANG_ENGLISH         "?????p"
+
+REFERENCE            newman
+LANG_ENGLISH         "?l?/?sJ"
+
+REFERENCE            norris
+LANG_ENGLISH         "???c~K#"
+
+REFERENCE            norwood
+LANG_ENGLISH         "????w?{?"
+
+REFERENCE            o
+LANG_ENGLISH         "?LH"
+
+REFERENCE            odion
+LANG_ENGLISH         "??????"
+
+REFERENCE            ojomo
+LANG_ENGLISH         "???????"
+
+REFERENCE            orellana
+LANG_ENGLISH         "??	A?]??:??"
+
+REFERENCE            orlando
+LANG_ENGLISH         "??g3:Opl?"
+
+REFERENCE            parise
+LANG_ENGLISH         "???{?"??"
+
+REFERENCE            park
+LANG_ENGLISH         "?bY?"
+
+REFERENCE            parker
+LANG_ENGLISH         "??*?Sb"
+
+REFERENCE            parmley
+LANG_ENGLISH         "???{(?su?"
+
+REFERENCE            parra
+LANG_ENGLISH         "??Ag???"
+
+REFERENCE            pavlenko
+LANG_ENGLISH         "??	Pavlenko"
+
+REFERENCE            pedroza
+LANG_ENGLISH         "???#N??X"
+
+REFERENCE            perez
+LANG_ENGLISH         "???-?h"
+
+REFERENCE            perng
+LANG_ENGLISH         "???=ur?"
+
+REFERENCE            pierro
+LANG_ENGLISH         "?L-??'?"
+
+REFERENCE            pierson
+LANG_ENGLISH         "??
+?V'7??"
+
+REFERENCE            piper
+LANG_ENGLISH         "?e??Y?"
+
+REFERENCE            prince
+LANG_ENGLISH         "????s6Y"
+
+REFERENCE            prior
+LANG_ENGLISH         "?$??	??"
+
+REFERENCE            provine
+LANG_ENGLISH         "?'?;Z??"
+
+REFERENCE            pugh
+LANG_ENGLISH         "????"
+
+REFERENCE            racey
+LANG_ENGLISH         "?
+/g??"
+
+REFERENCE            ramon
+LANG_ENGLISH         "?yq???"
+
+REFERENCE            ravishankar
+LANG_ENGLISH         "??????nC?s???"
+
+REFERENCE            raymond
+LANG_ENGLISH         "??)X?????"
+
+REFERENCE            reyes
+LANG_ENGLISH         "??Reyes"
+
+REFERENCE            reynolds
+LANG_ENGLISH         "?"	Reynolds"
+
+REFERENCE            rieke
+LANG_ENGLISH         "?SRieke"
+
+REFERENCE            rowe
+LANG_ENGLISH         "?)???"
+
+REFERENCE            roycewicz
+LANG_ENGLISH         "?t
+)??l???6?"
+
+REFERENCE            salisbury
+LANG_ENGLISH         "?
+Salisbury"
+
+REFERENCE            sanborn
+LANG_ENGLISH         "?l?,7&??7"
+
+REFERENCE            sanchez
+LANG_ENGLISH         "?`??????"
+
+REFERENCE            sandler
+LANG_ENGLISH         "?75??c+9"
+
+REFERENCE            sandoval
+LANG_ENGLISH         "??	3?????@?"
+
+REFERENCE            santi
+LANG_ENGLISH         "?YAX?,"
+
+REFERENCE            sarkisyan
+LANG_ENGLISH         "?`
+5NmK???s"
+
+REFERENCE            sarono
+LANG_ENGLISH         "?????_}?"
+
+REFERENCE            savage
+LANG_ENGLISH         "???????"
+
+REFERENCE            schiltz
+LANG_ENGLISH         "?9j???6??"
+
+REFERENCE            schwartz
+LANG_ENGLISH         "??	Schwartz"
+
+REFERENCE            self
+LANG_ENGLISH         "?M???"
+
+REFERENCE            shin
+LANG_ENGLISH         "?Shin"
+
+REFERENCE            shingledecker
+LANG_ENGLISH         "?5Shingledecker"
+
+REFERENCE            silvers
+LANG_ENGLISH         "????gY??"
+
+REFERENCE            skillman
+LANG_ENGLISH         "??	9?q ??"
+
+REFERENCE            smith
+LANG_ENGLISH         "?r?%?"
+
+REFERENCE            son
+LANG_ENGLISH         "?J(}"
+
+REFERENCE            song
+LANG_ENGLISH         "????"
+
+REFERENCE            stakenas
+LANG_ENGLISH         "??	Stakenas"
+
+REFERENCE            stamm
+LANG_ENGLISH         "??Stamm"
+
+REFERENCE            staples
+LANG_ENGLISH         "??_+??`m?"
+
+REFERENCE            stasica
+LANG_ENGLISH         "??5??nKl"
+
+REFERENCE            stepanov
+LANG_ENGLISH         "?0	Stepanov"
+
+REFERENCE            stewart
+LANG_ENGLISH         "??Stewart"
+
+REFERENCE            stine
+LANG_ENGLISH         "???Q?%W"
+
+REFERENCE            su
+LANG_ENGLISH         "?c?"
+
+REFERENCE            suh
+LANG_ENGLISH         "?Suh"
+
+REFERENCE            surmenian
+LANG_ENGLISH         "?N
+Surmenian"
+
+REFERENCE            swenty
+LANG_ENGLISH         "??Swenty"
+
+REFERENCE            szadoczki
+LANG_ENGLISH         "?|
+???{6??K"
+
+REFERENCE            szakolczay
+LANG_ENGLISH         "??j=,??c??^"
+
+REFERENCE            szymczyk
+LANG_ENGLISH         "??	GsQ????"
+
+REFERENCE            tancinco
+LANG_ENGLISH         "??	?K????"
+
+REFERENCE            tankiewicz
+LANG_ENGLISH         "?<?wo?s:?H"
+
+REFERENCE            tawarotip
+LANG_ENGLISH         "?3
+E?,?{:??"
+
+REFERENCE            taylor
+LANG_ENGLISH         "??a	????"
+
+REFERENCE            thies
+LANG_ENGLISH         "?r????"
+
+REFERENCE            thompson
+LANG_ENGLISH         "?	???[????"
+
+REFERENCE            thurman
+LANG_ENGLISH         "?C??v89?"
+
+REFERENCE            timnak
+LANG_ENGLISH         "?????,?"
+
+REFERENCE            townsend
+LANG_ENGLISH         "??	Bke?W??"
+
+REFERENCE            tullis
+LANG_ENGLISH         "???W??Z?"
+
+REFERENCE            turchik
+LANG_ENGLISH         "??Turchik"
+
+REFERENCE            turner
+LANG_ENGLISH         "??Turner"
+
+REFERENCE            ty
+LANG_ENGLISH         "??x"
+
+REFERENCE            tyley
+LANG_ENGLISH         "??Q:M?"
+
+REFERENCE            unni
+LANG_ENGLISH         "??Unni"
+
+REFERENCE            uvidia
+LANG_ENGLISH         "?FU????"
+
+REFERENCE            uyeda
+LANG_ENGLISH         "??Uyeda"
+
+REFERENCE            vadlamani
+LANG_ENGLISH         "??
+?Q7H??
+? "
+
+REFERENCE            valdivia
+LANG_ENGLISH         "?C	e?Z??X"
+
+REFERENCE            valenton
+LANG_ENGLISH         "?_	5Z-??ux"
+
+REFERENCE            vanenkevort
+LANG_ENGLISH         "????=?c?}???#"
+
+REFERENCE            vargas
+LANG_ENGLISH         "?|??9v,?"
+
+REFERENCE            vasquez
+LANG_ENGLISH         "?QVasquez"
+
+REFERENCE            velasquez
+LANG_ENGLISH         "??
+9????k??"
+
+REFERENCE            vernon
+LANG_ENGLISH         "?G?YN?{?"
+
+REFERENCE            villena
+LANG_ENGLISH         "??4I????""
+
+REFERENCE            vokal
+LANG_ENGLISH         "????Z$"
+
+REFERENCE            volker
+LANG_ENGLISH         "??Volker"
+
+REFERENCE            vukovic
+LANG_ENGLISH         "?u?]??;??"
+
+REFERENCE            wang
+LANG_ENGLISH         "??u?s?"
+
+REFERENCE            wapner
+LANG_ENGLISH         "? )qg???"
+
+REFERENCE            warr
+LANG_ENGLISH         "?????N"
+
+REFERENCE            webb
+LANG_ENGLISH         "???r?"
+
+REFERENCE            wechsler
+LANG_ENGLISH         "??	?/B???"
+
+REFERENCE            weldon
+LANG_ENGLISH         "??*?E?"
+
+REFERENCE            wellman
+LANG_ENGLISH         "???R???="
+
+REFERENCE            wells
+LANG_ENGLISH         "?-????n"
+
+REFERENCE            whelpley
+LANG_ENGLISH         "??	?C??c??"
+
+REFERENCE            white
+LANG_ENGLISH         "????Q??"
+
+REFERENCE            wilkerson
+LANG_ENGLISH         "?c
+?3?j?@?%"
+
+REFERENCE            williams
+LANG_ENGLISH         "??		"?a?G?v"
+
+REFERENCE            wiuff
+LANG_ENGLISH         "??Wiuff"
+
+REFERENCE            wright
+LANG_ENGLISH         "?ra?????"
+
+REFERENCE            yenal
+LANG_ENGLISH         "????"
+
+REFERENCE            zalanyi
+LANG_ENGLISH         "?K????-"
+
+REFERENCE            zhang
+LANG_ENGLISH         "??Pn@?"
+
+REFERENCE            zielske
+LANG_ENGLISH         "???s??"
+
+
+ENDMARKER

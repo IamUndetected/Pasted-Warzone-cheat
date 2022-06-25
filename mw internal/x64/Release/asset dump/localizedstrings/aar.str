@@ -1,0 +1,446 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adventure_quest_bonus
+LANG_ENGLISH         "?'??{?Z)}R??K?ec??30??"
+
+REFERENCE            after_action_report
+LANG_ENGLISH         "??After Action Report"
+
+REFERENCE            attachment
+LANG_ENGLISH         "??Attachment"
+
+REFERENCE            attachment_unlock_info
+LANG_ENGLISH         "?8?<[H?????[??s?????;8??j???X??8???7RP??B'?6|+]?U?*_"
+
+REFERENCE            attachment_unlock_info_challenge
+LANG_ENGLISH         "??D??c??'???a?+f?)V?1y?w?P?h?]??.~???O?X? ?;?????j??yc?j???Y?_?4?"
+
+REFERENCE            banked_plunder_bonus
+LANG_ENGLISH         "?SDeposited Cash Bonus"
+
+REFERENCE            cac_unlocked
+LANG_ENGLISH         "?N?'??`?O?y?"
+
+REFERENCE            camo
+LANG_ENGLISH         "??Camo"
+
+REFERENCE            camo_challenge
+LANG_ENGLISH         "????w8?????G`??@?-????"
+
+REFERENCE            camo_unlock
+LANG_ENGLISH         "???????S)'???"
+
+REFERENCE            camo_unlock_info
+LANG_ENGLISH         "??2B ???c?????*oI??jxb^????
+???_go?5*1k?H?nhY?R?M"
+
+REFERENCE            camo_unlock_info_challenge
+LANG_ENGLISH         "?K>Camos available when &&1 is unlocked by completing challenge."
+
+REFERENCE            cash_collected
+LANG_ENGLISH         "?fCash Collected"
+
+REFERENCE            cash_collected_value
+LANG_ENGLISH         "???X7?4??V???#???1??na("
+
+REFERENCE            challenge__unlocked
+LANG_ENGLISH         "?[??????+@?s????2"
+
+REFERENCE            challenge_bonus
+LANG_ENGLISH         "??H8?m??P=_????"
+
+REFERENCE            challenges
+LANG_ENGLISH         "?XChallenges"
+
+REFERENCE            charm
+LANG_ENGLISH         "??Weapon Charm"
+
+REFERENCE            combat_value_xp
+LANG_ENGLISH         "?N({??#????	?2"
+
+REFERENCE            combat_xp
+LANG_ENGLISH         "??
+Combat XP"
+
+REFERENCE            comlete
+LANG_ENGLISH         "??	?_u??[?"
+
+REFERENCE            commendations
+LANG_ENGLISH         "?8Commendations"
+
+REFERENCE            common_crate
+LANG_ENGLISH         "??????s????"
+
+REFERENCE            common_crate_progress
+LANG_ENGLISH         "???2w	?-?/E???g+{????h"
+
+REFERENCE            completed_nums
+LANG_ENGLISH         "?/?L?&"
+
+REFERENCE            contract_bonus
+LANG_ENGLISH         "?W????X??????7"
+
+REFERENCE            daily
+LANG_ENGLISH         "?XDaily"
+
+REFERENCE            daily_challenges_completed
+LANG_ENGLISH         "????-???cY7?Y7?[??:??"
+
+REFERENCE            double_match_xp
+LANG_ENGLISH         "??????c???l?@("
+
+REFERENCE            emblem
+LANG_ENGLISH         "?Emblem"
+
+REFERENCE            execution
+LANG_ENGLISH         "??Finishing Moves"
+
+REFERENCE            faction_progress
+LANG_ENGLISH         "?!??r}K??Yo????g_"
+
+REFERENCE            factions
+LANG_ENGLISH         "?		Factions"
+
+REFERENCE            feature
+LANG_ENGLISH         "?0Feature"
+
+REFERENCE            field_upgrade
+LANG_ENGLISH         "?Field Upgrade"
+
+REFERENCE            gestures
+LANG_ENGLISH         "?Gesture"
+
+REFERENCE            gulag_bonus
+LANG_ENGLISH         "???T?.?? S3"
+
+REFERENCE            gunsmith_unlocks
+LANG_ENGLISH         "??Gunsmith Unlocks"
+
+REFERENCE            ingame_aar_xp
+LANG_ENGLISH         "????4?b?W`?"
+
+REFERENCE            instruction
+LANG_ENGLISH         "?_???W??s@???-8??W7?:K??7?K???????8??s?7?7????[??-?{?@??s?"
+
+REFERENCE            intro
+LANG_ENGLISH         "??Intro"
+
+REFERENCE            keys_awarded
+LANG_ENGLISH         "?\ZV/7?wX?#??"
+
+REFERENCE            killstreak
+LANG_ENGLISH         "??Killstreak"
+
+REFERENCE            leave_party_warning
+LANG_ENGLISH         "??Y?{2?{????zKK?j??_3??y??(?????;C?$bi????]??Z>c/?1??????+????S8???z???*p??????"
+
+REFERENCE            level_value
+LANG_ENGLISH         "?4
+Level &&1"
+
+REFERENCE            loot_value_xp
+LANG_ENGLISH         "??Loot ^5&&1^7 XP"
+
+REFERENCE            loot_xp
+LANG_ENGLISH         "??Loot XP"
+
+REFERENCE            make_your_own_adventure
+LANG_ENGLISH         "???X?V?????z?7??Y?????"
+
+REFERENCE            match_bonus
+LANG_ENGLISH         "??Match Bonus"
+
+REFERENCE            match_bonus_value
+LANG_ENGLISH         "?Match Bonus ^5&&1^7 XP"
+
+REFERENCE            match_total
+LANG_ENGLISH         "?:Match Total"
+
+REFERENCE            match_total_xp
+LANG_ENGLISH         "?UMatch Total ^5&&1^7 XP"
+
+REFERENCE            match_xp
+LANG_ENGLISH         "?z	?XGl@,"
+
+REFERENCE            match_xp_xp
+LANG_ENGLISH         "??S?????????"
+
+REFERENCE            misc_xp
+LANG_ENGLISH         "?MMisc XP"
+
+REFERENCE            misc_xp_value
+LANG_ENGLISH         "??S??6?j1??ys?("
+
+REFERENCE            mission_bonus
+LANG_ENGLISH         "???c?`'?:!?N??"
+
+REFERENCE            mission_value_xp
+LANG_ENGLISH         "?)jZ7?????j?/??A"
+
+REFERENCE            mission_xp
+LANG_ENGLISH         "?Mission XP"
+
+REFERENCE            new_best
+LANG_ENGLISH         "?O	]?9?{?"
+
+REFERENCE            next_unlock
+LANG_ENGLISH         "??*?Mr;??3?"
+
+REFERENCE            officer_rank_unlocked
+LANG_ENGLISH         "?'?f3??+NI??[?U7?l?Y?B"
+
+REFERENCE            operator
+LANG_ENGLISH         "??	Operator"
+
+REFERENCE            operator_skin
+LANG_ENGLISH         "??Operator Skin"
+
+REFERENCE            operators
+LANG_ENGLISH         "?\
+Operators"
+
+REFERENCE            party_host
+LANG_ENGLISH         "????'??$??:"
+
+REFERENCE            placement
+LANG_ENGLISH         "??Placement Bonus"
+
+REFERENCE            placement_01
+LANG_ENGLISH         "?M	Damascus"
+
+REFERENCE            placement_02
+LANG_ENGLISH         "??Onyx"
+
+REFERENCE            placement_03
+LANG_ENGLISH         "??=I????r"
+
+REFERENCE            placement_04
+LANG_ENGLISH         "?{	5???"
+
+REFERENCE            placement_05
+LANG_ENGLISH         "?I?^?"
+
+REFERENCE            placement_06
+LANG_ENGLISH         "???YE?"
+
+REFERENCE            placement_07
+LANG_ENGLISH         "?<	??w{+eS`"
+
+REFERENCE            placement_08
+LANG_ENGLISH         "?r??9"
+
+REFERENCE            placement_09
+LANG_ENGLISH         "???K????"
+
+REFERENCE            placement_10
+LANG_ENGLISH         "?*Bronze"
+
+REFERENCE            placement_11
+LANG_ENGLISH         "??GZ?"
+
+REFERENCE            placement_title
+LANG_ENGLISH         "?+?rWo?m??<Fr$?"
+
+REFERENCE            placement_value
+LANG_ENGLISH         "?NPlacement Bonus ^5&&1^7 XP"
+
+REFERENCE            play_again_keep_party
+LANG_ENGLISH         "??
+6X?;????+V:????J"
+
+REFERENCE            play_again_leave_party
+LANG_ENGLISH         "??Play again ( leave the party )"
+
+REFERENCE            player_position_with_suffix
+LANG_ENGLISH         "?uz<?"
+
+REFERENCE            playercard
+LANG_ENGLISH         "?2Playercard"
+
+REFERENCE            plunder_banked
+LANG_ENGLISH         "?c^??)??`??3{?"
+
+REFERENCE            plunder_banked_xp
+LANG_ENGLISH         "?????????9?????O??"
+
+REFERENCE            plunder_bonus
+LANG_ENGLISH         "??F????_???"
+
+REFERENCE            plunder_count
+LANG_ENGLISH         "??F????_???"
+
+REFERENCE            plunder_held
+LANG_ENGLISH         "??
+Cash Held"
+
+REFERENCE            plunder_held_xp
+LANG_ENGLISH         "??????$Y6#??a"
+
+REFERENCE            plunder_value_count
+LANG_ENGLISH         "?Cash Bonus ^5&&1^7 XP"
+
+REFERENCE            plus_xp
+LANG_ENGLISH         "????$?6??"
+
+REFERENCE            point_acquired
+LANG_ENGLISH         "?h??????????YF$"
+
+REFERENCE            points
+LANG_ENGLISH         "?	&&1 Pts
+"
+
+REFERENCE            prestige_value
+LANG_ENGLISH         "?8Prestige &&1"
+
+REFERENCE            progression
+LANG_ENGLISH         "??
+????V?7-??"
+
+REFERENCE            rank_up
+LANG_ENGLISH         "?????U?"
+
+REFERENCE            rank_up_splash
+LANG_ENGLISH         "?|?,?[Y?????b?"
+
+REFERENCE            received_commendations
+LANG_ENGLISH         "?????V-???h?k[V??:????"
+
+REFERENCE            recent_unlocks
+LANG_ENGLISH         "?{I??Y?GU???6?7"
+
+REFERENCE            replay
+LANG_ENGLISH         "??Replay Progression Ceremony"
+
+REFERENCE            required_xp
+LANG_ENGLISH         "??5?-???!?7?Z?i?"
+
+REFERENCE            reticle
+LANG_ENGLISH         "?PReticle"
+
+REFERENCE            role
+LANG_ENGLISH         "?Role"
+
+REFERENCE            scoreboard
+LANG_ENGLISH         "?YScoreboard"
+
+REFERENCE            seasonal_ranks_unlocked
+LANG_ENGLISH         "???JF???Q/?????9?r??|?"
+
+REFERENCE            sprays
+LANG_ENGLISH         "?Sprays"
+
+REFERENCE            stats
+LANG_ENGLISH         "?????7"
+
+REFERENCE            summary
+LANG_ENGLISH         "?;Summary"
+
+REFERENCE            taunts
+LANG_ENGLISH         "?YTaunts"
+
+REFERENCE            top_commendations
+LANG_ENGLISH         "?`Top Commendations"
+
+REFERENCE            total
+LANG_ENGLISH         "?}????"
+
+REFERENCE            unlocked
+LANG_ENGLISH         "?q	Unlocked"
+
+REFERENCE            unlocked_at_level
+LANG_ENGLISH         "??SC:HcW?~D:a??Y"
+
+REFERENCE            unlocks
+LANG_ENGLISH         "??????6??"
+
+REFERENCE            view_all_unlocks
+LANG_ENGLISH         "???_???0??zqjcH?W?0}?%hz"???"
+
+REFERENCE            view_all_unlocks_kbm
+LANG_ENGLISH         "?(??+w@
+????c????"
+
+REFERENCE            watch
+LANG_ENGLISH         "?LWatch"
+
+REFERENCE            weapon
+LANG_ENGLISH         "? Weapon"
+
+REFERENCE            weapon_reach_rank
+LANG_ENGLISH         "?W7?????qy??HU?????Fa@?? ?W??"
+
+REFERENCE            weapon_unlocks
+LANG_ENGLISH         "????X?{?U??6??"
+
+REFERENCE            wegame_adventure_quest_bonus_1
+LANG_ENGLISH         "??P??V?????EW+?:$???7?$?J"
+
+REFERENCE            wegame_adventure_quest_bonus_2
+LANG_ENGLISH         "?x?T???k???)?/~[??? ?????/?"
+
+REFERENCE            wegame_banked_plunder_bonus_1
+LANG_ENGLISH         "?V??Z:?2@h??@	{????!Pb2?"
+
+REFERENCE            wegame_banked_plunder_bonus_2
+LANG_ENGLISH         "?cDeposited Cash Bonus(ZERO)"
+
+REFERENCE            wegame_challenge_bonus_1
+LANG_ENGLISH         "????{??????????F?a????"
+
+REFERENCE            wegame_challenge_bonus_2
+LANG_ENGLISH         "??gC????m?ZXk?9????"
+
+REFERENCE            wegame_contract_bonus_1
+LANG_ENGLISH         "??4?s????G@???]?@
+
+?#?"
+
+REFERENCE            wegame_contract_bonus_2
+LANG_ENGLISH         "??Contract Bonus (ZERO)"
+
+REFERENCE            wegame_double_match_xp_1
+LANG_ENGLISH         "?_Double Match XP(HALF)"
+
+REFERENCE            wegame_double_match_xp_2
+LANG_ENGLISH         "??Double Match XP(ZERO)"
+
+REFERENCE            wegame_gulag_bonus_1
+LANG_ENGLISH         "??P??V?????EW+?:$???7?$?J"
+
+REFERENCE            wegame_gulag_bonus_2
+LANG_ENGLISH         "?x?T???k???)?/~[??? ?????/?"
+
+REFERENCE            wegame_match_bonus_1
+LANG_ENGLISH         "?,?S?8~2??-?/???"
+
+REFERENCE            wegame_match_bonus_2
+LANG_ENGLISH         "?5?????????AK?I?I"
+
+REFERENCE            wegame_match_xp_1
+LANG_ENGLISH         "?bMatch XP(HALF)"
+
+REFERENCE            wegame_match_xp_2
+LANG_ENGLISH         "?F?X??4???K????"
+
+REFERENCE            wegame_mission_bonus_1
+LANG_ENGLISH         "???-7??????s?nA?P??"
+
+REFERENCE            wegame_mission_bonus_2
+LANG_ENGLISH         "???K???{???7W????%=J"
+
+REFERENCE            wegame_plunder_bonus_1
+LANG_ENGLISH         "????P6????~??\W?"
+
+REFERENCE            wegame_plunder_bonus_2
+LANG_ENGLISH         "???>+??G??W???}??"
+
+REFERENCE            xp
+LANG_ENGLISH         "?,("
+
+REFERENCE            xp_breakdown
+LANG_ENGLISH         "??XP Breakdown"
+
+
+ENDMARKER

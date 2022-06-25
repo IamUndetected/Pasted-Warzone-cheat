@@ -1,0 +1,902 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            all_optic_reticle_splash
+LANG_ENGLISH         "?9Q+3?Y??u1?????? "?!"
+
+REFERENCE            all_weapon_camo_earned
+LANG_ENGLISH         "??Ow??????)Uw"?*????"
+
+REFERENCE            ammo_restock_stock_full
+LANG_ENGLISH         "?Ammo reserves already full."
+
+REFERENCE            awaiting_orders
+LANG_ENGLISH         "??Eliminate Hostiles"
+
+REFERENCE            body_earned
+LANG_ENGLISH         "?&&1 Uniform Earned"
+
+REFERENCE            broshot_confirmed
+LANG_ENGLISH         "?
+&@h{?3K'???"
+
+REFERENCE            broshot_instructions
+LANG_ENGLISH         "????|c?W???I)?:?`??"
+
+REFERENCE            broshot_key_taunt
+LANG_ENGLISH         "?2?1???b"
+
+REFERENCE            broshot_option_a
+LANG_ENGLISH         "???:?"
+
+REFERENCE            broshot_option_a_btn
+LANG_ENGLISH         "??[{+attack}] Kill"
+
+REFERENCE            broshot_option_b
+LANG_ENGLISH         "?????zW"
+
+REFERENCE            broshot_option_b_btn
+LANG_ENGLISH         "?7m?V???F??C'??_?8????"
+
+REFERENCE            broshot_taunt
+LANG_ENGLISH         "??????P$??????zCs"
+
+REFERENCE            broshot_title
+LANG_ENGLISH         "?BuK??+??N4Z9???"
+
+REFERENCE            camo_splash_title
+LANG_ENGLISH         "??}b*????	P????"
+
+REFERENCE            capture_vip
+LANG_ENGLISH         "??Vl??Y9+?
+"
+
+REFERENCE            chopper_leaving_soon
+LANG_ENGLISH         "???I?"??(??C?O????"
+
+REFERENCE            danger_cluster_strike
+LANG_ENGLISH         "??`0????cS??3?H*?w?'??"
+
+REFERENCE            danger_precision_airstrike
+LANG_ENGLISH         "?|?'Y???-??
+??7G?????7??????"
+
+REFERENCE            death_detail_enemy_health_label
+LANG_ENGLISH         "?N#?)h???????"
+
+REFERENCE            death_details_overflow
+LANG_ENGLISH         "?d&&1+"
+
+REFERENCE            default_class_name_1
+LANG_ENGLISH         "?5
+?n,???"
+
+REFERENCE            default_class_name_10
+LANG_ENGLISH         "?~MP5 / DP-12"
+
+REFERENCE            default_class_name_10_dev
+LANG_ENGLISH         "?fy?J??%?B??"
+
+REFERENCE            default_class_name_11_dev
+LANG_ENGLISH         "?f$u??????"
+
+REFERENCE            default_class_name_1_dev
+LANG_ENGLISH         "????=???"
+
+REFERENCE            default_class_name_2
+LANG_ENGLISH         "???4?7?"
+
+REFERENCE            default_class_name_2_dev
+LANG_ENGLISH         "?^?%??l??,?5?-??N"
+
+REFERENCE            default_class_name_3
+LANG_ENGLISH         "???P???i?(w??3"
+
+REFERENCE            default_class_name_3_dev
+LANG_ENGLISH         "???i?
+S
+??????7"
+
+REFERENCE            default_class_name_4
+LANG_ENGLISH         "?5J(????P]"
+
+REFERENCE            default_class_name_4_dev
+LANG_ENGLISH         "?32+????"
+
+REFERENCE            default_class_name_5
+LANG_ENGLISH         "?Sniper"
+
+REFERENCE            default_class_name_5_dev
+LANG_ENGLISH         "????U!???'i"
+
+REFERENCE            default_class_name_6
+LANG_ENGLISH         "?M??????"
+
+REFERENCE            default_class_name_6_dev
+LANG_ENGLISH         "?^?Y7??????????????"
+
+REFERENCE            default_class_name_7
+LANG_ENGLISH         "?8uV???7???"
+
+REFERENCE            default_class_name_7_dev
+LANG_ENGLISH         "?8uV???7???"
+
+REFERENCE            default_class_name_8
+LANG_ENGLISH         "?%
+??i?MS?"
+
+REFERENCE            default_class_name_8_dev
+LANG_ENGLISH         "??
+H\??}FX"
+
+REFERENCE            default_class_name_9
+LANG_ENGLISH         "?jC"
+
+REFERENCE            default_class_name_9_dev
+LANG_ENGLISH         "??
+??,??W?r"
+
+REFERENCE            default_class_prefix
+LANG_ENGLISH         "? "T?P?b?t?bb"
+
+REFERENCE            defcon_caps
+LANG_ENGLISH         "??|o?"
+
+REFERENCE            defcon_points_feed
+LANG_ENGLISH         "????????q7?"
+
+REFERENCE            defcon_pts_10
+LANG_ENGLISH         "??b
+?"
+
+REFERENCE            defcon_pts_100
+LANG_ENGLISH         "??&?E?"
+
+REFERENCE            defcon_pts_110
+LANG_ENGLISH         "?=?wn8?7"
+
+REFERENCE            defcon_pts_120
+LANG_ENGLISH         "???*???'"
+
+REFERENCE            defcon_pts_130
+LANG_ENGLISH         "????*M"
+
+REFERENCE            defcon_pts_140
+LANG_ENGLISH         "?)?w?b?'"
+
+REFERENCE            defcon_pts_150
+LANG_ENGLISH         "????7?"??"
+
+REFERENCE            defcon_pts_160
+LANG_ENGLISH         "?[?g?{;"
+
+REFERENCE            defcon_pts_170
+LANG_ENGLISH         "?%&n`A*j"
+
+REFERENCE            defcon_pts_180
+LANG_ENGLISH         "???G?9??"
+
+REFERENCE            defcon_pts_190
+LANG_ENGLISH         "????J	G"
+
+REFERENCE            defcon_pts_20
+LANG_ENGLISH         "??20 PTS"
+
+REFERENCE            defcon_pts_200
+LANG_ENGLISH         "?f?{?XqE?"
+
+REFERENCE            defcon_pts_30
+LANG_ENGLISH         "?c??0?1"
+
+REFERENCE            defcon_pts_40
+LANG_ENGLISH         "?c?????"
+
+REFERENCE            defcon_pts_50
+LANG_ENGLISH         "??50 PTS"
+
+REFERENCE            defcon_pts_60
+LANG_ENGLISH         "?gl
+?"
+
+REFERENCE            defcon_pts_70
+LANG_ENGLISH         "???@A?M"
+
+REFERENCE            defcon_pts_80
+LANG_ENGLISH         "?P?i<?"
+
+REFERENCE            defcon_pts_90
+LANG_ENGLISH         "???AM"
+
+REFERENCE            drop_bag_caps
+LANG_ENGLISH         "??LOADOUT DROP"
+
+REFERENCE            dz_available_in
+LANG_ENGLISH         "??'??{7??;?????Ks?"
+
+REFERENCE            dz_capture
+LANG_ENGLISH         "?+j?M??!?8:???Ao??"
+
+REFERENCE            dz_next_in
+LANG_ENGLISH         "???#????wA??@?^#3:?0h??m?"
+
+REFERENCE            dz_time_remaining
+LANG_ENGLISH         "???'???7Y@???Y9???Z?Z7;?"
+
+REFERENCE            equipment_maxed
+LANG_ENGLISH         "?],Already holding max equipment of this type."
+
+REFERENCE            escape_timer_text
+LANG_ENGLISH         "?D]*?{??"
+
+REFERENCE            field_upgrade_used
+LANG_ENGLISH         "??S???"
+
+REFERENCE            flag_available_in
+LANG_ENGLISH         "?i?S???/???#?\?:"
+
+REFERENCE            flag_despawn_in
+LANG_ENGLISH         "??Flag despawns in:"
+
+REFERENCE            game_force_started
+LANG_ENGLISH         "?53??;?3?rxJ.???*]g?#?)???0r?)m'?m?S?Im?B?N?q 3\a;?"
+
+REFERENCE            get_on_chopper
+LANG_ENGLISH         "??-???-?Aq???C?[C??"
+
+REFERENCE            hack_command
+LANG_ENGLISH         "?pRGqBXl[?????s?|"
+
+REFERENCE            hack_target
+LANG_ENGLISH         "??Hack Target"
+
+REFERENCE            hackexe
+LANG_ENGLISH         "??	??'???["
+
+REFERENCE            hackterminal
+LANG_ENGLISH         "????Z3]???z"
+
+REFERENCE            head_earned
+LANG_ENGLISH         "?	uz2?2?X?????"
+
+REFERENCE            hold_to_start_game
+LANG_ENGLISH         "???hPK?9???kC??	5?"
+
+REFERENCE            hp_current
+LANG_ENGLISH         "?-Current Hardpoint:"
+
+REFERENCE            hp_next_in
+LANG_ENGLISH         "????0???3?k??8#
+"
+
+REFERENCE            hp_time_remaining
+LANG_ENGLISH         "?&rV@B?????s7V?Y6-??t"
+
+REFERENCE            hp_unlocks_in
+LANG_ENGLISH         "??	X9#8{K?G??????n???"
+
+REFERENCE            hq_available_in
+LANG_ENGLISH         "??q??WX??p)?t???-"
+
+REFERENCE            hq_capture
+LANG_ENGLISH         "??g9????r+@?8??"
+
+REFERENCE            hq_despawn_in
+LANG_ENGLISH         "?????y??m ?w??"
+
+REFERENCE            hq_next_in
+LANG_ENGLISH         "?]Next HQ spawns in:"
+
+REFERENCE            hq_no_respawn
+LANG_ENGLISH         "?????,???????"
+
+REFERENCE            hq_reinforcements_in
+LANG_ENGLISH         "?~??Q??????UR%c?R??J"
+
+REFERENCE            hq_time_remaining
+LANG_ENGLISH         "??HQ offline in:"
+
+REFERENCE            incoming_obj_caps
+LANG_ENGLISH         "?O	?pF4??"
+
+REFERENCE            infect_super_tac_hint
+LANG_ENGLISH         "??0Use Tactical Insertion Field Upgrade to Skydive"
+
+REFERENCE            jugg_killed_jugg
+LANG_ENGLISH         "??B?0??.?2{?/8???O?"
+
+REFERENCE            juggernaut_kill
+LANG_ENGLISH         "?SJuggernaut Kill"
+
+REFERENCE            killed_juggernaut
+LANG_ENGLISH         "???K6????;?????"
+
+REFERENCE            loadout_tab_custom
+LANG_ENGLISH         "?4Custom"
+
+REFERENCE            loadout_tab_default
+LANG_ENGLISH         "?Default"
+
+REFERENCE            low_battery
+LANG_ENGLISH         "??&??@	????"
+
+REFERENCE            missing_string
+LANG_ENGLISH         "??MISSING STRING"
+
+REFERENCE            neutralizing_a
+LANG_ENGLISH         "?|I?M??:=?*T?7??"
+
+REFERENCE            neutralizing_b
+LANG_ENGLISH         "?|?V]?X???Ksv@$"
+
+REFERENCE            neutralizing_c
+LANG_ENGLISH         "?|???q?'???s9?>"
+
+REFERENCE            next_obj_in
+LANG_ENGLISH         "???V???S+?:-g?%?t"
+
+REFERENCE            nuke_crate_incoming
+LANG_ENGLISH         "?=CRATE INCOMING"
+
+REFERENCE            nvg_tutorial
+LANG_ENGLISH         "??#????6G???7???&_?@Q???????9???:"
+
+REFERENCE            obj_advance_caps
+LANG_ENGLISH         "??0?/?)?"
+
+REFERENCE            obj_attack_caps
+LANG_ENGLISH         "????#??"
+
+REFERENCE            obj_bank_caps
+LANG_ENGLISH         "??$'"
+
+REFERENCE            obj_block_exfil_caps
+LANG_ENGLISH         "?SJ?T9????Rb"
+
+REFERENCE            obj_blocked_caps
+LANG_ENGLISH         "?Y9???\/"
+
+REFERENCE            obj_blocking_caps
+LANG_ENGLISH         "??	?`u/???"
+
+REFERENCE            obj_bomb_caps
+LANG_ENGLISH         "???up%"
+
+REFERENCE            obj_calling_exfil_caps
+LANG_ENGLISH         "?????!????u????"
+
+REFERENCE            obj_capture_caps
+LANG_ENGLISH         "??????Z_"
+
+REFERENCE            obj_clearing_caps
+LANG_ENGLISH         "??	g??Gy?e"
+
+REFERENCE            obj_contest_caps
+LANG_ENGLISH         "??h????jQ"
+
+REFERENCE            obj_contested_caps
+LANG_ENGLISH         "?\
+^-Q]????"
+
+REFERENCE            obj_defend_caps
+LANG_ENGLISH         "?"????""
+
+REFERENCE            obj_defend_caps_n
+LANG_ENGLISH         "??L?9_+5FN"
+
+REFERENCE            obj_defending_caps
+LANG_ENGLISH         "??
+M?????5/"
+
+REFERENCE            obj_defending_caps_n
+LANG_ENGLISH         "?/?*?"??:bbb"
+
+REFERENCE            obj_defuse_caps
+LANG_ENGLISH         "???Uj"
+
+REFERENCE            obj_defusing_caps
+LANG_ENGLISH         "?i	DEFUSING"
+
+REFERENCE            obj_destroy_caps
+LANG_ENGLISH         "?eR5!?"
+
+REFERENCE            obj_destroying_caps
+LANG_ENGLISH         "?}
+%?P	??9?"
+
+REFERENCE            obj_destroying_caps_n
+LANG_ENGLISH         "?V?Cf????%????"
+
+REFERENCE            obj_emp_caps
+LANG_ENGLISH         "???up%"
+
+REFERENCE            obj_enemy_caps
+LANG_ENGLISH         "??Q?*??"
+
+REFERENCE            obj_escort_caps
+LANG_ENGLISH         "?D9_S??A"
+
+REFERENCE            obj_exfil_active_caps
+LANG_ENGLISH         "?YEXFIL LEAVING"
+
+REFERENCE            obj_exfil_notactive_caps
+LANG_ENGLISH         "??k??C???4m?UiH"
+
+REFERENCE            obj_extract_caps
+LANG_ENGLISH         "?7*??%
+?E"
+
+REFERENCE            obj_hvt_caps
+LANG_ENGLISH         "?`TARGET"
+
+REFERENCE            obj_hvt_caps_1
+LANG_ENGLISH         "???%???"
+
+REFERENCE            obj_hvt_caps_10
+LANG_ENGLISH         "???Y?@&"
+
+REFERENCE            obj_hvt_caps_11
+LANG_ENGLISH         "????/#"
+
+REFERENCE            obj_hvt_caps_12
+LANG_ENGLISH         "??q???b?"
+
+REFERENCE            obj_hvt_caps_13
+LANG_ENGLISH         "??HVT 13"
+
+REFERENCE            obj_hvt_caps_14
+LANG_ENGLISH         "??HVT 14"
+
+REFERENCE            obj_hvt_caps_15
+LANG_ENGLISH         "??????b?"
+
+REFERENCE            obj_hvt_caps_16
+LANG_ENGLISH         "???%????"
+
+REFERENCE            obj_hvt_caps_17
+LANG_ENGLISH         "??nk9#?"
+
+REFERENCE            obj_hvt_caps_19
+LANG_ENGLISH         "????["
+
+REFERENCE            obj_hvt_caps_2
+LANG_ENGLISH         "????"
+
+REFERENCE            obj_hvt_caps_20
+LANG_ENGLISH         "??`QI??"
+
+REFERENCE            obj_hvt_caps_21
+LANG_ENGLISH         "??????z?"
+
+REFERENCE            obj_hvt_caps_22
+LANG_ENGLISH         "??HVT 22"
+
+REFERENCE            obj_hvt_caps_23
+LANG_ENGLISH         "??nk9%?"
+
+REFERENCE            obj_hvt_caps_24
+LANG_ENGLISH         "???%????"
+
+REFERENCE            obj_hvt_caps_25
+LANG_ENGLISH         "????+"
+
+REFERENCE            obj_hvt_caps_26
+LANG_ENGLISH         "???Y?@Fc"
+
+REFERENCE            obj_hvt_caps_27
+LANG_ENGLISH         "??HVT 27"
+
+REFERENCE            obj_hvt_caps_28
+LANG_ENGLISH         "????q???"
+
+REFERENCE            obj_hvt_caps_29
+LANG_ENGLISH         "????@#?"
+
+REFERENCE            obj_hvt_caps_3
+LANG_ENGLISH         "???Y?@f"
+
+REFERENCE            obj_hvt_caps_30
+LANG_ENGLISH         "??	eE3"
+
+REFERENCE            obj_hvt_caps_31
+LANG_ENGLISH         "??????"
+
+REFERENCE            obj_hvt_caps_32
+LANG_ENGLISH         "????@3"
+
+REFERENCE            obj_hvt_caps_33
+LANG_ENGLISH         "????q???"
+
+REFERENCE            obj_hvt_caps_34
+LANG_ENGLISH         "???_1???"
+
+REFERENCE            obj_hvt_caps_35
+LANG_ENGLISH         "?????&??"
+
+REFERENCE            obj_hvt_caps_36
+LANG_ENGLISH         "???W?f"
+
+REFERENCE            obj_hvt_caps_37
+LANG_ENGLISH         "??HVT 37"
+
+REFERENCE            obj_hvt_caps_38
+LANG_ENGLISH         "???????"
+
+REFERENCE            obj_hvt_caps_39
+LANG_ENGLISH         "??D??p?"
+
+REFERENCE            obj_hvt_caps_4
+LANG_ENGLISH         "??HVT 4"
+
+REFERENCE            obj_hvt_caps_40
+LANG_ENGLISH         "????"
+
+REFERENCE            obj_hvt_caps_41
+LANG_ENGLISH         "??;vs!Ab"
+
+REFERENCE            obj_hvt_caps_42
+LANG_ENGLISH         "?????;?"
+
+REFERENCE            obj_hvt_caps_43
+LANG_ENGLISH         "??HVT 43"
+
+REFERENCE            obj_hvt_caps_44
+LANG_ENGLISH         "??	+?C"
+
+REFERENCE            obj_hvt_caps_45
+LANG_ENGLISH         "??D??p?"
+
+REFERENCE            obj_hvt_caps_46
+LANG_ENGLISH         "????C?"
+
+REFERENCE            obj_hvt_caps_47
+LANG_ENGLISH         "??????+n"
+
+REFERENCE            obj_hvt_caps_48
+LANG_ENGLISH         "??@???"
+
+REFERENCE            obj_hvt_caps_49
+LANG_ENGLISH         "??!??N"
+
+REFERENCE            obj_hvt_caps_5
+LANG_ENGLISH         "??q???B"
+
+REFERENCE            obj_hvt_caps_50
+LANG_ENGLISH         "?????2?"
+
+REFERENCE            obj_hvt_caps_6
+LANG_ENGLISH         "??????S"
+
+REFERENCE            obj_hvt_caps_7
+LANG_ENGLISH         "??8	?n"
+
+REFERENCE            obj_hvt_caps_8
+LANG_ENGLISH         "????? "
+
+REFERENCE            obj_hvt_caps_9
+LANG_ENGLISH         "???f;*?"
+
+REFERENCE            obj_hvt_friend_caps
+LANG_ENGLISH         "?"????""
+
+REFERENCE            obj_kill_caps
+LANG_ENGLISH         "???8??"
+
+REFERENCE            obj_locked_caps
+LANG_ENGLISH         "??q?`??"
+
+REFERENCE            obj_losing_caps
+LANG_ENGLISH         "?g&???9?"
+
+REFERENCE            obj_losing_caps_n
+LANG_ENGLISH         "????M)r??11?"
+
+REFERENCE            obj_nemesis_caps
+LANG_ENGLISH         "?S??(s???"
+
+REFERENCE            obj_neutralizing_caps_n
+LANG_ENGLISH         "???TU??
+&??????b?"
+
+REFERENCE            obj_otflagloc_caps
+LANG_ENGLISH         "????TJ???T@d&t"
+
+REFERENCE            obj_pickup_caps
+LANG_ENGLISH         "?PICKUP"
+
+REFERENCE            obj_pickup_defend_caps
+LANG_ENGLISH         "?T?Cnx?A?}?-???P?"
+
+REFERENCE            obj_plant_caps
+LANG_ENGLISH         "??PLANT BOMB"
+
+REFERENCE            obj_planting_caps
+LANG_ENGLISH         "??	1??)??"
+
+REFERENCE            obj_recover_caps
+LANG_ENGLISH         "??????G
+"
+
+REFERENCE            obj_reset_caps
+LANG_ENGLISH         "??%????"
+
+REFERENCE            obj_resetting_caps
+LANG_ENGLISH         "??
+RESETTING"
+
+REFERENCE            obj_retreat_caps
+LANG_ENGLISH         "?!I??I??"
+
+REFERENCE            obj_returning_caps
+LANG_ENGLISH         "??
+]??U?F\??"
+
+REFERENCE            obj_scoring_caps
+LANG_ENGLISH         "??5=JJ?t"
+
+REFERENCE            obj_securing_caps
+LANG_ENGLISH         "?1	Y??'?1?"
+
+REFERENCE            obj_securing_caps_n
+LANG_ENGLISH         "?|?/{??????f?"
+
+REFERENCE            obj_stopping_exfil_caps
+LANG_ENGLISH         "??????R'???J?"
+
+REFERENCE            obj_take_caps
+LANG_ENGLISH         "???P-?"
+
+REFERENCE            obj_taking_caps
+LANG_ENGLISH         "?$TAKING"
+
+REFERENCE            obj_target_caps
+LANG_ENGLISH         "?`TARGET"
+
+REFERENCE            obj_timeout
+LANG_ENGLISH         "???0?G???~e?gG????Z"
+
+REFERENCE            obj_unlocks_in
+LANG_ENGLISH         "??? ?w???nuWK??
+????"
+
+REFERENCE            objective_points
+LANG_ENGLISH         "?+
+?`o?h+"
+
+REFERENCE            overtime_flag_spawned
+LANG_ENGLISH         "??Capture the flag to win!"
+
+REFERENCE            pickup_atmine
+LANG_ENGLISH         "?%???C0-??x7?"
+
+REFERENCE            pickup_c4
+LANG_ENGLISH         "?C4"
+
+REFERENCE            pickup_claymore
+LANG_ENGLISH         "??	Claymore"
+
+REFERENCE            pickup_decoy
+LANG_ENGLISH         "?Z???'???p?k?1{"
+
+REFERENCE            pickup_flash
+LANG_ENGLISH         "??T?S?N8?p?6?)"
+
+REFERENCE            pickup_frag
+LANG_ENGLISH         "??Frag Grenade"
+
+REFERENCE            pickup_molotov
+LANG_ENGLISH         "??0?98??????K0?"
+
+REFERENCE            pickup_pball
+LANG_ENGLISH         "???K?????)<???"
+
+REFERENCE            pickup_semtex
+LANG_ENGLISH         "??)1[?P"
+
+REFERENCE            pickup_smoke
+LANG_ENGLISH         "?q3???qcj@??"
+
+REFERENCE            pickup_snapshot
+LANG_ENGLISH         "?3Snapshot Grenade"
+
+REFERENCE            pickup_snowball
+LANG_ENGLISH         "??	?^?????"
+
+REFERENCE            pickup_stim
+LANG_ENGLISH         "?????"
+
+REFERENCE            pickup_stun
+LANG_ENGLISH         "?CStun Grenade"
+
+REFERENCE            pickup_thermite
+LANG_ENGLISH         "?v	E?YN[???"
+
+REFERENCE            pickup_tknife
+LANG_ENGLISH         "?AQ??{?Z??????V"
+
+REFERENCE            pickup_tknife_drill
+LANG_ENGLISH         "???[*???M?	?"
+
+REFERENCE            pickup_tknife_electric
+LANG_ENGLISH         "??(????Og??PO??B"
+
+REFERENCE            pickup_tknife_fire
+LANG_ENGLISH         "???cX?????C????s???-3?"
+
+REFERENCE            pickup_trophy_system
+LANG_ENGLISH         "?\J?3?N??Ss?("
+
+REFERENCE            pillage_depot_closing
+LANG_ENGLISH         "?$T
+??&??)?:"
+
+REFERENCE            pillage_depot_open
+LANG_ENGLISH         "??T?=??z??"
+
+REFERENCE            players_required
+LANG_ENGLISH         "?Q(1
+VI?????%J*t"
+
+REFERENCE            practice_round
+LANG_ENGLISH         "?k'?,9???8?????M??n?+?{????????2?"
+
+REFERENCE            press_to_start_game
+LANG_ENGLISH         "?Press to Start Game"
+
+REFERENCE            refill_ammo
+LANG_ENGLISH         "??)Y?????([k{"
+
+REFERENCE            reticle_splash_title
+LANG_ENGLISH         "?????????W?S??p8b"
+
+REFERENCE            rps_draw
+LANG_ENGLISH         "????("
+
+REFERENCE            rps_lose
+LANG_ENGLISH         "?Z??[B??X??Q??@}G? k=.?"
+
+REFERENCE            rps_start
+LANG_ENGLISH         "??&??????3???5???"
+
+REFERENCE            rps_too_late
+LANG_ENGLISH         "?f??Z??Zn@?{G??V?3?N??[?7"
+
+REFERENCE            rps_win
+LANG_ENGLISH         "???????B"
+
+REFERENCE            rugby_ot_timer
+LANG_ENGLISH         "??g?9Z??@?L?GL??"
+
+REFERENCE            rugby_timer
+LANG_ENGLISH         "??M??S?8pC?9A
+????*"
+
+REFERENCE            safe
+LANG_ENGLISH         "?j??6#&VnX?????Y??\?q"
+
+REFERENCE            searching_body
+LANG_ENGLISH         "?i?VX??-???????"
+
+REFERENCE            select_loadout_to_spawn
+LANG_ENGLISH         "?*$You must select a loadout to spawn."
+
+REFERENCE            snatch_arsenal_breach
+LANG_ENGLISH         "???]???(???Zk"
+
+REFERENCE            snatch_clues
+LANG_ENGLISH         "?oINTEL:"
+
+REFERENCE            snatch_grab_box_escort
+LANG_ENGLISH         "?D9_S??A"
+
+REFERENCE            snatch_grab_box_pick_up
+LANG_ENGLISH         "?z0?5w^??"
+
+REFERENCE            snatch_grab_box_steal
+LANG_ENGLISH         "??STEAL"
+
+REFERENCE            snatch_hunt_text
+LANG_ENGLISH         "???+??Bc??l"
+
+REFERENCE            snatch_max_clues
+LANG_ENGLISH         "??f"
+
+REFERENCE            snipers_only_class_10
+LANG_ENGLISH         "? IBU??z???????y?b)!???"
+
+REFERENCE            snipers_only_class_6
+LANG_ENGLISH         "?AX-50 - Specialist"
+
+REFERENCE            snipers_only_class_7
+LANG_ENGLISH         "??j??????????,???"
+
+REFERENCE            snipers_only_class_8
+LANG_ENGLISH         "???r??????"?>?C??7??9"
+
+REFERENCE            snipers_only_class_9
+LANG_ENGLISH         "?4	I@????l?X???"
+
+REFERENCE            snowball_fight
+LANG_ENGLISH         "???h?~?)? ?X??aFv"
+
+REFERENCE            spawn_beacon
+LANG_ENGLISH         "???{????FM@"
+
+REFERENCE            splashes_beta_max_rank
+LANG_ENGLISH         "??
+E??[???>"
+
+REFERENCE            splashes_beta_max_rank_desc
+LANG_ENGLISH         "??W?'Y???X<$???I,s[Pl?????"
+
+REFERENCE            super_points_feed
+LANG_ENGLISH         "????????q7?"
+
+REFERENCE            supply_crate_caps
+LANG_ENGLISH         "?dSUPPLY CRATE"
+
+REFERENCE            system_reboot
+LANG_ENGLISH         "??System Reboot"
+
+REFERENCE            target_hacked
+LANG_ENGLISH         "??Target Hacked"
+
+REFERENCE            teamscore_notify_1
+LANG_ENGLISH         "?o	>????:???"
+
+REFERENCE            teamscore_notify_10
+LANG_ENGLISH         "??WJ	??9?w#?hu?"
+
+REFERENCE            teamscore_notify_15
+LANG_ENGLISH         "???j????????V"
+
+REFERENCE            teamscore_notify_2
+LANG_ENGLISH         "?8+2 Team Score"
+
+REFERENCE            teamscore_notify_20
+LANG_ENGLISH         "??+20 Team Score"
+
+REFERENCE            teamscore_notify_25
+LANG_ENGLISH         "?????y??^????!"
+
+REFERENCE            teamscore_notify_3
+LANG_ENGLISH         "????@E???{9?"
+
+REFERENCE            teamscore_notify_4
+LANG_ENGLISH         "?]+4 Team Score"
+
+REFERENCE            teamscore_notify_5
+LANG_ENGLISH         "?9???11'???w?+"
+
+REFERENCE            teamscore_notify_6
+LANG_ENGLISH         "?v?c@?X????NV"
+
+REFERENCE            teamscore_notify_7
+LANG_ENGLISH         "??esEV???jl???"
+
+REFERENCE            teamscore_notify_8
+LANG_ENGLISH         "??0>??Q?"??g?;"
+
+REFERENCE            teamscore_notify_9
+LANG_ENGLISH         "???????R?R??)"
+
+REFERENCE            testjumptext
+LANG_ENGLISH         "?N$I#\0?	?J??8KR ???I??????Zf?="
+
+REFERENCE            testjumptext2
+LANG_ENGLISH         "?K-b?~?R?)GGC???c-????C?kt?????@?{I"
+
+REFERENCE            uplink_ball
+LANG_ENGLISH         "??"9???"
+
+REFERENCE            use_mortar
+LANG_ENGLISH         "?zU7??????"
+
+REFERENCE            vs
+LANG_ENGLISH         "??"
+
+REFERENCE            weapon_splash_title
+LANG_ENGLISH         "?@?=?n?HqJ??:u2.?o{"
+
+
+ENDMARKER

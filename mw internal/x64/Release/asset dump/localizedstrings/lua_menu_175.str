@@ -1,0 +1,244 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            espos
+LANG_ENGLISH         "?mDallas Empire 2021"
+
+REFERENCE            espos01
+LANG_ENGLISH         "??PG?????Xi?#?F?"
+
+REFERENCE            espos02
+LANG_ENGLISH         "?[C?H??XQm:"?"
+
+REFERENCE            espos04
+LANG_ENGLISH         "?0??X?????k??:??????????"
+
+REFERENCE            espos05
+LANG_ENGLISH         "?New York Subliners 2021"
+
+REFERENCE            espos06
+LANG_ENGLISH         "?P?+??:????NvY??"
+
+REFERENCE            espos07
+LANG_ENGLISH         "?2??????/W?4?#???""?"
+
+REFERENCE            espos08
+LANG_ENGLISH         "?\LA Thieves 2021"
+
+REFERENCE            espos09
+LANG_ENGLISH         "?"Paris Legion 2021"
+
+REFERENCE            espos10
+LANG_ENGLISH         "??Florida Mutineers 2021"
+
+REFERENCE            espos11
+LANG_ENGLISH         "? P??3?G???)60j??[7?"
+
+REFERENCE            espos12
+LANG_ENGLISH         "??*??@?CK6???????"
+
+REFERENCE            espos13
+LANG_ENGLISH         "?8Beads!"
+
+REFERENCE            espos_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc01
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc02
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc04
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc05
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc06
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc07
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc08
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc09
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc10
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc11
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc12
+LANG_ENGLISH         "?"
+
+REFERENCE            espos_desc13
+LANG_ENGLISH         "?m/?X???F7{?;Z?+?????G?9#??????!???	"
+
+REFERENCE            operator_esp_skin_1_10_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_10_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_11_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_11_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_12_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_12_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_13_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_13_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_14_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_14_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_15_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_15_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_3_1
+LANG_ENGLISH         "???A???W3?h?-?#?@_???5?n"
+
+REFERENCE            operator_esp_skin_1_3_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_3_2
+LANG_ENGLISH         "??&P@t?V?NZcc??P???sX:?J"
+
+REFERENCE            operator_esp_skin_1_3_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_5_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_5_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_6_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_6_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_7_1
+LANG_ENGLISH         "??j?7??????I.?m?(??[,??I"
+
+REFERENCE            operator_esp_skin_1_7_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_7_2
+LANG_ENGLISH         "?Q?Z???????)???[??
+????N???J"
+
+REFERENCE            operator_esp_skin_1_7_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_8_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_8_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_9_1_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_esp_skin_1_9_2_desc
+LANG_ENGLISH         "?"
+
+REFERENCE            operator_skin_bul_2_1
+LANG_ENGLISH         "?x?i?<P?
+?U0"
+
+REFERENCE            operator_skin_bul_2_1_desc
+LANG_ENGLISH         "?PEA little brains won't stain at all with Bulldozer's Belligerent Skin"
+
+REFERENCE            operator_skin_esp_1_10_1
+LANG_ENGLISH         "??qH?????8E1s;??????S.?b?"
+
+REFERENCE            operator_skin_esp_1_10_2
+LANG_ENGLISH         "?/Toronto Ultra (Alternate)"
+
+REFERENCE            operator_skin_esp_1_11_1
+LANG_ENGLISH         "??Florida Mutineers (Primary)"
+
+REFERENCE            operator_skin_esp_1_11_2
+LANG_ENGLISH         "??@???t?`??<??!????????J>? ?"
+
+REFERENCE            operator_skin_esp_1_12_1
+LANG_ENGLISH         "??Atlanta FaZe (Primary)"
+
+REFERENCE            operator_skin_esp_1_12_2
+LANG_ENGLISH         "?Y_?:;8?o??W??&??M?s?l??"
+
+REFERENCE            operator_skin_esp_1_13_1
+LANG_ENGLISH         "??b??????????I?;Y??
+?'???9?I"
+
+REFERENCE            operator_skin_esp_1_13_2
+LANG_ENGLISH         "? ?W???&W?????J?-{?RzsW????c??A"
+
+REFERENCE            operator_skin_esp_1_14_1
+LANG_ENGLISH         "???????>?o???s-:(
+??????"
+
+REFERENCE            operator_skin_esp_1_14_2
+LANG_ENGLISH         "??"???????8Z??A?????,???"
+
+REFERENCE            operator_skin_esp_1_15_1
+LANG_ENGLISH         "?MLA Thieves (Primary)"
+
+REFERENCE            operator_skin_esp_1_15_2
+LANG_ENGLISH         "???PQC-??+????:?'??G+%"
+
+REFERENCE            operator_skin_esp_1_5_1
+LANG_ENGLISH         "???Ps?&4xz????????X?"
+
+REFERENCE            operator_skin_esp_1_5_2
+LANG_ENGLISH         "?r?B?9pGCp?I???G???E@?`z"
+
+REFERENCE            operator_skin_esp_1_6_1
+LANG_ENGLISH         "??By?9{W??????(??B????"
+
+REFERENCE            operator_skin_esp_1_6_2
+LANG_ENGLISH         "??7A??&?x???i?????3Jz"
+
+REFERENCE            operator_skin_esp_1_8_1
+LANG_ENGLISH         "?n?V?+??[??L??s????AN?k?N?I"
+
+REFERENCE            operator_skin_esp_1_8_2
+LANG_ENGLISH         "??eo???g?x?E(q???e_??????k?9?=>"
+
+REFERENCE            operator_skin_esp_1_9_1
+LANG_ENGLISH         "?LSeattle Surge (Primary)"
+
+REFERENCE            operator_skin_esp_1_9_2
+LANG_ENGLISH         "?=Seattle Surge (Alternate)"
+
+REFERENCE            operator_skin_nav_14_1
+LANG_ENGLISH         "?lBreaker"
+
+REFERENCE            operator_skin_nav_14_1_desc
+LANG_ENGLISH         "?*D?%I??`?w?y??;>:?????x?l?????x?Y OR@$???^??}?s1ykO ??A????"
+
+
+ENDMARKER

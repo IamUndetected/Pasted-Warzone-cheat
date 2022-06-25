@@ -1,0 +1,54 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            event_countdown_days_hours
+LANG_ENGLISH         "??*7???K?@LL??X?7@???@	{???"
+
+REFERENCE            event_countdown_hours_minutes
+LANG_ENGLISH         "??Ends in &&1 Hours &&2 Minutes"
+
+REFERENCE            event_countdown_minutes_seconds
+LANG_ENGLISH         "?/ ?m?n ?X??????Y???r=P?k?K=C"
+
+REFERENCE            event_live
+LANG_ENGLISH         "??Live!"
+
+REFERENCE            season_0
+LANG_ENGLISH         "??	jV?n?s"
+
+REFERENCE            season_1
+LANG_ENGLISH         "??	Season 1"
+
+REFERENCE            season_10
+LANG_ENGLISH         "??????=?M?????"
+
+REFERENCE            season_2
+LANG_ENGLISH         "??	Season 2"
+
+REFERENCE            season_3
+LANG_ENGLISH         "??	f??/(?:*"
+
+REFERENCE            season_4
+LANG_ENGLISH         "??	?s?b???"
+
+REFERENCE            season_5
+LANG_ENGLISH         "??	?Uv????"
+
+REFERENCE            season_6
+LANG_ENGLISH         "??	????@yv"
+
+REFERENCE            season_7
+LANG_ENGLISH         "??Black Ops Season 1"
+
+REFERENCE            season_8
+LANG_ENGLISH         "???cX??????X?{7#"
+
+REFERENCE            season_9
+LANG_ENGLISH         "??>L?I?&???N??A?????"
+
+REFERENCE            season_unlocks
+LANG_ENGLISH         "? &&1 Unlocks"
+
+
+ENDMARKER
